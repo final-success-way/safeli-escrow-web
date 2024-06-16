@@ -1,17 +1,17 @@
 import { Helmet } from 'react-helmet-async';
 
-import { MileStonesView } from '@/sections/milestones/view';
+import ReviewView from '@/sections/create-milestone/review-view';
 
 // ----------------------------------------------------------------------
 
-export default function Milestones() {
+export default function Review() {
   return (
     <>
       <Helmet>
-        <title> Milestones | Safeli Escrow </title>
+        <title> Review | Create Milestone </title>
       </Helmet>
 
-      <MileStonesView />
+      <ReviewView />
     </>
   );
 }

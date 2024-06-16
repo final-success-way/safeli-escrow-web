@@ -11,8 +11,6 @@ import InputAdornment from '@mui/material/InputAdornment';
 
 import { useRouter } from '@/routes/hooks/index';
 import Iconify from '@/components/iconify';
-import styled from 'styled-components';
-import "react-multi-carousel/lib/styles.css";
 
 // ----------------------------------------------------------------------
 
@@ -72,10 +70,3 @@ export default function ForgotPasswordView() {
     </Box>
   );
 }
-
-const StyledCheckBox = styled.div`
-  .MuiFormControlLabel-label {
-    font-size: 1rem;
-    font-weight: 600;
-  }
-`

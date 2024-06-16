@@ -4,25 +4,19 @@ import PropTypes from 'prop-types';
 import Box from '@mui/material/Box';
 import Stack from '@mui/material/Stack';
 import Drawer from '@mui/material/Drawer';
-import Button from '@mui/material/Button';
-import Avatar from '@mui/material/Avatar';
 import { alpha } from '@mui/material/styles';
-import Typography from '@mui/material/Typography';
 import ListItemButton from '@mui/material/ListItemButton';
 
 import { usePathname } from '@/routes/hooks/index';
 import { RouterLink } from '@/routes/components';
 
 import { useResponsive } from 'src/hooks/use-responsive';
-
-import { account } from '@/_mock/account';
-
-import Logo from '@/components/logo';
 import Scrollbar from '@/components/scrollbar';
 
 import { HEADER, NAV } from './config-layout';
-import navConfig from './config-navigation';
+import { navConfig, navBottomConfig } from './config-navigation';
 import styled from 'styled-components';
+import { Button, Divider, Typography } from '@mui/material';
 
 // ----------------------------------------------------------------------
 
@@ -39,8 +33,16 @@ export default function Nav({ openNav, onCloseNav }: { openNav: boolean, onClose
   }, [pathname]);
 
   const renderMenu = (
-    <Stack component="nav" spacing={0.5} sx={{ px: 2 }}>
+    <Stack component="nav" spacing={1} sx={{ px: 2 }}>
       {navConfig.map((item) => (
+        <NavItem key={item.title} item={item} />
+      ))}
+    </Stack>
+  );
+
+  const renderBottomMenu = (
+    <Stack component="nav" spacing={1} sx={{ px: 2 }}>
+      {navBottomConfig.map((item) => (
         <NavItem key={item.title} item={item} />
       ))}
     </Stack>
@@ -49,21 +51,21 @@ export default function Nav({ openNav, onCloseNav }: { openNav: boolean, onClose
   const renderContent = (
     <Scrollbar
       sx={{
-        height: 1,
+        height: "90vh",
         '& .simplebar-content': {
-          height: 1,
+          height: "90vh",
           display: 'flex',
           flexDirection: 'column',
         },
       }}
     >
-      {/* <Logo sx={{ mt: 3, ml: 4 }} /> */}
-
       <Box mt="50px">
         {renderMenu}
+        <Divider sx={{my: '25px'}}></Divider>
       </Box>
 
-      <Box sx={{ flexGrow: 1 }} />
+      <Box sx={{ flex: 1 }} />
+      {renderBottomMenu}
     </Scrollbar>
   );
 
@@ -72,7 +74,7 @@ export default function Nav({ openNav, onCloseNav }: { openNav: boolean, onClose
       sx={{
         flexShrink: { lg: 0 },
         width: { lg: NAV.WIDTH },
-        paddingTop: `${HEADER.H_DESKTOP - 20}px`,
+        paddingTop: `${HEADER.H_DESKTOP - 25}px`,
         backgroundColor: 'white',
       }}
     >

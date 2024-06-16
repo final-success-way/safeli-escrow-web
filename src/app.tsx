@@ -36,6 +36,7 @@ function App() {
 					<Route index element={<IndexPage />} />
 
 					<Route path="milestones" element={<MilestonesPage />} />
+					<Route path="milestones/:type" element={<MilestonesPage />} />
 
 					<Route path="user" element={<UserPage />} />
 					<Route path="products" element={<ProductsPage />} />

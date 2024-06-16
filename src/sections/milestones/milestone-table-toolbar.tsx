@@ -4,26 +4,20 @@ import Tooltip from '@mui/material/Tooltip';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
+import OutlinedInput from '@mui/material/OutlinedInput';
+import InputAdornment from '@mui/material/InputAdornment';
 
 import Iconify from '@/components/iconify';
-import { FormControl, InputLabel, MenuItem, Select } from '@mui/material';
-import { useState } from 'react';
 
 // ----------------------------------------------------------------------
 
-export default function TxTableToolbar({ numSelected }: any) {
-
-  const [status, setStatus] = useState({
-    selectedSortType: ''
-  })
-
+export default function MilestoneTableToolbar({ numSelected, filterName, onFilterName }: any) {
   return (
     <Toolbar
       sx={{
         height: 96,
         display: 'flex',
         justifyContent: 'space-between',
-        alignItems: 'center',
         p: (theme) => theme.spacing(0, 1, 0, 3),
         ...(numSelected > 0 && {
           color: 'primary.main',
@@ -36,6 +30,19 @@ export default function TxTableToolbar({ numSelected }: any) {
           {numSelected} selected
         </Typography>
       ) : (
+        // <OutlinedInput
+        //   value={filterName}
+        //   onChange={onFilterName}
+        //   placeholder="Search user..."
+        //   startAdornment={
+        //     <InputAdornment position="start">
+        //       <Iconify
+        //         icon="eva:search-fill"
+        //         sx={{ color: 'text.disabled', width: 20, height: 20 }}
+        //       />
+        //     </InputAdornment>
+        //   }
+        // />
         <Typography variant='h6'>Transaction history</Typography>
       )}
 
@@ -46,24 +53,18 @@ export default function TxTableToolbar({ numSelected }: any) {
           </IconButton>
         </Tooltip>
       ) : (
-        <FormControl sx={{minWidth: 180}}>
-          <InputLabel id="sort-type">Sort Type</InputLabel>
-          <Select
-            labelId="sort-type"
-            id="sort-type"
-            value={status.selectedSortType}
-            label="Sort Type"
-            onChange={e => setStatus({...status, selectedSortType: e.target.value})}
-          >
-            <MenuItem value={'recent'}>Sort by: <b>Recent</b></MenuItem>
-            <MenuItem value={'toppest'}>Sort by: <b>Toppest</b></MenuItem>
-          </Select>
-        </FormControl>
+        <Tooltip title="Filter list">
+          <IconButton>
+            <Iconify icon="ic:round-filter-list" />
+          </IconButton>
+        </Tooltip>
       )}
     </Toolbar>
   );
 }
 
-TxTableToolbar.propTypes = {
-  numSelected: PropTypes.number
+MilestoneTableToolbar.propTypes = {
+  numSelected: PropTypes.number,
+  filterName: PropTypes.string,
+  onFilterName: PropTypes.func,
 };

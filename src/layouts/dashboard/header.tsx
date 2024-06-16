@@ -32,15 +32,34 @@ export default function Header({ onOpenNav }: { onOpenNav: () => void }) {
         </IconButton>
       )}
 
-      {/* <Searchbar /> */}
       <Stack direction="row" spacing={lgUp ? 3 : 1} alignItems="center">
-        <img src="/assets/light-logo.svg" alt="logo" style={{width: 60, height: 60, marginLeft: '5px', marginRight: `${lgUp ? '30px' : '0px'}`}} />
-        <Typography variant='h4' color='#121212'>Dashboard</Typography>
+        <img src="/assets/light-logo.svg" alt="logo" style={{width: lgUp ? 60 : 42, height: lgUp ? 60 : 42, marginLeft: '5px', marginRight: `${lgUp ? '30px' : '0px'}`}} />
       </Stack>
       <Box sx={{ flexGrow: 1 }} />
 
-      <Stack direction="row" alignItems="center" spacing={1}>
-        {/* <LanguagePopover /> */}
+      <Stack direction="row" alignItems="center" spacing={lgUp ? 3 : 1}>
+        {lgUp && (
+          <>
+            <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+              <IconButton color={'default'} sx={{padding: '5px'}}>
+                <img src="/assets/icons/ic_ticket.svg" alt="ic_ticket" style={{width: 25, height: 25}} />
+              </IconButton>
+              <Typography fontSize='0.8rem' color='text.primary'>Ticket</Typography>
+            </Box>
+            <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+              <IconButton color={'default'} sx={{padding: '5px'}}>
+                <img src="/assets/icons/ic_api.svg" alt="ic_api" style={{width: 25, height: 25}} />
+              </IconButton>
+              <Typography fontSize='0.8rem' color='text.primary'>APIs</Typography>
+            </Box>
+            <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+              <IconButton color={'default'} sx={{padding: '5px'}}>
+                <img src="/assets/icons/ic_settings.svg" alt="ic_settings" style={{width: 25, height: 25}} />
+              </IconButton>
+              <Typography fontSize='0.8rem' color='text.primary'>Settings</Typography>
+            </Box>
+          </>
+        )}
         <NotificationsPopover />
         <AccountPopover />
       </Stack>

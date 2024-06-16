@@ -10,27 +10,30 @@ import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
 
 import { account } from '@/_mock/account';
+import { useResponsive } from '@/hooks/use-responsive';
 
 // ----------------------------------------------------------------------
 
 const MENU_OPTIONS = [
   {
-    label: 'Home',
-    icon: 'eva:home-fill',
+    label: 'Ticket',
+    icon: '/assets/icons/ic_ticket',
   },
   {
-    label: 'Profile',
-    icon: 'eva:person-fill',
+    label: 'APIs',
+    icon: '/assets/icons/ic_api',
   },
   {
     label: 'Settings',
-    icon: 'eva:settings-2-fill',
+    icon: '/assets/icons/ic_settings',
   },
 ];
 
 // ----------------------------------------------------------------------
 
 export default function AccountPopover() {
+  const lgUp = useResponsive('up', 'lg');
+  
   const [open, setOpen] = useState(null);
 
   const handleOpen = (event: any) => {
@@ -43,26 +46,14 @@ export default function AccountPopover() {
 
   return (
     <>
-      <IconButton
-        /* onClick={handleOpen} */
-        sx={{
-          width: 40,
-          height: 40,
-          background: (theme) => open ? `linear-gradient(135deg, ${theme.palette.primary.light} 0%, ${theme.palette.primary.main} 100%)` : alpha(theme.palette.grey[500], 0.08)
-        }}
-      >
-        <Avatar
-          src={account.photoURL}
-          alt={account.displayName}
-          sx={{
-            width: 36,
-            height: 36,
-            border: (theme) => `solid 2px ${theme.palette.background.default}`,
-          }}
-        >
-          {account.displayName.charAt(0).toUpperCase()}
-        </Avatar>
-      </IconButton>
+      <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+        <IconButton color={'default'} onClick={e => !lgUp && handleOpen(e)} sx={{padding: '5px'}}>
+          <img src="/assets/icons/ic_profile.svg" alt="ic_profile" style={{width: 26, height: 26}} />
+        </IconButton>
+        {lgUp && (
+          <Typography fontSize='0.8rem' color='text.primary'>Profile</Typography>
+        )}
+      </Box>
 
       <Popover
         open={!!open}
@@ -79,16 +70,6 @@ export default function AccountPopover() {
           },
         }}
       >
-        <Box sx={{ my: 1.5, px: 2 }}>
-          <Typography variant="subtitle2" noWrap>
-            {account.displayName}
-          </Typography>
-          <Typography variant="body2" sx={{ color: 'text.secondary' }} noWrap>
-            {account.email}
-          </Typography>
-        </Box>
-
-        <Divider sx={{ borderStyle: 'dashed' }} />
 
         {MENU_OPTIONS.map((option) => (
           <MenuItem key={option.label} onClick={handleClose}>

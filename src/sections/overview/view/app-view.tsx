@@ -13,7 +13,7 @@ import TablePagination from '@mui/material/TablePagination';
 import { useState } from 'react';
 import { applyFilter, emptyRows, getComparator } from '../utils';
 import { transactions } from '@/_mock/transaction';
-import { Table, TableBody, TableContainer } from '@mui/material';
+import { Table, TableBody, TableContainer, useTheme } from '@mui/material';
 import TableEmptyRows from '../table-empty-rows';
 import TableNoData from '../table-no-data';
 import TxTableRow from '../tx-table-row';
@@ -23,27 +23,14 @@ import AppWebsiteVisits from '../app-website-visits';
 // ----------------------------------------------------------------------
 
 export default function AppView() {
+  const theme = useTheme();
   const lgDown = useResponsive('down', 'lg');
 
   const [page, setPage] = useState(0);
 
-  const [order, setOrder] = useState('asc');
-
   const [selected, setSelected] = useState<any[]>([]);
 
-  const [orderBy, setOrderBy] = useState('name');
-
-  const [filterName, setFilterName] = useState('');
-
   const [rowsPerPage, setRowsPerPage] = useState(5);
-
-  const handleSort = (event: any, id: any) => {
-    const isAsc = orderBy === id && order === 'asc';
-    if (id !== '') {
-      setOrder(isAsc ? 'desc' : 'asc');
-      setOrderBy(id);
-    }
-  };
 
   const handleSelectAllClick = (event: any) => {
     if (event.target.checked) {
@@ -81,19 +68,6 @@ export default function AppView() {
     setRowsPerPage(parseInt(event.target.value, 10));
   };
 
-  const handleFilterByName = (event: any) => {
-    setPage(0);
-    setFilterName(event.target.value);
-  };
-
-  const dataFiltered = applyFilter({
-    inputData: transactions,
-    comparator: getComparator(order, orderBy),
-    filterName,
-  });
-
-  const notFound = !dataFiltered.length && !!filterName;
-
   return (
     <Container maxWidth="xl">
       <Grid container spacing={3}>
@@ -120,7 +94,7 @@ export default function AppView() {
           </Grid>
           <Grid md={lgDown ? 8 : 8.5} sm={12} container spacing={3}>
             <Grid lg={4} md={6} sm={6} xs={12}>
-              <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, height: '100%'}}>
+              <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <img src="/assets/icons/ic_pending.svg" alt="pending" style={{width: 50, height: 50}} />
                 <Box>
                     <Typography fontSize='0.9rem'>Milestones Pending <b>84</b></Typography>
@@ -132,7 +106,7 @@ export default function AppView() {
               </Card>
             </Grid>
             <Grid lg={4} md={6} sm={6} xs={12}>
-              <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, height: '100%'}}>
+              <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <img src="/assets/icons/ic_completed.svg" alt="completed" style={{width: 50, height: 50}} />
                 <Box>
                     <Typography fontSize='0.9rem'>Milestones Completed <b>205</b></Typography>
@@ -144,7 +118,7 @@ export default function AppView() {
               </Card>
             </Grid>
             <Grid lg={4} md={6} sm={6} xs={12}>
-              <Card component={Stack} sx={{px: 3, py: 4, borderRadius: 2, height: '100%'}}>
+              <Card component={Stack} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <Typography fontSize='0.9rem'>Total Receivable</Typography>
                 <Stack direction="row" alignItems="center" spacing={1}>
                   <Typography variant="h5">$1,234.00</Typography>
@@ -154,7 +128,7 @@ export default function AppView() {
               </Card>
             </Grid>
             <Grid lg={4} md={6} sm={6} xs={12}>
-              <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, height: '100%'}}>
+              <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <img src="/assets/icons/ic_canceled.svg" alt="canceled" style={{width: 50, height: 50}} />
                 <Box>
                     <Typography fontSize='0.9rem'>Milestones Canceled <b>25</b></Typography>
@@ -166,7 +140,7 @@ export default function AppView() {
               </Card>
             </Grid>
             <Grid lg={4} md={6} sm={6} xs={12}>
-              <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, height: '100%'}}>
+              <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <img src="/assets/icons/ic_created.svg" alt="created" style={{width: 50, height: 50}} />
                 <Box>
                     <Typography fontSize='0.9rem'>Milestones Created <b>314</b></Typography>
@@ -178,7 +152,7 @@ export default function AppView() {
               </Card>
             </Grid>
             <Grid lg={4} md={6} sm={6} xs={12}>
-              <Card component={Stack} sx={{px: 3, py: 4, borderRadius: 2, height: '100%'}}>
+              <Card component={Stack} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <Typography fontSize='0.9rem'>Total Receivable</Typography>
                 <Stack direction="row" alignItems="center" spacing={1}>
                   <Typography variant="h5">$1,234.00</Typography>
@@ -191,6 +165,7 @@ export default function AppView() {
         </Grid>
         <Grid xs={12} md={12} lg={12}>
           <AppWebsiteVisits
+            sx={{boxShadow: theme.shadows[20]}}
             title="Transaction Volume"
             subheader=""
             chart={{
@@ -218,69 +193,66 @@ export default function AppView() {
           />
         </Grid>
         <Grid xs={12} md={12} lg={12}>
-          <Card>
+          <Card sx={{boxShadow: theme.shadows[20]}}>
             <TxTableToolbar
               numSelected={selected.length}
-              filterName={filterName}
-              onFilterName={handleFilterByName}
             />
 
-            <Scrollbar>
-              <TableContainer sx={{ overflow: 'unset' }}>
-                <Table sx={{ minWidth: 800 }}>
-                  <TxTableHead
-                    order={order}
-                    orderBy={orderBy}
-                    rowCount={transactions.length}
-                    numSelected={selected.length}
-                    onRequestSort={handleSort}
-                    onSelectAllClick={handleSelectAllClick}
-                    headLabel={[
-                      { id: 'name', label: 'Name' },
-                      { id: 'amount', label: 'Amount', align: 'center' },
-                      { id: 'date', label: 'Date Sent' },
-                      { id: 'rate', label: 'Progress Rate' },
-                      { id: 'status', label: 'Status' },
-                    ]}
-                  />
-                  <TableBody>
-                    {dataFiltered
-                      .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
-                      .map((row: any) => (
-                        <TxTableRow
-                          key={row.id}
-                          name={row.name}
-                          project={row.project}
-                          status={row.status}
-                          amount={row.amount}
-                          avatarUrl={row.avatarUrl}
-                          date={row.date}
-                          rate={row.rate}
-                          selected={selected.indexOf(row.name) !== -1}
-                          handleClick={(event) => handleClick(event, row.name)}
-                        />
-                      ))}
-
-                    <TableEmptyRows
-                      height={77}
-                      emptyRows={emptyRows(page, rowsPerPage, transactions.length)}
+            <Box sx={{padding: '0 1rem'}}>
+              <Scrollbar>
+                <TableContainer sx={{ overflow: 'unset' }}>
+                  <Table sx={{ minWidth: 800 }}>
+                    <TxTableHead
+                      rowCount={transactions.length}
+                      numSelected={selected.length}
+                      onSelectAllClick={handleSelectAllClick}
+                      headLabel={[
+                        { id: 'name', label: 'Name/Project' },
+                        { id: 'amount', label: 'Amount', align: 'center' },
+                        { id: 'date', label: 'Date Sent' },
+                        { id: 'rate', label: 'Progress Rate' },
+                        { id: 'status', label: 'Status' },
+                      ]}
                     />
+                    <TableBody>
+                      {transactions
+                        .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
+                        .map((row: any) => (
+                          <TxTableRow
+                            key={row.id}
+                            name={row.name}
+                            project={row.project}
+                            status={row.status}
+                            amount={row.amount}
+                            avatarUrl={row.avatarUrl}
+                            date={row.date}
+                            rate={row.rate}
+                            selected={selected.indexOf(row.name) !== -1}
+                            handleClick={(event) => handleClick(event, row.name)}
+                          />
+                        ))}
 
-                    {notFound && <TableNoData query={filterName} />}
-                  </TableBody>
-                </Table>
-              </TableContainer>
-            </Scrollbar>
+                      <TableEmptyRows
+                        height={77}
+                        emptyRows={emptyRows(page, rowsPerPage, transactions.length)}
+                      />
 
-            <TablePagination
-              page={page}
-              component="div"
-              count={transactions.length}
-              rowsPerPage={rowsPerPage}
-              onPageChange={handleChangePage}
-              rowsPerPageOptions={[5, 10, 25]}
-              onRowsPerPageChange={handleChangeRowsPerPage}
-            />
+                      {!transactions.length && <TableNoData query={""} />}
+                    </TableBody>
+                  </Table>
+                </TableContainer>
+              </Scrollbar>
+
+              <TablePagination
+                page={page}
+                component="div"
+                count={transactions.length}
+                rowsPerPage={rowsPerPage}
+                onPageChange={handleChangePage}
+                rowsPerPageOptions={[5, 10, 25]}
+                onRowsPerPageChange={handleChangeRowsPerPage}
+              />
+            </Box>
           </Card>
         </Grid>
       </Grid>

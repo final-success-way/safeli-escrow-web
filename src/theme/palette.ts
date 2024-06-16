@@ -112,6 +112,7 @@ export function palette() {
     },
     background: {
       paper: '#FFFFFF',
+      primary: '#2b2929',
       default: grey[100],
       neutral: grey[200],
     },

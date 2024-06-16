@@ -24,6 +24,7 @@ import Iconify from '@/components/iconify';
 import Scrollbar from '@/components/scrollbar';
 import Stack from '@mui/material/Stack';
 import { HEADER } from '../config-layout';
+import { useResponsive } from '@/hooks/use-responsive';
 
 // ----------------------------------------------------------------------
 
@@ -71,6 +72,8 @@ const NOTIFICATIONS = [
 ];
 
 export default function NotificationsPopover() {
+  const lgUp = useResponsive('up', 'lg');
+  
   const [notifications, setNotifications] = useState(NOTIFICATIONS);
 
   const totalUnRead = notifications.filter((item) => item.isUnRead === true).length;
@@ -87,11 +90,16 @@ export default function NotificationsPopover() {
 
   return (
     <>
-      <IconButton color={'default'} onClick={handleOpen}>
-        <Badge badgeContent={totalUnRead} color="error">
-          <Iconify width={24} icon="mdi:notifications-none" />
-        </Badge>
-      </IconButton>
+      <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+        <IconButton color={'default'} onClick={handleOpen} sx={{padding: '5px'}}>
+          <Badge badgeContent={totalUnRead} color="error">
+            <img src="/assets/icons/ic_notification.svg" alt="ic_notification" style={{width: 26, height: 26}} />
+          </Badge>
+        </IconButton>
+        {lgUp && (
+          <Typography fontSize='0.8rem' color='text.primary'>Notification</Typography>
+        )}
+      </Box>
 
       <Popover
         open={!!open}
