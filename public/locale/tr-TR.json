@@ -1,0 +1,5575 @@
+{
+	"meta": {
+		"home-title": "En iyi küresel yeteneği bulun.",
+		"home-desc": "Freelancers Chalen & Freelance Jobs Online Bul |Hizmet",
+		"aboutus-title": "Hikayemizi açığa çıkarma |Fwork - Yenilikçiler, İşbirlikçileri ve Vizyonerler",
+		"aboutus-desc": "Dürük arkasındaki büyüleyici yolculuğu ve ahlakı keşfedin.",
+		"login-title": "İş - Hesabınıza erişin ve hayalinizdeki işinizi bulun, yetenekler",
+		"login-desc": "Serbest çalışanları işe almak ve iş bulmak için giriş yapın |Serbest çalışan",
+		"register-title": "FWOR'a katılın |İş Arayan Hesabınızı Oluşturun",
+		"register-desc": "Diş konusunda ücretsiz bir hesap için kaydolun ve çok çeşitli iş fırsatlarına erişin",
+		"uploadresume-title": "Özgeçmişinizi Yükle |Diş ile iş aramanızı geliştirin",
+		"uploadresume-desc": "Özgeçmişinizi yükleyerek iş aramalarınızı okşamayı yükseltin",
+		"updatepassword-title": "Şifrenizi güncelleyin |Hesabınızı Düzen",
+		"updatepassword-desc": "Şifrenizi güncelleyerek antrenman hesabınızın güvenliğini koruyun",
+		"blog-list-title": "Son bilgiler ve makaleler |FWORK iş sitesi blogu |Şakacı",
+		"blog-list-desc": "FWORT Sitesi Blogunda en son endüstri trendleri, kariyer tavsiyesi ve iş piyasası bilgileri ile güncel kalın.",
+		"blog-detail-title": "Blogu Keşfetme |Düzen",
+		"blog-detail-desc": "FWORT SIST Sitesi blogunda bloga girin",
+		"contactus-title": "İletişim FWORK İş Sitesi |Ekibimizle iletişime geçin",
+		"contactus-desc": "Herhangi bir soruşturma, geri bildirim veya yardım için Fwet iş sitesindeki özel ekibe ulaşın",
+		"employer-detail-title": "İşveren ayrıntılarını keşfedin |Dokunma İş Sitesi",
+		"employer-detail-desc": "Şirket bilgileri, iş listeleri ve organizasyonel içgörüler dahil olmak üzere, işveren hakkında işveren hakkında kapsamlı ayrıntıları keşfedin.",
+		"freelancer-list-title": "Yetenekli serbest çalışanları bulun |Dokunma İş Sitesi",
+		"freelancer-list-desc": "Yetenekli Serbest Kazancılara Düzenleme İş Sitesinde göz atın ve kiralayın.",
+		"freelancer-detail-title": "Deneyimli serbest çalışan |Dokunma İş Sitesi",
+		"freelancer-detail-desc": "Profili keşfedin, deneyimli bir serbest çalışan",
+		"influencer-title": "Fwork Etkileyici Programı |Etkinizi gelire dönüştürün",
+		"influencer-desc": "Dünyanın en büyük dijital hizmet pazarını tanıtarak komisyon kazanan etkileyicilerin saflarına katılın.",
+		"invitefriend-title": "En iyi küresel yeteneği bulun.",
+		"invitefriend-desc": "FWORT Tavsiye Programı ile Ödül Alın",
+		"job-list-title": "İş bul |İş boşlukları |Dokunma İş Sitesi",
+		"job-list-desc": "Fwet iş sahasında çeşitli endüstriler ve rollerdeki çok çeşitli iş boşluklarını keşfedin.",
+		"job-detail-title": "İş",
+		"job-detail-desc": "Düzenli İş Tanımı'nı Düzenli İş Tanımı'nı keşfedin",
+		"learn-list-title": "Kariyer kaynaklarını ve içgörüleri keşfedin |Dokunma İş Sitesi",
+		"learn-list-desc": "Kariyer bilginizi genişletin ve iş siteleri öğrenme sayfası ile değerli bilgiler kazanın.",
+		"learn-detail-title": "İş arama ipuçları, kariyer rehberliği ve mesleki gelişim |Dokunma İş Sitesi",
+		"learn-detail-desc": "İş İş Siteleri Öğrenme Bölümü, başarılı olmanıza yardımcı olacak paha biçilmez iş arama ipuçları, kariyer rehberliği ve mesleki gelişim kaynakları sağlar.",
+		"order-checkout-title": "Güvenli ve uygun sipariş ödeme |Dokunma İş Sitesi",
+		"order-checkout-desc": "Satın alma işleminizi iş sitelerinde kolay ve güvenle tamamlayın. Güvenli ve uygun sipariş ödeme sayfası.",
+		"order-payment-title": "Güvenli Ödeme İşleme |Dokunma İş Sitesi",
+		"order-payment-desc": "FWORT işinin sipariş ödeme sayfasında sorunsuz ve güvenli ödeme işlemeyi deneyimleyin",
+		"project-list-title": "Heyecan verici iş projelerini keşfedin |Dokunma İş Sitesi",
+		"project-list-desc": "Fwork İş Sitesinin Proje Listesi sayfasında çok çeşitli büyüleyici iş projeleri keşfedin.",
+		"project-detail-title": "Ayrıntılı Proje Genel Bakış |Dokunma İş Sitesi",
+		"project-detail-desc": "FWORT Sitesi'nin Proje Ayrıntısı sayfasında bulunan cazip proje ayrıntılarına ilişkin kapsamlı bilgiler kazanın",
+		"search-service-title": "Hizmetin Arama Sonuçları - Fwet",
+		"search-service-desc": "Serbest çalışanlardan en iyi teklifleri bulun.FWORK Profesyonel Hizmetler",
+		"service-category-title": "Farklı Hizmet Kategorileri Keşfedin |Dokunma İş Sitesi",
+		"service-category-desc": "Fwork İş Sitesinin Servis Kategorisi sayfasında bir dizi özel hizmet kategorisi keşfedin.",
+		"service-detail-title": "Profesyonel Hizmetler |Dokunma İş Sitesi",
+		"service-detail-desc": "Düzenli hizmetler istihdam sitesinde yaşayın.",
+		"service-list-title": "FWORK SEÇİM SİTESİNDE ÇEŞİTLİ HİZMET KATEGORLARINI KEŞFEDİN |Mükemmel çözümü bulun",
+		"service-list-desc": "Serbest çalışanlardan en iyi teklifleri bulun.FWORK Profesyonel Hizmetler",
+		"top-service-title": "DİS İş Sitesindeki En İyi Hizmetleri Keşfedin |Güvenilir Servis Sağlayıcıları |Şakacı",
+		"top-service-desc": "Fwet iş sahasında en çok derecelendirilmiş hizmetleri keşfedin ve çeşitli endüstrilerdeki güvenilir hizmet sağlayıcılarla bağlantı kurun.",
+		"notfound-title": "404 - Sayfa bulunamadı |Şakacı",
+		"notfound-desc": "İstenen URL bulunmadı |Şakacı",
+		"userpage-title": "Profil Sayfası |Dokunma İş Sitesi",
+		"userpage-desc": "Profilinizi oluşturun ve işbirliği yapmak isteyen başarılı bir serbest çalışan ve işletme topluluğuna katılın."
+	},
+	"header": {
+		"messages": "Mesaj",
+		"nomessage": "Mesaj yok",
+		"pending-message": "Bekleyen mesajlar",
+		"pending-order": "Bekleyen Siparişler",
+		"clearall": "Hepsini temizle",
+		"viewall": "Hepsini gör",
+		"no-data": "Veri yok"
+	},
+	"ui": {
+		"email-placeholder": "Lütfen E-postanızı girin.",
+		"subscribe": "Abone",
+		"submit": "Göndermek"
+	},
+	"app": {
+		"page-title": "FWork - Serbest Hizmet Pazarı",
+		"page-desc": "En iyi küresel yeteneği bulun ve hayalinizdeki işi bulun. Tek pazar yeri, milyonlarca profesyonel hizmet",
+		"menu-service": "Hizmet Satın Al",
+		"menu-freelancer": "Yetenek kiralamak",
+		"menu-work": "Projeyi Bul",
+		"menu-job": "İş aramak",
+		"menu-blog": "Blog",
+		"menu-about": "Hakkımızda",
+		"menu-login": "Giriş yapmak",
+		"menu-register": "Kayıt olmak",
+		"menu-notifications": "Bildirimler",
+		"menu-messages": "Mesajlar",
+		"menu-orders": "Emirler",
+		"menu-information": "Bilgi",
+		"menu-security": "Güvenlik",
+		"menu-finance": "Finans",
+		"menu-freelancer-Profile": "Serbest Çalışan Profili",
+		"menu-client-Profile": "Müşteri profili",
+		"menu-proposals": "Teklifler",
+		"menu-log-out": "Çıkış Yap",
+		"menu-language": "Dil",
+		"menu-light-mode": "Işık",
+		"menu-dark-mode": "Karanlık",
+		"construction": [
+			"Şu anda geliştirme aşamasında",
+			"Bazı veriler yalnızca sınırlı kullanıcılar tarafından kullanılabilir."
+		],
+		"welcome-title": "Hoş geldin!",
+		"welcome-desc": [
+			"Web sitemize hoşgeldiniz! Sizi burada görmekten büyük heyecan duyuyoruz ve sizi en son haberlerimiz, ürünlerimiz ve promosyonlarımız hakkında bilgilendirmek isteriz.",
+			"Bültenimize abone olarak özel tekliflerimizden ve heyecan verici güncellemelerimizden ilk siz haberdar olacaksınız.",
+			"Abone olmak için e-posta adresinizi aşağıya girin ve \"Abone Ol\"u tıklayın. Endişelenmeyin, size spam göndermeyeceğiz veya bilgilerinizi başkalarıyla paylaşmayacağız. Topluluğumuza katıldığınız için teşekkür ederiz!"
+		]
+	},
+	"footer": {
+		"fwork-with-location": "Fwork LLC, Wyoming, Amerika Birleşik Devletleri",
+		"address": "1603 Capitol Bulvarı, Suite 413, 4200 \n Cheyenne, Wyoming 82001, ABD",
+		"clients": "Müşteriler için",
+		"how-to-hire": "Nasıl Kiralama Yapılır",
+		"project-catalog": "Proje Kataloğu",
+		"freelancers": "Serbest çalışanlar için",
+		"how-to-find-work": "İş Nasıl Bulunur",
+		"find-freelancer-job": "Freelancer işini bul",
+		"direct-contracts": "Doğrudan Sözleşmeler",
+		"Resources": "Kaynaklar",
+		"learn": "Öğrenmek",
+		"invite-friends": "Arkadaşları davet etmek",
+		"influencers": "Etkileyiciler",
+		"affiliate": "Ortaklık Programı",
+		"company": "Şirket",
+		"about-us": "Hakkımızda",
+		"contact-us": "Bize Ulaşın"
+	},
+	"home": {
+		"heading": "İş Sitemizde\nYetenekli Serbest Çalışanlarla\nZahmetsizce Bağlantı Kurun",
+		"heading-desc": "Hayalinizdeki Freelancer Sizi Bekliyor - Mükemmel Eşinizi Bugün Bulun.",
+		"search-hint": "'Sosyal medya tasarımını' deneyin",
+		"search": "Aramak",
+		"search-ex": "Popüler arama",
+		"banner-text": "HİZMET",
+		"pro-service": "Doğrulanmış Profesyonel Hizmetler",
+		"pro-service-desc": "Tüm profesyonel ihtiyaçlarınız için elle incelenen yetenek.",
+		"browse-more": "Daha fazla hizmete göz atın",
+		"desire-category": "Arzu Kategorinizi Seçin",
+		"jobs-by-categories": "Kategorilere Göre İş İlanları",
+		"job-count": "{count} İş Bulundu",
+		"all-categories": "Tüm Kategoriler",
+		"sponsored-services": "Sponsorlu Hizmetler",
+		"sponsored-services-desc": "Sponsorlu Hizmetlerimiz ile işe alımda rekabet avantajı elde edin ve birinci sınıf adaylarla ön plana çıkın.",
+		"resume-title": "CV'nizi harika işverenlerin önüne koyun",
+		"resume-desc": "Potansiyel işverenlerinize rolünüzü ve sorumluluklarınızı açıklamanın temel amacı, onlara işte başardıklarınıza ve şirkete genel olarak nasıl katkıda bulunduğunuza dair örnekler sunmaktır.",
+		"resume-upload": "özgeçmişinizi Yükleyiniz",
+		"candidate": "Yüksek Nitelikli Adaylar",
+		"candidate-desc": "Kuruluşunuzda başarılı olmaya hazır, özel iş gereksinimlerinizi karşılamak üzere dikkatle incelenip eşleştirilen yüksek nitelikli adayların potansiyelini ortaya çıkarın.",
+		"latest-jobs": "En Son İşler",
+		"latest-news": "En Son Güncellemeler ve Haberler",
+		"latest-news-desc": "Kapsamlı platformumuz aracılığıyla en son sektör trendleri, iş piyasası bilgileri ve ilgili haberler konusunda güncel kalın ve bilinçli karar verme konusunda her zaman bilgilendirilmenizi sağlayın.",
+		"subscribe": "Şimdi Abone Olun!",
+		"subscribe-desc": "Şimdi abone olun ve çok sayıda iş fırsatına, kariyer kaynaklarına ve mesleki ilgi alanlarınıza uygun kişiselleştirilmiş güncellemelere özel erişim elde edin."
+		,
+		"why-choose-us": "Neden Bizi Seçmelisiniz?",
+		"why-choose-us-1": "1⃣ Doğrulanmış Beceriler: Blockchain ile çalışan platformumuz, serbest çalışanların becerilerinin sorunsuz bir şekilde doğrulanmasını sağlar ve geleneksel KYC süreci olmadan şeffaf bir değerlendirme sunar.",
+		"why-choose-us-2": "2 musunuz Güven ve Güvenlik: Blockchain'in değişmezlikten yararlanarak, serbest çalışanların profillerinin ve çalışma geçmişinin bütünlüğünü sağlayarak güvene öncelik veriyoruz.",
+		"why-choose-us-3": "3 100⃣ Gizlilik Koruması: Platformumuz, serbest çalışanların gizliliğini koruyarak ve yetkisiz erişim riskini azaltarak hassas verileri şifreler ve merkezileştirir.",
+		"why-choose-us-4": "4 musunuz kolay ödemeler: Serbest çalışanların KYC olmadan kazançlarını güvenli bir şekilde almalarına izin vererek sorunsuz ödeme para çekme işlemlerinin tadını çıkarın.",
+		"why-choose-us-5": "5 100⃣ Global Reach: Eşsiz işbirliği için çeşitli yetenek havuzuna girerek dünya çapında serbest çalışanlar ve işverenlerle bağlantı kurun.",
+		"why-choose-us-6": "6⃣ İnovasyon: En son blockchain teknolojisini benimseme bağlılığımızla serbest endüstrinin ön saflarında kalın.",
+		"why-choose-us-7": "Güvenli, doğrulanmış ve sınırsız bir serbest pazar için bize katılın!💪"
+	},
+	
+	"welcome": {
+		"note-1": "E -posta başarıyla abone oldu!🎉",
+		"note-2": "E -posta listemize başarıyla abone olduğunuz için tebrikler!",
+		"note-3": "Bizimle bağlantıda kalmayı seçtiğiniz için teşekkür ederiz! "
+	},
+	"bonus": {
+		"title": "🎁 Haftalık bonus hediye - 5 şanslı üye için 100 $!🎁",
+		"desc-1": "Heyecan verici haberler!Tavsiyeler, iş ilanları, takip eden ve çeşitli eylemlerde mükemmel olan beş şanslı üyeye her biri 100 $ ödüllendireceğimiz haftalık bir bonus hediye alıyoruz!🌟",
+		"desc-2": "İşte nasıl katılabilir ve kazanma şansınızı artırabilirsiniz:",
+		"desc-3": "1⃣ Tavsiyeler: Platformumuz, ürünlerimiz veya hizmetlerimiz hakkındaki kelimeyi arkadaşlarınıza, meslektaşlarınıza veya bağlantılarınıza yayın.Ne kadar çok insana başvurursanız, kazanma şansınız o kadar yüksek olur!",
+		"desc-4": "2⃣ İş İlişkileri: Topluluğumuzdaki değerli iş fırsatlarını, stajları veya kariyerle ilgili bilgileri paylaşın.Katkılarınız sadece başkalarına yardımcı olmakla kalmayacak, aynı zamanda hediyeye girişinize de sayılır.",
+		"desc-5": "3 musunuz: Resmi kanallarımızı takip ederek bizimle bağlantıda kalın.Güncellemeler, değerli içerik alacak ve hediye için uygun olacaksınız.",
+		"desc-6": "4⃣ Eylemler: Tartışmalara katılarak, yararlı tavsiyeler sağlayarak ve diğer üyeleri destekleyerek topluluk içinde aktif olarak katılın.Etkili eylemleriniz hediye için dikkate alınacaktır.",
+		"desc-7": "Her haftanın sonunda, rastgele bir şekilde her biri takdirimizin bir jetonu olarak 100 dolarlık bir bonus alacak beş şanslı kazanan seçeceğiz!Değerli katkılarınız ve desteğiniz için size teşekkür etme yolumuz.💵🙌🎁",
+		"desc-8": "Duyurularımıza ve güncellemelerimize dikkat etmeyi ve yönlendirmelere, iş ilanlarına, takiplere ve anlamlı eylemlere aktif olarak katılmayı unutmayın.Birlikte, topluluğumuzu daha canlı ve başarılı hale getirebiliriz!🌈🚀🌟",
+		"desc-9": "Haftalık bonus hediyesine katılan herkese iyi şanslar!İnanılmaz bir galibiyet haftası yapalım!💼💰🎉"
+	},
+	"learn": {
+		"title": "Daha fazla bilgi edinin, daha fazla kazanın.",
+		"desc": "Dünyanın en iyi uzmanlarından kurs alın ve daha fazla müşteriye ulaşmak için rozetler kazanın.",
+		"popular": "Popüler:",
+		"search": "Aramak",
+		"placeholder": "Ne öğrenmek istiyorsun?"
+	},
+	"auth": {
+		"signin": "Kayıt olmak",
+		"or": "Veya",
+		"signin-button": "Giriş yapmak",
+		"email-placeholder": "E -posta",
+		"password-placeholder": "Şifre",
+		"forgot-password": "Parolanızı mı unuttunuz?",
+		"signin-register": "Hesabınız yok mu?<b> Kayıt </b>",
+		"signin-welcome1": "Diş'e hoş geldiniz!Hesabınıza erişmek ve sistemi kolaylıkla yönetmek için lütfen oturum açın.",
+		"signin-welcome2": "FWARD ONE STEP sayfasına hoş geldiniz!Sistemin çeşitli yönlerini yönetmek ve kontrol etmek için hesabınıza erişin.Başlamak için aşağıya kimlik bilgilerinizi girin.",
+		"signup": "Üye olmak",
+		"password-rule": "Bir büyük harf, bir sembol ve bir sayı dahil en az 8 ve maksimum 32 karakter girdiğinizden emin olun.",
+		"signup-button": "Hesabımı oluşturmak",
+		"newpasswd-placeholder": "Parola (8 veya daha fazla karakter)",
+		"signup-login": "Hesabın var mı?<b> Giriş </b>",
+		"signup-welcome1": "Hesabınıza erişim için bir hesap oluşturun!Özel ayrıcalıklar kazanın ve yeni kimlik bilgilerinizle çeşitli özellikleri yönetin.",
+		"signup-welcome2": "Hesabınıza erişmek için bir hesap oluşturun.Hesabınızı oluşturmak ve kapsamlı araçlarımızın gücünü kullanmaya başlamak için aşağdaki formu doldurun."
+	},
+	"service": {
+		"search": "Aramak",
+		"popula-category": "Popüler kategoriler",
+		"create-service": "Hizmet Oluştur",
+		"most-popular-in-programming": "Programlamadaki en popüler hizmetler",
+		"new-services": "Yeni Hizmetler",
+		"summary": "Özet",
+		"compare-package": "Paketleri karşılaştırın",
+		"package": "Paketi",
+		"revisions": "Revizyonlar",
+		"delivery": "Teslimat süresi",
+		"days": "Günler",
+		"select": "Seçme",
+		"faq": "SSS",
+		"similar-service": "Benzer Hizmetler",
+		"about-seller": "Satıcı hakkında",
+		"seller-service": "Satıcının Hizmetleri",
+		"reviews": "İncelemeler",
+		"hot-service": "Sıcak Hizmetler",
+		"best-seller": "En çok satanlar",
+		"project-rate": "Proje oranları",
+		"custom-work": "Geleneksel çalışma",
+		"request-order": "Sipariş isteği",
+		"search-service": "Arama hizmeti",
+		"notfound": "Veri yok",
+		"services": "Hizmetler",
+		"found": "Ürünler bulundu",
+		"top-rated": "En Çok Oy Alan",
+		"order-queue": "Sıradaki siparişler",
+		"seller-detail": "Fwork Pro kataloğunun bir parçasıdır ve becerileri ve uzmanlıkları için özel bir Fwork Pro ekibi tarafından elle seçilmiştir.",
+		"customize-project": "Bu projeyi özelleştirin",
+		"customize-project-detail": "Burada tam olarak neye ihtiyacınız olduğunu görmüyorsanız, Attaching Pal özel bir istek gönderin.Kişiselleştirilmiş bir proje oluşturmak için fiyat ve zaman çizelgesi hakkında konuşabilirsiniz.",
+		"message": "İleti"
+	},
+	"order": {
+		"selected-package": "Seçilen Paket",
+		"package-type": "Paket Tipi",
+		"days-delivery": "Gün Teslimi",
+		"target": "hedeflenen kapak mektubu",
+		"payment-breakdown": "Ödeme dökümü",
+		"order-cost": "Sipariş maliyeti",
+		"process-fee": "İşlem ücreti",
+		"total-payment": "Toplam ödeme",
+		"delivery-time": "Teslimat süresi",
+		"days": "Günler",
+		"select-payment": "Ödeme seçeneğini seçin",
+		"pay-full": "Tam Miktar Ödeme",
+		"pay-partial": "Kısmi tutar ödeyin",
+		"payment": "Ödeme yapmaya devam edin",
+		"select-payment-mode": "Ödeme modunu seçin",
+		"copy-address": "Bu adrese kopyalayın ve yatırın",
+		"crypto": "Kripto",
+		"card": "Kredi / Banka Kartı",
+		"paypal": "paypal",
+		"summary": "Özet",
+		"view-package": "Paket ayrıntılarını görüntüleyin",
+		"hide-package": "Paket ayrıntılarını gizle",
+		"project-cost": "Proje maliyeti",
+		"continue": "Devam etmek",
+		"card-number": "Kart numarası",
+		"card-expiry": "Sona erme",
+		"card-cvc": "cvc"
+	},
+	"freelancer": {
+		"filters": "Filtreler",
+		"clear-all": "Hepsini temizle",
+		"keywords": "Anahtar Kelimeler",
+		"location": "Konum",
+		"skills": "Yetenekler",
+		"search-button": "Aramak",
+		"recommend": "{n} Serbest çalışanlar sizin için önerilir",
+		"skill-placeholder": "Yeni beceri eklemek için Enter tuşuna basın.",
+		"sort-newest": "En yeni",
+		"sort-latest": "En sonuncu",
+		"sort-lowest": "En düşük",
+		"sort-highest": "En yüksek",
+		"notfound": "Veri yok",
+		"edit-profile": "Profili Düzenle",
+		"reviews": "İncelemeler",
+		"joined": "Katıldı",
+		"aboutme": "Benim hakkımda",
+		"services": "Hizmetler",
+		"experience": "İş deneyimi",
+		"education": "Eğitim ve Öğretim",
+		"ongoing": "Devam eden proje",
+		"completed": "Tamamlanmış proje",
+		"service-queue": "Sırada Hizmet",
+		"completed-service": "Tamamlanmış hizmetler",
+		"general": "Genel",
+		"salary": "Mevcut maaş",
+		"language": "Diller"
+	},
+	"project": {
+		"filters": "Filtreler",
+		"clear-all": "Hepsini temizle",
+		"keywords": "Anahtar Kelimeler",
+		"category": "Kategori",
+		"skills": "Yetenekler",
+		"search-button": "Aramak",
+		"recommend": "{N} Projeler sizin için önerilir",
+		"skill-placeholder": "Yeni beceri eklemek için Enter tuşuna basın.",
+		"sort-newest": "En yeni",
+		"sort-latest": "En sonuncu",
+		"sort-lowest": "En düşük",
+		"sort-highest": "En yüksek",
+		"post-job": "İşe başvur",
+		"notfound": "Veri yok",
+		"viewwork": "İşi Görüntüle",
+		"hourly": "Saatlik",
+		"fixed": "Sabit",
+		"bids": "Teklifler",
+		"delete-project": "Projeyi Sil",
+		"delete-project-desc": "Bu projeyi silmek istediğinizden emin misiniz?",
+		"title": "Başlık",
+		"cancel": "İptal etmek",
+		"ok": "TAMAM",
+		"send-proposal": "Teklif Gönder",
+		"urgent": "Acil",
+		"remote": "Uzak",
+		"job-summary": "İş özeti",
+		"attachment": "EK",
+		"projectid": "Proje Kimliği",
+		"share": "İşi paylaş",
+		"bid-desc": "Serbest çalışanlar ortalama teklif veriyor",
+		"login": "Giriş yapmak",
+		"your-price": "Senin fiyatin",
+		"days-complete": "Tamamlanacak Günler",
+		"day": "Gün",
+		"cover-letter": "Ön yazı",
+		"bid-applied": "Teklifiniz zaten uygulandı",
+		"project-bids": "Proje Teklifleri",
+		"reviews": "İncelemeler",
+		"message": "İleti",
+		"award": "Ödül",
+		"accept": "Kabul etmek",
+		"about-client": "Müşteri Hakkında",
+		"member-since": "Den beri üye",
+		"project-info": "Proje Bilgisi",
+		"duration": "Süre",
+		"status": "Durum",
+		"language": "Dil",
+		"available-proposl": "Mevcut teklifler"
+	},
+	"job": {
+		"filters": "Filtreler",
+		"clear-all": "Hepsini temizle",
+		"keywords": "Anahtar Kelimeler",
+		"location": "Konum",
+		"workplace": "İş yeri",
+		"job-type": "Meslek türü",
+		"skills": "Yetenekler",
+		"search-button": "Aramak",
+		"recommend": "{n} işler sizin için önerilir",
+		"skill-placeholder": "Yeni beceri eklemek için Enter tuşuna basın.",
+		"sort-newest": "En yeni",
+		"sort-latest": "En sonuncu",
+		"sort-lowest": "En düşük",
+		"sort-highest": "En yüksek",
+		"post-job": "İşe başvur",
+		"onsite": "Yerinde",
+		"hybrid": "Melez",
+		"remote": "Uzak",
+		"fulltime": "Tam zamanlı",
+		"parttime": "Yarı zamanlı",
+		"contract": "Sözleşme",
+		"intership": "Staj",
+		"temporary": "Geçici",
+		"other": "Diğer",
+		"notfound": "Veri yok",
+		"yearly": "Yıllık",
+		"urgent": "Acil",
+		"apply": "Şimdi Uygula",
+		"applications": "Başvuru",
+		"apply-job": "İş başvurusu",
+		"applied": "Uygulamalı İş",
+		"summary": "İş özeti",
+		"share": "İşi paylaş",
+		"matching": "Eşleşen İşler",
+		"viewmore": "Daha fazla göster",
+		"worktype": "Çalışma tipi",
+		"postdate": "Posta tarihi",
+		"applyto": "{N} için başvuun"
+	},
+	"blog": {
+		"latest": "En sonuncu",
+		"popular": "Popüler",
+		"comments": "Yorumlar",
+		"search": "Aramak",
+		"notfound": "Veri yok",
+		"recent-post": "Son Gönderi",
+		"by": "İle",
+		"post-comment": "Yorum Gönder",
+		"share": "Paylaşmak",
+		"submit": "Şimdi göner"
+	},
+	"aboutus": {
+		"mission": "Misyonumuz: İş piyasasında blockchain ile çalışan çözümlerle devrim yapmak!🚀",
+		"mission-detail": "Fwork'te misyonumuz, blockchain teknolojisinin muazzam potansiyelini kullanarak iş arama ve işe alım manzarasını yeniden şekillendirmektir.İşin geleceğinin güven, şeffaflık ve eşit fırsatlar üzerine inşa edilmesi gerektiğine inanıyoruz.💪",
+		"start-now": "Şimdi başla",
+		"welcome": "FWORE'a Hoş Geldiniz",
+		"welcome-title": "Fwet iş servisi hakkında kısa bir hikaye.",
+		"welcome-desc": "Fwork'te profesyonellerin bağlanma, becerilerini sergileme ve iş fırsatlarının kilidini açma biçiminde devrim oluyoruz.Yenilikçi platformumuz, iş piyasasına şeffaflık, güvenlik ve verimlilik getirmek için blockchain teknolojisinin gücünü kullanıyor.",
+		"welcome-desc-1": "Kimlik doğrulaması olmadan potansiyelinizin kilidini açın",
+		"welcome-desc-2": "Becerileriniz, profiliniz, başarı hikayeniz",
+		"welcome-desc-3": "Sorunsuz işbirliği ve ağ oluşturma",
+		"welcome-desc-4": "Bugün Fwork'e katılın ve geleceği kucaklayın",
+		"learnmore": "Daha fazla bilgi edin",
+		"brand": "Marka için güç başarısı",
+		"brand-desc": "Blockchain teknolojisinden yararlanarak Fwork, işverenlerin en iyi yeteneklerle bağlantı kurabileceği ve iş arayanların heyecan verici kariyer fırsatlarını keşfedebilecekleri güvenli, merkezi olmayan bir pazar sunuyor.Platformumuz, her etkileşimin adil, güvenilir ve doğrulanabilir olmasını sağlayan kesintisiz ve kurcalamaya dayanıklı işlemleri kolaylaştıran sağlam bir ekosistem sağlar.",
+		"listing": "Liste Gönderildi",
+		"followers": "Takipçiler",
+		"total-member": "Toplam serbest çalışanlar",
+		"total-jobs": "Meslekler",
+		"needlogin": "Bu eyleme devam etmek için lütfen giriş yapın.",
+		"team-title": "Profesyonel ekibimiz",
+		"team-desc-1": "Merhaba!Gezinmesi kolay ve sorunsuz bir iş arama deneyimi sunan kullanıcı dostu bir platform oluşturmak için yorulmadan çalışıyoruz.",
+		"team-desc-2": "Ekibimiz karmaşıklıkları en aza indirmeye, süreçleri düzene koymaya ve web sitemizin ve özelliklerimizin kullanımı basit ve sezgisel olmasını sağlamaya odaklanıyor.",
+		"team-desc-3": "Sorunsuz bir iş araması sağlamak amacıyla, Fwork Just Sitesindeki geliştirme ekibi, ihtiyaçlarınızı karşılamak ve hayalinizdeki işinizi zahmetsizce bulmanıza yardımcı olmak için platformumuzu sürekli olarak geliştirmeye kararlıdır.🚀",
+		"feedback-title": "İnsanlar ne diyor",
+		"feedback-desc-1": "Değerli içgörüler, ilk elden deneyimler, referanslar ve topluluğumuzdan geri bildirim için 'İnsanların Söyledikleri' bölümünü keşfedin.",
+		"feedback-desc-2": "Gerçek hayat hikayelerinden ilham alın ve platformumuzu kullanan iş arayanların, işverenlerin ve kullanıcıların bakış açılarından öğrenin.",
+		"feedback-desc-3": "Başarı öykülerini, yapıcı eleştiriyi ve Fwork'ün kariyer ve fırsatlar üzerindeki etkisini daha iyi anlayın.",
+		"feedback-desc-4": "Bu canlı ve ilgi çekici bölümde konuşmaya katılın.🌟"
+	},
+	"import-resume": {
+		"title": "Bize kendinizden nasıl bahsetmek istersiniz?",
+		"desc": "Eğitim, deneyim ve becerilerinizi anlamamız gerekiyor.Bilgilerinizi içe aktarmak en hızlıdır - profiliniz yayınlanmadan önce düzenleyebilirsiniz.",
+		"upload-btn": "Özgeçmiş yükle (*.pdf 500kb'den az)",
+		"resume-error": "Özgeçmiş dosyanızı işleyemiyor.",
+		"back": "Geri",
+		"next": "Sonraki",
+		"submit": "Göndermek",
+		"cancel": "İptal etmek",
+		"add-title-1": "Dünyaya ne yaptığınızı söylemek için bir başlık ekleyin.",
+		"add-title-2": "Müşterilerin gördüğü ilk şey, bu yüzden sayılmasını sağlayın.Uzmanlığınızı kendi kelimelerinizle tanımlayarak öne çıkın.",
+		"role": "Profesyonel Rolünüz",
+		"experience-title": "İlgili iş deneyiminiz varsa, buraya ekleyin.",
+		"experience-desc": "Deneyimlerini ekleyen serbest çalışanlar, iş kazanma olasılığının iki katıdır.Ancak yeni başlıyorsanız, yine de harika bir profil oluşturabilirsiniz.Sadece bir sonraki sayfaya gidin.",
+		"notitle": "Başlık yok",
+		"add-position-name": "Pozisyon adınızı ekleyin",
+		"add-company": "Şirket Adı Ekle",
+		"add-date": "İş deneyiminizi daha iyi anlamak için başlangıç tarihi ekleyin",
+		"add-desc": "İş deneyiminizi daha iyi anlamak için açıklama ekleyin.",
+		"education-title": "Müşteriler ne bildiğinizi bilmek ister - eğitiminizi buraya ekleyin.",
+		"education-desc": "Bir dereceye sahip olmanıza gerek yok.İlgili eğitim eklemek, profilinizin daha görünür olmasına yardımcı olur.",
+		"add-education": "Eğitim ekleyin",
+		"add-university": "Üniversite girişinizin tarihini ekleyin.",
+		"add-university-loca": "Üniversitenizin bir konumunu ekleyin.",
+		"language-title": "İyi görünüyor.Sonra bize hangi dilleri konuştuğunuzu söyleyin.",
+		"language-desc": "İş küreseldir, bu nedenle müşteriler genellikle hangi dilleri konuştuğunuzu bilmek ister.İngilizce bir zorunluluktur, ama başka diller konuşuyor musunuz?",
+		"add-language": "Dil ekle",
+		"skill-title": "Neredeyse orada!Burada ne iş yapıyorsun?",
+		"skill-desc": "Becerileriniz müşterilere neler sunabileceğinizi gösterir ve size hangi işleri önereceğinizi seçmemize yardımcı olur.Önerdiklerimizi ekleyin veya kaldırın veya daha fazlasını seçmek için yazmaya başlayın.O size kalmış.",
+		"overview-title": "Harika!Şimdi dünyaya kendinizden bahsetmek için bir biyografi yazın.",
+		"overview-desc": "İnsanların sizi bir bakışta tanımasına yardımcı olun.En iyi işin en iyisisin?Paragraflar veya mermi noktaları kullanarak onlara açıkça söyleyin.Her zaman daha sonra düzenleyebilirsiniz - şimdi düzelttiğinizden emin olun!",
+		"overview": "Genel Bakışınız",
+		"hourly": "Saatlik ücret",
+		"weekly": "Haftalık çalışma süresi",
+		"info-title": "Son birkaç ayrıntı, profilinizi kontrol edip yayınlayabilirsiniz.",
+		"info-desc": "Profesyonel bir fotoğraf, müşterilerinizle güven oluşturmanıza yardımcı olur.İşleri güvende ve basit tutmak için size aracılığıyla size ödeme yapacaklar - bu yüzden kişisel bilgilerinize ihtiyacımız var.",
+		"remove": "Kaldırmak",
+		"take-photo": "Fotoğrafını çek",
+		"email": "E -posta",
+		"firstname": "İlk adı",
+		"lastname": "Soy isim",
+		"street": "Sokak Adresi * (profilde gösterilmeyecek)",
+		"city": "Şehir",
+		"state": "Eyalet/il",
+		"country": "Ülke",
+		"zipcode": "Zip/Posta Kodu",
+		"preview-title": "Freelancer Profil Önizlemeniz",
+		"preview-confirm": "Tüm kayıt defterinin doğru ve yasal olduğundan emin misiniz?",
+		"uploading": "Yükleme",
+		"select-banner": "Banner Resim'i seçin",
+		"add-experience": "Deneyim ekleyin",
+		"label-title": "Başlık",
+		"label-company": "Şirket",
+		"label-country": "Ülke",
+		"label-zipcode": "Posta kodu (isteğe bağlı)",
+		"label-city": "Şehir (isteğe bağlı)",
+		"label-state": "Eyalet veya il (isteğe bağlı)",
+		"label-startdate": "Başlangıç ​​tarihi",
+		"label-enddate": "Bitiş tarihi",
+		"label-desc": "Tanım"
+	},
+	
+	"create-profile": {
+		"welcome-title": "Freelancer profilinizi oluşturalım.",
+		"welcome-desc": "Sadece 5-10 dakika sürer ve daha sonra düzenleyebilirsiniz.Siz giderken tasarruf edeceğiz.",
+		"create": "Profil oluştur",
+		"resume-title": "Bize kendinizden nasıl bahsetmek istersiniz?",
+		"resume-desc": "Eğitim, deneyim ve becerilerinizi anlamamız gerekiyor.Bilgilerinizi içe aktarmak en hızlıdır - profiliniz yayınlanmadan önce düzenleyebilirsiniz.",
+		"upload-desc": "Özgeçmiş yükle (*.pdf 500kb'den az)",
+		"fill": "Manuel olarak doldurun",
+		"resume-error": "Özgeçmiş dosyanızı işleyemiyor.",
+		"submit": "Göndermek",
+		"cancel": "İptal etmek",
+		"next": "Sonraki",
+		"back": "Geri",
+		"role-title": "Dünyaya ne yaptığınızı söylemek için bir başlık ekleyin.",
+		"role-desc": "Müşterilerin gördüğü ilk şey, bu yüzden sayılmasını sağlayın.Uzmanlığınızı kendi kelimelerinizle tanımlayarak öne çıkın.",
+		"role-input": "Profesyonel Rolünüz",
+		"experience-title": "İlgili iş deneyiminiz varsa, buraya ekleyin.",
+		"experience-desc": "Deneyimlerini ekleyen serbest çalışanlar, iş kazanma olasılığının iki katıdır.Ancak yeni başlıyorsanız, yine de harika bir profil oluşturabilirsiniz.Sadece bir sonraki sayfaya gidin.",
+		"education-title": "Müşteriler ne bildiğinizi bilmek ister - eğitiminizi buraya ekleyin.",
+		"education-desc": "Bir dereceye sahip olmanıza gerek yok.İlgili eğitim eklemek, profilinizin daha görünür olmasına yardımcı olur.",
+		"certification-title": "Sertifikanız varsa, buraya ekleyin.",
+		"certification-desc": "Sertifikalarınızı listelemek, özel bilginizi veya yeteneklerinizi kanıtlamanıza yardımcı olabilir. Bunları manuel olarak ekleyebilir veya bunları Credly'den içe aktarabilirsiniz.",
+		"showcredential": "Kimlik Bilgisi Göster",
+		"language-title": "İyi görünüyor.Sonra bize hangi dilleri konuştuğunuzu söyleyin.",
+		"language-desc":"FWork is global, so clients are often interested to know what languages you speak. English is a must, but do you speak any other languages?",
+		"skill-title": "Neredeyse orada!Burada ne iş yapıyorsun?",
+		"skill-desc": "Becerileriniz müşterilere neler sunabileceğinizi gösterir ve size hangi işleri önereceğinizi seçmemize yardımcı olur.Önerdiklerimizi ekleyin veya kaldırın veya daha fazlasını seçmek için yazmaya başlayın.O size kalmış.",
+		"overview-title": "Harika!Şimdi dünyaya kendinizden bahsetmek için bir biyografi yazın.",
+		"overview-desc": "İnsanların sizi bir bakışta tanımasına yardımcı olun.En iyi işin en iyisisin?Paragraflar veya mermi noktaları kullanarak onlara açıkça söyleyin.Her zaman daha sonra düzenleyebilirsiniz - şimdi düzelttiğinizden emin olun!",
+		"overview": "Genel Bakışınız",
+		"hourly":"Hourly Rate",
+		"weekly": "Haftalık çalışma süresi",
+		"info-title":"A few last details, then you can check and publish your profile.",
+		"info-desc":"A professional photo helps you build trust with your clients. To keep things safe and simple, they’ll pay you through us - which is why we need your personal information.",
+		"remove": "Kaldırmak",
+		"photo": "Fotoğrafını çek",
+		"firstname": "İlk adı",
+		"lastname": "Soy isim",
+		"country": "Ülke",
+		"street": "Sokak Adresi * (profilde gösterilmeyecek)",
+		"district": "Semt",
+		"city":"City",
+		"state": "Eyalet/il",
+		"zipcode": "Zip/Posta Kodu",
+		"preview-title": "Freelancer Profil Önizlemeniz",
+		"preview-desc": "Tüm kayıt defterinin doğru ve yasal olduğundan emin misiniz?",
+		"uploading": "Yükleme",
+		"add-language": "Dil ekle",
+		"language": "Dil",
+		"proficiency": "Yeterlik",
+		"save": "Kaydetmek",
+		"add-education": "Eğitim ekleyin",
+		"school": "Okul",
+		"field": "Çalışma alanı",
+		"accreditation": "Akreditasyon",
+		"startdate": "Başlangıç ​​tarihi",
+		"enddate": "Bitiş tarihi",
+		"description": "Tanım",
+		"add-certificate": "Sertifika Ekle",
+		"name-certificate": "Sertifikanın adı",
+		"issuing-org": "Organizasyon Düzenleyen",
+		"issue-date": "Veriliş tarihi",
+		"expire-date": "Son kullanma tarihi",
+		"credential-id": "Kimlik Bilgisi Kimliği",
+		"credential-link": "Kimlik bilgisi bağlantısı"
+	},
+
+	"account": {
+		"editname": "Adınızı Düzenle",
+		"firstname": "İlk adı",
+		"lastname": "Soy isim",
+		"save": "Kaydetmek",
+		"editlocation": "Konumunuzu düzenleyin",
+		"country": "Ülke",
+		"district": "Semt",
+		"city":"City",
+		"state": "Eyalet/il",
+		"zipcode": "Zip/Posta Kodu",
+		"edittimezone": "Timezone'u düzenle",
+		"email": "E -posta",
+		"closeaccount": "Hesabı kapat",
+		"close-desc": "Bize neden hesabınızı kapatmak isteyebileceğinizi söyleyin:",
+		"other": "Diğer",
+		"close-reason-1": "Artık web sitesini kullanmıyorum.",
+		"close-reason-2": "Gizliliğimden endişeliyim.",
+		"close-reason-3": "Web sitesi politikalarını değiştirdi.",
+		"close-reason-4": "Farklı bir hizmete geçiyorum.",
+		"close-reason-5": "Farklı bir ülkeye taşınıyorum.",
+		"close-reason-6": "Artık hedef kitlenin bir üyesi değilim.",
+		"close-reason-7": "Bu web sitesi artık güvenilir değil.",
+		"close-reason-8": "Ben sahtekarlığın kurbanı oldum.",
+		"update-role": "Profesyonel rolünüzü güncelleyin",
+		"edit-overview": "Genel Bakışı Düzenle",
+		"information": "Bilgi",
+		"security": "Güvenlik",
+		"finance": "Finans",
+		"profile": "Serbest çalışan profili",
+		"client-profile": "Müşteri profili",
+		"contacts": "Kontaklar",
+		"notification": "Bildirimler",
+		"proposals": "Teklifler",
+		"orders": "Emirler",
+		"services": "Hizmetler",
+		"projects": "Projeler",
+		"jobs": "Meslekler",
+		"promotion": "Terfi",
+		"account-info": "Hesap Bilgileri",
+		"online": "Çevrimiçi",
+		"location": "Konum",
+		"nosetup": "Kurulum yok",
+		"timezone": "Saat dilimi",
+		"connected-service": "Bağlı Hizmetler",
+		"connect": "Bağlamak",
+		"disconnect": "Koparmak",
+		"password-set": "Şifre ayarlandı",
+		"password-noset": "Hiçbir şifre ayarlanmadı.",
+		"password": "Şifre",
+		"login-log": "Şu anda giriş yapmak için {n} oturum açma kullanıyorsunuz.",
+		"create-password": "Şifre oluştur",
+		"change-password": "Şifre değiştir",
+		"oldpassword": "eski Şifre",
+		"newpassword": "Yeni Şifre",
+		"confirmpassword": "Şifreyi Onayla",
+		"cancel": "İptal etmek",
+		"2fa-title": "İki faktörlü kimlik doğrulama (2FA)",
+		"2fa-desc-1": "Hesabınızda iki faktörlü kimlik doğrulama açılmıyor.",
+		"2fa-desc-2": "İki faktörlü kimlik doğrulama (2FA), şifrenize ek olarak kimlik doğrulayıcı uygulamanızdan bir kod girmenizi isteyerek hesabınıza ekstra bir güvenlik katmanı ekler.Bu kod her 60 saniyede bir değişir, bu nedenle birinin tahmin etmesi veya çalması çok zordur.",
+		"setup-auth": "Google Authenticator nasıl kurulur?",
+		"turn-2fa": "İki faktörlü kimlik doğrulamayı açın",
+		"2fa-complete": "Hesabınız iki faktörlü kimlik doğrulama ile güvence altına alınmıştır.",
+		"turnoff": "Kapamak",
+		"connected-device": "Bağlı cihazlar",
+		"signout": "Oturumu Kapat",
+		"this-device": "Bu cihaz",
+		"last-activity": "son Aktivite",
+		"balance": "İş dengesi",
+		"withdraw": "Çekilmeyi Talep Edin",
+		"pending-balance": "Bekleyen denge",
+		"view-detail": "Detayları göster",
+		"credit": "Dokunma Kredisi",
+		"withdraw-method": "Para çekme yöntemleri",
+		"paypal-card": "PayPal Ödeme Kartı",
+		"payoneer-card": "Payoneer Ödeme Kartı",
+		"address": "Adres",
+		"pending-withdraw": "Çekme beklemede",
+		"last-withdraw": "Son Geri Çekme",
+		"last-deposit": "Son depozito",
+		"reviewing": "İnceleme",
+		"completed": "Tamamlanmış",
+		"rejected": "Reddedilmiş",
+		"send": "Göndermek",
+		"write-message": "Lütfen mesajı girin",
+		"all": "Tüm",
+		"activity": "Faaliyetler",
+		"listing": "Yeni Listeler",
+		"system-alert": "Sistem Bildirimleri",
+		"edit-company": "Düzenleme Şirketi",
+		"create-compaign": "Kampanya Oluştur",
+		"back": "Geri",
+		"next": "Sonraki",
+		"create-service-title": "Hizmet başlığı",
+		"create-service-desc": "Hizmet mağazanız olarak, başlığınız, alıcıların sizinki gibi bir hizmeti aramak için kullanacağı anahtar kelimeleri dahil etmek için en önemli yerdir.",
+		"iwill": "yapacağım",
+		"create-service-image": "Görüntüler (3'e kadar)",
+		"create-service-image-2": "Hizmetlerinizin görsel örnekleri ile doğru alıcılar tarafından fark edilir.",
+		"description": "Tanım",
+		"browse-photo": "Bir fotoğraf seçin veya göz atın",
+		"primary": "Öncelik",
+		"browse-video": "Video (yalnızca bir)",
+		"browse-video-desc": "Lütfen 75 saniyeden daha kısa ve 50MB'den küçük bir video seçin",
+		"review-trust": "Güven ve Güvenlik Ekibimiz tarafından incelenmek üzere",
+		"browse-document": "Belgeler (sadece bir)",
+		"browse-document-2": "Bir belgede oluşturduğunuz en iyi işlerden bazılarını gösterin (yalnızca PDF'ler).",
+		"browse-document-3": "Bir belge seçin veya göz atın",
+		"create-service-tags-1": "Etiketler (isteğe bağlı) arayın",
+		"create-service-tags-2": "Hizmetinizi sunduğunuz hizmetlerle ilgili vızıltı kelimeleriyle etiketleyin.Bulunmak için 5 etiketi kullanın.",
+		"tags-maximum": "Maksimum 5 etiket.Yalnızca harf ve numaraları kullanın.",
+		"category-title": "Kategori",
+		"category-desc": "Müşterilerin projenizi bulması kolay olması için bir kategori seçin.",
+		"service-type": "Servis tipi",
+		"service-meta": "Hizmet meta verileri",
+		"faq-title": "Sıkça Sorulan Sorular",
+		"add-faq": "+ SSS ekle",
+		"faq-desc": "Alıcılarınız için sorular ve cevaplar ekleyin.",
+		"char": "karakter",
+		"update": "Güncelleme",
+		"delete": "Silmek",
+		"scope-title": "Fiyat ve Kapsam",
+		"scope-title-1": "Fiyatlandırma katmanları oluşturun",
+		"scope-desc": "Projenizi 1 veya 3 fiyatlandırma katmanlarıyla özelleştirin",
+		"starter": "Marş",
+		"standard": "Standart",
+		"advanced": "Gelişmiş",
+		"custom-title": "Özel Başlık",
+		"custom-desc": "Özel Açıklama",
+		"delivery-day": "Teslimat günleri",
+		"revision": "Revizyon sayısı",
+		"project-price": "Proje fiyatı",
+		"choose-add": "Eklentileri seçin",
+		"for-extra": "Ekstra",
+		"additional": "ve ek",
+		"ques-title": "Senin sorun",
+		"add-ques": "Yeni Soru Ekle",
+		"add-ques-desc": "Burada siparişinizi tamamlamak için gereken ayrıntıları isteyebilirsiniz.",
+		"ques-type": "Bunu bir şekilde alın:",
+		"add": "Eklemek",
+		"finalize": "Sonuçlandırmak",
+		"copyright": "Telif Hakkı Bildirimi",
+		"copyright-desc": "Projenizi göndererek, yayınlanan materyale sahip olduğunuzu veya haklara sahip olduğunuzu ve bu materyalleri göndermenin herhangi bir üçüncü tarafın haklarını ihlal etmediğini beyan edersiniz.Ayrıca, projenizin Fwork'ün gereksinimlerini karşıladığından emin olmak için FWOR tarafından gözden geçirileceğini ve değerlendirileceğini anladığınızı da kabul edersiniz.",
+		"terms": "Kullanım Şartları",
+		"terms-desc": "Kullanıcı Sözleşmesi ve Gizlilik Politikası da dahil olmak üzere Dog Hizmet Şartlarını anlıyorum ve kabul ediyorum.",
+		"privacy": "Gizlilik Bildirimi",
+		"privacy-desc": "Bu projeyi göndererek ve etkinleştirerek, genel halka görülebilen ve profil görünürlüğüm yalnızca özel veya dişi kullanıcılara ayarlanmış olsa bile, arama motoru sonuçlarında görüneceğini anlıyorum.",
+		"submit": "Göndermek",
+		"post-project-title": "Güçlü bir başlık ile başlayalım.",
+		"post-project-desc": "Bu, iş postanızın doğru adaylara öne çıkmasına yardımcı olur.İlk görecekleri şey, bu yüzden sayılmasını sağlayın!",
+		"project-title": "Başlık",
+		"project-desc": "Tanım",
+		"attachment": "Ek (isteğe bağlı)",
+		"browse-file": "Bir dosya seçin veya göz atın",
+		"project-skill": "Çalışmanız için gereken ana beceriler nelerdir?",
+		"add-skill": "Beceriler ekle",
+		"skill-max": "Maksimum 5 etiket.Yalnızca harf ve numaraları kullanın.",
+		"project-budget-title": "Bize bütçenizden bahsedin.",
+		"project-budget-desc": "Bu, sizi yelpazenizdeki yeteneklerle eşleştirmemize yardımcı olacaktır",
+		"currency": "Para birimi",
+		"hourlyrate": "Saatlik ücret",
+		"project-budget": "Proje bütçesi",
+		"from": "İtibaren",
+		"to": "İle",
+		"budget-note": "Profesyoneller sizinki gibi grafik tasarım projeleri için 25 - 50 $ /saat (USD) talep etme eğilimindedir.",
+		"budget-max": "Maksimum Proje Bütçesi (USD)",
+		"budget-note-2": "Projenizi yönetilebilir aşamalara ayıran kilometre taşları oluşturma seçeneğiniz olacak.",
+		"job-detail": "İş detayları",
+		"budget": "Bütçe",
+		"hourly": "Saatlik",
+		"fixed": "Sabit",
+		"post": "Postalamak",
+		"edit-project-title": "Proje başlığını düzenle",
+		"edit-project-desc": "Proje Açıklamasını Düzenle",
+		"edit-project-scope": "Proje kapsamını düzenle",
+		"edit-project-category": "Proje kategorisini düzenle",
+		"edit-project-skill": "Proje becerisini düzenle",
+		"edit-project-budget": "Proje bütçesini düzenle",
+		"job-post-title": "Şimdi bir iş gönder",
+		"job-post-desc": "İşinizi dünyanın büyük profesyonel ağına gönderin ve en nitelikli adaylara öncelik vermek için basit araçlar kullanın - böylece röportaj yapmak istediğiniz kişileri daha hızlı bulabilirsiniz.",
+		"job-title": "İş unvanı",
+		"job-company": "Şirket",
+		"job-logo": "Şirket logosu",
+		"job-select-logo": "Bir Logo Seçin",
+		"job-desc": "Tanım",
+		"job-workplace": "İşyeri türü",
+		"job-location": "iş konumu",
+		"job-type": "Meslek türü",
+		"job-skill": "İş yetenekleri",
+		"job-skill-max": "Maksimum 5 etiket.Yalnızca harf ve numaraları kullanın.",
+		"job-currency": "Para birimi",
+		"annually": "Her yıl",
+		"job-question": "Soru",
+		"job-add-ques": "+ Soru Ekle",
+		"answer-type": "Cevap Türü",
+		"post-job": "Iş ilanı"
+	},
+	"affiliate": {
+		"title": "Ortaklık Programı",
+		"desc": "Daha Fazla Tavsiye Komisyonu Kazanmak İçin Fwork İş Ortağı Programına Katılın",
+		"longterm": "uzun vadeli komisyonlar",
+		"addition": "Ek olarak",
+		"addition-desc": "Alt Affiliumların Gelirinde",
+		"income-desc": "Alt Affiliumların Gelirinde",
+		"upto": "Kadar",
+		"start-earn": "Kazanmaya başla",
+		"section-desc": "Komisyon oranımız endüstri standartlarından iki kat daha fazladır",
+		"partners": "Ortaklar",
+		"coverage": "Küresel Kapsam",
+		"total-paid": "Toplam Komisyon Ödenmiş",
+		"you-can-earn": "Kazanabilirsin",
+		"earn-desc": "Bahsettiğiniz her tüccar için her ay pasif gelir elde edin",
+		"earn-desc-2": "Tavsiyelerinizin işlem ücretlerinde.",
+		"earn-desc-3": "Alt Ortaklıklarınız ne kazandı",
+		"section2-title": "Ortaklık Faydaları ve Hizmetleri",
+		"section2-desc": "% 60'a kadar komisyon ve ek% 10 alt sunum indirimi",
+		"section2-desc-2": "Uzun vadeli komisyonlar, boru hattı geliri",
+		"section2-desc-3": "Bire Bir Profesyonel Hesap Yöneticisi",
+		"section2-desc-4": "Ayda 600 $ 'a kadar temel maaş",
+		"section5-title": "Bir Dogi Ortaklığı olmak için başvurun ve şimdi komisyonunuzu kazanmaya başlayın!",
+		"section5-desc": "İletişim: affiliate@Fwork.io",
+		"joinnow": "Şimdi Katıl",
+		"join-us": "Bize katılın",
+		"your-uid": "Diştiniz Uid",
+		"social": "Sosyal medya",
+		"telegram-id": "Telgraf kimliği",
+		"email-id": "E-posta adresiniz",
+		"submission": "Göndermeyi onaylayın",
+		"register-title": "Ortaklık Programı",
+		"register-desc": "FWORE Affiliate Programına Katılın",
+		"register-desc-2": "Bir yan koşuşturma mı arıyorsunuz?Fwork'ün ortaklık sistemine katılın ve bugün ekstra nakit kazanmaya başlayın!İş sitemizi ağınıza tanıtın ve her başarılı yönlendirme için komisyon kazanın.Deneyim gerekmez - sadece kaydolun, benzersiz tavsiye bağlantınızı paylaşın ve kazançlarınızın büyümesini izleyin.Kendi evinizin rahatlığından para kazanmak için bu fırsatı kaçırmayın.Şimdi Fwork'ün Ortaklık Programına katılın!",
+		"apply-desc": "Başvurduğunuz için teşekkürler",
+		"register-detail": "BURADA daha fazla ayrıntı"
+	},
+	"influencer": {
+		"title": "Etkileyici programı",
+		"desc": "Arkadaşlarınızı Fwork'e katılmaya ve büyük ödüller kazanmaya davet edin!",
+		"desc-2": "50 $ 'lık yeni bir kullanıcı bonusunun tadını çıkarın",
+		"join-now": "Şimdi Katıl",
+		"desc-3": "Davet edilen her bir yeni kullanıcı için 5-50 USDT nakit bonusu.",
+		"desc-4": "Tavsiye memuru programına katılın ve% 40 spot komisyonunun tadını çıkarın.",
+		"desc-5": "Sınırlı sayıda Fwork çevresel ödül kazanma fırsatının tadını çıkarın.",
+		"desc-6": "Arka arkaya iki ay boyunca altın sevk memuruna ulaşan ajanlar, fwet ajanlarına yükseltilebilir",
+		"benefit-title": "Fwork Etkileyici Avantajları",
+		"benefit-desc": "Ticaret platformumuzu tanıtmak için misyonumuzu ve değerlerimizi paylaşan temel fikir liderleri (Kols) ve içerik yaratıcıları arıyoruz.",
+		"partners": "Ortaklar",
+		"partners-desc": "Dünyanın en güvenilir kripto değişimi ile ortak olun.",
+		"transparency": "Şeffaflık",
+		"transparency-desc": "Promosyon etkinliğinizin ayrıntılı bir raporunu alın.",
+		"compensation": "Tazminat",
+		"compensation-desc": "Tercih ettiğiniz kripto para biriminde ödeme alın.",
+		"note": "Not:",
+		"note-desc": "İletişim Soruları: Etkinlik soruları ve iş işbirliği için lütfen: influencer@Fwork.io ile iletişime geçin.",
+		"note-desc-2": "Katılım Nitelikleri: Bu faaliyet, halihazırda bir yönlendirme temsilcisi (Memur) planında yer alan faaliyetlerle sınırlıdır.Yeni yönlendirme memuru, avantajları almak için yükseltmeden önce aylık etkili yeni kullanıcılar miktarını ve toplam aylık ücreti aynı zamanda tamamlamalıdır.",
+		"note-desc-3": "Belçika sakinlerinin Influencer programına katılımdan kısıtlandığını lütfen unutmayın.Ödül Kuralları: Bir Fwork.com Tavsiye Görevlisi olmak için başvurduktan sonra, davet ettiğiniz her yeni kullanıcı 5-10 USD, üst sınırsız bir nakit ödülü alabilir; Katılımcı Para Çiftleri: Tüm ticaret çiftleri: Fwork.com USDT-Marjed Sürekli Sözleşmeler, Fwork.com USDT-Marjlı Spot (BTC/USDT Spot Ticaret Çifti hariç) Sıfır Fee Ticaret Çiftleri Geçerli İşlemler olarak sayılmayacak, Sıfır Ücret Ticaret Çifti",
+		"note-desc-4": "Ödül Dağıtım: Gerçek zamanlı istatistikler ve spot ticaret indirimi, nakit parça istatistikleri ve dağıtımının haftada bir kez dağıtılması, doğrudan Inviter'ın Fwork.com hesabına dağıtıldı.",
+		"note-desc-5": "Hile Davranışı: Yeni kullanıcılar, kayıttan sonraki ilk ayda yalnızca bir işlem yapar, aynı işlem tutarına sahip sık sık kaydırma davranışları ve diğer ticaret kaydırma davranışları hile olarak kabul edilecektir.Ödül ertelenecek.Koşullar ciddi olursa, ödül iptal edilecek ve önerilen memur statüsü de bu süreçte iptal edilecektir.",
+		"reward-title": "Karşılama ödüllerinde 100 dolara kadar kazanın",
+		"reward-desc": "Yeni başlayan görevleri tamamlayın ve harika ödül kazanın",
+		"join-us": "Bize katılın",
+		"uid": "Diştiniz Uid",
+		"social": "Sosyal medya",
+		"telegram": "Telgraf kimliği",
+		"email": "E-posta adresiniz",
+		"confirm": "Göndermeyi onaylayın"
+	},
+	"referral": {
+		"title": "Arkadaşlara bakın ve% 40'a kadar komisyon alın",
+		"desc": "Arkadaşlarınızı Fwork'e katılmaya davet edin ve hem siz hem de yönlendirdiğiniz arkadaşlarınız özel avantajlardan ve bonusların tadını çıkarabilirsiniz!",
+		"code": "Yönlendirme Kodu",
+		"link": "Tavsiye Bağlantısı",
+		"invite-friend": "Arkadaşları davet etmek",
+		"commission-ratio": "Komisyon indirim oranı",
+		"commission-desc": "Komisyon indirim oranı yalnızca yeni yönlendirmeler için geçerlidir, mevcut olanlar için geçerli değildir.",
+		"your-share": "Senin payın:",
+		"invited-share": "Davetlediğiniz kişiler:",
+		"my-referral": "Tavsiyem",
+		"earned": "Kazanılmış",
+		"total-refer": "Toplam hakemler",
+		"persons": "Kişiler",
+		"referred-user": "Yönlendirilen kullanıcılar",
+		"referee-registed": "Hakem kayıtlı",
+		"referee-uid": "Hakem uid",
+		"no-record": "Kayıt yok",
+		"rebate-detail": "İndirim Ayrıntılarım",
+		"rebate-at": "Komisyon indirildi",
+		"type": "Tip",
+		"commission-amount": "Komisyon tutarı",
+		"top-earners": "Fwork Top 20 Komisyon Kazançları",
+		"account": "Hesap",
+		"how-work": "Tavsiye Nasıl Çalışır?",
+		"how-work-detail": "Kazançlarınızı arkadaşlarınızla artırın!",
+		"how-work-detail-2": "Arkadaşlarınızı cömertçe ödüllendirmek için sevk komisyonunu özelleştirin!",
+		"refer-friends": "Arkadaşlara bakın ve ödül kazanın!",
+		"refer-friends-desc": "Benzersiz yönlendirme bağlantınızı veya QR kodunuzu arkadaşlarınızla ve en sevdiğiniz sosyal medya platformlarında paylaşarak heyecan verici ödüllerin kilidini açın.",
+		"start-earn": "Bugün kripto kazanmaya başlayın!",
+		"start-earn-desc": "Arkadaşlarınız ticaret topluluğuna katıldığında% 40'a kadar komisyonun kilidini açın.",
+		"program-rule": "Tavsiye programı kuralları:",
+		"rule-desc": "Bir yönlendiricinin davet edebileceği hesap sayısının bir sınırı yoktur.Yönlendirici, 12 ay boyunca hakemin işlem ücretlerinden bir komisyon almaya hak kazanacaktır.",
+		"rule-desc-2": "Bir hakem spot piyasada bir ticaret yürütürse, üretilen işlem ücretinin belirli bir yüzdesi komisyon olarak ödüllendirilecektir.",
+		"rule-desc-3": "Tavsiyenin geçerli kabul edilmesi için, hakem ve yönlendirici aynı IP adresini paylaşmamalı ve yönlendiricinin hesabı en az 1 günlük olmalıdır.",
+		"rule-desc-4": "Bir kullanıcının birden fazla kayıt oluşturarak aldattığı tespit edilirse, FWORT herhangi bir yönlendirme avantajını diskalifiye eder ve iptal eder.",
+		"rule-desc-5": "Lütfen Belçika sakinlerinin sevk programına katılmasına izin verilmediğini unutmayın.",
+		"rule-desc-6": "Fwork, yönlendirme programı kurallarını yorumlama ve gerektiği gibi değişiklik yapma hakkını saklı tutar.",
+		"register-now": "Şimdi üye Ol.Birlikte kripto kazanın.",
+		"referral-id": "Sevk kimliği"
+	},
+	"contactus": {
+		"title": "Bize Ulaşın",
+		"touch": "Temasta olmak.",
+		"touch-desc": "Telgraf, posta, arayın ve doğrudan adresle iletişime geçin.",
+		"reach": "Bize ulaşın:",
+		"contact-title": "Lütfen sorunuz hakkında birkaç kelime yazın ve sorunuzu 24 saat içinde hazırlayacağız ve yakında sizinle iletişime geçeceğiz.",
+		"name": "Adınız",
+		"company": "Şirket",
+		"email": "E -posta",
+		"phone": "Telefon numarası",
+		"query": "Sorgunuz",
+		"submit": "Sorgu Gönder"
+	},
+	"category": {
+		"graphics-and-design": {
+			"label": [
+				"Grafik Tasarım",
+				"Sizi öne çıkaracak tasarımlar."
+			],
+			"items": {
+				"logo-design": [
+					"Logo tasarımı",
+					"Marka kişiliğinize uygun bir logoyla kalabalığın arasından sıyrılın."
+				],
+				"brand-style-guides": [
+					"Marka Stil Kılavuzları",
+					"Markanızın kimliğini, renklerini ve yazı tiplerini oluşturmak için logonun ötesine geçin"
+				],
+				"business-cards-and-stationery": [
+					"Kartvizitler ve Kırtasiye Malzemeleri",
+					"Kişiye özel kartvizit ve kırtasiye tasarımlarıyla ilk izlenimi yok edin"
+				],
+				"fonts-and-typography": [
+					"Yazı Tipleri ve Tipografi",
+					"Yeni yazı tipleri, tipografi, el yazısı ve kaligrafi tasarımları oluşturun."
+				],
+				"illustration": [
+					"İllüstrasyon",
+					"Dijital ve elle çizilmiş resimlerle hedef kitleniz için bir resim çizin."
+				],
+				"ai-artists": [
+					"Yapay Zeka Sanatçıları",
+					"Fiverr'ın yapay zeka sanatçılarıyla sanat ve teknolojinin sınırlarını keşfedin"
+				],
+				"childrens-book-illustration": [
+					"Çocuk Kitabı İllüstrasyonu",
+					"Çocuklarınızın kitaplarına büyüleyici resimlerle hayat verin."
+				],
+				"portraits-and-caricatures": [
+					"Portreler ve Karikatürler",
+					"Büyüleyici bir portre veya karikatürle elinizden gelenin en iyisini yapın"
+				],
+				"cartoons-and-comics": [
+					"Çizgi Filmler ve Çizgi Romanlar",
+					"Çizgi film veya çizgi roman tasarımıyla bir sonraki projenize eğlenceli bir hava katın"
+				],
+				"pattern-design": [
+					"Desen tasarımı",
+					"Ev dekorunuz, kırtasiye malzemeleriniz, tekstil ürünleriniz ve daha fazlası için güzel desen tasarımları elde edin."
+				],
+				"tattoo-design": [
+					"Dövme Tasarımı",
+					"Her zaman seveceğiniz güzel bir dövme tasarımıyla kişiliğinizi ifade edin"
+				],
+				"storyboards": [
+					"Hikaye tahtaları",
+					"Oyunlar, videolar, sunumlar ve daha fazlası için storyboard'larla vizyonunuzu hayata geçirin"
+				],
+				"nft-art": [
+					"NFT Sanatı",
+					"Toplamaya değer NFT sanat eserleri oluşturun."
+				],
+				"design-advice": [
+					"Tasarım Önerileri",
+					"Rehberlik, mentorluk ve beceri gelişimi için uzmanlarla bağlantı kurun."
+				],
+				"website-design": [
+					"Web sitesi tasarımı",
+					"İnsanların etkileşimde bulunmayı sevdiği güzel bir web sitesi tasarımı edinin."
+				],
+				"app-design": [
+					"Uygulama Tasarımı",
+					"Güzel bir uygulama tasarımıyla uygulamanızı farklılaştırın."
+				],
+				"ux-design": [
+					"UX Tasarımı",
+					"Sağlam bir UX tasarımıyla ziyaretçinize sorunsuz bir çevrimiçi deneyim sunun."
+				],
+				"landing-page-design": [
+					"Açılış Sayfası Tasarımı",
+					"Muhteşem bir açılış sayfası tasarımıyla hedef kitlenizin ilgisini çekin."
+				],
+				"icon-design": [
+					"Simge Tasarımı",
+					"Özel simge tasarımıyla projenizi benzersiz kılın."
+				],
+				"industrial-and-product-design": [
+					"Endüstriyel ve Ürün Tasarımı",
+					"Konseptten 3D tasarıma ve imalata kadar her türlü ürünü tasarlayın ve yaratın."
+				],
+				"character-modeling": [
+					"Karakter Modelleme",
+					"3D baskı veya bir sonraki büyük video oyununuz için karakterleri ve yaratıkları modelleyin"
+				],
+				"game-art": [
+					"Oyun Sanatı",
+					"Bir sonraki büyük oyununuzu her oyun öğesi için grafik ve tasarım varlıklarıyla tasarlayın."
+				],
+				"graphics-for-streamers": [
+					"Yayıncılar için Grafikler",
+					"Özel kaplamalar, ifadeler ve daha fazlasıyla oyun izleyicilerinizin ilgisini çekin."
+				],
+				"flyer-design": [
+					"El İlanı Tasarımı",
+					"Her yerde yayınlayabileceğiniz basılı pazarlama materyalleriyle işletmenizi tanıtın"
+				],
+				"brochure-design": [
+					"Broşür tasarımı",
+					"Ana mesajınızı bilgilendirici broşür ve kitapçıklarla iletin"
+				],
+				"poster-design": [
+					"Poster tasarımı",
+					"Duvarlarınızı tanıtan, ilgi çekici ve şıklık katan posterler oluşturun"
+				],
+				"catalog-design": [
+					"Katalog Tasarımı",
+					"İlham verici bir katalog tasarımıyla ürünlerinizi sergileyin"
+				],
+				"menu-design": [
+					"Menü Tasarımı",
+					"Restoranınız, özel etkinliğiniz ve daha fazlası için cazip menüler ve fiyat listeleri!"
+				],
+				"invitation-design": [
+					"Menü Tasarımı",
+					"Restoranınız, özel etkinliğiniz ve daha fazlası için cazip menüler ve fiyat listeleri!"
+				],
+				"image-editing": [
+					"Resim düzenleme",
+					"Ürünlerden portrelere kadar görsellerinizi mükemmelleştirin."
+				],
+				"presentation-design": [
+					"Sunum Tasarımı",
+					"Güçlü, özel tasarlanmış bir sunumla izleyicilerinizi şaşırtın."
+				],
+				"infographic-design": [
+					"İnfografik Tasarım",
+					"Serbest infografik tasarımcılarının yardımıyla verilere hak ettiği görünümü kazandırın"
+				],
+				"vector-tracing": [
+					"Vektör İzleme",
+					"Görüntü dönüştürme ve vektör izleme ile sonsuz tasarım potansiyeline hoş geldiniz"
+				],
+				"resume-design": [
+					"Tasarıma Devam Et",
+					"Mükemmel bir özgeçmiş tasarımıyla profilinizin öne çıkmasını sağlayın"
+				],
+				"social-media-design": [
+					"Sosyal Medya Tasarımı",
+					"Özel tasarlanmış görünümler, avatarlar ve daha fazlasıyla sosyal medyayı diğerlerinden daha iyi kullanın"
+				],
+				"social-posts-and-banners": [
+					"Sosyal Gönderiler ve Banner'lar",
+					"Tüm popüler platformlar için özel olarak tasarlanmış sosyal medya gönderileri ve bannerları edinin."
+				],
+				"email-design": [
+					"E-posta Tasarımı",
+					"Hedef kitlenizin ilgisini çekecek güzel e-postalar tasarlayın."
+				],
+				"web-banners": [
+					"Web Banner'ları",
+					"Banner reklamlarla hızla büyüyen müşteri, tıklamadan edemiyor"
+				],
+				"signage-design": [
+					"Tabela Tasarımı",
+					"İyi tasarlanmış dış mekan tabelalarıyla dikkati mesajınıza ve markanıza yönlendirin."
+				],
+				"packaging-and-label-design": [
+					"Ambalaj & Etiket Tasarımı",
+					"Yaratıcı ambalaj ve etiket tasarımlarıyla alışveriş yapanların iki kez bakmalarını sağlayın."
+				],
+				"book-design": [
+					"Kitap Tasarımı",
+					"Büyüleyici bir kitap tasarımıyla yaratıcılığınızın parlamasına izin verin."
+				],
+				"book-covers": [
+					"Kitap kapakları",
+					"Çarpıcı bir kitap kapağı tasarımıyla okuyucularınızın dikkatini çekin"
+				],
+				"album-cover-design": [
+					"Albüm Kapak Tasarımı",
+					"Albüm Kapağı Tasarımı ile albümünüzün sesi kadar güzel görünmesini de sağlayın"
+				],
+				"architecture-and-interior-design": [
+					"Mimarlık ve İç Tasarım",
+					"Ayrıntılı planlar, 3D modeller ve daha fazlasıyla projenizi hayata geçirin."
+				],
+				"landscape-design": [
+					"Peyzaj tasarımı",
+					"Açık alanlarınızı tasarlayın, planlayın ve görselleştirin"
+				],
+				"building-engineering": [
+					"İnşaat mühendisliği",
+					"Doğru inşa etmek için ihtiyacınız olan tüm mühendislik hizmetleri."
+				],
+				"tshirts-and-merchandise": [
+					"Tişörtler ve Ürünler",
+					"İşletmeniz için veya benzersiz bir hediye olarak tişörtler ve ürünler alın."
+				],
+				"fashion-design": [
+					"Moda Tasarımı",
+					"Uçtan uca, size özel, profesyonel tasarımlı giysilere sahip olun."
+				],
+				"jewelry-design": [
+					"Takı tasarımı",
+					"Profesyonel sanatçıların yardımıyla güzel takılar yaratın."
+				],
+				"3d-architecture": [
+					"3 boyutlu mimari",
+					"Fikirlerinizi gerçekçi 3D Mimari İşleme ve Modelleme ile görselleştirin."
+				],
+				"3d-industrial-design": [
+					"3D Endüstriyel Tasarım",
+					"Projenizi gerçek hayattaki 3D modelle görselleştirin"
+				],
+				"3d-fashion-and-garment": [
+					"3D Moda ve Konfeksiyon",
+					"Gerçek hayattaki 3 boyutlu görselleştirmeyle giysinize hayat verin."
+				],
+				"3d-printing-characters": [
+					"3D Baskı Karakterleri",
+					"Proje planlama hedeflerinize ve son teslim tarihine başarıyla ulaşmanıza yardımcı olmak için ihtiyaç duyduğunuz en iyi 3D baskı karakter hizmetlerini bulun"
+				],
+				"3d-landscape": [
+					"3D Manzara",
+					"3D modelleme ve renderleme ile manzaranızı görselleştirin"
+				],
+				"3d-game-art": [
+					"3D Oyun Sanatı",
+					"Proje planlama hedeflerinize ve son teslim tarihine başarıyla ulaşmanıza yardımcı olmak için ihtiyaç duyduğunuz en iyi 3D oyun sanatı hizmetlerini bulun"
+				],
+				"3d-jewelry-design": [
+					"3D Takı Tasarımı",
+					"Mücevher vizyonunuzu 3 boyutlu modeller ve görselleştirmelerle hayata geçirin."
+				]
+			}
+		},
+		"programming-and-tech": {
+			"label": [
+				"Programlama ve Teknoloji",
+				"Sen onu düşün. Bir programcı bunu geliştirir."
+			],
+			"items": {
+				"website-development": [
+					"Web Sitesi Geliştirme",
+					"Proje planlama hedeflerinize ve son teslim tarihine başarıyla ulaşmanıza yardımcı olacak en iyi web sitesi geliştirme hizmetlerini bulun."
+				],
+				"website-maintenance": [
+					"Web sitesi bakımı",
+					"Serbest çalışan web programlama uzmanlarının yardımıyla web sitesi hatalarını giderin"
+				],
+				"game-development": [
+					"Oyun Geliştirme",
+					"Serbest oyun geliştiricilerin yardımıyla harika video oyunları oluşturun."
+				],
+				"software-development": [
+					"yazılım geliştirme",
+					"Yetenekli serbest kodlayıcıların yardımıyla özel uygulamanızı sıfırdan oluşturun."
+				],
+				"mobile-app-development": [
+					"Mobil Uygulama Geliştirme",
+					"Serbest geliştiricilerin yardımıyla Mobil Uygulamalar oluşturun."
+				],
+				"ai-development": [
+					"Yapay Zeka Geliştirme",
+					"Yapay Zeka Motorlarını oluşturun ve uygulamanıza veya web sitenize entegre edin."
+				],
+				"blockchain-and-cryptocurrency": [
+					"Blockchain ve Kripto Para Birimi",
+					"Blockchain ve kripto para projelerinizde özel hizmetlerle çalışın."
+				],
+				"nft-development": [
+					"NFT Geliştirme",
+					"NFT'lerinizi bırakabileceğiniz, basabileceğiniz ve satabileceğiniz bir web sitesi oluşturmak için bir serbest çalışanın yardımını alın."
+				],
+				"electronics-engineering": [
+					"Elektronik Mühendisliği",
+					"Elektronik ürünlerinizi planlamanıza, tasarlamanıza ve geliştirmenize yardımcı olacak bir mühendis bulun."
+				],
+				"devops-and-cloud": [
+					"Devops ve Bulut",
+					"Bulut bilişim ortamlarını ve geliştirme operasyonlarını oluşturun, ölçeklendirin ve yönetin."
+				],
+				"support-and-it": [
+					"Destek ve BT",
+					"BT destek hizmetlerine merhaba deyin ve hizmet kesintilerine elveda deyin."
+				],
+				"online-coding-lessons": [
+					"Online Kodlama Dersleri",
+					"Profesyonel programcılarla kodlamayı öğrenin"
+				],
+				"chatbot-development": [
+					"Chatbot Geliştirme",
+					"Deneyimli serbest çalışanların sunduğu chatbot geliştirme hizmetleriyle çevrimiçi varlığınızı otomatikleştirin."
+				],
+				"convert-files": [
+					"Dosyaları dönüştür",
+					"Hızlı, kolay dosya dönüşümleriyle yavaş süreçlerden kendinizi kurtarın."
+				],
+				"user-testing": [
+					"Kullanıcı Testi",
+					"Ürününüzü sevdiniz mi? Kullanıcı test hizmetleri sayesinde başkalarının da sevip sevmediğini öğrenin."
+				],
+				"qa-and-review": [
+					"KG ve İnceleme",
+					"Uzman bir geliştiriciyle kod inceleme ve canlı mentorluk oturumuna katılın."
+				],
+				"other": [
+					"Diğer",
+					""
+				]
+			}
+		},
+		"digital-marketing": {
+			"label": [
+				"Dijital Pazarlama",
+				"Markanızı oluşturun. İşletmenizi büyütün."
+			],
+			"items": {
+				"search-engine-optimization-seo": [
+					"Arama Motoru Optimizasyonu (SEO)",
+					"SEO ile arama motorlarında üst sıralarda yer alın ve daha fazla ziyaretçi çekin."
+				],
+				"search-engine-marketing-sem": [
+					"Arama Motoru Pazarlaması (SEM)",
+					"SEM ve PPC hizmetleriyle kampanyalarınıza ihtiyaç duydukları yükseltmeyi sağlayın"
+				],
+				"local-seo": [
+					"Yerel SEO",
+					"Kaliteli, yerel SEO ve işletme listeleme hizmetleriyle ilgi odağı olun"
+				],
+				"social-media-marketing": [
+					"Sosyal medya pazarlamacılığı",
+					"İlgi çekici sosyal medya içeriğiyle çevrimiçi varlığınızı güçlendirin."
+				],
+				"influencer-marketing": [
+					"Etkileyici Pazarlama",
+					"Markanızı etkileyicilerimizin ve pazarlama uzmanlarımızın yardımıyla büyütün."
+				],
+				"community-management": [
+					"Topluluk yönetimi",
+					"Topluluk yönetimi hizmetleriyle takipçilerinizin ilgisini çekin ve onları memnun edin."
+				],
+				"video-marketing": [
+					"Video Pazarlama",
+					"SEO video hizmetleriyle videolarınızı sıralayın."
+				],
+				"ecommerce-marketing": [
+					"E-Ticaret Pazarlama",
+					"E-Ticaret SEO hizmetleriyle vitrinlerinizi ve listelemelerinizi geliştirerek ürünlerinizin keşfedilmesini sağlayın."
+				],
+				"email-marketing": [
+					"Eposta pazarlama",
+					"Serbest e-posta pazarlama hizmetleriyle gereksiz klasörden kaçının"
+				],
+				"guest-posting": [
+					"Misafir İlanı",
+					"Konuk gönderi hizmetlerimizle sizin için harika içerik oluşturulsun ve yayınlansın."
+				],
+				"affiliate-marketing": [
+					"Bağlı pazarlama",
+					"Affiliate Marketing ile erişiminizi daha fazla müşteriye genişletin."
+				],
+				"display-advertising": [
+					"Görüntülü Reklamcılık",
+					"Görüntülü reklam kampanyalarınızı reklamcılık hizmetleriyle oluşturun, başlatın ve sürdürün"
+				],
+				"text-message-marketing": [
+					"Kısa Mesaj Pazarlama",
+					"Kısa mesajla pazarlama hizmetleriyle hedef kitlenizle etkileşime geçin"
+				],
+				"marketing-strategy": [
+					"Pazarlama stratejisi",
+					"Başarıya yönelik nasıl yapılır konusunda size rehberlik edecek pazarlama stratejisi serbest çalışanlarını bulun"
+				],
+				"marketing-advice": [
+					"Pazarlama Tavsiyesi",
+					"Pazarlama rehberliği ve profesyonel ilişkiler için uzmanlarla bağlantı kurun."
+				],
+				"web-analytics": [
+					"İnternet analizi",
+					"Web analitiği ile trafiğinizle ilgili gerçekleri öğrenin ve performansın iyileşmesini izleyin"
+				],
+				"music-promotion": [
+					"Müzik Tanıtımı",
+					"Kulaklarınıza müzik. Göz açıp kapayıncaya kadar küresel müzik tanıtımını ve viralliğini elde edin"
+				],
+				"podcast-marketing": [
+					"Podcast Pazarlama",
+					"Podcast tanıtım hizmetleriyle hedef kitlenizi genişletin"
+				],
+				"book-and-ebook-marketing": [
+					"Kitap ve e-Kitap Pazarlama",
+					"Kitabınızı veya e-kitabınızı tanıtmak için doğru kanalları bulun"
+				],
+				"mobile-app-marketing": [
+					"Mobil Uygulama Pazarlaması",
+					"Uygulama mağazası optimizasyonu (ASO), uygulama pazarlaması ve mobil reklam kampanyası hizmetleriyle milyonlara ulaşın."
+				],
+				"crowdfunding": [
+					"Kitlesel fonlama",
+					"Kitlesel fonlama kampanyanızı başlatmanıza, optimize etmenize ve tanıtmanıza yardımcı olacak en iyi kitle fonlaması hizmetlerini bulun."
+				],
+				"digital-marketing-other": [
+					"Diğer",
+					"İleride daha muhteşem; daha fazla dijital pazarlama hizmetiyle görünürlüğünüzü artırın"
+				]
+			}
+		},
+		"video-and-animation": {
+			"label": [
+				"Video ve Animasyon",
+				"Yaratıcı videolarla hikayenize hayat verin."
+			],
+			"items": {
+				"video-editing": [
+					"Video düzenleme",
+					"Video düzenleme ve post prodüksiyon hizmetleriyle videolarınızı oluşturun veya geliştirin."
+				],
+				"visual-effects": [
+					"Görsel efektler",
+					"Rotoscoping'den dijital birleştirmeye kadar her şeyde sihrin gerçekleştiği yer burası! Sizi koruduk"
+				],
+				"video-art": [
+					"Video Sanatı",
+					"Vizyonunuzu her türlü ortam için benzersiz, orijinal video sanatıyla ifade edin."
+				],
+				"intro-and-outro-videos": [
+					"Giriş ve Çıkış Videoları",
+					"Özel giriş ve çıkışlarla videolarınızı izlemeden önce ve izledikten sonra kitlenizle etkileşime geçin."
+				],
+				"video-templates-editing": [
+					"Video Şablonlarını Düzenleme",
+					"Video yazılım şablonları ve ön ayarları oluşturun ve düzenleyin."
+				],
+				"subtitles-and-captions": [
+					"Altyazılar ve Altyazılar",
+					"Videonuzu her dilde altyazıyla erişilebilir hale getirin"
+				],
+				"video-ads-and-commercials": [
+					"Video Reklamlar ve Reklamlar",
+					"Çevrimiçi video reklamlar ve reklamlarla dikkatleri işletmenize veya ürününüze çevirin."
+				],
+				"social-media-videos": [
+					"Sosyal Medya Videoları",
+					"Tüm sosyal medya ihtiyaçlarınız için ilgi çekici organik video içeriği oluşturun."
+				],
+				"ugc-videos": [
+					"UGC Videoları",
+					"Profesyonel içerik oluşturucuların hazırladığı UGC videolarıyla bir ürünü veya mağazayı sergileyin."
+				],
+				"music-videos": [
+					"Müzik videoları",
+					"İçinizdeki pop yıldızını bulun. MTV'ye layık şarkı sözleri ve müzik videoları oluşturun."
+				],
+				"slideshow-videos": [
+					"Slayt Gösterisi Videoları",
+					"Fotoğraflarınızı ve sunumlarınızı kişisel veya iş amaçlı kullanım için video slayt gösterilerine dönüştürün"
+				],
+				"logo-animation": [
+					"Logo Animasyonu",
+					"Logonuza güzel, göz alıcı animasyonlarla hayat verin"
+				],
+				"character-animation": [
+					"Karakter Animasyonu",
+					"Oyunlarınız, videolarınız ve daha fazlası için karakterlerinizi harekete geçirin"
+				],
+				"animated-gifs": [
+					"Animasyonlu GIF'ler",
+					"Sosyal medya, e-postalar ve daha fazlası için özel GIF'lerle hedef kitlenizin etkileşimini artırın."
+				],
+				"animation-for-kids": [
+					"Çocuklara Yönelik Animasyon",
+					"Çocuk tekerlemelerinden eğitici animasyonlara kadar küçükler için ilgi çekici içerikler oluşturun."
+				],
+				"animation-for-streamers": [
+					"Yayıncılar için Animasyon",
+					"Yayınlarınızı güzel animasyonlu öğelerle güçlendirin"
+				],
+				"lottie-and-web-animation": [
+					"Lottie ve Web Animasyonu",
+					"Bir web sitesi, uygulama veya kullanıcı arayüzü için etkileşimli animasyonlarla kullanıcıların gösterimlerini artırın."
+				],
+				"rigging": [
+					"Arma",
+					"Karakterlere ve tasarımlara, modelin hareket etmesini sağlayacak kemik yapılarını verin."
+				],
+				"nft-animation": [
+					"NFT Animasyonu",
+					"Koleksiyonluk NFT animasyonları, koleksiyonlar, hareket halindeki ticaret kartları ve daha fazlasını oluşturun."
+				],
+				"videographers": [
+					"Kameracılar",
+					"Ticari ihtiyaçlar, etkinlikler, canlı yayınlar ve daha fazlası için siparişe göre hazırlanmış film görüntüleri alın."
+				],
+				"filmed-video-production": [
+					"Filmlenmiş Video Prodüksiyonu",
+					"Ticari ihtiyaçlar, etkinlikler ve daha fazlası için her yerde özel filme alınmış videolar üretin."
+				],
+				"animated-explainers": [
+					"Animasyonlu Açıklayıcılar",
+					"Animasyonlu açıklayıcı videolarla kitlenizin hikayenizi anlamasına yardımcı olun."
+				],
+				"live-action-explainers": [
+					"Canlı Aksiyon Açıklayıcıları",
+					"Ürün videoları ve canlı aksiyon açıklayıcılarıyla kitlenizin ilgisini çekin ve ikna edin"
+				],
+				"spokesperson-videos": [
+					"Sözcü Videoları",
+					"Kameradan çekiniyor musunuz? Markanızı tanıtmak için profesyonel bir konuşmacı videosu kullanın"
+				],
+				"screencasting-videos": [
+					"Ekran Videoları",
+					"Uygulamanızı, web sitenizi veya yazılımınızı profesyonel bir ekran video kaydıyla tanıtın"
+				],
+				"elearning-video-production": [
+					"e-Öğrenim Video Prodüksiyonu",
+					"e-Öğrenim platformları için ilgi çekici video kursları oluşturun"
+				],
+				"crowdfunding-videos": [
+					"Kitlesel Fonlama Videoları",
+					"Projenizi ilgi çekici kitlesel fonlama videolarıyla finanse edin."
+				],
+				"3d-product-animation": [
+					"3D Ürün Animasyonu",
+					"Ürününüzü ayrıntılı 3 boyutlu animasyonlu videoyla gösterin ve açıklayın"
+				],
+				"ecommerce-product-videos": [
+					"E-Ticaret Ürün Videoları",
+					"E-ticaret listelemeleriniz için güçlü ve dönüşüm sağlayan ürün videoları üretin."
+				],
+				"corporate-videos": [
+					"Kurumsal Videolar",
+					"Şirketinizi ilgi çekici kurumsal videolarla sunun."
+				],
+				"app-and-website-previews": [
+					"Uygulama ve Web Sitesi Önizlemeleri",
+					"İlgi çekici ekran görüntüleri ve altyazılarla uygulamanızın veya web sitenizin önizlemesini gösterin"
+				],
+				"game-trailers": [
+					"Oyun Fragmanları",
+					"İlgi çekici oyun fragmanlarıyla oyununuzun heyecanını artırın"
+				],
+				"meditation-videos": [
+					"Meditasyon Videoları",
+					"Biz meditasyon videolarınızı oluştururken rahatlayın."
+				],
+				"real-estate-promos": [
+					"Gayrimenkul Promosyonları",
+					"Gayrimenkul ilanlarınızı ve ajans reklamlarınızı ilgi çekici ve bilgilendirici bir şekilde sergileyin"
+				],
+				"book-trailers": [
+					"Kitap Fragmanları",
+					"İlgi çekici kitap fragmanlarıyla izleyicilerinizi okuyuculara dönüştürün"
+				],
+				"video-advice": [
+					"Video Tavsiyesi",
+					"Rehberlik, beceriler ve profesyonel ilişkiler için uzmanlarla bağlantı kurun."
+				]
+			}
+		},
+		"writing-and-translation": {
+			"label": [
+				"Yazarlık ve Çeviri",
+				"Kelimelerinizi herhangi bir dilde iletin."
+			],
+			"items": {
+				"articles-and-blog-posts": [
+					"Makaleler ve Blog Yazıları",
+					"Okuyucularınızın yeni içerikle etkileşimde kalmasını sağlayın."
+				],
+				"content-strategy": [
+					"İçerik Stratejisi",
+					"Markanız için mükemmel içerik stratejisini geliştirin"
+				],
+				"website-content": [
+					"Web sitesi içeriği",
+					"Google'ın seveceği zengin içerikli bir web sitesi oluşturmak için en kaliteli içerik yazma hizmetlerinden yararlanın"
+				],
+				"scriptwriting": [
+					"Senaryo yazmak",
+					"Bir sonraki videonuz, sesli reklamınız veya büyük hikayeniz için senaryo yazımı ve senaryo geri bildirimi"
+				],
+				"creative-writing": [
+					"Yaratıcı Yazarlık",
+					"Şiirlerden şarkı sözlerine kadar yaratıcı yazılarla kendinizi ve markanızı ifade edin"
+				],
+				"podcast-writing": [
+					"Podcast Yazma",
+					"İlgi çekici bir hikaye yazmak veya izleyicilerinizi gösteri notlarıyla meşgul etmek için podcast uzmanlarını bulun"
+				],
+				"speechwriting": [
+					"Konuşma Yazımı",
+					"Bir sonraki konuşma deneyiminizi her durumda uzman konuşma yazarlarıyla tamamlayın"
+				],
+				"research-and-summaries": [
+					"Araştırma ve Özetler",
+					"Harika iş fikirlerinizi hayata geçirmek için ihtiyacınız olan araştırmayı edinin"
+				],
+				"custom-writing-prompts": [
+					"Özel Yazma İstemleri",
+					"İlham parmaklarınızın ucunda: sınırsız yaratıcılık için hızlı yazma"
+				],
+				"proofreading-and-editing": [
+					"Redaksiyon ve Düzenleme",
+					"Bir düzeltmen veya editörün kelimelerinizi mükemmel hale getirecek şekilde ayarlamasına izin verin."
+				],
+				"book-editing": [
+					"Kitap Düzenleme",
+					"Yazınızı en iyi editörlerle geliştirin."
+				],
+				"beta-reading": [
+					"Beta Okuma",
+					"Kitabınızın taslağını deneyimli beta okuyuculardan gelen geri bildirimlerle parlatın"
+				],
+				"writing-advice": [
+					"Yazma Önerileri",
+					"Yazma ve çeviri rehberliği ve profesyonel ilişkiler için uzmanlarla bağlantı kurun."
+				],
+				"resume-writing": [
+					"Yazmaya Devam Et",
+					"Ustalıkla yazılmış bir özgeçmişle profesyonel deneyiminizi sergileyin"
+				],
+				"cover-letters": [
+					"Ön Mektuplar",
+					"Profesyonel bir ön yazıyla daha hızlı işe alın"
+				],
+				"linkedin-profiles": [
+					"LinkedIn Profilleri",
+					"Tam olarak optimize edilmiş bir LinkedIn profiliyle deneyiminizi sergileyin ve ağınızı büyütün"
+				],
+				"job-descriptions": [
+					"İş tanımları",
+					"Profesyonel bir iş tanımıyla süperstar yetenekleri bulun."
+				],
+				"brand-voice-and-tone": [
+					"Marka Sesi ve Tonu",
+					"Marka sesinizi profesyonel marka yönergeleriyle tanımlayın ve oluşturun"
+				],
+				"business-names-and-slogans": [
+					"İşletme İsimleri ve Sloganlar",
+					"Daha fazla müşteri çekmek için büyüleyici ve hatırlanması kolay bir işletme adı ve sloganı edinin"
+				],
+				"case-studies": [
+					"Durum çalışmaları",
+					"Etkili vaka çalışmaları ve başarı öyküleriyle güven kazanın ve güvenilirlik oluşturun."
+				],
+				"white-papers": [
+					"Beyaz kağıtlar",
+					"Bilgilendirici, ikna edici teknik incelemelerle otoritenizi oluşturun"
+				],
+				"product-descriptions": [
+					"Ürün Açıklaması",
+					"Tüm ürünlerinize göre özelleştirilmiş ürün açıklaması yazma hizmetleri alın ve okuyucularınızın dikkatini çekin"
+				],
+				"ad-copy": [
+					"Reklam Kopyası",
+					"Yaratıcı ve hedefe yönelik reklam metniyle dönüşüm oranınızı artırın."
+				],
+				"sales-copy": [
+					"Satış Kopyası",
+					"Şüphecileri alıcılara dönüştürerek daha fazla satış yapmanızı sağlayacak ikna edici bir satış kopyası edinin"
+				],
+				"email-copy": [
+					"E-posta Kopyası",
+					"Hem pazarlama hem de kişisel e-posta yazışmalarınız için işe yarayan ikna edici e-posta kopyasını edinin"
+				],
+				"social-media-copy": [
+					"Sosyal Medya Kopyası",
+					"Hedef kitlenizin ilgisini çekmek için ilgi çekici, tıklamaya değer sosyal medya gönderileri oluşturun"
+				],
+				"press-releases": [
+					"Basın yayınları",
+					"Profesyonel basın bültenleri ve haber yayını hizmetleriyle haberi duyurun"
+				],
+				"ux-writing": [
+					"UX Yazma",
+					"Anlaşılır, erişilebilir UX yazımı ve mikrokopi ile kullanıcılarınıza ürününüz boyunca rehberlik edin"
+				],
+				"translation": [
+					"Tercüme",
+					"Birçok dil kombinasyonundaki içerik çevirileriyle daha geniş bir kitleye ulaşın."
+				],
+				"localization": [
+					"Yerelleştirme",
+					"Uzman yerelleştirme çözümleriyle dil engellerini aşın ve yeni pazarlara açılın"
+				],
+				"transcription": [
+					"Transkripsiyon",
+					"Serbest transkripsiyon hizmetleriyle zamandan (ve akıl sağlığından) tasarruf edin"
+				],
+				"elearning-content-development": [
+					"e-Öğrenim İçerik Geliştirme",
+					"İlgi çekici çevrimiçi kurs içeriğiyle hedef kitlenizi memnun edin."
+				],
+				"technical-writing": [
+					"Teknik yazı",
+					"Kılavuzlarınız, talimatlarınız ve diğer karmaşık içerik ihtiyaçlarınız için teknik yazı alın"
+				],
+				"grant-writing": [
+					"Hibe Yazımı",
+					"Profesyonel hibe yazarlarıyla daha hızlı fon alın"
+				],
+				"writing-and-translation-other": [
+					"Diğer",
+					"İleride daha muhteşem şeyler var; serbest yazarların sunduğu daha fazla dijital hizmeti keşfedin"
+				]
+			}
+		},
+		"music-and-audio": {
+			"label": [
+				"Müzik ve Ses",
+				"Hiçbir ritmi kaçırmayın. Sesinize hayat verin."
+			],
+			"items": {
+				"producers-and-composers": [
+					"Yapımcılar ve Besteciler",
+					"Demonuzu başarıya dönüştürmeniz mi gerekiyor? Doğru yere geldiniz"
+				],
+				"singers-and-vocalists": [
+					"Şarkıcılar ve Vokalistler",
+					"Şarkı söyleyemiyor musun? Bunu senin için yapabilecek şarkıcılarımız ve vokalistlerimiz var"
+				],
+				"session-musicians": [
+					"Oturum Müzisyenleri",
+					"Yetenekli seans müzisyenlerini kullanarak tatlı müzik yapın. İstediğiniz enstrümanı burada bulabilirsiniz"
+				],
+				"songwriters": [
+					"Şarkı yazarları",
+					"Bir sonraki hitinizi yazacak ve besteleyecek bir Söz Yazarı bulun"
+				],
+				"beat-making": [
+					"Beat Yapımı",
+					"Tam aradığınız havaya sahip bir ritme mi ihtiyacınız var? Daha fazla kendinizi yormayın."
+				],
+				"jingles-and-intros": [
+					"Jingle'lar ve Girişler",
+					"Podcast'lerinizi, reklamlarınızı ve radyo programlarınızı akılda kalıcı jingle'lar ve girişlerle zenginleştirin"
+				],
+				"mixing-and-mastering": [
+					"Miksaj ve Mastering",
+					"En iyi miksaj ve mastering mühendisleriyle sesinizi yükseltin."
+				],
+				"audio-editing": [
+					"Ses Düzenleme",
+					"Nerede kaydedilmiş olursa olsun sesinizin mükemmel olmasını sağlayın."
+				],
+				"vocal-tuning": [
+					"Vokal Ayarı",
+					"Şarkınızın vokal parçalarını cilalayın ve mükemmel ve temiz olduklarından emin olun"
+				],
+				"voice-over": [
+					"Seslendirme",
+					"Ses veya videonuz için herhangi bir tarzda, dilde veya aksanda mükemmel sesi bulun."
+				],
+				"podcast-production": [
+					"Podcast Prodüksiyonu",
+					"Uzman podcast yapımcıları ve editörleriyle podcast'inizi bir sonraki seviyeye taşıyın."
+				],
+				"audiobook-production": [
+					"Sesli Kitap Prodüksiyonu",
+					"Ses editörleri ve yapımcılarıyla A'dan Z'ye Sesli Kitabınızı oluşturun"
+				],
+				"audio-ads-production": [
+					"Sesli Reklam Prodüksiyonu",
+					"Tamamen üretilmiş sesli reklamlarla daha geniş bir kitleye ulaşın"
+				],
+				"voice-synthesis-and-ai": [
+					"Ses Sentezi ve Yapay Zeka",
+					"Ses sentezi ve yapay zeka hizmetleri için son teknoloji yapay zekadan yararlanın"
+				],
+				"dj-drops-and-tags": [
+					"DJ Düşüşleri ve Etiketler",
+					"Parçalarınız, reklamlarınız ve daha fazlası için özel DJ sunumları ve etiketleri alın"
+				],
+				"dj-mixing": [
+					"DJ Karıştırma",
+					"Kişiselleştirilmiş bir DJ Mix ile partiyi başlatın."
+				],
+				"remixing-and-mashups": [
+					"Remiksleme ve Karma İşlemler",
+					"Remix veya mashup ile şarkınıza benzersiz bir dokunuş katın."
+				],
+				"sound-design": [
+					"Ses tasarımı",
+					"Özel ses tasarımıyla dinleyicilerinizin kulaklarını meşgul edin."
+				],
+				"synth-presets": [
+					"Synth Ön Ayarları",
+					"O çılgın synth sesini yeniden yaratmanız mı gerekiyor? Sesinin burada tasarlanmasını sağlayın."
+				],
+				"meditation-music": [
+					"Meditasyon Müziği",
+					"Meditasyonunuza mükemmel bir şekilde eşlik eden özel yapım müziğe odaklanın."
+				],
+				"audio-logo-and-sonic-branding": [
+					"Ses Logosu ve Sonik Markalama",
+					"Markanızı ses dünyasında temsil edin."
+				],
+				"online-music-lessons": [
+					"Online Müzik Dersleri",
+					"Profesyonel müzik ve ses eğitmenleriyle yeni bir enstrümanda, yazılımda veya beceride ustalaşın."
+				],
+				"music-transcription": [
+					"Müzik Transkripsiyonu",
+					"Şarkılarınızı notalara dönüştürün. Her enstrüman, her tür - biz arkanızı kolluyoruz."
+				],
+				"music-and-audio-advice": [
+					"Müzik ve Ses Önerileri",
+					"Projenizin doğru ses çıkarması için bir müzik uzmanıyla bağlantı kurun."
+				]
+			}
+		},
+		"business": {
+			"label": [
+				"İşletme",
+				"Hiçbir ritmi kaçırmayın. Sesinize hayat verin."
+			],
+			"items": {
+				"business-plans": [
+					"İş planları",
+					"Profesyonel bir iş planıyla başarının temelini atın"
+				],
+				"legal-consulting": [
+					"Hukuk Danışmanlığı",
+					"Yasal araştırma ve çevrimiçi danışmanlıkla, çalıştığınız şeyi koruyun"
+				],
+				"virtual-assistant": [
+					"Sanal asistan",
+					"Zamandan tasarruf etmek ve tutkunuza odaklanmanızı sağlamak için sanal yardım alın"
+				],
+				"ecommerce-management": [
+					"E-Ticaret Yönetimi",
+					"E-ticaret işinizi yönetmek için ihtiyacınız olan her şey"
+				],
+				"hr-consulting": [
+					"İK Danışmanlığı",
+					"İşletmeniz için en iyi ekibi işe almak için İK danışmanlık hizmetleri alın."
+				],
+				"project-management": [
+					"Proje Yönetimi",
+					"Projenizi baştan sona uzman proje yönetimi hizmetleriyle tamamlayın."
+				],
+				"supply-chain-management": [
+					"Tedarik zinciri yönetimi",
+					"Tedarik zinciri sürecinizin tamamını kontrol altında tutun."
+				],
+				"business-consulting": [
+					"İş danışmanlığı",
+					"Stratejiden pazarlamaya, yönetime ve daha fazlasına kadar işinizi büyütmek için uzman tavsiyesi alın."
+				],
+				"market-research": [
+					"Pazar araştırması",
+					"Bu büyük fikirleri uzman pazar araştırması analistlerinden gelen verilerle destekleyin"
+				],
+				"sales": [
+					"Satış",
+					"Bir profesyonelin yardımıyla satışlarınızı artırın."
+				],
+				"customer-care": [
+					"Müşteri Hizmetleri",
+					"Güçlü bir müşteri hizmetleri uygulamasıyla işinizi bir sonraki seviyeye taşıyın."
+				],
+				"crm-management": [
+					"CRM Yönetimi",
+					"Müşteri İlişkileri Yönetimi (CRM) yazılımınızı yönetme konusunda yardım alın."
+				],
+				"financial-consulting": [
+					"Finansal Danışmanlık",
+					"Zor işleri bu serbest çalışan mali danışmanlar hallediyor. Gerisi sizde"
+				],
+				"erp-management": [
+					"ERP Yönetimi",
+					"Kurumsal Kaynak Planlama (ERP) yazılımınızı yönetme konusunda yardım alın."
+				],
+				"fact-checking": [
+					"Doğruluk Kontrolü",
+					"Web sitelerinden, makalelerden veya diğer metinlerden gerçekleri kontrol etme ve doğrulama konusunda yardım alın."
+				],
+				"event-management": [
+					"Olay yönetimi",
+					"Etkinlik yönetimi ve etkinlik planlama hizmetleri."
+				],
+				"game-concept-design": [
+					"Oyun Konsept Tasarımı",
+					"Oyun konsept tasarımınızı yönetecek bir uzman kiralayın, böylece önemli olana odaklanabilirsiniz"
+				],
+				"business-other": [
+					"Diğer",
+					"İleride daha muhteşem şeyler var - serbest çalışan iş geliştirme uzmanlarından daha fazla Konser bulun"
+				]
+			}
+		},
+		"data": {
+			"label": [
+				"Veri",
+				"Verilerle desteklenen içgörülerle analiz edin ve büyütün."
+			],
+			"items": {
+				"data-entry": [
+					"Veri girişi",
+					"Yazma ve daha birçok veri girişi hizmeti konusunda yardım alın."
+				],
+				"data-formatting-and-cleaning": [
+					"Veri Biçimlendirme ve Temizleme",
+					"Her türlü veri biçimlendirme veya veri temizleme projesinde yardım alın."
+				],
+				"data-mining-and-scraping": [
+					"Veri Madenciliği ve Kazıma",
+					"Zamandan ve paradan tasarruf etmek için veri madenciliği ve web kazıma işlemlerini yaptırın."
+				],
+				"data-analytics": [
+					"Veri analizi",
+					"İçgörüleri ortaya çıkarmak ve doğru kararları vermek için veri analitiğini kullanın."
+				],
+				"data-visualization": [
+					"Veri goruntuleme",
+					"Bu görselleştirme hizmetleriyle verilerinizin öne çıkmasını sağlayın."
+				],
+				"data-processing": [
+					"Veri işleme",
+					"Verileri en iyi şekilde sıralayın ve düzenleyin."
+				],
+				"data-engineering": [
+					"Veri Mühendisliği",
+					"Veri kaynaklarınızı oluşturmak ve sürdürmek için bir mühendisle çalışın."
+				],
+				"data-governance-and-protection": [
+					"Veri Yönetişimi ve Koruması",
+					"Zamandan ve paradan tasarruf etmek için veri yönetimi ve uyumluluğu sağlayın."
+				],
+				"databases": [
+					"Veritabanları",
+					"Veritabanınızı oluşturmanıza, yönetmenize ve optimize etmenize yardımcı olacak hizmetleri bulun."
+				]
+			}
+		},
+		"photography": {
+			"label": [
+				"Fotoğrafçılık",
+				"İhtiyacınız olan atışı yapın. Her zaman."
+			],
+			"items": {
+				"product-photographers": [
+					"Ürün Fotoğrafçıları",
+					"Profesyonel ürün fotoğrafçılarımızla markanızın görünümünü iyileştirin ve güvenilirliğini artırın."
+				],
+				"food-photographers": [
+					"Yemek Fotoğrafçıları",
+					"Unlu mamullerden uluslararası mutfağa ve yaratıcı kokteyllere kadar; satarsanız profesyonel yemek fotoğrafçılarımız bunu çekebilir."
+				],
+				"lifestyle-and-fashion-photographers": [
+					"Yaşam Tarzı ve Moda Fotoğrafçıları",
+					"Markanıza özel, güzel yaşam tarzı, moda ve güzellik çekimleri yapın"
+				],
+				"portrait-photographers": [
+					"Portre Fotoğrafçıları",
+					"Mükemmel aile fotoğrafını, en güzel vesikalık fotoğrafı veya ihtiyaç duyabileceğiniz herhangi bir portreyi yakalamak için profesyonel bir fotoğrafçıya başvurun."
+				],
+				"event-photographers": [
+					"Etkinlik Fotoğrafçıları",
+					"Düğününüzün, partinizin veya iş etkinliğinizin en güzel anlarını en iyi fotoğrafçılarımızdan birini kullanarak yakalayın."
+				],
+				"real-estate-photographers": [
+					"Emlak Fotoğrafçıları",
+					"Mülkünüzü güzel iç tasarım ve mimari fotoğrafçılarıyla dünyaya tanıtın."
+				],
+				"scenic-photographers": [
+					"Manzara Fotoğrafçıları",
+					"Çarpıcı bir şehir silüetinden doğal bir manzaraya kadar her şeyi yakalayın."
+				]
+			}
+		}
+	},
+	"categoryMeta": {
+		"aa": [
+			"oyun tipi",
+			"Geliştirdiğiniz oyunun boyutunu seçin (her iki türde de geliştiriyorsanız, her boyut türü için farklı işler oluşturun)*"
+		],
+		"ab": [
+			"oyun motoru",
+			"Oyunu planlamak ve kodlamak için kullandığınız oyun motorunu seçin.*"
+		],
+		"ac": [
+			"platform tipi",
+			"Oyun geliştireceğiniz en fazla 3 platformu seçin.*"
+		],
+		"ad": [
+			"sesli dil",
+			"Anlatım dilinizi seçin*"
+		],
+		"ae": [
+			"tür",
+			"Geliştirdiğiniz oyunların türünü seçin."
+		],
+		"af": [
+			"ses-cinsiyet",
+			"Cinsiyetinizi seçiniz:*"
+		],
+		"ag": [
+			"ses amacı",
+			"Sağladığınız seslendirme türünü seçin*"
+		],
+		"ah": [
+			"ses-yaş-aralığı",
+			"Yaşınızı seçin:*"
+		],
+		"ai": [
+			"ses tonu",
+			"Bu Konserde ileteceğiniz en fazla 5 ses tonunu seçin*"
+		],
+		"aj": [
+			"eklentiler",
+			"Desteklediğiniz eklentileri seçin"
+		],
+		"ak": [
+			"yazılım",
+			"Yayın hizmetlerinizi ayarlamak için hangi canlı yayın yazılımını kullanacaksınız?*"
+		],
+		"al": [
+			"platform",
+			"Lütfen hizmet sağladığınız platformları seçin."
+		],
+		"am": [
+			"amaç",
+			"Hangi canlı yayın türünde uzmansınız. Birden fazla seçebilirsiniz."
+		],
+		"an": [
+			"Programlama dili",
+			"Hizmet sağladığınız dili seçin*"
+		],
+		"ao": [
+			"ön uç çerçevesi",
+			"Uzman olduğunuz en fazla beş ön uç çerçevesini seçin"
+		],
+		"ap": [
+			"arka uç çerçevesi",
+			"Uzman olduğunuz en fazla beş arka uç çerçevesini seçin"
+		],
+		"aq": [
+			"Uzmanlık",
+			"Uzman olduğunuz en fazla beş alanı seçin"
+		],
+		"ar": [
+			"platform*",
+			"Hizmet sağladığınız mobil platformu seçin. Hizmetiniz teslimatta hem iOS hem de Android uygulamasını içeriyorsa, “iOS ve Android (İkili)” seçeneğini seçin*"
+		],
+		"as": [
+			"uygulama türü*",
+			"Uygulamanın teknoloji türünü seçin*"
+		],
+		"at": [
+			"geliştirme teknolojisi*",
+			"Lütfen uygulama geliştirmek için kullandığınız en fazla üç teknoloji türünü seçin. Ek teknolojileri desteklemek için daha fazla uygulama oluşturabilirsiniz*"
+		],
+		"au": [
+			"amaç*",
+			"Hangi uygulama amacı konusunda uzmansınız? En fazla 10 amaç seçebilirsiniz*"
+		],
+		"av": [
+			"Uzmanlık*",
+			"Uzman olduğunuz en fazla 6 alanı seçin*"
+		],
+		"aw": [
+			"ai-motor*",
+			"Lütfen hangi yapay zeka motorlarıyla çalışma deneyimine sahip olduğunuzu seçin:*"
+		],
+		"ax": [
+			"teslimat türü*",
+			"Teslimat türünü seçin*"
+		],
+		"ay": [
+			"veri tipi*",
+			"Çalıştığınız veri türü"
+		],
+		"az": [
+			"Programlama dili*",
+			"Çalıştığınız programlama dili*"
+		],
+		"a0": [
+			"cihaz",
+			"Hizmet sağladığınız cihazı seçin"
+		],
+		"a1": [
+			"işletim sistemi",
+			"Hizmet sağladığınız İşletim sistemini seçin"
+		],
+		"a2": [
+			"aynı zamanda teslimat",
+			"Bu hizmetlerden herhangi biri temel Gig veya Ekstralarınıza dahil mi?"
+		],
+		"a3": [
+			"Dersin amacı",
+			"Verdiğiniz ders türünü seçin*"
+		],
+		"a4": [
+			"öğrenci yaşı",
+			"Ders verdiğiniz öğrencilerin yaş grubunu seçin*"
+		],
+		"a5": [
+			"geliştirme teknolojisi",
+			"Öğrettiğiniz programlama dilini veya teknolojisini seçin*"
+		],
+		"a6": [
+			"bot türü",
+			"Lütfen sohbet robotlarını geliştireceğiniz en fazla üç farklı amacı seçin"
+		],
+		"a7": [
+			"bot türü",
+			"Lütfen chatbot'ları geliştirdiğiniz mesajlaşma platformunu seçin*"
+		],
+		"a8": [
+			"geliştirme teknolojisi",
+			"Lütfen sohbet robotları geliştirmek için kullandığınız en fazla üç platform türünü seçin"
+		],
+		"a9": [
+			"dönüştür",
+			"Dönüştürülecek dosya biçimini seçin*"
+		],
+		"ba": [
+			"e dönüşmek",
+			"Dönüştürülecek dosya biçimini seçin*"
+		],
+		"bb": [
+			"yaş aralığı",
+			"Yaş grubunuzu seçin"
+		],
+		"bc": [
+			"eğitim",
+			"Eğitim seviyenizi seçin"
+		],
+		"bd": [
+			"test platformu",
+			"Hizmet sağladığınız platformu seçin"
+		],
+		"be": [
+			"kullanıcı cihazı",
+			"Test için kullanılacak cihazı seçin"
+		],
+		"bf": [
+			"dil",
+			"Hangi dilde yazıyorsun?"
+		],
+		"bg": [
+			"test platformu",
+			"Hizmet sağladığınız platformu seçin*"
+		],
+		"bh": [
+			"qa-cihazı",
+			"Test için kullanılacak cihazı seçin*"
+		],
+		"bi": [
+			"Ticaret platformu",
+			"Lütfen ticaret botları geliştirebileceğiniz ticaret platformunu seçin"
+		],
+		"bj": [
+			"Ticaret platformu",
+			"Lütfen ticaret botları geliştirebileceğiniz ticaret platformunu seçin"
+		],
+		"bk": [
+			"giriş türü",
+			"Sağlayacağınız veri girişi hizmetinin türünü seçin*"
+		],
+		"bl": [
+			"giriş aracı",
+			"Hizmetinizde kullandığınız aracı seçin*"
+		],
+		"bm": [
+			"veri biçimlendirme teknolojisi",
+			"Lütfen kullandığınız teknolojiyi seçin*"
+		],
+		"bn": [
+			"veri biçimlendirme endüstrisi",
+			"Lütfen uzman olduğunuz sektörleri seçin*"
+		],
+		"bo": [
+			"veri biçimlendirme türü",
+			"Lütfen desteklediğiniz veri türlerini seçin*"
+		],
+		"bp": [
+			"veri madenciliği teknolojisi",
+			"Lütfen veri madenciliği yapmak veya veriyi kazımak için kullandığınız en fazla 5 teknolojiyi seçin*"
+		],
+		"bq": [
+			"veri-bilgi-türü",
+			"Lütfen desteklediğiniz en fazla beş bilgi türünü seçin*"
+		],
+		"br": [
+			"veri tekniği",
+			"Lütfen veri madenciliği yapmak veya veriyi kazımak için kullandığınız tekniği seçin*"
+		],
+		"bs": [
+			"veri uzmanlığı",
+			"Uzman olduğunuz alanları seçin*"
+		],
+		"bt": [
+			"Mühendislik teknolojisi",
+			"Hizmet sağladığınız aracı veya yazılımı seçin*"
+		],
+		"bu": [
+			"yönetişim uzmanlığı",
+			"Lütfen uzman olduğunuz en fazla üç alan adını seçin*"
+		],
+		"bv": [
+			"proje odaklı",
+			"Lütfen en fazla dört proje türünü seçin*"
+		],
+		"bw": [
+			"veritabanı türü",
+			"Lütfen hizmet sağladığınız veritabanlarının türünü seçin*"
+		],
+		"bx": [
+			"bulut platformu",
+			"Lütfen hizmet sağladığınız bulut platformlarını seçin*"
+		],
+		"by": [
+			"veritabanı uzmanlığı",
+			"Uzman olduğunuz en fazla 4 alanı seçin*"
+		],
+		"bz": [
+			"veritabanı uzmanlığı",
+			"Lütfen hizmet sağladığınız veri tabanı platformlarını seçiniz*"
+		],
+		"b0": [
+			"sektör uzmanlığı",
+			"Lütfen odaklandığınız sektörleri seçin: *"
+		],
+		"b1": [
+			"arama dili",
+			".Lütfen hizmet verdiğiniz dili seçin. *"
+		],
+		"b2": [
+			"arama motoru",
+			"Lütfen desteklediğiniz en fazla 2 arama motorunu seçin:*"
+		],
+		"b3": [
+			"arama endüstrisi",
+			"Lütfen desteklediğiniz en fazla 2 arama motorunu seçin:*"
+		],
+		"b4": [
+			"seo-platform tipi",
+			"Alıcılara yardımcı olacağınız birincil platformu seçin:*"
+		],
+		"b5": [
+			"SEO-endüstri",
+			"Odaklandığınız sektörleri seçin:"
+		],
+		"b6": [
+			"sosyal platform türü",
+			"Lütfen desteklediğiniz birincil platformları seçin:*"
+		],
+		"b7": [
+			"hedef kitle",
+			"Takipçilerinizi/kitlenizi en iyi temsil eden iki grubu seçin*"
+		],
+		"b8": [
+			"pazarlama platformu türü",
+			"Lütfen hedef kitleniz/takipçilerinizle etkileşim kurduğunuz ana platformu seçin*"
+		],
+		"b9": [
+			"topluluk endüstrisi",
+			"Lütfen uzmanlaştığınız en fazla 5 sektörü seçin.*"
+		],
+		"ca": [
+			"topluluğun varlığı",
+			"Lütfen uzmanlaştığınız topluluk türünü seçin.*"
+		],
+		"cb": [
+			"dijital platform",
+			"Çevrimiçi topluluklar için lütfen uzmanlaştığınız dijital platformu seçin."
+		],
+		"cc": [
+			"e-posta platformu",
+			"Üzerinde çalıştığınız birincil platformları seçin:"
+		],
+		"cd": [
+			"misafir sanayi",
+			"Odaklandığınız sektörleri seçin: *"
+		],
+		"ce": [
+			"misafir tipi",
+			"Bu işi en iyi tanımlayan hizmet türünü seçin:*"
+		],
+		"cf": [
+			"bağlı sanayi",
+			"Uzmanlaştığınız en fazla 5 sektörü seçin:"
+		],
+		"cg": [
+			"reklam ağı",
+			"Çalıştığınız reklam ağlarını seçin: *"
+		],
+		"ch": [
+			"atama",
+			"Sunduğunuz yerleşimleri seçin: *"
+		],
+		"ci": [
+			"reklam formatı",
+			"Çalıştığınız reklam biçimini seçin:*"
+		],
+		"cj": [
+			"gösterge endüstrisi",
+			"Odaklandığınız sektörleri seçin:*"
+		],
+		"ck": [
+			"metin platformu",
+			"Faaliyet gösterdiğiniz ana platformları seçin:*"
+		],
+		"cl": [
+			"metin dili",
+			"Desteklediğiniz dilleri seçin:*"
+		],
+		"cm": [
+			"mesajlaşma türü",
+			"Lütfen desteklediğiniz mesajlaşma türünü seçin: *"
+		],
+		"cn": [
+			"analitik endüstrisi",
+			"Lütfen uzmanlaştığınız en fazla 5 sektörü seçin:"
+		],
+		"co": [
+			"strateji amaçlı",
+			"Pazarlama planının amacını seçin:*"
+		],
+		"cp": [
+			"iş aşaması",
+			"Hizmet vermeyi planladığınız işletme türlerini seçin:*"
+		],
+		"cq": [
+			"İş Tipi",
+			"Hizmet vermeyi planladığınız işletme türlerini seçin:*"
+		],
+		"cr": [
+			"tavsiye konusu",
+			"Uzmanlık konularınızı seçin: *"
+		],
+		"cs": [
+			"müzik platformu",
+			"Lütfen desteklediğiniz ana müzik platformlarını seçin *"
+		],
+		"ct": [
+			"endüstri-müzik türü",
+			"Desteklediğiniz müzik türlerini seçin.*"
+		],
+		"cu": [
+			"hedef ülke",
+			"Uzmanlaştığınız ülkeleri seçin (veya 'dünya çapında'yı seçin). *"
+		],
+		"cv": [
+			"endüstri platformu türü",
+			"Çalıştığınız medya türünü seçin. *"
+		],
+		"cw": [
+			"kanal",
+			"Tanıtımınız için kullanacağınız en fazla 2 kanalı seçin.*"
+		],
+		"cx": [
+			"podcast dili",
+			"Lütfen bir dil seçin"
+		],
+		"cy": [
+			"podcast kategorisi",
+			"Lütfen en fazla üç podcast kategorisi seçin"
+		],
+		"cz": [
+			"podcast toplayıcı",
+			"Lütfen en fazla üç podcast toplayıcı seçin"
+		],
+		"c0": [
+			"uygulama mağazası",
+			"Çalıştığınız mobil uygulama mağazalarını seçin:*"
+		],
+		"c1": [
+			"mobil endüstri",
+			"Uzmanlaştığınız sektörleri seçin:"
+		],
+		"c2": [
+			"kitlesel fonlama platformu türü",
+			"Lütfen desteklediğiniz birincil kitlesel fonlama platformlarını seçin"
+		],
+		"c3": [
+			"video türü",
+			"Düzenlediğiniz birincil video türünü seçin*"
+		],
+		"c4": [
+			"giriş/çıkış türü",
+			"Sağladığınız hizmetin türünü seçin:"
+		],
+		"c5": [
+			"video dosyası formatı",
+			"Sunacağınız video dosyası formatları nelerdir?"
+		],
+		"c6": [
+			"video yazılımı",
+			"Şablonlarınızın uyumlu olduğu uygulamayı seçin: *"
+		],
+		"c7": [
+			"altyazı dili",
+			"Oluşturabileceğiniz altyazıların dillerini seçin*"
+		],
+		"c8": [
+			"video platformu",
+			"Uzmanlık platformunuzu seçin*"
+		],
+		"c9": [
+			"sosyal video türü",
+			"Oluşturduğunuz video türünü seçin"
+		],
+		"da": [
+			"video yönelimi",
+			"Lütfen en fazla 3 seçenek seçin"
+		],
+		"db": [
+			"sosyal medya platformu",
+			"Uzmanlık sosyal medya platformunuzu seçin:*"
+		],
+		"dc": [
+			"sosyal video tarzı",
+			"Oluşturduğunuz video stilini seçin*"
+		],
+		"dd": [
+			"içerik türü",
+			"Hizmetinizde sunduğunuz tüm video içerik türlerini seçin: *"
+		],
+		"de": [
+			"müzik videoları tarzı",
+			"Sunduğunuz tuvalin stilini seçin. *"
+		],
+		"df": [
+			"slayt gösterisi türü",
+			"Göndereceğiniz video slayt gösterilerinin türlerini seçin*"
+		],
+		"dg": [
+			"logo-animasyon türü",
+			"Sağladığınız animasyonun türünü seçin"
+		],
+		"dh": [
+			"logo-animasyon-dosya-biçimi",
+			"Sağladığınız dosya formatlarını seçin"
+		],
+		"di": [
+			"karakter animasyonu türü",
+			"Sağladığınız animasyon türünü seçin*"
+		],
+		"dj": [
+			"karakter stili",
+			"Canlandırdığınız karakterlerin stilini seçin*"
+		],
+		"dk": [
+			"karakter amaçlı",
+			"Oluşturduğunuz animasyonların ana amacını seçin*"
+		],
+		"dl": [
+			"karakter yazılımı",
+			"Karakterleri canlandırmak için uzmanlıkla kullandığınız yazılımı seçin.*"
+		],
+		"dm": [
+			"Gif amaçlı",
+			"Oluşturduğunuz GIF türünü seçin*"
+		],
+		"dn": [
+			"gif animasyon stili",
+			"Oluşturduğunuz GIF'lerin stilini seçin*"
+		],
+		"do": [
+			"gif dosyası formatı",
+			"Gönderebileceğiniz dosya formatlarını seçin"
+		],
+		"dp": [
+			"çocuk animasyonu tarzı",
+			"Sağladığınız animasyonun türünü seçin"
+		],
+		"dq": [
+			"çocuk videosu türü",
+			"Sunduğunuz videonun türünü seçin"
+		],
+		"dr": [
+			"animasyon yayın platformu",
+			"Animasyon yapacağınız yayın platformunu seçin"
+		],
+		"ds": [
+			"Varlık türü",
+			"Canlandırdığınız birincil varlık türünü seçin"
+		],
+		"dt": [
+			"web dosyası formatı",
+			"Sağladığınız dosya formatlarını seçin *"
+		],
+		"du": [
+			"nft-animasyon boyutu",
+			"Animasyon oluşturacağınız boyutu seçin:*"
+		],
+		"dv": [
+			"nft tarzı",
+			"Resim stilinizi seçin:*"
+		],
+		"dw": [
+			"nft-hizmet türü",
+			"Sağladığınız hizmetin türünü seçin:*"
+		],
+		"dx": [
+			"şehir",
+			"Videografi hizmeti verdiğiniz şehri seçin:*"
+		],
+		"dy": [
+			"videografi türü",
+			"Uzmanlaştığınız videografi türlerini seçin:*"
+		],
+		"dz": [
+			"özel ekipman",
+			"Ek ücret karşılığında kullanabileceğiniz herhangi bir özel ekipmanı seçin; buna göre özel ekstralar da eklemenizi öneririz."
+		],
+		"d0": [
+			"filme alınmış içerik türü",
+			"Sağladığınız içerik türlerini seçin*"
+		],
+		"d1": [
+			"filme alınan şehir",
+			"Öncelikle video prodüksiyon hizmeti verdiğiniz şehri seçin:*"
+		],
+		"d2": [
+			"filme alınmış-özel-ekipman",
+			"Ek ücret karşılığında kullanabileceğiniz herhangi bir özel ekipmanı seçin; buna göre özel ekstralar da eklemenizi öneririz."
+		],
+		"d3": [
+			"sunucu",
+			"Video katılımcılarını seçin*"
+		],
+		"d4": [
+			"video dili",
+			"Dillerinizi seçin:*"
+		],
+		"d5": [
+			"aksan",
+			"Aksanınızı seçin:"
+		],
+		"d6": [
+			"video-yaş aralığı",
+			"Yaşınızı seçin:*"
+		],
+		"d7": [
+			"arka plan/ortam",
+			"Sağladığınız video arka planını seçin:"
+		],
+		"d8": [
+			"dosya formatı",
+			"Temel Gig veya Ekstralarınızda sağladığınız dosya formatlarını seçin"
+		],
+		"d9": [
+			"video cihazı",
+			"Lütfen ekran video kaydını yapacağınız cihazın tipini seçin*"
+		],
+		"ea": [
+			"kurs türü",
+			"Bu Konserde sunduğunuz kurs türünü seçin*"
+		],
+		"eb": [
+			"kitlesel fonlama video türü",
+			"Oluşturduğunuz video türünü seçin*"
+		],
+		"ec": [
+			"video-endüstri-uzmanlığı",
+		"Video oluşturma konusunda uzman olduğunuz sektörleri seçin.*"
+		],
+		"ed": [
+			"3 boyutlu endüstri",
+		"Konseriniz için bir sektör seçin"
+		],
+		"ee": [
+			"çevre",
+		"Bu Gig'de sağlayabileceğiniz ortam türünü seçin"
+		],
+		"ef": [
+			"3 boyutlu dosya formatı",
+		"Gönderdiğiniz dosya formatlarını seçin"
+		],
+		"eg": [
+			"pazaryeri uzmanlığı",
+		"Video oluşturma konusunda uzman olduğunuz pazar yerlerini seçin:*"
+		],
+		"eh": [
+			"e-ticaret-video türü",
+		"Oluşturacağınız birincil video türünü seçin:*"
+		],
+		"ei": [
+			"ürün tipi",
+		"Videosunu çektiğiniz ürün türlerini seçin:*"
+		],
+		"ej": [
+			"kurumsal video tarzı",
+		"Oluşturduğunuz videonun stilini seçin*"
+		],
+		"ek": [
+			"kurumsal video türü",
+		"Oluşturduğunuz video türlerini seçin*"
+		],
+		"el": [
+			"kurumsal-sanayi-uzmanlık",
+		"Video oluşturma konusunda uzman olduğunuz sektörleri seçin.*"
+		],
+		"em": [
+			"uygulama-ürün-türü",
+		"Lütfen önizlemesini oluşturacağınız ürün türünü seçin*"
+		],
+		"en": [
+			"römork tarzı",
+		"Oluşturduğunuz oyun fragmanlarının türünü seçin"
+		],
+		"eo": [
+			"meditasyon-video türü",
+		"Sunduğunuz meditasyon videosunun türünü seçin:*"
+		],
+		"ep": [
+			"gerçek tanıtılan konu",
+		"Lütfen tanıtım videosunun konusunu seçiniz*"
+		],
+		"eq": [
+			"kitap türü",
+		"Oluşturacağınız kitap fragmanının türünü seçin*"
+		],
+		"er": [
+			"video konusu",
+		"Uzmanlık konularınızı seçin:*"
+		],
+		"es": [
+			"blog dili",
+		"Yazdığınız dili/dilleri seçin.*"
+		],
+		"et": [
+			"blog konusu",
+		"Lütfen en fazla 2 makale konusu seçin*"
+		],
+		"eu": [
+			"blog tonu",
+		"Lütfen makaleniz için ses tonunu seçin*"
+		],
+		"ev": [
+			"makale türü",
+		"Yazacağınız makalenin türünü seçin *"
+		],
+		"ew": [
+			"içerik stratejisi türü",
+		"Ekleyeceğiniz içerik türünü seçin *"
+		],
+		"ex": [
+			"strateji dili",
+		"Lütfen dil seçin:*"
+		],
+		"ey": [
+			"strateji-sanayi-uzmanlık",
+		"Sektör uzmanlığınızı seçin (varsa)"
+		],
+		"ez": [
+			"web sitesi dili",
+		"Yazdığınız dili/dilleri seçin.*"
+		],
+		"e0": [
+			"web sitesi içerik türü",
+		"Oluşturacağınız içerik türünü seçin.*"
+		],
+		"e1": [
+			"senaryo yazımı dili",
+		"Yazdığınız dili/dilleri seçin.*"
+		],
+		"e2": [
+			"yazma dili",
+		"Hangi dilde yazıyorsunuz?*"
+		],
+		"e3": [
+			"podcast yazma kategorisi",
+		"Podcast içeriği yazacağınız en fazla 3 kategori seçin *"
+		],
+		"e4": [
+			"podcast yazma",
+		"Yazdığınız dili/dilleri seçin.*"
+		],
+		"e5": [
+			"konuşma türü",
+		"Yazdığınız konuşmanın türünü seçin:*"
+		],
+		"e6": [
+			"konuşma dili",
+		"Yazdığınız dil(ler)i seçin."
+		],
+		"e7": [
+			"araştırma hizmeti türü",
+		"Ne tür bir hizmet sunuyorsunuz?*"
+		],
+		"e8": [
+			"araştırma hizmeti türü",
+		"Ne tür bir hizmet sunuyorsunuz?*"
+		],
+		"e9": [
+			"düzenleme dili",
+		"Lütfen düzeltme veya düzenleme için ilgili dili seçin*"
+		],
+		"fa": [
+			"düzenleme-içerik türü",
+		"Lütfen düzelteceğiniz veya düzenleyeceğiniz içerik türünü seçin*"
+		],
+		"fb": [
+			"kitap düzenleme türü",
+		"Kitap türü uzmanlığınızı seçin:*"
+		],
+		"fc": [
+			"kitap dili",
+		"Yazdığınız dili seçin.*"
+		],
+		"fd": [
+			"beta türü",
+		"Kitap türü uzmanlığınızı seçin"
+		],
+		"fe": [
+			"beta dili",
+		"İlgili dil(ler)i seçin.*"
+		],
+		"ff": [
+			"yazma konusu",
+		"Uzmanlık konularınızı seçin:*"
+		],
+		"fg": [
+			"yazı endüstrisi",
+		"Odaklandığınız sektörleri işaretleyin:"
+		],
+		"fh": [
+			"özgeçmiş dili",
+		"Hangi dilde yazıyorsunuz?*"
+		],
+		"fi": [
+			"yazma konusu",
+		"Lütfen uzmanlık alanınızı seçin *"
+		],
+		"fj": [
+			"örtü endüstrisi",
+		"Lütfen uzmanlık alanınızı seçin *"
+		],
+		"fk": [
+			"kapak dili",
+		"Lütfen yazdığınız dil(ler)i seçin*"
+		],
+		"fl": [
+			"servis tipi",
+			"Bu işte sağlayacağınız hizmetin türünü seçin*"
+		],
+		"fm": [
+			"linkedin-dil",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"fn": [
+			"iş dili",
+			"Lütfen iş tanımını yazacağınız dili/dilleri seçin*"
+		],
+		"fo": [
+			"meslek türü",
+			"Görev tanımını yazacağınız iş türünü seçin.*"
+		],
+		"fp": [
+			"ton endüstrisi",
+			"Uzmanlık sektörünüzü seçin*"
+		],
+		"fq": [
+			"ton dili",
+			"Uzmanlık sektörünüzü seçin*"
+		],
+		"fr": [
+			"isim hizmeti",
+			"Adını vereceğiniz hizmeti seçin*"
+		],
+		"fs": [
+			"iş dili",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"ft": [
+			"vaka endüstrisi",
+			"Uzmanlık sektörünüzü seçin*"
+		],
+		"fu": [
+			"büyük/küçük harf dili",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"fv": [
+			"beyaz amaçlı",
+			"Yazacağınız tanıtım yazısının amacını seçin*"
+		],
+		"fw": [
+			"beyaz konu",
+			"Teknik incelemenizin konusunu seçin*"
+		],
+		"fx": [
+			"beyaz dil",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"fy": [
+			"ürün dili",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"fz": [
+			"ürün platformu",
+			"Ürün açıklamalarını yazacağınız platformun türünü seçin.*"
+		],
+		"f0": [
+			"reklam dili",
+			"Lütfen yazacağınız dili seçin.*"
+		],
+		"f1": [
+			"reklam aracı",
+			"Lütfen ilgili reklam aracını/araçlarını seçin.*"
+		],
+		"f2": [
+			"satış dili",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"f3": [
+			"e-posta dili",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"f4": [
+			"e-posta kopyalama türü",
+			"Lütfen yazacağınız e-posta tür(ler)ini seçin.*"
+		],
+		"f5": [
+			"sosyal amaçlı",
+			"Sosyal kopyanın amacını seçin*"
+		],
+		"f6": [
+			"sosyal kopya platformu",
+			"Kopyasını yazacağınız sosyal kanalı seçin*"
+		],
+		"f7": [
+			"sosyal dil",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"f8": [
+			"basın dili",
+			"Lütfen yazdığınız dili/dilleri seçin.*"
+		],
+		"f9": [
+			"ux platformu",
+			"Yazdığınız platformu/platformları seçin: *"
+		],
+		"ga": [
+			"ux dili",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"gb": [
+			"çeviri dili",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"gc": [
+			"Belge Türü",
+			"Belge türünü seçin"
+		],
+		"gd": [
+			"çeviri-endüstri-uzmanlığı",
+			"Sektör uzmanlığınızı seçin (varsa)"
+		],
+		"ge": [
+			"yerelleştirme-içerik türü",
+			"Lütfen yerelleştireceğiniz içerik türünü seçin*"
+		],
+		"gf": [
+			"yerelleştirme dili",
+			"Lütfen dil seçin:*"
+		],
+		"gg": [
+			"yerelleşme-endüstri-uzmanlık",
+			"Sektör uzmanlığınızı seçin (varsa)"
+		],
+		"gh": [
+			"transkripsiyon dili",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"gi": [
+			"kurs düzeyinde",
+			"Kursun seviyesini seçin.*"
+		],
+		"gj": [
+			"e-öğrenme dili",
+			"Kurs içeriğini oluşturacağınız dili seçin.*"
+		],
+		"gk": [
+			"Dersin İçeriği",
+			"Kursun konusunu seçin.*"
+		],
+		"gl": [
+			"teknik belge türü",
+			"Yazdığınız teknik dokümanların türünü seçin*"
+		],
+		"gm": [
+			"teknik-endüstri",
+			"Lütfen sektör uzmanlığınızı seçin"
+		],
+		"gn": [
+			"teknik dil",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"go": [
+			"hibe endüstrisi",
+			"Lütfen uzmanlık alanınızı seçiniz*"
+		],
+		"gp": [
+			"hibe dili",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"gq": [
+			"diğer dil",
+			"Yazdığınız dili/dilleri seçin.*"
+		],
+		"gr": [
+			"fotoğrafçı-ürün türü",
+			"Fotoğrafını çektiğiniz ürün türlerini seçin*"
+		],
+		"gs": [
+			"fotoğrafçılar-fotoğraf ayarı",
+			"Fotoğraf çektiğiniz birincil ayarı seçin (Fiyatlandırma adımında daha fazlasını ekleyebilirsiniz)*"
+		],
+		"gt": [
+			"fotoğrafçıların amacı",
+			"Amaç uzmanlığını seçin*"
+		],
+		"gu": [
+			"fotoğrafçılar-şehir",
+			"Çekim yapabileceğiniz şehri seçin*"
+		],
+		"gv": [
+			"yiyecek türü",
+			"Fotoğrafını çektiğiniz yiyecek türlerini seçin*"
+		],
+		"gw": [
+			"yemek fotoğrafı ayarı",
+			"Yemek fotoğrafları çekeceğiniz birincil ayarı seçin (Fiyatlandırma adımında daha fazlasını ekleyebilirsiniz)*"
+		],
+		"gx": [
+			"yemek şehri",
+			"Çekim yapabileceğiniz şehri seçin*"
+		],
+		"gy": [
+			"gıda amaçlı",
+			"Amaç uzmanlığını seçin*"
+		],
+		"gz": [
+			"moda türü",
+			"Fotoğrafçılık uzmanlığınızı seçin*"
+		],
+		"g0": [
+			"moda-fotoğraf ayarı",
+			"Fotoğraf çektiğiniz birincil ayarı seçin (Fiyatlandırma adımında daha fazlasını ekleyebilirsiniz)*"
+		],
+		"g1": [
+			"moda şehri",
+			"Çekim yapabileceğiniz şehri seçin*"
+		],
+		"g2": [
+			"moda amaçlı",
+			"Amaç uzmanlığını seçin*"
+		],
+		"g3": [
+			"portre-şehir",
+			"Çekim yapabileceğiniz şehri seçin*"
+		],
+		"g4": [
+			"protrait-konu",
+			"Uzmanlaştığınız portre türlerini seçin*"
+		],
+		"g5": [
+			"fotoğraf ayarı",
+			"Fotoğraf çektiğiniz birincil ayarı seçin (Fiyatlandırma adımında daha fazlasını ekleyebilirsiniz)*"
+		],
+		"g6": [
+			"protrait-kamera",
+			"Kullandığınız kameranın türünü seçin*"
+		],
+		"g7": [
+			"etkinlik tipi",
+			"Etkinlik fotoğrafçılığı uzmanlığınızı seçin*"
+		],
+		"g8": [
+			"etkinlik şehri",
+			"Çekim yapabileceğiniz şehri seçin*"
+		],
+		"g9": [
+			"gerçek tip",
+			"Fotoğrafçılık uzmanlığınızı seçin*"
+		],
+		"ha": [
+			"Gayrimenkul",
+			"Fotoğrafını çektiğiniz mülk türlerini seçin*"
+		],
+		"hb": [
+			"gerçek şehir",
+			"Çekim yapabileceğiniz şehri seçin*"
+		],
+		"hc": [
+			"manzaralı ortam",
+			"Uzmanlaştığınız ortamı seçin: *"
+		],
+		"hd": [
+			"plan dili",
+			"Destekleyebildiğiniz dilleri seçin*"
+		],
+		"he": [
+			"planlar-iş türü",
+			"Hizmet vermeyi planladığınız iş türlerini seçin:"
+		],
+		"hf": [
+			"plan formatı",
+			"Müşterinize göndereceğiniz formatı seçin:"
+		],
+		"hg": [
+			"plan amacı",
+			"Planın amacını seçin:"
+		],
+		"hh": [
+			"hukuk alanı",
+			"Hangi hukuk alanını destekliyorsunuz*"
+		],
+		"hi": [
+			"yasal-hedef-ülke",
+			"Hangi hukuk alanını destekliyorsunuz*"
+		],
+		"hj": [
+			"hukuk dili",
+			"Hangi dilleri destekliyorsunuz*"
+		],
+		"hk": [
+			"sanal amaçlı",
+			"Bir amaç seçin*"
+		],
+		"hl": [
+			"sanal endüstri",
+			"Bir sektör seçin"
+		],
+		"hm": [
+			"sanal dil",
+			"Bir dil seç *"
+		],
+		"hn": [
+			"yönetim endüstrisi",
+			"Uzmanlaştığınız sektörleri seçin."
+		],
+		"ho": [
+			"yönetim düz biçimi",
+			"En fazla 3 platform seçin*"
+		],
+		"hp": [
+			"yönetim dili",
+			"Çalıştığınız dili seçin.*"
+		],
+		"hq": [
+			"İK-endüstri",
+			"Tanım*"
+		],
+		"hr": [
+			"İK-hedef-ülke",
+			"Hangi ülkeleri destekliyorsunuz*"
+		],
+		"hs": [
+			"proje-hedef-ülke",
+			"Hedef kitleniz hangi ülkeler"
+		],
+		"ht": [
+			"tedarik-hedef-ülke",
+			"Hangi ülkeyi destekliyorsunuz?"
+		],
+		"hu": [
+			"danışmanlık endüstrisi",
+			"Hangi sektörlerde uzmansınız?*"
+		],
+		"hv": [
+			"danışmanlık amaçlı",
+			"Danışmanlık amacını seçin*"
+		],
+		"hw": [
+			"danışmanlık dili",
+			"Hizmetinizi sağladığınız dili seçin.*"
+		],
+		"hx": [
+			"piyasa dili",
+			"Pazar Araştırması için desteklediğiniz diller*"
+		],
+		"hy": [
+			"Araştırma yöntemi",
+			"Hangi araştırma yöntemlerini sunuyorsunuz?"
+		],
+		"hz": [
+			"crm yazılımı",
+			"Hangi yazılımla çalıştığınızı seçin"
+		],
+		"h0": [
+			"crm endüstrisi",
+			"Lütfen hangi sektörle çalıştığınızı seçin"
+		],
+		"h1": [
+			"finansal endüstri",
+			"Hangi sektörleri destekliyorsunuz"
+		],
+		"h2": [
+			"finansal-hedef-ülke",
+			"Desteklediğiniz ülkeyi seçin"
+		],
+		"h3": [
+			"erp yazılımı",
+			"Lütfen hangi yazılımla çalıştığınızı seçin"
+		],
+		"h4": [
+			"erp-sanayisi",
+			"Lütfen hangi sektörle çalıştığınızı seçin"
+		],
+		"h5": [
+			"gerçek dili",
+			"Hizmetlerinizi sunduğunuz dil(ler)i seçin.*"
+		],
+		"h6": [
+			"gerçek endüstrisi",
+			"Hizmetlerinizi sunduğunuz sektörü/sektörleri seçin*"
+		],
+		"h7": [
+			"gerçek içerik türü",
+			"Lütfen doğruluğunu kontrol edeceğiniz içerik türünü seçin:*"
+		],
+		"h8": [
+			"olay yönetimi türü",
+			"Etkinlik türünü seçin:*"
+		],
+		"h9": [
+			"durum",
+			"Etkinliğin gerçekleştiği zamanı seçin:*"
+		],
+		"ia": [
+			"etkinlik içeriği türü",
+			"Sanal etkinliklerle çalışıyorsanız sanal etkinliğinizin canlı mı yoksa kayıtlı mı olacağını seçin:"
+		],
+		"ib": [
+			"etkinlik platformu",
+			"Sanal veya hibrit etkinliklerle çalışıyorsanız etkinliğinizin gerçekleştirileceği platformu seçin:"
+		],
+		"ic": [
+			"fiyatlandırma modeli",
+			"Çalıştığınız etkinliklerin fiyatlandırma modelini seçin:"
+		],
+		"id": [
+			"oyun türü",
+			"Geliştirdiğiniz oyunların türünü seçin."
+		],
+		"ie": [
+			"oyun konsepti türü",
+			"Oyun türünü seçin *"
+		],
+		"if": [
+			"oyun platformu türü",
+			"Oyun oluşturacağınız en fazla 3 platformu seçin."
+		],
+		"ig": [
+			"para kazanma modeli",
+			"Para kazanma modelini seçin"
+		],
+		"ih": [
+			"oyun amaçlı",
+			"Oyun amacını seçin"
+		],
+		"ii": [
+			"besteciler türü",
+			"Size en uygun üç türü seçin*"
+		],
+		"ij": [
+			"bestecilerin amacı",
+			"Müzik ürettiğiniz/bestelediğiniz amacı seçin"
+		],
+		"ik": [
+			"besteciler yazılımı",
+			"Hangi yazılımda/DAW'larda çalışabileceğinizi seçin. Bir alıcı, aynı DAW'daki biriyle işbirliği yapmak isteyebilir. *"
+		],
+		"il": [
+			"cinsiyet",
+			"Kendinizi tanımladığınız cinsiyeti seçin*"
+		],
+		"im": [
+			"şarkıcı türü",
+			"Size en uygun iki türü seçin*"
+		],
+		"in": [
+			"şarkıcıların dili",
+			"Şarkı söyleyebileceğiniz dili veya dilleri seçin.*"
+		],
+		"io": [
+			"oturum enstrümanı",
+			"Ne tür enstrüman çalıyorsun?*"
+		],
+		"ip": [
+			"oturum türü",
+			"Becerilerinize en uygun iki türü seçin*"
+		],
+		"iq": [
+			"şarkı yazarları türü",
+			"Şarkı yazma becerilerinizi en iyi yansıtan 3 türe kadar seçim yapın*"
+		],
+		"ir": [
+			"Jingle amaçlı",
+			"Lütfen Jingle'ları/Girişleri oluşturduğunuz asıl amacı seçin:*"
+		],
+		"is": [
+			"Jingle tarzı",
+			"Sunduğunuz stili seçin*"
+		],
+		"it": [
+			"karıştırma türü",
+			"Hizmetinize en uygun üç türü seçin.*"
+		],
+		"iu": [
+			"ses düzenleme türü",
+			"Ne tür ses düzenleme hizmetleri sağlıyorsunuz?*"
+		],
+		"iv": [
+			"vokal dili",
+			"Anlatım dilinizi seçin*"
+		],
+		"iw": [
+			"vokal cinsiyet",
+			"Cinsiyetinizi seçiniz:*"
+		],
+		"ix": [
+			"vokal amaçlı",
+			"Sağladığınız seslendirme türünü seçin*"
+		],
+		"iy": [
+			"vokal yaş aralığı",
+			"Yaşınızı seçin:*"
+		],
+		"iz": [
+			"ton",
+			"Bu Konserde ileteceğiniz en fazla 5 ses tonunu seçin*"
+		],
+		"i0": [
+			"sesli kitap dili",
+			"Sesli Kitap üretebileceğiniz dili veya dilleri seçin.*"
+		],
+		"i1": [
+			"ses dili",
+			"Hizmetinizin dilini seçin*"
+		],
+		"i2": [
+			"ses tonu",
+			"Verebileceğiniz ses tonunu seçin*"
+		],
+		"i3": [
+			"dj dili",
+			"Hizmetinizin dilini seçin*"
+		],
+		"i4": [
+			"dj-cinsiyet",
+			"Kendinizi tanımladığınız cinsiyeti seçin*"
+		],
+		"i5": [
+			"dj türü",
+			"Hizmetiniz için en fazla 2 tür seçin*"
+		],
+		"i6": [
+			"dj tonu",
+			"Verebileceğiniz en fazla 3 ton seçin*"
+		],
+		"i7": [
+			"dj miksleme türü",
+			"DJ tarzınıza en uygun türü seçin. *"
+		],
+		"i8": [
+			"ses amaçlı",
+			"Ses tasarımı oluşturma amacınızı seçin*"
+		],
+		"i9": [
+			"karıştırma tipi",
+			"Sağladığınız karıştırma türünü seçin*"
+		],
+		"ja": [
+			"sentetik türü",
+			"Seslerinize en uygun türleri seçin.*"
+		],
+		"jb": [
+			"sentezleyici tipi",
+			"Sanal yumuşak sentez için mi, yoksa sert sentez için mi ses tasarımı sunuyorsunuz?*"
+		],
+		"jc": [
+			"vst-sentezleyici türü",
+			"Ön ayarlarınızı hangi VST soft-synth ile yapıyorsunuz?"
+		],
+		"jd": [
+			"karıştırma stili",
+			"Sunduğunuz benzersiz miksleme stillerini seçin. *"
+		],
+		"je": [
+			"logo amaçlı",
+			"Ses logosunun nerede kullanılabileceğini seçin. *"
+		],
+		"jf": [
+			"aletler",
+			"Yazdığınız enstrümanları seçin*"
+		],
+		"jg": [
+			"müzik dosyası formatı",
+			"Sağladığınız dosya formatlarını seçin*"
+		],
+		"jh": [
+			"logo stili",
+			"Logo stilinizi seçin:*"
+		],
+		"ji": [
+			"logo türü",
+			"Logo türlerinizi seçin:*"
+		],
+		"jj": [
+			"dosya formatı",
+			"Temel Gig veya Ekstralarınızda sağladığınız dosya formatlarını seçin"
+		],
+		"jk": [
+			"stil",
+			"Tasarımladığınız logonun stilini seçin:*"
+		],
+		"jl": [
+			"ana tip",
+			"Ne tür bir ürün tasarlıyorsunuz?*"
+		],
+		"jm": [
+			"web sitesi türü",
+			"Tasarımladığınız web sitesi türlerini seçin.*"
+		],
+		"jn": [
+			"platform ve araç",
+			"Bu hizmet için kullandığınız platformları veya tasarım araçlarını seçin:*"
+		],
+		"jo": [
+			"uygulama türü",
+			"Uzmanlaştığınız uygulama türlerini seçin:*"
+		],
+		"jp": [
+			"tasarım aracı",
+			"Hizmetinizde sunduğunuz tasarım araçlarını veya Ekstraları seçin:*"
+		],
+		"jq": [
+			"cihaz",
+			"Hangi cihaz için tasarım yapıyorsunuz?*"
+		],
+		"jr": [
+			"uzmanlık alanı",
+			"Uzmanlık alanınızı seçin"
+		],
+		"js": [
+			"oyun-sanat-boyutu",
+			"Oyun tasarlayacağınız boyutu seçin."
+		],
+		"jt": [
+			"Sanat tarzı",
+			"Tasarımladığınız oyun stilini seçin:"
+		],
+		"ju": [
+			"oyun-dosya-formatı",
+			"Gönderdiğiniz dosya formatlarını seçin:"
+		],
+		"jv": [
+			"tasarım yazılımı",
+			"Üzerinde çalıştığınız yazılımı seçin*"
+		],
+		"jw": [
+			"dil",
+			"Lütfen özgeçmiş tasarımı için ilgili dil(ler)i seçin.*"
+		],
+		"jx": [
+			"endüstri",
+			"Uzmanlaştığınız sektörleri seçin*"
+		],
+		"jy": [
+			"dosya tipi",
+			"Göndereceğiniz dosyanın türünü seçin.*"
+		],
+		"jz": [
+			"sosyal medya tasarım platformu",
+			"Tasarladığınız sosyal medya platformlarını seçin:*"
+		],
+		"j0": [
+			"resim-dosya-biçimi",
+			"Temel Gig veya Ekstralarınızda sağladığınız dosya formatlarını seçin:"
+		],
+		"j1": [
+			"çevrimiçi aletler",
+			"Lütfen bu Konserde öğreteceğiniz enstrümanı seçin.*"
+		],
+		"j2": [
+			"stil",
+			"İllüstrasyon stilinizi seçin:*"
+		],
+		"j3": [
+			"SANATSEL TEKNİK",
+			"Uzmanlaştığınız sanatsal tekniği seçin:*"
+		],
+		"j4": [
+			"tema",
+			"İllüstrasyon temanızı seçin:*"
+		],
+		"j5": [
+			"ders",
+			"Çiziminizin konusunu seçin:*"
+		],
+		"j6": [
+			"SANATSEL TEKNİK",
+			"Uzmanlaştığınız sanatsal tekniği seçin:*"
+		],
+		"j7": [
+			"Yaş",
+			"Bir yaş aralığı seçin*"
+		],
+		"j8": [
+			"peyzaj-tasarım-dosya formatı",
+			"Konserinizde sağladığınız dosya formatlarını seçin:"
+		],
+		"j9": [
+			"peyzaj-tasarım-yazılımı",
+			"Birlikte çalıştığınız yazılımı seçin:"
+		],
+		"ka": [
+			"Tür",
+			"Çocuk kitabı türünü seçin*"
+		],
+		"kb": [
+			"Yapay Zeka Motoru",
+			"Kullandığınız ana yapay zeka motorunu seçin.*"
+		],
+		"kc": [
+			"SANAT BOYUTU",
+			"Sanat yaratacağınız boyutu seçin.*"
+		],
+		"kd": [
+			"tasarım stili",
+			"Desenin tasarım stilini seçin*"
+		],
+		"ke": [
+			"tasarım tekniği",
+			"Uzmanlaştığınız tasarım tekniğini seçin*"
+		],
+		"kf": [
+			"AMAÇ",
+			"Desenin amacını seçin *"
+		],
+		"kg": [
+			"DESEN TEMASI",
+			"Lütfen desenin temasını seçin.*"
+		],
+		"kh": [
+			"AMAÇ",
+			"Tasarladığınız posterlerin amacını seçin"
+		],
+		"ki": [
+			"AMAÇ",
+			"Tasarladığınız broşürlerin amacını seçin"
+		],
+		"kj": [
+			"FORMAT TİPİ",
+			"Ne tür bir ürün tasarlıyorsunuz?*"
+		],
+		"kk": [
+			"Görüntü Dosyası Formatı",
+			"Temel Gig veya Ekstralarınızda sağladığınız dosya formatlarını seçin:"
+		],
+		"kl": [
+			"TASARIM STİLİ",
+			"Tasarım stilinizi seçin.*"
+		],
+		"km": [
+			"TÜR",
+			"Kitap türünüzü seçin*"
+		],
+		"kn": [
+			"DOSYA FORMATI",
+			"Temel Gig veya Ekstralarınızda sağladığınız dosya formatlarını seçin"
+		],
+		"ko": [
+			"TASARIM STİLİ",
+			"Albüm Kapağı Tasarım Stilinizi seçin.*"
+		],
+		"kp": [
+			"MÜZİK TARZI",
+			"Müzik Türünüzü seçin.*"
+		],
+		"kq": [
+			"ALBÜM TÜRÜ",
+			"Albüm Türünüzü seçin.*"
+		],
+		"kr": [
+			"PODCAST KAPAK STİLİ",
+			"Podcast kapak resmi stilinizi seçin:*"
+		],
+		"ks": [
+			"ÜRÜN TİPİ",
+			"Ne tür ambalaj veya etiket tasarımı sunuyorsunuz?*"
+		],
+		"kt": [
+			"DOSYA FORMATI",
+			"Hizmetinizde sağlayacağınız dosya formatlarını seçin"
+		],
+		"ku": [
+			"AMAÇ",
+			"Oluşturduğunuz storyboard'ların amacını seçin."
+		],
+		"kv": [
+			"platform",
+			"Tasarladığınız sosyal medya platformlarını seçin:*"
+		],
+		"kw": [
+			"FORMAT TİPİ",
+			"Tasarımladığınız katalog türünü seçin"
+		],
+		"kx": [
+			"amaç",
+			"Tasarladığınız menülerin amacını seçin"
+		],
+		"ky": [
+			"ANA TİP",
+			"Ne tür davetiyeler tasarlıyorsunuz?"
+		],
+		"kz": [
+			"RESİM TİPİ",
+			"Genellikle sağladığınız illüstrasyon türünü seçin*"
+		],
+		"k0": [
+			"İLLÜSTRASYON tarzı",
+			"İllüstrasyon stillerinizi seçin*"
+		],
+		"k1": [
+			"ana tip",
+			"Sağladığınız çizgi film türünü seçin:*"
+		],
+		"k2": [
+			"İLLÜSTRASYON tarzı",
+			"Sağladığınız çizgi filmlerin stilini seçin:"
+		],
+		"k3": [
+			"DÖVME STİLİ",
+			"Dövme tasarım stilinizi seçin:"
+		],
+		"k4": [
+			"Renk Türü",
+			"Dövme tasarımlarını Renkli mi yoksa Siyah Beyaz mı sunduğunuzu seçin:"
+		],
+		"k5": [
+			"İŞARET TİPİ",
+			"Tasarladığınız tabela türünü seçin"
+		],
+		"k6": [
+			"ANA TİP",
+			"Tasarımladığınız banner türlerini seçin:"
+		],
+		"k7": [
+			"DÜZENLEME TÜRÜ",
+			"Sağladığınız düzenleme hizmetlerini seçin:"
+		],
+		"k8": [
+			"PROJE ÖLÇEĞİ",
+			"Hizmetinizde başvurduğunuz proje ölçeğini seçin:"
+		],
+		"k9": [
+			"BİNA TİPİ",
+			"İlgili bina tipini seçin:"
+		],
+		"la": [
+			"Görüntü Dosyası Formatı",
+			"Temel hizmetinizde veya Ekstralarda sağladığınız dosya formatlarını seçin:"
+		],
+		"lb": [
+			"DOSYA FORMATI",
+			"Hizmetinizde sağladığınız dosya formatlarını seçin:"
+		],
+		"lc": [
+			"YAZILIM",
+			"Birlikte çalıştığınız yazılımı seçin:"
+		],
+		"ld": [
+			"AMAÇ",
+			"Oluşturduğunuz 3D modellerin amacını seçin."
+		],
+		"le": [
+			"TARZ",
+			"Modelinizin tasarım stilini seçin."
+		],
+		"lf": [
+			"DOSYA FORMATI",
+			"Gönderdiğiniz dosya formatlarını seçin."
+		],
+		"lg": [
+			"UZMANLIK ALANI",
+			"Uzmanlık alanınızı seçin."
+		],
+		"lh": [
+			"TASARIM YAZILIMI",
+			"Üzerinde çalıştığınız yazılımı seçin*"
+		],
+		"li": [
+			"oyun boyutu",
+			"Oyun tasarlayacağınız boyutu seçin."
+		],
+		"lj": [
+			"stil",
+			"Tasarımladığınız oyun stilini seçin:"
+		],
+		"lk": [
+			"dosya formatı",
+			"Gönderdiğiniz dosya formatlarını seçin:"
+		],
+		"ll": [
+			"Varlık türü *",
+			"Tasarımladığınız grafik varlıklarını seçin:*"
+		],
+		"lm": [
+			"yayın platformu *",
+			"Tasarım yaptığınız platformları seçin:*"
+		],
+		"ln": [
+			"STAND TİPİ",
+			"Konserinize dahil olan stand türünü seçin:*"
+		],
+		"lo": [
+			"STAND DÜZENİ",
+			"Uzmanlaştığınız stand yerleşim tasarımını seçin:*"
+		],
+		"lp": [
+			"Sanayi",
+			"Uzmanlaştığınız sektörleri seçin:"
+		],
+		"lq": [
+			"TİCARİ TÜR",
+			"Sunduğunuz ürün türünü seçin*"
+		],
+		"lr": [
+			"SERVİS TİPİ",
+			"Hizmetinizde sunduğunuz hizmet türünü seçin:"
+		],
+		"ls": [
+			"AMAÇ",
+			"Sunum tasarımını sunduğunuz amacı seçin:"
+		],
+		"lt": [
+			"YAZILIM",
+			"Tasarım yaptığınız yazılımı seçin"
+		],
+		"lu": [
+			"DOSYA FORMATI",
+			"Sağladığınız dosya formatlarını seçin"
+		],
+		"lv": [
+			"E-posta Türü",
+			"Tasarımladığınız e-posta türlerini seçin"
+		],
+		"lw": [
+			"PLATFORM VE ARAÇ",
+			"Uzmanlaştığınız platformları veya tasarım araçlarınızı seçin"
+		],
+		"lx": [
+			"Stil",
+			"Simge stilinizi seçin"
+		],
+		"ly": [
+			"AMAÇ",
+			"Simgenizin amacını seçin"
+		],
+		"lz": [
+			"DOSYA FORMATI",
+			"Sağladığınız dosya formatlarını seçin"
+		],
+		"l0": [
+			"ARAÇ TİPİ",
+			"Tasarım yapacağınız aracı seçin"
+		],
+		"l1": [
+			"BAŞLIK",
+			"Uzmanlık konularınızı seçin"
+		],
+		"l2": [
+			"DERS TÜRÜ",
+			"Sunduğunuz ders türünü seçin"
+		],
+		"l3": [
+			"web sitesi türü",
+			"Desteklediğiniz web sitesi türünü seçin"
+		],
+		"l4": [
+			"SİTE ÖZELLİKLERİ",
+			"Desteklediğiniz özellikleri seçin"
+		],
+		"l5": [
+			"SİTE ÖZELLİKLERİ",
+			"Desteklediğiniz özellikleri seçin"
+		],
+		"l6": [
+			"strateji-sanayi-uzmanlık",
+			"Sektör uzmanlığınızı seçin (varsa)"
+		],
+		"l7": [
+			"EKLENTİLER",
+			"Desteklediğiniz eklentileri seçin"
+		],
+		"l8": [
+			"EKLENTİLER",
+			"Desteklediğiniz eklentileri seçin"
+		]
+	},
+	"categoryScope": {
+		"aa": "Dahil edilen konsept sayısı",
+		"ab": "Logo şeffaflığı",
+		"ac": "Vektör dosyası",
+		"ad": "Yazdırılabilir dosya",
+		"ae": "3 boyutlu maket",
+		"af": "Kırtasiye tasarımları",
+		"ag": "Sosyal medya kiti",
+		"ah": "Logo kullanım kuralları",
+		"ai": "Renk paleti",
+		"aj": "Tipografi yönergeleri",
+		"ak": "İkonografi",
+		"al": "Yapılması ve yapılmaması gerekenler",
+		"am": "Marka kitap tasarımı",
+		"an": "Tasarım Konseptleri",
+		"ao": "Baskıya Hazır",
+		"ap": "Çift taraflı",
+		"aq": "E-posta imzası",
+		"ar": "Nakliye",
+		"as": "El yapımı",
+		"at": "Çok renkli",
+		"au": "Orijinal nakliye",
+		"av": "Rakamlar",
+		"aw": "Yüksek çözünürlük",
+		"ax": "Arka plan/sahne",
+		"ay": "Renk",
+		"az": "Tüm vücut",
+		"a0": "Ticari kullanım",
+		"a1": "istem sayısı",
+		"a2": "Hızlı oluşturma",
+		"a3": "Hızlı teslimat",
+		"a4": "Örnek görselleri dahil et",
+		"a5": "Talimatlar dahil",
+		"a6": "Sanat eseri teslimatı",
+		"a7": "Revizyonlar",
+		"a8": "Karakterler",
+		"a9": "Renkli illüstrasyon",
+		"ba": "Hikaye şeridi",
+		"bb": "Kitap kapağı",
+		"bc": "Kitap düzeni içerir",
+		"bd": "e-Kitap biçimlendirme",
+		"be": "Desen sayısı",
+		"bf": "Eleman sayısı",
+		"bg": "Fiyat",
+		"bh": "ürün başına eklenen kelimeler",
+		"bi": "Boyut (inç)",
+		"bj": "Renk ekle",
+		"bk": "Gölgelemeyi dahil et",
+		"bl": "Dövme flaş sayfası",
+		"bm": "Dahil edilen çerçeve sayısı",
+		"bn": "Açıklayıcı metin",
+		"bo": "Temel sanat eseri sayısı",
+		"bp": "Özellik/aksesuar sayısı",
+		"bq": "Varyasyon sayısı",
+		"br": "Meta veriler",
+		"bs": "Koleksiyon oluşturma",
+		"bt": "Ders süresi (dakika)",
+		"bu": "Ders sayısı",
+		"bv": "Sayfa veya ekran sayısı",
+		"bw": "Özel varlık tasarımı",
+		"bx": "Duyarlı tasarım",
+		"by": "Prototip",
+		"bz": "İçerik yükleme",
+		"b0": "HTML/CSS'ye dönüştür",
+		"b1": "Tel çerçeveler",
+		"b2": "Rekabetçi UX analizi",
+		"b3": "Kullanıcı araştırması ve kişiler",
+		"b4": "Kullanıcı akışları",
+		"b5": "Kullanıcı arayüzü tasarımı",
+		"b6": "Tasarlanan bölüm sayısı",
+		"b7": "Simge sayısı",
+		"b8": "Simge animasyonu",
+		"b9": "3D modelleme",
+		"ca": "Tam konsept prototipi",
+		"cb": "Üretim için tasarım",
+		"cc": "Teknik çizimler",
+		"cd": "Dahil Edilen İlk Konsept Sayısı",
+		"ce": "Aydınlatma",
+		"cf": "Arma",
+		"cg": "Dahil edilen ilk kavramların sayısı",
+		"ch": "Logo tasarımı",
+		"ci": "Özel katman",
+		"cj": "Yüz kamerası",
+		"ck": "Panel tasarımı",
+		"cl": "Uyarı sayısı",
+		"cm": "Ekran sayısı",
+		"cn": "İfade veya rozet sayısı",
+		"co": "Animasyon içerir",
+		"cp": "Özel grafikler",
+		"cq": "fotoğraf düzenleme",
+		"cr": "Sosyal medya tasarımı",
+		"cs": "Panel/sayfa sayısı",
+		"ct": "Kapak tasarımı",
+		"cu": "Sayfa sayısı",
+		"cv": "Resim sayısı",
+		"cw": "Slaytlar dahil",
+		"cx": "Görsel materyaller ekleyin",
+		"cy": "Grafikleri ve grafikleri dahil et",
+		"cz": "İnfografikleri dahil et",
+		"c0": "Slayt geçişini dahil et",
+		"c1": "Slayt animasyonunu dahil et",
+		"c2": "Veri noktaları dahil",
+		"c3": "Araştırma yapmak",
+		"c4": "İnfografik sitelerinde yayınlayın",
+		"c5": "Kapak mektubu tasarımı",
+		"c6": "Açık kabin kenarları",
+		"c7": "Tasarım konsepti sayısı",
+		"c8": "Çift katlı kabin tasarımı",
+		"c9": "Stant planları",
+		"da": "3D işleme görüntüleri",
+		"db": "3 boyutlu geçiş animasyonu",
+		"dc": "Grafik tasarımı dahil et",
+		"dd": "Saha koordinasyonu",
+		"de": "Kenar sayısı",
+		"df": "3 boyutlu model",
+		"dg": "Platform sayısı",
+		"dh": "Düzenlenebilir şablon",
+		"di": "E-posta kurulumu",
+		"dj": "Boyut varyasyonlarının sayısı",
+		"dk": "Stil sayısı",
+		"dl": "Sosyal",
+		"dm": "sürüm sayısı",
+		"dn": "Arka planı kaldırma",
+		"do": "Tasarım maketi",
+		"dp": "video uzunluğu-dakika",
+		"dq": "Tıklanabilir içindekiler tablosu (ToC)",
+		"dr": "Sırt ve omurga",
+		"ds": "Kitapçık tasarımı",
+		"dt": "Animasyonlu kapak",
+		"du": "Boyutlar (piksel)",
+		"dv": "Kapak resminin küçük resmi",
+		"dw": "Başlık görüntü",
+		"dx": "Mevcut nesnenin kaldırılması",
+		"dy": "Rengi ve malzemeleri değiştirin",
+		"dz": "Ticari sahneleme",
+		"d0": "Ortamı dahil et",
+		"d1": "Kaplamalar",
+		"d2": "Yüksek çözünürlük (piksel)",
+		"d3": "Peyzaj kılavuzu",
+		"d4": "Pazarlama araçları",
+		"d5": "Gelişmiş detaylandırma",
+		"d6": "2 boyutlu çizimler",
+		"d7": "Analiz ve simülasyon",
+		"d8": "Detaylı sistem tasarımı",
+		"d9": "Malzeme kalkışı",
+		"ea": "Yük hesaplamaları",
+		"eb": "Öğe görüntüleme sayısı",
+		"ec": "Renk çeşitlerinin sayısı",
+		"ed": "Tasarım özellikleri",
+		"ee": "Beden tablosu",
+		"ef": "Sanat eseri ve baskı ayrıntıları",
+		"eg": "Malzeme listesi (BOM)",
+		"eh": "Eskiz sayısı",
+		"ei": "Renkli",
+		"ej": "Konsept ve tasarım teklifi",
+		"ek": "Dahil edilen ürün konsepti sayısı",
+		"el": "Görselleştirme konsepti",
+		"em": "Eskizler",
+		"en": "Yüksek düzeyde ayrıntı",
+		"eo": "Proje büyüklüğü (ft.kare)",
+		"ep": "Grafik geliştirmeleri",
+		"eq": "Düzen sayfalarını dahil et",
+		"er": "Sırt ve omurga tasarımları",
+		"es": "Ceket örtüsü",
+		"et": "Kaynak dosyayı ekle",
+		"eu": "Sesli kitap kapağı (ACX)",
+		"ev": "Öğe sayısı",
+		"ew": "Eklentiler/uzantılar kurulumu",
+		"ex": "E-ticaret işlevselliği",
+		"ey": "Ürün sayısı",
+		"ez": "Odeme yapiliyor",
+		"e0": "Katılım formu",
+		"e1": "Otomatik yanıtlayıcı entegrasyonu",
+		"e2": "Hız optimizasyonu",
+		"e3": "Barındırma kurulumu",
+		"e4": "Sosyal medya simgeleri",
+		"e5": "Web sitesi taşıma",
+		"e6": "Uygulama mağazasına yükle",
+		"e7": "Pencere yakalama",
+		"e8": "Yer paylaşımı entegrasyonu",
+		"e9": "Kaplama tasarımı",
+		"fa": "Sohbet kurulumu",
+		"fb": "Eklenti sayısı",
+		"fc": "Belgeleri düzeltin",
+		"fd": "Ayrıntılı kod yorumları",
+		"fe": "Mobil işletim sistemleri",
+		"ff": "Uygulama simgesi",
+		"fg": "paneller",
+		"fh": "Başlangıç ​​ekranı",
+		"fi": "Reklam ağı entegrasyonu",
+		"fj": "Kaynak kodunu dahil et",
+		"fk": "İşlevsel uygulama/web sitesi",
+		"fl": "Uygulama/Web Sitesi Tasarımı",
+		"fm": "Kurulum dosyası",
+		"fn": "API entegrasyonu",
+		"fo": "İşletim sistemleri",
+		"fp": "Tasarımı dahil et",
+		"fq": "Darphane",
+		"fr": "Cüzdan entegrasyonu",
+		"fs": "Beyaz listeye alma",
+		"ft": "Bileşen sayısı",
+		"fu": "Şematik diyagramı dahil et",
+		"fv": "Fabrikasyona hazır",
+		"fw": "Prototipleme",
+		"fx": "İşlevsel ortam",
+		"fy": "Kurulum",
+		"fz": "Yapılandırma",
+		"f0": "Göç",
+		"f1": "Hata ayıklama",
+		"f2": "Destek olmak",
+		"f3": "Verim",
+		"f4": "Alıştırmalar ve destekleyici materyaller",
+		"f5": "Konuşma adımları",
+		"f6": "Konuşma komut dosyası",
+		"f7": "Akış tasarımı",
+		"f8": "Test senaryosu",
+		"f9": "Özet raporu",
+		"ga": "Ekran kayıt süresi (dak.)",
+		"gb": "Masaüstünü test et",
+		"gc": "Mobil cihazı test edin",
+		"gd": "Açıklamalı ekran görüntüleri",
+		"ge": "Ekran kaydı",
+		"gf": "Yanıt verme testi",
+		"gg": "Güvenlik açığı testi",
+		"gh": "İşlevsellik testi",
+		"gi": "Kullanılabilirlik testi",
+		"gj": "Tarayıcı uyumluluk testi",
+		"gk": "Performans/yük testi",
+		"gl": "Rakipler analiz edildi",
+		"gm": "Kampanya geliştirme",
+		"gn": "Hesap kurulumu",
+		"go": "SEM raporu",
+		"gp": "Yönetim süresi (hafta)",
+		"gq": "Kampanya optimizasyonu",
+		"gr": "SEO Denetimi ve Raporu",
+		"gs": "Özelleştirilmiş eylem planı",
+		"gt": "SEO optimizasyonu",
+		"gu": "Kötü bağlantıların kaldırılması",
+		"gv": "Araştırılan ve analiz edilen anahtar kelimeler",
+		"gw": "Dizin gönderimi",
+		"gx": "Yelp listelemesini talep edin",
+		"gy": "Foursquare listelemesini talep edin",
+		"gz": "Sayfa ayarı",
+		"g0": "Sayfa optimizasyonu",
+		"g1": "Özelleştirilmiş pazarlama planı",
+		"g2": "Sosyal medya gönderileri",
+		"g3": "İçerik öğeleri",
+		"g4": "Hashtag araştırma raporu",
+		"g5": "Hareket planı",
+		"g6": "Ortaklık ve işbirlikleri desteği",
+		"g7": "Topluluk tanıtımı ve büyüme hackleme",
+		"g8": "Topluluk yönetimi ve katılımı",
+		"g9": "SEO video optimizasyonu",
+		"ha": "Anahtar kelime ve hashtag araştırması",
+		"hb": "Özel bitiş kartı",
+		"hc": "Kişi listesi geliştirme",
+		"hd": "Kitle segmentasyonu",
+		"he": "Kişi sayısı",
+		"hf": "E-posta listesi hijyeni",
+		"hg": "Konu araştırması",
+		"hh": "Makale yazımı",
+		"hi": "SEO Anahtar Kelimeleri",
+		"hj": "Medya varlığı dahil",
+		"hk": "Geri bağlantı dahil",
+		"hl": "Yönetim süresi",
+		"hm": "Reklam analiz raporu",
+		"hn": "Kişileri içe aktarma",
+		"ho": "Varyasyonları kopyala",
+		"hp": "Kampanya kurulumu",
+		"hq": "Otomasyon kurulumu",
+		"hr": "Gönderilen kampanyalar",
+		"hs": "Kampanya raporu",
+		"ht": "Pazarlama stratejisi raporu",
+		"hu": "Müşteri segmentasyonu",
+		"hv": "Promosyon kampanyası",
+		"hw": "Oturum uzunluğu",
+		"hx": "Takip görevleri",
+		"hy": "Oturum özeti",
+		"hz": "Takip etiketleri",
+		"h0": "Yapılandırılmış hedef sayısı",
+		"h1": "Analitik kontrol paneli oluşturun",
+		"h2": "Özel GA raporu",
+		"h3": "Dönüşüm raporu",
+		"h4": "Reklam yöneticiliği",
+		"h5": "İnceleme ve Eleştiri",
+		"h6": "E-posta pazarlama raporu",
+		"h7": "Başlık optimizasyonu",
+		"h8": "Pazaryeri sınıflandırması",
+		"h9": "Simge incelemesi",
+		"ia": "Uygulama mağazası yüklemesi",
+		"ib": "Satış metni incelemesi",
+		"ic": "Çalışma süresi (dakika cinsinden)",
+		"id": "Renk sınıflandırması",
+		"ie": "Ses tasarımı ve miksajı",
+		"if": "Hareket grafikleri",
+		"ig": "Altyazılar",
+		"ih": "Küçük resim dahil",
+		"ii": "Video düzenleme",
+		"ij": "Konsept geliştirme",
+		"ik": "Müzik ve Ses Efektleri",
+		"il": "Ses kaydı",
+		"im": "Kameradaki sunucu",
+		"in": "Kullanıcı araştırması",
+		"io": "Sayfa/ekran sayısı",
+		"ip": "Logo ekle",
+		"iq": "Şeffaf arka plan",
+		"ir": "Özel tasarım",
+		"is": "Ses efektleri",
+		"it": "Şablon özelleştirme",
+		"iu": "Şablon oluşturma",
+		"iv": "Şablon sayısı",
+		"iw": "Şablon kaynak dosyası",
+		"ix": "Tam HD (1080p)",
+		"iy": "Altyazıları yerleştir",
+		"iz": "Transkripsiyon",
+		"i0": "Tercüme",
+		"i1": "SRT dosyası",
+		"i2": "İçerik fikri",
+		"i3": "Senaryo yazmak",
+		"i4": "Özel efektler dahil",
+		"i5": "Çekimler dahil",
+		"i6": "Canlı model dahil",
+		"i7": "Altyazılar dahil",
+		"i8": "Küçük resim",
+		"i9": "Çalışma süresi (saniye)",
+		"ja": "Uzunluk varyasyonlarının sayısı",
+		"jb": "Yön sayısı",
+		"jc": "Ürün resimlerini göster",
+		"jd": "Seslendirme",
+		"je": "Kameradaki sunucu",
+		"jf": "Ürün gösterimi",
+		"jg": "Ürün paketini göster",
+		"jh": "Grafik öğeleri",
+		"ji": "Kelimeler dahil",
+		"jj": "Ultra HD 4k",
+		"jk": "Ana ses",
+		"jl": "Başlıklar",
+		"jm": "Şarkı sözlerini ekle",
+		"jn": "Özel efektler",
+		"jo": "Altyazı sayısı",
+		"jp": "Video görüntüleri",
+		"jq": "Dinamik geçişler",
+		"jr": "Özel renkler",
+		"js": "Kaplama metni",
+		"jt": "Özel animasyon",
+		"ju": "Mükemmel döngü",
+		"jv": "Kaynak dosyası",
+		"jw": "Karakter tasarımı",
+		"jx": "Detaylı hareketler",
+		"jy": "Karakter sayısı",
+		"jz": "Proje dosyası teslimi",
+		"j0": "Çoklu dosya boyutları",
+		"j1": "Süre (saniye cinsinden)",
+		"j2": "Video formatı",
+		"j3": "Kusursuz döngü",
+		"j4": "Resim/videoya dayalı",
+		"j5": "Tüm renkler",
+		"j6": "Dublaj",
+		"j7": "Arka plan görüntüleri",
+		"j8": "Uzunluk (saniye cinsinden)",
+		"j9": "Vektör dosyası oluştur",
+		"ka": "Simgeyi ekle",
+		"kb": "Logoyu Ekle",
+		"kc": "Karakteri dahil et",
+		"kd": "İniş/kahraman animasyonunu dahil et",
+		"ke": "Etkileşimleri dahil et",
+		"kf": "Yarım beden",
+		"kg": "Yüz teçhizatı",
+		"kh": "Parmak teçhizatı",
+		"ki": "IK/FK anahtarı",
+		"kj": "Orijinal dizayn",
+		"kk": "Özel illüstrasyon dahil",
+		"kl": "Karakter animasyonu",
+		"km": "Arka plan animasyonu",
+		"kn": "İki taraflı kart",
+		"ko": "Çekim gün sayısı",
+		"kp": "Dahil edilen sürümler",
+		"kq": "Seslendirme dahil",
+		"kr": "Canlı yayında Yetenek",
+		"ks": "Çoklu kamera çekimi",
+		"kt": "Ses kaydı",
+		"ku": "Karakterler dahil",
+		"kv": "Resimli arka plan dahil",
+		"kw": "Oyuncu sayısı",
+		"kx": "Arka plan",
+		"ky": "Özel kıyafet",
+		"kz": "Altyazıları dahil et",
+		"k0": "Vurgulama efektleri",
+		"k1": "Dakikalar dahil",
+		"k2": "Başlıklar ve grafikler",
+		"k3": "Model/ana bilgisayar dahil",
+		"k4": "3 boyutlu animasyon",
+		"k5": "Parçalarına ayrıştırılmış görünüm",
+		"k6": "Röntgen görünümü",
+		"k7": "Ürün çekimi dahil",
+		"k8": "Ekran görüntüsü sayısı",
+		"k9": "Altyazı",
+		"la": "Stok görüntüleri",
+		"lb": "Stok görüntüleri",
+		"lc": "Çoklu platform optimizasyonu",
+		"ld": "Küçük resim tasarımı",
+		"le": "Rehberli meditasyon kaydı",
+		"lf": "Meditasyon senaryosu yazımı",
+		"lg": "Alıntı ve altyazı sayısı",
+		"lh": "SEO Anahtar Kelime Araştırması",
+		"li": "Referanslar ve alıntılar",
+		"lj": "Veri grafiği",
+		"lk": "İntihal kontrolü",
+		"ll": "Doğruluk kontrolü",
+		"lm": "AI tespiti",
+		"ln": "Hedef kitle araştırması",
+		"lo": "İçerik denetimi",
+		"lp": "İçerik takvimi",
+		"lq": "İçerik Çerçevesi",
+		"lr": "Hikaye geliştirme",
+		"ls": "Görsel açıklama",
+		"lt": "Ürün araştırması",
+		"lu": "Rakip araştırması",
+		"lv": "Konuşma Süresi (Dakika)",
+		"lw": "Ek araştırma",
+		"lx": "Yapısal düzenleme",
+		"ly": "Satır düzenleme",
+		"lz": "Yeniden Yazma",
+		"l0": "Geri bildirim",
+		"l1": "Düzeltme",
+		"l2": "Yapay zeka algılama ve düzenleme",
+		"l3": "Ses ve ton tutarlılığı",
+		"l4": "Bölümün yeniden yazılması",
+		"l5": "Gelişimsel düzenleme",
+		"l6": "Stil sayfası",
+		"l7": "Örnek satır düzenleme",
+		"l8": "Okuyucu raporu",
+		"l9": "Ek materyaller / pratik alıştırmalar",
+		"ma": "Düzenlenebilir dosya",
+		"mb": "Düzenle ve yeniden yaz",
+		"mc": "LinkedIn profilini optimize edin",
+		"md": "Ön yazı",
+		"me": "Hedeflenen kapak mektupları",
+		"mf": "Eğitim, sertifikalar ve ödüller",
+		"mg": "Profesyonel deneyim",
+		"mh": "Hedeflenen hashtag'ler/anahtar kelimeler",
+		"mi": "Beceriler ve onaylar",
+		"mj": "Rekabetçi araştırma",
+		"mk": "İş tanımına genel bakış",
+		"ml": "Sorumluluklar ve Görevler",
+		"mm": "Nitelikler",
+		"mn": "Marka sesi tutarlılığı",
+		"mo": "Marka anlatısı",
+		"mp": "Hedef kitle ve konumlandırma",
+		"mq": "Ses ve ton yönergeleri",
+		"mr": "Marka tasarımı yönergeleri",
+		"ms": "İşletme adı ve sloganı",
+		"mt": "İşletme/ürün adları",
+		"mu": "Sloganlar dahil",
+		"mv": "Sosyal medya kolları",
+		"mw": "Ticari marka kontrolü",
+		"mx": "Alan araştırması",
+		"my": "Müşteri görüşmeleri",
+		"mz": "Dahil edilen başlıklar (ürün başına)",
+		"m0": "Madde işareti dahil (ürün başına)",
+		"m1": "HTML başlığı",
+		"m2": "Reklam kopyası sürümleri",
+		"m3": "İncele ve düzenle",
+		"m4": "Konu satırları dahil",
+		"m5": "Yazılan e-postalar",
+		"m6": "Basın bültenini gönderin",
+		"m7": "Basın bültenini biçimlendirin",
+		"m8": "Basın bülteni fikirleri",
+		"m9": "Belge biçimlendirmesi",
+		"na": "Dil stili kılavuzu",
+		"nb": "Zaman referansı",
+		"nc": "Konuşmacı sayısı",
+		"nd": "Kelimenin tam anlamıyla transkripsiyon",
+		"ne": "Dosyayı dönüştür",
+		"nf": "Bölüm sayısı",
+		"ng": "Bölüm başına kelime sayısı",
+		"nh": "Ödevler ve çözümler",
+		"ni": "Video senaryosu yazımı",
+		"nj": "Mevcut içeriği inceleyin",
+		"nk": "Kaynak listesi",
+		"nl": "Düzeltme ve düzenleme",
+		"nm": "Stil kılavuzu biçimlendirildi",
+		"nn": "Teknik illüstrasyon",
+		"no": "Çıkarılan/kazılan sayfalar",
+		"np": "Kaynakları indirme",
+		"nq": "Biçimlendirme ve temizleme",
+		"nr": "Metrik sayısı",
+		"ns": "Segment sayısı",
+		"nt": "Senaryolar",
+		"nu": "Site izleme değerlendirmesi",
+		"nv": "Yönetici Özeti",
+		"nw": "Dönüşüm optimizasyonu fikirleri",
+		"nx": "Web yerleştirme",
+		"ny": "İnteraktif/animasyonlu görseller",
+		"nz": "Grafikler/tablolar",
+		"n0": "Grafik/grafik varyasyonları",
+		"n1": "Sunum",
+		"n2": "Makro sayısı",
+		"n3": "Düğmeler ve formlar",
+		"n4": "Veri kaynağı bağlantısı",
+		"n5": "Araç çubuğu entegrasyonu",
+		"n6": "Model belgeleri",
+		"n7": "Sorgularda hata ayıklama",
+		"n8": "Sorguları optimize edin",
+		"n9": "Sorguları planlama",
+		"oa": "Sorguları analiz edin",
+		"ob": "Canlı model",
+		"oc": "Yaşam tarzı evreleme",
+		"od": "Fotoğraf Çekimi Stili",
+		"oe": "Bağlı canlı görüntü",
+		"of": "Fotoğraf rötuşlama",
+		"og": "İnfografikler",
+		"oh": "Tarif sayısı",
+		"oi": "Yiyecek hazırlama",
+		"oj": "Sofra takımı",
+		"ok": "Fotoğraf Sayısı",
+		"ol": "Fotoğraf çekimi stilisti",
+		"om": "Stüdyo dahil",
+		"on": "Saç ve makyaj",
+		"oo": "Şirket tanımı",
+		"op": "Sektör ve rakiplerin analizi",
+		"oq": "SWOT analizi",
+		"or": "Müşteri analizi",
+		"os": "Finansal tahmin",
+		"ot": "Yatırımcı listesi",
+		"ou": "Sosyal yardım e-postası kopyası",
+		"ov": "Satış konuşması güvertesi",
+		"ow": "Çalışan işe alım süreci",
+		"ox": "Çalışan seviyelendirme",
+		"oy": "Çalışan geribildirimi",
+		"oz": "Proje hedeflerini tanımlayın",
+		"o0": "Teslimatları ve KPI'ları tanımlayın",
+		"o1": "Program ve kilometre taşlarını belirleyin",
+		"o2": "Risk yönetimi",
+		"o3": "Kaynak yönetimi",
+		"o4": "Bütçe yönetimi",
+		"o5": "Proje raporları oluşturun",
+		"o6": "Proje diyagramları oluşturun",
+		"o7": "Danışmanlık saatleri",
+		"o8": "İlk değerlendirme",
+		"o9": "Stratejik öneriler",
+		"pa": "Strateji uygulama belgesi",
+		"pb": "Danışmanlık Güvertesi",
+		"pc": "Rekabet Analizi",
+		"pd": "TAM hesaplaması veya analizi",
+		"pe": "Anket yazımı",
+		"pf": "Huni geliştirme",
+		"pg": "Kanal geliştirme",
+		"ph": "Satış teminatı",
+		"pi": "İç satış eğitimi",
+		"pj": "Bilgi tabanı oluşturma ve bakımı",
+		"pk": "Sistem kurulumu",
+		"pl": "Makro geliştirme",
+		"pm": "Müşteri hizmetleri süreçleri ve yolculukları başucu kitabı",
+		"pn": "Temsilci eğitimi",
+		"po": "Eğitim oturumu",
+		"pp": "Hesap Yönetimi",
+		"pq": "Otomasyon planlaması",
+		"pr": "Veri analizi ve raporu",
+		"ps": "Otomasyon planlama ve kurulum",
+		"pt": "Veri analizi ve raporlar",
+		"pu": "Gerçekler kontrol edildi",
+		"pv": "Metin düzenleme",
+		"pw": "Planlama",
+		"px": "Lojistik",
+		"py": "Ziyaretçi sayısı",
+		"pz": "Etkinlik promosyonu",
+		"p0": "İçerik yaratımı",
+		"p1": "Personel üyeleri dahil",
+		"p2": "Ev sahibi / kolaylaştırıcı",
+		"p3": "Teknik Destek",
+		"p4": "Etkinlik sonrası destek",
+		"p5": "Oynanış mekaniği",
+		"p6": "Seviye sayısı",
+		"p7": "Para kazanma stratejisi",
+		"p8": "Oyun ekonomisi",
+		"p9": "Oyun tasarımı belgesi oluşturma",
+		"qa": "Proje/üretim planı",
+		"qb": "Kayıt uzunluğu (saniye cinsinden)",
+		"qc": "Alet sayısı",
+		"qd": "Genel Merkez ses dosyası",
+		"qe": "Ayrı dosyalar",
+		"qf": "Nota",
+		"qg": "Orijinal Melodi",
+		"qh": "Karıştırma ve Mastering",
+		"qi": "Proje Dosyası/Sap Teslimatı",
+		"qj": "Video kaydetmek",
+		"qk": "Vokal Armoni",
+		"ql": "Çift izleme vokalleri",
+		"qm": "Parça sayısı",
+		"qn": "Notalar/MIDI",
+		"qo": "Koro",
+		"qp": "Köprü",
+		"qq": "Melodi yazma",
+		"qr": "Vokal kaydı",
+		"qs": "Şarkı sözü yazma",
+		"qt": "Ayrılmış parçalar/gövdeler",
+		"qu": "Proje dosyası",
+		"qv": "Ustalık",
+		"qw": "Parça/gövde sayısı",
+		"qx": "Alternatif versiyon",
+		"qy": "Uzmanlaşmış kök ihracatı",
+		"qz": "Analog dişli",
+		"q0": "Şarkılar dahil",
+		"q1": "Video senkronizasyonu",
+		"q2": "Düzenlenmemiş ses uzunluğu (dakika)",
+		"q3": "Manuel ayarlama",
+		"q4": "Ses düzenleme",
+		"q5": "Zaman hizalaması",
+		"q6": "Uyum yaratma",
+		"q7": "sesli kelimeler",
+		"q8": "ses-hq-audo",
+		"q9": "Ses Düzenleme ve Gürültü Azaltma",
+		"ra": "Gösteri notlarını yazın",
+		"rb": "ID3 etiketleri ekleyin",
+		"rc": "Giriş/çıkış/reklam ekle",
+		"rd": "Canlı gösteri prodüksiyonu",
+		"re": "Podcast Dağıtımı",
+		"rf": "Prova",
+		"rg": "Bölümleri böl",
+		"rh": "Perakende ses örneği",
+		"ri": "Ses kaydı",
+		"rj": "Kitle araştırması",
+		"rk": "Reklam sürümlerinin sayısı",
+		"rl": "Ayrılmış dosyalar",
+		"rm": "Kanıt dinleme",
+		"rn": "Özel ses",
+		"ro": "Dahil Edilen Etiket Sayısı",
+		"rp": "Parça ayrımı",
+		"rq": "Kayıt uzunluğu (dakika olarak)",
+		"rr": "Özel şarkı sırası",
+		"rs": "Zaman damgalı şarkı listesi",
+		"rt": "Ses efektlerinin sayısı",
+		"ru": "Özel yapılmış",
+		"rv": "Synth ön ayarlarının sayısı",
+		"rw": "Midi, synth ön ayarıyla çalındı",
+		"rx": "Sfx sayısı",
+		"ry": "Şarkı oluşturma",
+		"rz": "Seslendirme eklendi",
+		"r0": "Ürün ses tasarımı",
+		"r1": "Ders uzunluğu (dakika olarak)",
+		"r2": "Alıştırmalar ve destekleyici materyal",
+		"r3": "Monofonik enstrümanların sayısı",
+		"r4": "Polifonik enstrümanların sayısı",
+		"r5": "Karmaşık parça",
+		"r6": "Şarkı sözleri dahil",
+		"r7": "Oturum uzunluğu",
+		"r8": "Takip görevleri",
+		"r9": "Oturum özeti"
+	},
+	"categoryExtra": {
+		"aa": "Ek enstrüman izi",
+		"ab": "Genel Merkez ses dosyası",
+		"ac": "Ayrı dosyalar",
+		"ad": "Nota",
+		"ae": "Orijinal Melodi",
+		"af": "Karıştırma ve Mastering",
+		"ag": "Proje Dosyası/Sap Teslimatı",
+		"ah": "Video kaydetmek",
+		"ai": "Vokal Armoni",
+		"aj": "Çift izleme vokalleri",
+		"ak": "Notalar/MIDI",
+		"al": "Ek ayet",
+		"am": "Koro",
+		"an": "Köprü",
+		"ao": "Melodi yazma",
+		"ap": "Vokal kaydı",
+		"aq": "Şarkı sözü yazma",
+		"ar": "Ayrılmış parçalar/gövdeler",
+		"as": "Ek parça",
+		"at": "Alternatif versiyon",
+		"au": "Uzmanlaşmış kök ihracatı",
+		"av": "Proje Dosyası",
+		"aw": "Ek şarkı",
+		"ax": "Ek diyalog parçası",
+		"ay": "Video senkronizasyonu",
+		"az": "Uyum yaratma",
+		"a0": "Senaryo Düzeltme",
+		"a1": "Ticari Haklar",
+		"a2": "Tam Yayın Hakları",
+		"a3": "HQ Ses Dosyası (WAV formatı)",
+		"a4": "Zamanlanmış Ses Senkronizasyonu (60 saniyede bir)",
+		"a5": "Dosyaları Böl (5 dosyaya kadar)",
+		"a6": "Ek Revizyonlar",
+		"a7": "Fon Müziği (her parça başına)",
+		"a8": "Ek Kelimeler,",
+		"a9": "Teslimat süresi",
+		"ba": "Ses Düzenleme ve Gürültü Azaltma",
+		"bb": "Gösteri notlarını yazın",
+		"bc": "ID3 etiketleri ekleyin",
+		"bd": "Giriş/çıkış/reklam ekle",
+		"be": "Canlı gösteri prodüksiyonu",
+		"bf": "Podcast Dağıtımı",
+		"bg": "Prova",
+		"bh": "Perakende ses örneği",
+		"bi": "Ses kaydı",
+		"bj": "Ayrılmış dosyalar",
+		"bk": "Kanıt dinleme",
+		"bl": "Ek damlalar",
+		"bm": "Parça ayrımı",
+		"bn": "Ek karıştırma süresi",
+		"bo": "Özel şarkı sırası",
+		"bp": "Zaman damgalı şarkı listesi",
+		"bq": "Özel yapılmış",
+		"br": "Midi, synth ön ayarıyla çalındı",
+		"bs": "Şarkı oluşturma",
+		"bt": "Seslendirme eklendi",
+		"bu": "Ürün ses tasarımı",
+		"bv": "Alıştırmalar ve destekleyici materyal",
+		"bw": "Ek monofonik enstrüman",
+		"bx": "Ek polifonik enstrüman",
+		"by": "Şarkı sözleri dahil",
+		"bz": "Ürün başına ek fotoğraf",
+		"b0": "Canlı model",
+		"b1": "Yaşam tarzı evreleme",
+		"b2": "Fotoğraf Çekimi Stili",
+		"b3": "Bağlı canlı görüntü",
+		"b4": "İnfografikler",
+		"b5": "Ek Fotoğraf",
+		"b6": "Ek Tarif",
+		"b7": "Fotoğraf çekimi stilisti",
+		"b8": "Sette ek saat",
+		"b9": "Stüdyo dahil",
+		"ca": "Saç ve makyaj",
+		"cb": "Fotoğraf rötuşlama",
+		"cc": "Ek konumlar",
+		"cd": "Şirket tanımı",
+		"ce": "Sektör ve rakiplerin analizi",
+		"cf": "SWOT analizi",
+		"cg": "Müşteri analizi",
+		"ch": "Finansal tahmin",
+		"ci": "Yatırımcı listesi",
+		"cj": "Sosyal yardım e-postası kopyası",
+		"ck": "Satış konuşması güvertesi",
+		"cl": "Örgütsel yapı",
+		"cm": "Çalışan işe alım süreci",
+		"cn": "Çalışan seviyelendirme",
+		"co": "Çalışan geribildirimi",
+		"cp": "Genel proje danışmanlığı",
+		"cq": "Proje hedeflerini tanımlayın",
+		"cr": "Teslimatları ve KPI'ları tanımlayın",
+		"cs": "Program ve kilometre taşlarını belirleyin",
+		"ct": "Risk yönetimi",
+		"cu": "Kaynak yönetimi",
+		"cv": "Bütçe yönetimi",
+		"cw": "Proje raporları oluşturun",
+		"cx": "Proje diyagramları oluşturun",
+		"cy": "Ek danışmanlık saatleri",
+		"cz": "İlk değerlendirme",
+		"c0": "Stratejik öneriler",
+		"c1": "Strateji uygulama belgesi",
+		"c2": "Danışmanlık Güvertesi",
+		"c3": "Pazar eğilimleri",
+		"c4": "Rekabet Analizi",
+		"c5": "TAM hesaplaması veya analizi",
+		"c6": "Satış teminatı",
+		"c7": "İç satış eğitimi",
+		"c8": "Yardım merkezi oluşturma ve bakımı",
+		"c9": "Bilgi tabanı oluşturma ve bakımı",
+		"da": "Sistem kurulumu",
+		"db": "Makro geliştirme",
+		"dc": "Müşteri hizmetleri süreçleri ve yolculukları başucu kitabı",
+		"dd": "Temsilci eğitimi",
+		"de": "Eğitim oturumu",
+		"df": "Otomasyon planlaması",
+		"dg": "Otomasyon planlama ve kurulum",
+		"dh": "Ek Personel Üyeleri",
+		"di": "Danışmanlık servisleri",
+		"dj": "Lojistik",
+		"dk": "Ziyaretçi sayısı",
+		"dl": "Etkinlik promosyonu",
+		"dm": "İçerik yaratımı",
+		"dn": "Teknik Destek",
+		"do": "Etkinlik sonrası destek",
+		"dp": "Oyun konsepti geliştirme",
+		"dq": "Oynanış mekaniği",
+		"dr": "Ek seviye",
+		"ds": "Para kazanma stratejisi",
+		"dt": "Oyun ekonomisi",
+		"du": "Oyun tasarımı belgesi oluşturma",
+		"dv": "Proje/üretim planı",
+		"dw": "Ek reklam",
+		"dx": "Basın bültenini gönderin",
+		"dy": "Basın bültenini biçimlendirin",
+		"dz": "Basın bülteni fikirleri",
+		"d0": "Kullanıcı araştırması",
+		"d1": "Belge biçimlendirmesi",
+		"d2": "Dil stili kılavuzu",
+		"d3": "Zaman referansı",
+		"d4": "Ek hoparlör",
+		"d5": "Kelimenin tam anlamıyla transkripsiyon",
+		"d6": "Dosyayı dönüştür",
+		"d7": "Ek bölüm",
+		"d8": "Video senaryosu yazımı",
+		"d9": "Ek 0nal Technica Çizimler",
+		"ea": "Düzeltme ve düzenleme",
+		"eb": "Stil kılavuzu biçimlendirildi",
+		"ec": "Ek öğeler",
+		"ed": "Çıkarılan/kazınan ek sayfalar",
+		"ee": "Ek kaynak çıkarıldı/tasarruf edildi",
+		"ef": "Kaynakları indirme",
+		"eg": "Ek huni",
+		"eh": "Ek metrik",
+		"ei": "Ek segment",
+		"ej": "Ek senaryo",
+		"ek": "Yönetici Özeti",
+		"el": "Veri kaynağı bağlantısı",
+		"em": "Web yerleştirme",
+		"en": "İnteraktif/animasyonlu görseller",
+		"eo": "Ek grafik/grafik",
+		"ep": "Ek grafik/grafik varyasyonu",
+		"eq": "Sunum",
+		"er": "Ek formül",
+		"es": "Ek makro",
+		"et": "Ek düğme/form",
+		"eu": "Araç çubuğu entegrasyonu",
+		"ev": "Model belgeleri",
+		"ew": "Ek sorgu",
+		"ex": "Sorgularda hata ayıklama",
+		"ey": "Sorguları optimize edin",
+		"ez": "Sorguları planlama",
+		"e0": "Sorguları analiz edin",
+		"e1": "Yapısal düzenleme",
+		"e2": "Satır düzenleme",
+		"e3": "Yeniden Yazma",
+		"e4": "Geri bildirim",
+		"e5": "Yapay zeka algılama ve düzenleme",
+		"e6": "Ses ve ton tutarlılığı",
+		"e7": "Bölümün yeniden yazılması",
+		"e8": "Gelişimsel düzenleme",
+		"e9": "Stil sayfası",
+		"fa": "Düzeltme",
+		"fb": "Örnek satır düzenleme",
+		"fc": "Okuyucu raporu",
+		"fd": "Ek materyaller / pratik alıştırmalar",
+		"fe": "Düzenlenebilir dosya",
+		"ff": "Düzenle ve yeniden yaz",
+		"fg": "LinkedIn profilini optimize edin",
+		"fh": "Ön yazı",
+		"fi": "İncele ve düzenle",
+		"fj": "Ek hedefli ön yazı",
+		"fk": "Başlık ve özet",
+		"fl": "Eğitim, sertifikalar ve ödüller",
+		"fm": "Profesyonel deneyim",
+		"fn": "Hedeflenen hashtag'ler/anahtar kelimeler",
+		"fo": "Beceriler ve onaylar",
+		"fp": "Ek iş tanımı",
+		"fq": "Rekabetçi araştırma",
+		"fr": "İş tanımına genel bakış",
+		"fs": "Sorumluluklar ve Görevler",
+		"ft": "Marka sesi tutarlılığı",
+		"fu": "Misyon ve vizyon beyanı",
+		"fv": "Marka anlatısı",
+		"fw": "Hedef kitle ve konumlandırma",
+		"fx": "Ses ve ton yönergeleri",
+		"fy": "Marka tasarımı yönergeleri",
+		"fz": "İşletme adı ve sloganı",
+		"f0": "Ek isimler",
+		"f1": "Ek kısa açıklama",
+		"f2": "Sosyal medya kolları",
+		"f3": "Ticari marka kontrolü",
+		"f4": "Alan araştırması",
+		"f5": "Müşteri görüşmeleri",
+		"f6": "Ek ürün listesi",
+		"f7": "HTML başlığı",
+		"f8": "Parçalarına ayrıştırılmış görünüm",
+		"f9": "Röntgen görünümü",
+		"ga": "Ürün çekimi dahil",
+		"gb": "Ek ekran görüntüsü",
+		"gc": "Ekran kaydı",
+		"gd": "Altyazı",
+		"ge": "Stok görüntüleri",
+		"gf": "Küçük resim tasarımı",
+		"gg": "Rehberli meditasyon kaydı",
+		"gh": "Meditasyon senaryosu yazımı",
+		"gi": "Ek başlık",
+		"gj": "Ek alıntı/başlık",
+		"gk": "SEO Anahtar Kelime Araştırması",
+		"gl": "Referanslar ve alıntılar",
+		"gm": "Veri grafiği",
+		"gn": "İntihal kontrolü",
+		"go": "Doğruluk kontrolü",
+		"gp": "AI tespiti",
+		"gq": "Hedef kitle araştırması",
+		"gr": "İçerik takvimi",
+		"gs": "İçerik Çerçevesi",
+		"gt": "Ek kayıt süresi",
+		"gu": "Hikaye geliştirme",
+		"gv": "Görsel açıklama",
+		"gw": "Rakip araştırması",
+		"gx": "Ek araştırma",
+		"gy": "Çoklu dosya boyutları",
+		"gz": "Video formatı",
+		"g0": "Kusursuz döngü",
+		"g1": "Tüm renkler",
+		"g2": "Addyboard",
+		"g3": "Ek revizyon",
+		"g4": "Dublaj",
+		"g5": "Arka plan görüntüleri",
+		"g6": "Eğri Hazır Medya",
+		"g7": "Vektör dosyası oluştur",
+		"g8": "Simgeyi ekle",
+		"g9": "Logoyu Ekle",
+		"ha": "Karakteri dahil et",
+		"hb": "İniş/kahraman animasyonunu dahil et",
+		"hc": "Etkileşimleri dahil et",
+		"hd": "IK/FK anahtarı",
+		"he": "Özel illüstrasyon dahil",
+		"hf": "Karakter animasyonu",
+		"hg": "Arka plan animasyonu",
+		"hh": "İki taraflı kart",
+		"hi": "Ek çekim günü/günleri",
+		"hj": "Seslendirme dahil",
+		"hk": "Canlı yayında Yetenek",
+		"hl": "Ek çekim günleri",
+		"hm": "Çoklu kamera çekimi",
+		"hn": "Ses kaydı",
+		"ho": "Karakterler dahil",
+		"hp": "Resimli arka plan dahil",
+		"hq": "Orijinal dizayn",
+		"hr": "Ek aktör",
+		"hs": "Arka plan",
+		"ht": "Özel kıyafet",
+		"hu": "Altyazıları dahil et",
+		"hv": "Konu araştırması",
+		"hw": "Başlıklar ve grafikler",
+		"hx": "Model/ana bilgisayar dahil",
+		"hy": "Pazarlama stratejisi raporu",
+		"hz": "Müşteri segmentasyonu",
+		"h0": "Takip görevleri",
+		"h1": "Oturum özeti",
+		"h2": "Takip etiketleri",
+		"h3": "Ek yapılandırılmış hedef",
+		"h4": "Analitik kontrol paneli oluşturun",
+		"h5": "Özel GA raporu",
+		"h6": "Dönüşüm raporu",
+		"h7": "Reklam yöneticiliği",
+		"h8": "İnceleme ve Eleştiri",
+		"h9": "Promosyon kampanyası",
+		"ia": "E-posta pazarlama raporu",
+		"ib": "Renk sınıflandırması",
+		"ic": "Ses tasarımı ve miksajı",
+		"id": "Hareket grafikleri",
+		"ie": "Altyazılar",
+		"if": "Küçük resim dahil",
+		"ig": "Ek çalışma süresi (saniye)",
+		"ih": "Video düzenleme",
+		"ii": "Müzik ve Ses Efektleri",
+		"ij": "Ses kaydı",
+		"ik": "Kameradaki sunucu",
+		"il": "Kaplama metni",
+		"im": "Logo ekle",
+		"in": "Şeffaf arka plan",
+		"io": "Özel tasarım",
+		"ip": "Ses efektleri",
+		"iq": "Ek klipler",
+		"ir": "Şablon oluşturma",
+		"is": "Şablon kaynak dosyası",
+		"it": "Tam HD (1080p)",
+		"iu": "Ekstra dakikalar",
+		"iv": "Transkripsiyon",
+		"iw": "Tercüme",
+		"ix": "SRT dosyası",
+		"iy": "Ek video",
+		"iz": "Ek sürüm",
+		"i0": "İçerik fikri",
+		"i1": "Senaryo yazmak",
+		"i2": "Özel efektler dahil",
+		"i3": "Çekimler dahil",
+		"i4": "Canlı model dahil",
+		"i5": "Altyazılar dahil",
+		"i6": "Küçük resim",
+		"i7": "Ek uzunluk değişimi",
+		"i8": "Ürün resimlerini göster",
+		"i9": "Seslendirme",
+		"ja": "Grafik öğeleri",
+		"jb": "Ultra HD 4k",
+		"jc": "Ana ses",
+		"jd": "Başlıklar",
+		"je": "Şarkı sözlerini ekle",
+		"jf": "Özel efektler",
+		"jg": "Resim sayısı",
+		"jh": "Ek başlık",
+		"ji": "Video görüntüleri",
+		"jj": "Dinamik geçişler",
+		"jk": "Ek logo",
+		"jl": "Logo şeffaflığı",
+		"jm": "Özel renkler",
+		"jn": "Özel animasyon",
+		"jo": "Mükemmel döngü",
+		"jp": "Karakter tasarımı",
+		"jq": "Detaylı hareketler",
+		"jr": "Proje dosyası teslimi",
+		"js": "rakip analizi",
+		"jt": "kampanya geliştirme",
+		"ju": "hesap kurulumu",
+		"jv": "yarı rapor",
+		"jw": "yönetim-süre-haftalar",
+		"jx": "kampanya optimizasyonu",
+		"jy": "SEO Denetimi ve Raporu",
+		"jz": "Özelleştirilmiş eylem planı",
+		"j0": "SEO optimizasyonu",
+		"j1": "Kötü bağlantıların kaldırılması",
+		"j2": "Ek anahtar kelime",
+		"j3": "Ek rakip",
+		"j4": "Dizin gönderimi",
+		"j5": "Yelp listelemesini talep edin",
+		"j6": "Foursquare listelemesini talep edin",
+		"j7": "Sayfa ayarı",
+		"j8": "Sayfa optimizasyonu",
+		"j9": "Özelleştirilmiş pazarlama planı",
+		"ka": "Ek sosyal medya gönderisi",
+		"kb": "Ek sosyal medya yönetimi",
+		"kc": "Ek gönderi",
+		"kd": "Ortaklık ve işbirlikleri desteği",
+		"ke": "Kanal kurulumu ve optimizasyonu",
+		"kf": "SEO video optimizasyonu",
+		"kg": "Özel bitiş kartı",
+		"kh": "Hareket planı",
+		"ki": "Kişi listesi geliştirme",
+		"kj": "E-posta listesi hijyeni",
+		"kk": "Ek konuk gönderi gönderimleri",
+		"kl": "Makale yazımı",
+		"km": "SEO Anahtar Kelimeleri",
+		"kn": "Medya varlığı dahil",
+		"ko": "Geri bağlantı dahil",
+		"kp": "Hesap denetimi",
+		"kq": "Kampanya kurulumu",
+		"kr": "Reklam analiz raporu",
+		"ks": "Hesap desteği",
+		"kt": "Kişileri içe aktarma",
+		"ku": "Otomasyon kurulumu",
+		"kv": "Kampanya raporu",
+		"kw": "Ek konuşma adımları",
+		"kx": "Konuşma komut dosyası",
+		"ky": "Akış tasarımı",
+		"kz": "Ek sayfalar test edildi",
+		"k0": "Ek ekran kayıt süresi",
+		"k1": "Web sitesi yedekleme",
+		"k2": "Web sitesi taşıma",
+		"k3": "Uygulama mağazasına yükle",
+		"k4": "Kaplama tasarımı",
+		"k5": "Sohbet kurulumu",
+		"k6": "Belgeleri düzeltin",
+		"k7": "Ayrıntılı kod yorumları",
+		"k8": "Uygulama gönderimi",
+		"k9": "Ek işletim sistemi",
+		"la": "Uygulama simgesi",
+		"lb": "Başlangıç ​​ekranı",
+		"lc": "Kaynak kodunu dahil et",
+		"ld": "Uygulama/Web Sitesi Tasarımı",
+		"le": "Kurulum dosyası",
+		"lf": "Ek özellik",
+		"lg": "API entegrasyonu",
+		"lh": "Tasarımı dahil et",
+		"li": "Darphane",
+		"lj": "Cüzdan entegrasyonu",
+		"lk": "Beyaz listeye alma",
+		"ll": "Ek bileşenler",
+		"lm": "Ek katman",
+		"ln": "Şematik diyagramı dahil et",
+		"lo": "Fabrikasyona hazır",
+		"lp": "Prototipleme",
+		"lq": "Dokümantasyon",
+		"lr": "Kurulum",
+		"ls": "Yapılandırma",
+		"lt": "Göç",
+		"lu": "Hata ayıklama",
+		"lv": "Destek olmak",
+		"lw": "Ek Saatler",
+		"lx": "Ek ders",
+		"ly": "Alıştırmalar ve destekleyici materyaller",
+		"lz": "Ek eklenti kurulumu",
+		"l0": "E-ticaret işlevselliği",
+		"l1": "Ek ürün",
+		"l2": "Odeme yapiliyor",
+		"l3": "Katılım formu",
+		"l4": "Otomatik yanıtlayıcı entegrasyonu",
+		"l5": "Hız optimizasyonu",
+		"l6": "Barındırma kurulumu",
+		"l7": "Sosyal medya simgeleri",
+		"l8": "Konsept ve tasarım teklifi",
+		"l9": "Ek taslak",
+		"ma": "Ürün araştırması",
+		"mb": "Yüksek düzeyde ayrıntı",
+		"mc": "Grafik geliştirmeleri",
+		"md": "Düzen sayfalarını dahil et",
+		"me": "Ek taraflar",
+		"mf": "3 boyutlu model",
+		"mg": "Ek platformlar",
+		"mh": "Ek tasarlanmış e-postalar",
+		"mi": "Düzenlenebilir şablon",
+		"mj": "E-posta kurulumu",
+		"mk": "Ek boyut varyasyonları",
+		"ml": "Ek stil",
+		"mm": "Sosyal",
+		"mn": "Arka planı kaldırma",
+		"mo": "Tasarım maketi",
+		"mp": "Ek moda ürünleri",
+		"mq": "Ek iç sayfalar",
+		"mr": "Sırt ve omurga",
+		"ms": "Kitapçık tasarımı",
+		"mt": "Animasyonlu kapak",
+		"mu": "Kapak resminin küçük resmi",
+		"mv": "Başlık görüntü",
+		"mw": "3 boyutlu maket",
+		"mx": "Mevcut nesnenin kaldırılması",
+		"my": "Rengi ve malzemeleri değiştirin",
+		"mz": "Ticari sahneleme",
+		"m0": "Ortamı dahil et",
+		"m1": "Peyzaj kılavuzu",
+		"m2": "Pazarlama araçları",
+		"m3": "Ek 2D çizimler",
+		"m4": "Analiz ve simülasyon",
+		"m5": "Detaylı sistem tasarımı",
+		"m6": "Malzeme kalkışı",
+		"m7": "Yük hesaplamaları",
+		"m8": "Ek öğe görünümleri",
+		"m9": "Ek renk grubu",
+		"na": "Tasarım özellikleri",
+		"nb": "Beden tablosu",
+		"nc": "Sanat eseri ve baskı ayrıntıları",
+		"nd": "Malzeme listesi (BOM)",
+		"ne": "Ek konsept",
+		"nf": "Ek karakter",
+		"ng": "Ek aksesuar",
+		"nh": "Model sayfası",
+		"ni": "Gelişmiş detaylandırma",
+		"nj": "Animasyon içerir",
+		"nk": "3D modelleme",
+		"nl": "Logo tasarımı içerir",
+		"nm": "İkonografi",
+		"nn": "Yapılması ve yapılmaması gerekenler",
+		"no": "Marka kitap tasarımı",
+		"np": "Ek Stok Medya",
+		"nq": "Ek Tasarım Konsepti",
+		"nr": "Çift taraflı",
+		"ns": "E-posta imzası",
+		"nt": "Nakliye",
+		"nu": "Ek kelimeler",
+		"nv": "Çok renkli",
+		"nw": "Vektör dosyası",
+		"nx": "Orijinal nakliye",
+		"ny": "Ek rakamlar",
+		"nz": "Yüksek çözünürlük",
+		"n0": "Renk",
+		"n1": "Tüm vücut",
+		"n2": "Ticari kullanım",
+		"n3": "Ek istemler",
+		"n4": "Sanat eseri teslimatı",
+		"n5": "Ek resimler",
+		"n6": "Ekstra hızlı teslimat",
+		"n7": "Ek karakterler",
+		"n8": "Arka plan/sahne",
+		"n9": "Renkli illüstrasyon",
+		"oa": "Hikaye şeridi",
+		"ob": "Kitap kapağı",
+		"oc": "Kitap düzeni içerir",
+		"od": "Baskıya hazır",
+		"oe": "e-Kitap biçimlendirme",
+		"of": "Kaynak dosyası",
+		"og": "Ek paneller",
+		"oh": "Ek Revizyon",
+		"oi": "Gölgelemeyi dahil et",
+		"oj": "Ek revizyonv",
+		"ok": "Açıklayıcı metin",
+		"ol": "Ek özellikler/aksesuarlar",
+		"om": "Ek varyasyonlar",
+		"on": "Ek temel sanat eseri",
+		"oo": "Meta veriler",
+		"op": "Koleksiyon oluşturma",
+		"oq": "Ek dersler",
+		"or": "Ek Sayfalar",
+		"os": "Ek özel varlık tasarımı",
+		"ot": "Prototip",
+		"ou": "İçerik yükleme",
+		"ov": "HTML/CSS'ye dönüştür",
+		"ow": "Duyarlı tasarım",
+		"ox": "Tel çerçeveler",
+		"oy": "Rekabetçi UX analizi",
+		"oz": "Kullanıcı araştırması ve kişiler",
+		"o0": "Kullanıcı akışları",
+		"o1": "Kullanıcı arayüzü tasarımı",
+		"o2": "Ek bölümler",
+		"o3": "Ek simgeler/düğmeler",
+		"o4": "Simge animasyonu",
+		"o5": "Ek teknik çizimler",
+		"o6": "Konsept geliştirme",
+		"o7": "Tam konsept prototipi",
+		"o8": "Üretim için tasarım",
+		"o9": "Aydınlatma",
+		"pa": "Arma",
+		"pb": "Logo tasarımı",
+		"pc": "Özel katman",
+		"pd": "Yüz kamerası",
+		"pe": "Panel tasarımı",
+		"pf": "Sosyal medya kiti",
+		"pg": "Ek uyarı",
+		"ph": "Ek ekran",
+		"pi": "Ek ifade veya rozet",
+		"pj": "Özel grafikler",
+		"pk": "fotoğraf düzenleme",
+		"pl": "Sosyal medya tasarımı",
+		"pm": "Ekstra hızlı teslimat",
+		"pn": "Ek revizyon",
+		"po": "Özel grafikler",
+		"pp": "fotoğraf düzenleme",
+		"pq": "Sosyal medya tasarımı",
+		"pr": "Kaynak dosyası",
+		"ps": "Ek Stok Medya",
+		"pt": "Kapak tasarımı",
+		"pu": "Ek resim",
+		"pv": "Ek slaytlar",
+		"pw": "Görsel materyaller ekleyin",
+		"px": "Grafikleri ve grafikleri dahil et",
+		"py": "İnfografikleri dahil et",
+		"pz": "Slayt geçişini dahil et",
+		"p0": "Slayt animasyonunu dahil et",
+		"p1": "Ek veri noktaları",
+		"p2": "Araştırma yapmak",
+		"p3": "İnfografik sitelerinde yayınlayın",
+		"p4": "Ek sayfa",
+		"p5": "Kapak mektubu tasarımı",
+		"p6": "Çift katlı kabin tasarımı",
+		"p7": "Stant planları",
+		"p8": "Ek oluşturma resmi",
+		"p9": "3 boyutlu geçiş animasyonu",
+		"qa": "Grafik tasarımı dahil et",
+		"qb": "Saha koordinasyonu"
+	},
+	"countries": {
+		"AF": "Afganistan",
+		"AL": "Arnavutluk",
+		"DZ": "Cezayir",
+		"AS": "Amerikan Samoası",
+		"AD": "Andorra",
+		"AO": "Angola",
+		"AI": "Anguilla",
+		"AQ": "Antarktika",
+		"AG": "Antigua ve Barbuda",
+		"AR": "Arjantin",
+		"AM": "Ermenistan",
+		"AW": "Aruba",
+		"AU": "Avustralya",
+		"AT": "Avusturya",
+		"AZ": "Azerbaycan",
+		"BS": "Bahamalar",
+		"BH": "Bahreyn",
+		"BD": "Bangladeş",
+		"BB": "Barbados",
+		"BE": "Belçika",
+		"BZ": "Belize",
+		"BJ": "Benin",
+		"BM": "Bermuda",
+		"BT": "Butan",
+		"BO": "Bolivya",
+		"BA": "Bosna-Hersek",
+		"BW": "Botsvana",
+		"BV": "Bouvet Adası",
+		"BR": "Brezilya",
+		"IO": "Britanya Hint Okyanusu Bölgesi",
+		"BN": "Brunei Sultanlığı",
+		"BG": "Bulgaristan",
+		"BF": "Burkina Faso",
+		"CV": "Yeşil Burun Adaları",
+		"KH": "Kamboçya",
+		"CM": "Kamerun",
+		"CA": "Kanada",
+		"KY": "Cayman Adaları",
+		"CF": "Orta Afrika Cumhuriyeti",
+		"TD": "Çad",
+		"CL": "Şili",
+		"CN": "Çin",
+		"CX": "Noel Adası",
+		"CC": "Cocos (Keeling) Adaları",
+		"CO": "Kolombiya",
+		"KM": "Komorlar",
+		"CG": "Kongo",
+		"CD": "Kongo, Dem. Cumhuriyet",
+		"CK": "Cook Adaları",
+		"CR": "Kosta Rika",
+		"HR": "Hırvatistan",
+		"CY": "Kıbrıs",
+		"CZ": "Çekya",
+		"CI": "Fildişi Sahili",
+		"DK": "Danimarka",
+		"DJ": "Cibuti",
+		"DM": "Dominika",
+		"DO": "Dominik Cumhuriyeti",
+		"EG": "Mısır",
+		"SV": "El Salvador",
+		"GQ": "Ekvator Ginesi",
+		"ER": "Eritre",
+		"EE": "Estonya",
+		"SZ": "Esvatini",
+		"ET": "Etiyopya",
+		"EU": "Avrupa Birliği",
+		"FK": "Falkland Adaları (Malvinas)",
+		"FO": "Faroe Adaları",
+		"FJ": "Fiji",
+		"FI": "Finlandiya",
+		"FR": "Fransa",
+		"GF": "Fransız Guyanası",
+		"PF": "Fransız Polinezyası",
+		"TF": "Fransız Güney Toprakları",
+		"GA": "Gabon",
+		"GM": "Gambiya",
+		"GE": "Gürcistan",
+		"DE": "Almanya",
+		"GH": "Gana",
+		"GI": "Cebelitarık",
+		"GR": "Yunanistan",
+		"GL": "Grönland",
+		"GD": "Grenada",
+		"GP": "Guadeloupe (Fransızca)",
+		"GU": "Guam (ABD)",
+		"GG": "Guernsey",
+		"GN": "Gine",
+		"GY": "Guyana",
+		"HT": "Haiti",
+		"VA": "Kutsal Makam",
+		"HN": "Honduras",
+		"HK": "Hong Kong",
+		"HU": "Macaristan",
+		"IS": "İzlanda",
+		"IN": "Hindistan",
+		"ID": "Endonezya",
+		"IE": "İrlanda",
+		"IM": "Man Adası",
+		"IL": "İsrail",
+		"IT": "İtalya",
+		"JM": "Jamaika",
+		"JP": "Japonya",
+		"JE": "Jersey",
+		"JO": "Ürdün",
+		"KZ": "Kazakistan",
+		"KE": "Kenya",
+		"KI": "Kiribati",
+		"KR": "Güney Kore",
+		"KW": "Kuveyt",
+		"KG": "Kırgızistan",
+		"LA": "Laos",
+		"LS": "Lesoto",
+		"LR": "Liberya",
+		"LI": "Lihtenştayn",
+		"LU": "Lüksemburg",
+		"MO": "Makao",
+		"MW": "Malawi",
+		"MY": "Malezya",
+		"MV": "Maldivler",
+		"ML": "Mali",
+		"MT": "Malta",
+		"MH": "Marşal Adaları",
+		"MQ": "Martinik (Fransızca)",
+		"MR": "Moritanya",
+		"MU": "Mauritius",
+		"YT": "Mayotte",
+		"MX": "Meksika",
+		"FM": "Mikronezya",
+		"MD": "Moldova",
+		"MC": "Monako",
+		"MN": "Moğolistan",
+		"ME": "Karadağ",
+		"MS": "Montserrat",
+		"MA": "Fas",
+		"MZ": "Mozambik",
+		"MM": "Myanmar",
+		"NA": "Namibya",
+		"NR": "Nauru'lu",
+		"NP": "Nepal",
+		"NL": "Hollanda",
+		"NC": "Yeni Kaledonya (Fransızca)",
+		"NZ": "Yeni Zelanda",
+		"NI": "Nikaragua",
+		"NE": "Nijer",
+		"NG": "Nijerya",
+		"NU": "Niue",
+		"NF": "Norfolk Adası",
+		"MK": "Kuzey Makedonya",
+		"MP": "Kuzey Mariana Adaları",
+		"NO": "Norveç",
+		"OM": "Umman",
+		"PK": "Pakistan",
+		"PW": "Palau",
+		"PA": "Panama",
+		"PG": "Papua Yeni Gine",
+		"PY": "Paraguay",
+		"PE": "Peru",
+		"PH": "Filipinler",
+		"PN": "Pitcairn Adası",
+		"PL": "Polonya",
+		"PT": "Portekiz",
+		"PR": "Porto Riko",
+		"QA": "Katar",
+		"RE": "Yeniden Birleşme (Fransızca)",
+		"RO": "Romanya",
+		"RU": "Rusya",
+		"RW": "Ruanda",
+		"SH": "Aziz Helena",
+		"KN": "Saint Kitts ve Nevis Anguilla",
+		"LC": "Aziz Lucia",
+		"PM": "Saint Pierre ve Miquelon",
+		"VC": "Saint Vincent ve Grenadinler",
+		"WS": "Samoa",
+		"SM": "San Marino",
+		"ST": "Sao Tome ve Principe",
+		"SA": "Suudi Arabistan",
+		"SN": "Senegal",
+		"RS": "Sırbistan",
+		"SC": "Seyşeller",
+		"SL": "Sierra Leone",
+		"SG": "Singapur",
+		"SK": "Slovakya",
+		"SI": "Slovenya",
+		"SB": "Solomon Adaları",
+		"ZA": "Güney Afrika",
+		"ES": "ispanya",
+		"LK": "Sri Lanka",
+		"SR": "Surinam",
+		"SJ": "Svalbard ve Jan Mayen Adaları",
+		"SE": "İsveç",
+		"CH": "İsviçre",
+		"TW": "Tayvan",
+		"TJ": "Tacikistan",
+		"TZ": "Tanzanya",
+		"TH": "Tayland",
+		"TG": "Gitmek",
+		"TK": "Tokelau",
+		"TO": "Tonga",
+		"TT": "Trinidad ve Tobago",
+		"TN": "Tunus",
+		"TR": "Türkiye",
+		"TM": "Türkmenistan",
+		"TC": "Turks ve Caicos Adaları",
+		"TV": "Tuvalu",
+		"US": "Amerika Birleşik Devletleri",
+		"UM": "ABD Küçük Dış Adaları",
+		"UG": "Uganda",
+		"UA": "Ukrayna",
+		"AE": "Birleşik Arap Emirlikleri",
+		"GB": "Birleşik Krallık",
+		"UY": "Uruguay",
+		"UZ": "Özbekistan",
+		"VU": "Vanuatu",
+		"VN": "Vietnam",
+		"VG": "Virgin Adaları (İngiliz)",
+		"VI": "Virgin Adaları (ABD)",
+		"WF": "Wallis ve Futuna Adaları",
+		"EH": "Batı Sahra",
+		"YE": "Yemen",
+		"ZM": "Zambiya",
+		"ZW": "Zimbabve"
+	},
+	"languages": {
+		"ENG": ["English", "", "United Kingdom"],
+		"TWS": ["Akan", "", "Ghana"],
+		"AMH": ["Amharic", "", "Ethiopia"],
+		"ARZ": ["Arabic", "Egyptian Spoken", "Egypt"],
+		"ARQ": ["Arabic", "Algerian Spoken", "Algeria"],
+		"ARY": ["Arabic", "Moroccan Spoken", "Morocco"],
+		"AEC": ["Arabic", "Saidi Spoken", "Egypt"],
+		"APD": ["Arabic", "Sudanese Spoken", "Sudan"],
+		"APC": ["Arabic", "North Levantine Spoken", "Syria"],
+		"ACM": ["Arabic", "Mesopotamian Spoken", "Iraq"],
+		"ARS": ["Arabic", "Najdi Spoken", "Saudi Arabia"],
+		"AEB": ["Arabic", "Tunisian Spoken", "Tunisia"],
+		"AYN": ["Arabic", "Sanaani Spoken", "Yemen"],
+		"ASM": ["Assamese", "", "India"],
+		"AWD": ["Awadhi", "", "India"],
+		"AZB": ["Azerbaijani", "South", "Iran"],
+		"AZE": ["Azerbaijani", "North", "Azerbaijan"],
+		"RUW": ["Belarusan", "", "Belarus"],
+		"BNG": ["Bengali", "", "Bangladesh"],
+		"BHJ": ["Bhojpuri", "", "India"],
+		"BLG": ["Bulgarian", "", "Bulgaria"],
+		"BMS": ["Burmese", "", "Myanmar"],
+		"CEB": ["Cebuano", "", "Philippines"],
+		"HNE": ["Chhattisgarhi", "", "India"],
+		"CHN": ["Chinese", "Mandarin", "China"],
+		"WUU": ["Chinese", "Wu", "China"],
+		"YUH": ["Chinese", "Yue", "China"],
+		"CFR": ["Chinese", "Min Nan", "China"],
+		"CJY": ["Chinese", "Jinyu", "China"],
+		"HSN": ["Chinese", "Xiang", "China"],
+		"HAK": ["Chinese", "Hakka", "China"],
+		"KNN": ["Chinese", "Gan", "China"],
+		"MNP": ["Chinese", "Min Bei", "China"],
+		"CIT": ["Chittagonian", "", "Bangladesh"],
+		"CZC": ["Czech", "", "Czech Republic"],
+		"DCC": ["Deccan", "", "India"],
+		"DUT": ["Dutch", "", "Netherlands"],
+		"PES": ["Farsi", "Western", "Iran"],
+		"PRS": ["Farsi", "Eastern", "Afghanistan"],
+		"FRN": ["French", "", "France"],
+		"FUV": ["Fulfulde", "Nigerian", "Nigeria"],
+		"GER": ["German", "Standard", "Germany"],
+		"GRK": ["Greek", "", "Greece"],
+		"GJR": ["Gujarati", "", "India"],
+		"HAT": ["Haitian Creole French", "", "Haiti"],
+		"BGC": ["Haryanvi", "", "India"],
+		"HUA": ["Hausa", "", "Nigeria"],
+		"HIL": ["Hiligaynon", "", "Philippines"],
+		"HND": ["Hindi", "", "India"],
+		"HNG": ["Hungarian", "", "Hungary"],
+		"IGR": ["Igbo", "", "Nigeria"],
+		"ILO": ["Ilocano", "", "Philippines"],
+		"INZ": ["Indonesian", "", "Indonesia"],
+		"ITN": ["Italian", "", "Italy"],
+		"JPN": ["Japanese", "", "Japan"],
+		"JAN": ["Javanese", "", "Indonesia, Java, Bali"],
+		"KJV": ["Kannada", "", "India"],
+		"KAZ": ["Kazakh", "", "Kazakhstan"],
+		"KMR": ["Khmer", "Central", "Cambodia"],
+		"KKN": ["Korean", "", "Korea, South"],
+		"KUR": ["Kurmanji", "", "Turkey"],
+		"LMO": ["Lombard", "", "Italy"],
+		"MHJ": ["Madura", "", "Indonesia, Java, Bali"],
+		"MQM": ["Magahi", "", "India"],
+		"MKP": ["Maithili", "", "India"],
+		"MEX": ["Malagasy", "", "Madagascar"],
+		"MLI": ["Malay", "", "Malaysia, Peninsular"],
+		"MJS": ["Malayalam", "", "India"],
+		"MRT": ["Marathi", "", "India"],
+		"MKD": ["Marwari", "", "India"],
+		"NPL": ["Napoletano-Calabrese", "", "Italy"],
+		"NEP": ["Nepali", "", "Nepal"],
+		"ORY": ["Oriya", "", "India"],
+		"GAZ": ["Oromo", "West-Central", "Ethiopia"],
+		"PNB": ["Panjabi", "Western", "Pakistan"],
+		"PNJ": ["Panjabi", "Eastern", "India"],
+		"PBU": ["Pashto", "Northern", "Pakistan"],
+		"PBT": ["Pashto", "Southern", "Afghanistan"],
+		"PQL": ["Polish", "", "Poland"],
+		"POR": ["Portuguese", "", "Portugal"],
+		"RUM": ["Romanian", "", "Romania"],
+		"RUS": ["Russian", "", "Russia"],
+		"RUA": ["Rwanda", "", "Rwanda"],
+		"SKR": ["Saraiki", "", "Pakistan"],
+		"SRC": ["Serbo-Croatian", "", "Yugoslavia"],
+		"SHD": ["Shona", "", "Zimbabwe"],
+		"SND": ["Sindhi", "", "Pakistan"],
+		"SNH": ["Sinhala", "", "Sri Lanka"],
+		"SOM": ["Somali", "", "Somalia"],
+		"SPN": ["Spanish", "", "Spain"],
+		"SUO": ["Sunda", "", "Indonesia"],
+		"SWD": ["Swedish", "", "Sweden"],
+		"TGL": ["Tagalog", "", "Philippines"],
+		"TCV": ["Tamil", "", "India"],
+		"TTR": ["Tatar", "", "Russia"],
+		"TCW": ["Telugu", "", "India"],
+		"THJ": ["Thai", "", "Thailand"],
+		"TTS": ["Thai", "Northeastern", "Thailand"],
+		"TRK": ["Turkish", "", "Turkey"],
+		"UKR": ["Ukrainian", "", "Ukraine"],
+		"URD": ["Urdu", "", "Pakistan"],
+		"UIG": ["Uyghur", "", "China"],
+		"UZB": ["Uzbek", "Northern", "Uzbekistan"],
+		"VIE": ["Vietnamese", "", "Viet Nam"],
+		"YOR": ["Yoruba", "", "Nigeria"],
+		"CCX": ["Zhuang", "Northern", "China"],
+		"ZUU": ["Zulu", "", "South Africa"]
+	},
+	"languageProficiency": [
+		"Elementary",
+		"Limited working",
+		"Professional working",
+		"Full professional",
+		"Native or bilingual"
+	],
+	"monthname": [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
+	"certifications": [
+		"Accredited Tax Advisor (ATA)",
+		"Adobe Certified Expert",
+		"Akka Essentials with Scala | Rock the JVM",
+		"Appcelerator Titanium Certified Application Developer",
+		"Appcelerator Titanium Certified Mobile Developer",
+		"Associate Android Developer",
+		"AWS Certified Advanced Networking - Specialty",
+		"AWS Certified Alexa Skill Builder - Specialty",
+		"AWS Certified Cloud Practitioner",
+		"AWS Certified Data Analytics - Specialty",
+		"AWS Certified Database - Specialty",
+		"AWS Certified Developer - Associate",
+		"AWS Certified DevOps Engineer - Professional",
+		"AWS Certified Machine Learning - Specialty",
+		"AWS Certified Security - Specialty",
+		"AWS Certified Solutions Architect - Associate",
+		"AWS Certified Solutions Architect - Professional",
+		"AWS Certified SysOps Administrator - Associate",
+		"BlackBerry Certified Builder for Native Application Development",
+		"BlackBerry Certified Builder for Web Application Development",
+		"Cambridge English: Advanced (CAE)",
+		"Cambridge English: Business Vantage or Higher",
+		"Cambridge English: First (FCE)",
+		"Cambridge English: Proficiency (CPE)",
+		"Certified Ethical Hacker (CEH)",
+		"Certified Management Consultant (CMC)",
+		"Certified Paralegal (CP)",
+		"Certified Professional in Talent Development (CPTD former CPLP)",
+		"Certified Public Accountant (CPA)",
+		"Certified Translator",
+		"Chartered Financial Analyst (CFA)",
+		"Cisco and NetApp FlexPod Design Specialist",
+		"Cisco and NetApp FlexPod Implementation and Administration Specialist",
+		"Cisco Business Architecture Analyst",
+		"Cisco Business Architecture Practitioner",
+		"Cisco Business Architecture Specialist",
+		"Cisco Certified Architect (CCAr)",
+		"Cisco Certified Design Associate",
+		"Cisco Certified Design Expert (CCDE)",
+		"Cisco Certified Entry Networking Technician",
+		"Cisco Certified Internetwork Expert",
+		"Cisco Certified Internetwork Expert (CCIE) - Enterprise Infrastructure",
+		"Cisco Certified Internetwork Expert (CCIE) - Enterprise Wireless",
+		"Cisco Certified Internetwork Expert (CCIE) - Security",
+		"Cisco Certified Internetwork Expert (CCIE) - Service Provider",
+		"Cisco Certified Network Associate",
+		"Cisco Certified Network Associate Security",
+		"Cisco Certified Network Professional",
+		"Cisco Certified Network Professional (CCNP) - Collaboration",
+		"Cisco Certified Network Professional (CCNP) - Data Center",
+		"Cisco Certified Network Professional (CCNP) - Enterprise",
+		"Cisco Certified Network Professional (CCNP) - Security",
+		"Cisco Certified Network Professional (CCNP) - Service Provider",
+		"Cisco Certified Technician (CCT) - Collaboration",
+		"Cisco Certified Technician (CCT) - Data Center",
+		"Cisco Certified Technician (CCT) - Routing and Switching",
+		"Cisco Customer Success Manager",
+		"Cisco CyberOps Associate",
+		"Cisco DevNet Associate",
+		"Cisco DevNet Professional",
+		"Cisco Industrial Networking Specialist",
+		"Cisco IOS XR Specialist",
+		"Cisco Renewals Manager",
+		"Cisco Service Provider Mobility UMTS to LTE Specialist",
+		"Cisco Unified Contact Center Enterprise Specialist",
+		"CompTIA A+ Certification",
+		"CompTIA Advanced Security Practitioner (CASP+)",
+		"CompTIA Certified Technical Trainer (CTT+)",
+		"CompTIA Cloud+",
+		"CompTIA Cloud Essentials",
+		"CompTIA Cloud Essentials+",
+		"CompTIA Cybersecurity Analyst (CySA+)",
+		"CompTIA IT Fundamentals (ITF+)",
+		"CompTIA Linux+",
+		"CompTIA Network+ Certification",
+		"CompTIA PenTest+",
+		"CompTIA Project+ Certification",
+		"CompTIA Security+ Certification",
+		"CompTIA Server+",
+		"Data Center - Cisco Certified Internetwork Expert (CCIE)",
+		"Developing, Debugging and Analyzing Performance with the QNX Momentics IDE",
+		"Digital Marketing Pro",
+		"Docker Mastery: with Kubernetes+Swarm from a Docker Captain",
+		"Duolingo Proficiency Exam in English",
+		"Google Ads Apps Certification",
+		"Google Ads Display Certification",
+		"Google Ads - Measurement Certification",
+		"Google Ads Search Certification",
+		"Google Ads Video Certification",
+		"Google Analytics Individual Qualification",
+		"Hubspot Agency Partner Certification",
+		"Hubspot Contextual Marketing Certification",
+		"Hubspot Design Certification",
+		"Hubspot Inbound Certification",
+		"Hubspot Inbound Certification (2017 Version)",
+		"HubSpot Marketing Software Certification",
+		"IELTS - English Proficiency Exam",
+		"Linux Professional Institute Certification - Level 1",
+		"Linux Professional Institute Certification - Level 2",
+		"Linux Professional Institute Certification - Level 3",
+		"Magento 1 Certified Developer",
+		"Magento 1 Certified Developer Plus",
+		"Magento 1 Certified Front End Developer",
+		"Magento 1 Certified Solution Specialist",
+		"Magento 2 Certified Associate Developer",
+		"Magento 2 Certified Professional Developer",
+		"Magento 2 Certified Professional Developer Plus",
+		"Magento 2 Certified Professional Front End Developer",
+		"Magento 2 Certified Professional JavaScript Developer",
+		"Magento 2 Certified Solution Specialist",
+		"Microsoft Certified Professional",
+		"MongoDB Certified DBA Associate",
+		"MongoDB Certified Developer, Associate",
+		"Oracle Certified Associate",
+		"Oracle Certified Associate - Java",
+		"Oracle Certified Expert",
+		"Oracle Certified Expert - Java",
+		"Oracle Certified Master",
+		"Oracle Certified Master - Java",
+		"Oracle Certified Professional",
+		"Oracle Certified Professional - Java",
+		"Realtime Programming for the QNX Neutrino RTOS",
+		"Red Hat Certified Engineer",
+		"Red Hat Certified System Administrator",
+		"Salesforce Certified Administrator",
+		"Salesforce Platform App Builder",
+		"Salesforce Platform Developer I",
+		"Salesforce Platform Developer II",
+		"Shopping Ads Certification",
+		"Writing Drivers for the QNX Neutrino RTOS",
+		"Zend Certified Engineer",
+		"Zendesk Certified Explore CX Analyst",
+		"Zendesk Certified Guide Specialist",
+		"Zendesk Certified Support Admin",
+		"Zend Framework Certified Engineer"
+	],
+	"fiats": {
+		"AFN": "Afghanistan Afghani",
+		"ALL": "Albanian Lek",
+		"DZD": "Algerian Dinar",
+		"USD": "US Dollar",
+		"EUR": "Euro",
+		"AOA": "Angolan Kwanza",
+		"XCD": "East Caribbean Dollar",
+		"ARS": "Argentine Peso",
+		"AMD": "Armenian Dram",
+		"AWG": "Aruban Guilder",
+		"AUD": "Australian Dollar",
+		"AZN": "Azerbaijan New Manat",
+		"BSD": "Bahamian Dollar",
+		"BHD": "Bahraini Dinar",
+		"BDT": "Bangladeshi Taka",
+		"BBD": "Barbados Dollar",
+		"BZD": "Belize Dollar",
+		"XOF": "CFA Franc BCEAO",
+		"BMD": "Bermudian Dollar",
+		"BTN": "Bhutan Ngultrum",
+		"BOB": "Boliviano",
+		"BAM": "Marka",
+		"BWP": "Botswana Pula",
+		"NOK": "Norwegian Krone",
+		"BRL": "Brazilian Real",
+		"BND": "Brunei Dollar",
+		"BGN": "Bulgarian Lev",
+		"CVE": "Cape Verde Escudo",
+		"KHR": "Kampuchean Riel",
+		"XAF": "CFA Franc BEAC",
+		"CAD": "Canadian Dollar",
+		"KYD": "Cayman Islands Dollar",
+		"CLP": "Chilean Peso",
+		"CNY": "Yuan Renminbi",
+		"COP": "Colombian Peso",
+		"KMF": "Comoros Franc",
+		"CDF": "Francs",
+		"NZD": "New Zealand Dollar",
+		"CRC": "Costa Rican Colon",
+		"HRK": "Croatian Kuna",
+		"CZK": "Czech Koruna",
+		"DKK": "Danish Krone",
+		"DJF": "Djibouti Franc",
+		"DOP": "Dominican Peso",
+		"EGP": "Egyptian Pound",
+		"SVC": "El Salvador Colon",
+		"ERN": "Eritrean Nakfa",
+		"SZL": "Swaziland Lilangeni",
+		"ETB": "Ethiopian Birr",
+		"FKP": "Falkland Islands Pound",
+		"FJD": "Fiji Dollar",
+		"XPF": "CFP Franc",
+		"GMD": "Gambian Dalasi",
+		"GEL": "Georgian Lari",
+		"GHS": "Ghanaian Cedi",
+		"GIP": "Gibraltar Pound",
+		"GGP": "Pound Sterling",
+		"GNF": "Guinea Franc",
+		"GYD": "Guyana Dollar",
+		"HTG": "Haitian Gourde",
+		"HNL": "Honduran Lempira",
+		"HKD": "Hong Kong Dollar",
+		"HUF": "Hungarian Forint",
+		"ISK": "Iceland Krona",
+		"INR": "Indian Rupee",
+		"IDR": "Indonesian Rupiah",
+		"GBP": "Pound Sterling",
+		"ILS": "Israeli New Shekel",
+		"JMD": "Jamaican Dollar",
+		"JPY": "Japanese Yen",
+		"JOD": "Jordanian Dinar",
+		"KZT": "Kazakhstan Tenge",
+		"KES": "Kenyan Shilling",
+		"KRW": "Korean Won",
+		"KWD": "Kuwaiti Dinar",
+		"KGS": "Som",
+		"LAK": "Lao Kip",
+		"LSL": "Lesotho Loti",
+		"LRD": "Liberian Dollar",
+		"CHF": "Swiss Franc",
+		"MOP": "Macau Pataca",
+		"MWK": "Malawi Kwacha",
+		"MYR": "Malaysian Ringgit",
+		"MVR": "Maldive Rufiyaa",
+		"MRO": "Mauritanian Ouguiya",
+		"MUR": "Mauritius Rupee",
+		"MXN": "Mexican Nuevo Peso",
+		"MDL": "Moldovan Leu",
+		"MNT": "Mongolian Tugrik",
+		"MAD": "Moroccan Dirham",
+		"MZN": "Mozambique Metical",
+		"MMK": "Myanmar Kyat",
+		"NAD": "Namibian Dollar",
+		"NPR": "Nepalese Rupee",
+		"NIO": "Nicaraguan Cordoba Oro",
+		"NGN": "Nigerian Naira",
+		"MKD": "Denar",
+		"OMR": "Omani Rial",
+		"PKR": "Pakistan Rupee",
+		"PAB": "Panamanian Balboa",
+		"PGK": "Papua New Guinea Kina",
+		"PYG": "Paraguay Guarani",
+		"PEN": "Peruvian Nuevo Sol",
+		"PHP": "Philippine Peso",
+		"PLN": "Polish Zloty",
+		"QAR": "Qatari Rial",
+		"RON": "Romanian New Leu",
+		"RUB": "Russian Ruble",
+		"RWF": "Rwanda Franc",
+		"SHP": "St. Helena Pound",
+		"WST": "Samoan Tala",
+		"STD": "Dobra",
+		"SAR": "Saudi Riyal",
+		"RSD": "Dinar",
+		"SCR": "Seychelles Rupee",
+		"SLL": "Sierra Leone Leone",
+		"SGD": "Singapore Dollar",
+		"SBD": "Solomon Islands Dollar",
+		"ZAR": "South African Rand",
+		"LKR": "Sri Lanka Rupee",
+		"SRD": "Surinam Dollar",
+		"SEK": "Swedish Krona",
+		"TWD": "Taiwan Dollar",
+		"TJS": "Tajik Somoni",
+		"TZS": "Tanzanian Shilling",
+		"THB": "Thai Baht",
+		"TOP": "Tongan Pa'anga",
+		"TTD": "Trinidad and Tobago Dollar",
+		"TND": "Tunisian Dollar",
+		"TRY": "Turkish Lira",
+		"TMT": "Manat",
+		"UGX": "Uganda Shilling",
+		"UAH": "Ukraine Hryvnia",
+		"AED": "Arab Emirates Dirham",
+		"UYU": "Uruguayan Peso",
+		"UZS": "Uzbekistan Sum",
+		"VUV": "Vanuatu Vatu",
+		"VND": "Vietnamese Dong",
+		"YER": "Yemeni Rial",
+		"ZMW": "Zambian Kwacha"
+	},
+	"timezones": [
+		["(UTC-12:00) International Date Line West", "Etc/GMT+12", -12],
+		["(UTC-11:00) Coordinated Universal Time-11", "Etc/GMT+11", -11],
+		["(UTC-10:00) Hawaii", "Pacific/Honolulu", -10],
+		["(UTC-09:00) Alaska", "America/Anchorage", -9],
+		["(UTC-08:00) Baja California", "America/Santa_Isabel", -8],
+		["(UTC-08:00) Pacific Time (US and Canada)", "America/Los_Angeles", -8],
+		["(UTC-07:00) Chihuahua, La Paz, Mazatlan", "America/Chihuahua", -7],
+		["(UTC-07:00) Arizona", "America/Phoenix", -7],
+		["(UTC-07:00) Mountain Time (US and Canada)", "America/Denver", -7],
+		["(UTC-06:00) Central America", "America/Guatemala", -6],
+		["(UTC-06:00) Central Time (US and Canada)", "America/Chicago", -6],
+		["(UTC-06:00) Saskatchewan", "America/Regina", -6],
+		["(UTC-06:00) Guadalajara, Mexico City, Monterey", "America/Mexico_City", -6],
+		["(UTC-05:00) Bogota, Lima, Quito", "America/Bogota", -5],
+		["(UTC-05:00) Indiana (East)", "America/Indiana/Indianapolis", -5],
+		["(UTC-05:00) Eastern Time (US and Canada)", "America/New_York", -5],
+		["(UTC-04:30) Caracas", "America/Caracas", -4.5],
+		["(UTC-04:00) Atlantic Time (Canada)", "America/Halifax", -4],
+		["(UTC-04:00) Asuncion", "America/Asuncion", -4],
+		["(UTC-04:00) Georgetown, La Paz, Manaus, San Juan", "America/La_Paz", -4],
+		["(UTC-04:00) Cuiaba", "America/Cuiaba", -4],
+		["(UTC-04:00) Santiago", "America/Santiago", -4],
+		["(UTC-03:30) Newfoundland", "America/St_Johns", -3.5],
+		["(UTC-03:00) Brasilia", "America/Sao_Paulo", -3],
+		["(UTC-03:00) Greenland", "America/Godthab", -3],
+		["(UTC-03:00) Cayenne, Fortaleza", "America/Cayenne", -3],
+		["(UTC-03:00) Buenos Aires", "America/Argentina/Buenos_Aires", -3],
+		["(UTC-03:00) Montevideo", "America/Montevideo", -3],
+		["(UTC-02:00) Coordinated Universal Time-2", "Etc/GMT+2", -2],
+		["(UTC-01:00) Cape Verde", "Atlantic/Cape_Verde", -1],
+		["(UTC-01:00) Azores", "Atlantic/Azores", -1],
+		["(UTC+00:00) Casablanca", "Africa/Casablanca", 0],
+		["(UTC+00:00) Monrovia, Reykjavik", "Atlantic/Reykjavik", 0],
+		["(UTC+00:00) Dublin, Edinburgh, Lisbon, London", "Europe/London", 0],
+		["(UTC+00:00) Coordinated Universal Time", "Etc/GMT", 0],
+		["(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna", "Europe/Berlin", 1],
+		["(UTC+01:00) Brussels, Copenhagen, Madrid, Paris", "Europe/Paris", 1],
+		["(UTC+01:00) West Central Africa", "Africa/Lagos", 1],
+		["(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague", "Europe/Budapest", 1],
+		["(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb", "Europe/Warsaw", 1],
+		["(UTC+01:00) Windhoek", "Africa/Windhoek", 1],
+		["(UTC+02:00) Athens, Bucharest, Istanbul", "Europe/Istanbul", 2],
+		["(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius", "Europe/Kiev", 2],
+		["(UTC+02:00) Cairo", "Africa/Cairo", 2],
+		["(UTC+02:00) Damascus", "Asia/Damascus", 2],
+		["(UTC+02:00) Amman", "Asia/Amman", 2],
+		["(UTC+02:00) Harare, Pretoria", "Africa/Johannesburg", 2],
+		["(UTC+02:00) Jerusalem", "Asia/Jerusalem", 2],
+		["(UTC+02:00) Beirut", "Asia/Beirut", 2],
+		["(UTC+03:00) Baghdad", "Asia/Baghdad", 3],
+		["(UTC+03:00) Minsk", "Europe/Minsk", 3],
+		["(UTC+03:00) Kuwait, Riyadh", "Asia/Riyadh", 3],
+		["(UTC+03:00) Nairobi", "Africa/Nairobi", 3],
+		["(UTC+03:30) Tehran", "Asia/Tehran", 3.5],
+		["(UTC+04:00) Moscow, St. Petersburg, Volgograd", "Europe/Moscow", 4],
+		["(UTC+04:00) Tbilisi", "Asia/Tbilisi", 4],
+		["(UTC+04:00) Yerevan", "Asia/Yerevan", 4],
+		["(UTC+04:00) Abu Dhabi, Muscat", "Asia/Dubai", 4],
+		["(UTC+04:00) Baku", "Asia/Baku", 4],
+		["(UTC+04:00) Port Louis", "Indian/Mauritius", 4],
+		["(UTC+04:30) Kabul", "Asia/Kabul", 4.5],
+		["(UTC+05:00) Tashkent", "Asia/Tashkent", 5],
+		["(UTC+05:00) Islamabad, Karachi", "Asia/Karachi", 5],
+		["(UTC+05:30) Sri Jayewardenepura Kotte", "Asia/Colombo", 5.5],
+		["(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi", "Asia/Kolkata", 5.5],
+		["(UTC+05:45) Kathmandu", "Asia/Kathmandu", 5.75],
+		["(UTC+06:00) Astana", "Asia/Almaty", 6],
+		["(UTC+06:00) Dhaka", "Asia/Dhaka", 6],
+		["(UTC+06:00) Yekaterinburg", "Asia/Yekaterinburg", 6],
+		["(UTC+06:30) Yangon", "Asia/Yangon", 6.5],
+		["(UTC+07:00) Bangkok, Hanoi, Jakarta", "Asia/Bangkok", 7],
+		["(UTC+07:00) Novosibirsk", "Asia/Novosibirsk", 7],
+		["(UTC+08:00) Krasnoyarsk", "Asia/Krasnoyarsk", 8],
+		["(UTC+08:00) Ulaanbaatar", "Asia/Ulaanbaatar", 8],
+		["(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi", "Asia/Shanghai", 8],
+		["(UTC+08:00) Perth", "Australia/Perth", 8],
+		["(UTC+08:00) Kuala Lumpur, Singapore", "Asia/Singapore", 8],
+		["(UTC+08:00) Taipei", "Asia/Taipei", 8],
+		["(UTC+09:00) Irkutsk", "Asia/Irkutsk", 9],
+		["(UTC+09:00) Seoul", "Asia/Seoul", 9],
+		["(UTC+09:00) Osaka, Sapporo, Tokyo", "Asia/Tokyo", 9],
+		["(UTC+09:30) Darwin", "Australia/Darwin", 9.5],
+		["(UTC+09:30) Adelaide", "Australia/Adelaide", 9.5],
+		["(UTC+10:00) Hobart", "Australia/Hobart", 10],
+		["(UTC+10:00) Yakutsk", "Asia/Yakutsk", 10],
+		["(UTC+10:00) Brisbane", "Australia/Brisbane", 10],
+		["(UTC+10:00) Guam, Port Moresby", "Pacific/Port_Moresby", 10],
+		["(UTC+10:00) Canberra, Melbourne, Sydney", "Australia/Sydney", 10],
+		["(UTC+11:00) Vladivostok", "Asia/Vladivostok", 11],
+		["(UTC+11:00) Solomon Islands, New Caledonia", "Pacific/Guadalcanal", 11],
+		["(UTC+12:00) Coordinated Universal Time+12", "Etc/GMT-12", 12],
+		["(UTC+12:00) Fiji, Marshall Islands", "Pacific/Fiji", 12],
+		["(UTC+12:00) Magadan", "Asia/Magadan", 12],
+		["(UTC+12:00) Auckland, Wellington", "Pacific/Auckland", 12],
+		["(UTC+13:00) Nuku'alofa", "Pacific/Tongatapu", 13],
+		["(UTC+13:00) Samoa", "Pacific/Apia, 13"]
+	],
+	"error": {
+		"10000": "internal error",
+		"10001": "The client has lost connection with the server.",
+		
+		"20000": "We have detected that you have been trying to perform the same action repeatedly. Please wait 10 minutes before trying again.",
+		"20001": "The email address you entered already is being used by FWork account. Please try another one.",
+		"20002": "The email address you entered is not in the correct format",
+		
+		"20005": "Password must be at least 8 characters long",
+		"20006": "Password must be less than 32 characters.",
+		"20007": "Please confirm the new password you entered.",
+		
+		"20008": "You may have accidentally clicked the \"cancel\" button while trying to log in",
+		
+		"20010": "Please try again to solve the captcha.",
+
+		"20011": "The registration link is not valid.",
+		"20012": "The registration link has expired.",
+		"20013": "The registration link is no longer active.",
+		"20015": "You may have entered an incorrect username or password",
+		"20016": "The account you entered does not exist.",
+		"20017": "The account exist already.",
+		"20018": "Your login attempt was denied. Please contact the system administrator for assistance.",
+		"20019": "It looks like you created your account using social login. To log in using your password, please sign in with your social media account and set up your password.",
+		"20020": "The authenticator code you entered is incorrect.",
+		
+		"20030": "It looks like you already have a freelancer profile created.",
+		
+		
+
+
+		"30000": "Please log in to continue",
+		"32000": "Reserved for implementation-defined server-errors.",
+		"32600": "The JSON sent is not a valid Request object.",
+		"32601": "The method does not exist / is not available.",
+		"32602": "Invalid method parameter(s).",
+		"32603": "Internal JSON-RPC error."
+	}
+}

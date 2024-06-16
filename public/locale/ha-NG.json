@@ -1,0 +1,5583 @@
+{
+	"meta": {
+		"home-title": "Nemi mafi kyawun baiwa ta duniya.",
+		"home-desc": "Hayar 'yan siyasa & Nemo jobs na' yanci akan layiHidima",
+		"aboutus-title": "Bayyana labarin mu |Ayyuka - Masu ƙirƙira, masu haɗin gwiwar, da hangen nesa",
+		"aboutus-desc": "Gano tafiya mai gudana da ethos bayan ayyukan.",
+		"login-title": "Aiki - Samun damar Asusunka kuma Nemo aikin Mafarki, da gwaninta",
+		"login-desc": "Shiga don yin hayar 'yan siyasa & samun aiki |M",
+		"register-title": "Shiga Foctor |Accountirƙiri asusunka na neman aiki",
+		"register-desc": "Yi rijista don Asusun kyauta akan Ayyuka da Samun damar zuwa Zabi Mai Kyau",
+		"uploadresume-title": "Sanya ci gaba |Haɓaka bincikenku game da ayyukan",
+		"uploadresume-desc": "Daukaka bincikenku na neman wasanni ta hanyar shigar da ci gaba",
+		"updatepassword-title": "Sabunta kalmar sirri |Amintacciyar asusunka akan wasanni",
+		"updatepassword-desc": "Kula da tsaron asusunku na asusunku ta hanyar sabunta kalmar sirri",
+		"blog-list-title": "Sabbin Tanadi da Labarai |FITOM AIKI VLK VLO |Abin neman labari",
+		"blog-list-desc": "Kasance da wata-lokaci tare da sabbin hanyoyin sabbin masana'antu, shawarwarin aiki, da kuma kasuwar ayyukan aiki suna nuna alamar shafin yanar gizon da ke gabatarwa.",
+		"blog-detail-title": "Bincika Blog |FITO NA AIKI",
+		"blog-detail-desc": "Serve cikin blog akan shafin yanar gizon Site Blog",
+		"contactus-title": "Lamba game da gidan aikin aiki |Shiga tare da ƙungiyarmu",
+		"contactus-desc": "Kai ga kungiyar da aka sadaukarwar da aka sadaukarwar da aka sadaukar a cikin rukunin aikin bincike don kowane bincike, martani, ko taimako",
+		"employer-detail-title": "Bincika cikakkun bayanan ma'aikaci |Filin aiki na aiki",
+		"employer-detail-desc": "Gano cikakken bayani game da mai aiki kan shafin aiki na aiki, gami da bayanan kamfanin, da jerin ayyukan, da kuma ma'anar kirkirar.",
+		"freelancer-list-title": "Nemi 'yan' yan zaman lafiya |Filin aiki na aiki",
+		"freelancer-list-desc": "Yi bincike da hayar masu fasaha masu ƙarfi game da rukunin aikin aiki.",
+		"freelancer-detail-title": "Dandana mai fasaha |Filin aiki na aiki",
+		"freelancer-detail-desc": "Gano bayanin martaba, gogaggen mai fasaha",
+		"influencer-title": "FITOPROMPRRIPRRRROR |Juya tasirinka cikin kudin shiga",
+		"influencer-desc": "Kasance tare da darajojin masu tasiri wanda ya sami kwamitocin ta hanyar inganta babbar kasuwa mafi girma a duniya na sabis na dijital.",
+		"invitefriend-title": "Nemi mafi kyawun baiwa ta duniya.",
+		"invitefriend-desc": "Sami lada tare da aikin samar da ayyukan shiga",
+		"job-list-title": "Nemi Ayyuka |Guraben aiki |Filin aiki na aiki",
+		"job-list-desc": "Bincika wuraren da aka ɗauko daga cikin masana'antu da yawa a cikin masana'antu daban-daban da kuma matsayi a wurin aikin aiki.",
+		"job-detail-title": "Aiki aiki",
+		"job-detail-desc": "Bincika cikakken bayanin aikin game da Site Guest Site",
+		"learn-list-title": "Gano kayan aiki da kuma fahimta |Filin aiki na aiki",
+		"learn-list-desc": "Fadada iliminka na aiki da kuma samun haske mai mahimmanci tare da rukunin aikin aikin aiki na aiki.",
+		"learn-detail-title": "Nasihun Binciken Ayuba, Neman Jagoranci, da kuma Ci gaban kwararru |Filin aiki na aiki",
+		"learn-detail-desc": "Sites aikin aikin koyon sashen yana samar da tukwici mai mahimmanci, jagorancin aiki, da kuma albarkatun haɓaka ƙwararru don taimaka muku nasara.",
+		"order-checkout-title": "Amintacce da kuma dacewa da izinin oda |Filin aiki na aiki",
+		"order-checkout-desc": "Kammala sayan ku da kwanciyar hankali da amincewa kan rukunin aikin aikin amintattu da kuma dacewar tsari.",
+		"order-payment-title": "Amintaccen biyan kuɗi mai tsaro |Filin aiki na aiki",
+		"order-payment-desc": "Kwarewa mara kyau da kuma amintaccen biyan kuɗi akan aikin biyan kuɗi na aikin biyan kuɗi",
+		"project-list-title": "Bincika ayyukan masu ban sha'awa |Filin aiki na aiki",
+		"project-list-desc": "Gano kewayon kewayon ayyukan da ke haifar da ayyukan aikin a shafin jerin ayyukan aikin Page.",
+		"project-detail-title": "Cikakken Bayani na Aikin |Filin aiki na aiki",
+		"project-detail-desc": "Sami cikakkiyar fahimta cikin bayanan ayyukan da ake ciki akan Fork On Site Page Page",
+		"search-service-title": "Binciken Bincike - Ayyuka",
+		"search-service-desc": "Nemo mafi kyawun bayarwa daga masu zaman lafiya.FOTTICK AIKIN SAUKI",
+		"service-category-title": "Bincika nau'ikan sabis na baya |Filin aiki na aiki",
+		"service-category-desc": "Gano tsararren nau'ikan sabis na ƙwararrun sabis akan kayan aikin sabis na Site Site.",
+		"service-detail-title": "Ayyuka masu sana'a |Filin aiki na aiki",
+		"service-detail-desc": "Kwarewa na musamman ayyukan a kan aikin aiki.",
+		"service-list-title": "Bincika nau'ikan sabis na daban-daban akan aikin shiga cikin aikin shiga |Nemo cikakken bayani",
+		"service-list-desc": "Nemo mafi kyawun bayarwa daga masu zaman lafiya.FOTTICK AIKIN SAUKI",
+		"top-service-title": "Bincika mafi kyawun ayyuka kan aikin aikin aiki |Masu ba da sabis na amintattu |Abin neman labari",
+		"top-service-desc": "Gano sabis na sama akan wurin aiki na aiki kuma haɗa tare da masu ba da sabis na amintattu a cikin masana'antu daban-daban.",
+		"notfound-title": "404 - Ba a samo shafin ba |Abin neman labari",
+		"notfound-desc": "Ba a samo URL ɗin da aka nema ba |Abin neman labari",
+		"userpage-title": "Shafi shafi shafi shafi shafi |Filin aiki na aiki",
+		"userpage-desc": "Irƙiri bayananku ka shiga cikin al'ummomin masu zaman kansu da kasuwancin da suke neman hada gwiwa."
+	},
+	"header": {
+		"messages": "Manegiya",
+		"nomessage": "Babu saƙonni",
+		"pending-message": "A lokacin sakonni",
+		"pending-order": "A lokacin umarni",
+		"clearall": "Share duka",
+		"viewall": "Duba duka",
+		"no-data": "Babu bayanai"
+	},
+	"ui": {
+		"email-placeholder": "Da fatan za a shigar da imel ɗin ku.",
+		"subscribe": "Yi rijista",
+		"submit": "Sallama"
+	},
+	"app": {
+		"page-title": "FWork - Wurin Kasuwa na Sabis na Sabis",
+		"page-desc": "Nemo mafi kyawun baiwa na duniya & nemo aikin da kuke fata. Kasuwa ɗaya, miliyoyin sabis na ƙwararru",
+		"menu-service": "Sayi Sabis",
+		"menu-freelancer": "Hayar Tallafi",
+		"menu-work": "Nemo aiki",
+		"menu-job": "Nemi aiki",
+		"menu-blog": "Blog",
+		"menu-about": "Game da Mu",
+		"menu-login": "Shiga",
+		"menu-register": "Yi rijista",
+		"menu-notifications": "Sanarwa",
+		"menu-messages": "Saƙonni",
+		"menu-orders": "Umarni",
+		"menu-information": "Bayani",
+		"menu-security": "Tsaro",
+		"menu-finance": "Kudi",
+		"menu-freelancer-Profile": "Fayil na Freelancer",
+		"menu-client-Profile": "Bayanan Abokin ciniki",
+		"menu-proposals": "Shawarwari",
+		"menu-log-out": "Fita",
+		"menu-language": "Harshe",
+		"menu-light-mode": "Haske",
+		"menu-dark-mode": "Duhu",
+		"construction": [
+			"A halin yanzu a cikin ci gaba", 
+			"Wasu bayanai suna samuwa ga masu amfani masu iyaka kawai."
+		],
+		"welcome-title": "Barka da zuwa!",
+		"welcome-desc": [
+			"Barka da zuwa gidan yanar gizon mu! Muna farin cikin samun ku a nan kuma muna son ci gaba da sabunta ku kan sabbin labarai, samfuranmu, da haɓakawa.",
+			"Ta hanyar biyan kuɗi zuwa wasiƙarmu, za ku kasance farkon wanda zai sani game da keɓaɓɓen tayinmu da sabuntawa masu kayatarwa.",
+			"Don biyan kuɗi, kawai shigar da adireshin imel ɗin ku a ƙasa kuma danna \"Subscribe\". Kada ku damu, ba za mu ba ku spam ba ko raba bayanin ku ga wani. Mun gode da shiga cikin al'ummarmu!"
+		]
+	},
+	"footer": {
+		"fwork-with-location": "FOMT LLC, WYMing, Amurka",
+		"address": "1603 Capitol Avenue, Suite 413, 4200 \n Cheyenne, wyoming 82001, Amurka",
+		"clients": "Ga abokan ciniki",
+		"how-to-hire": "Yadda ake yin hayar",
+		"project-catalog": "Catalog",
+		"freelancers": "Ga masu zaman kansu",
+		"how-to-find-work": "Yadda ake nemo aiki",
+		"find-freelancer-job": "Nemi aiki mai kyau",
+		"direct-contracts": "Kwangila kai tsaye",
+		"Resources": "Albarkaceci",
+		"learn": "Koya",
+		"invite-friends": "Gayyata abokai",
+		"influencers": "Sakamako",
+		"affiliate": "Shirin Hadin gwiwar Hadin gwiwa",
+		"company": "Kamfani",
+		"about-us": "Game da mu",
+		"contact-us": "Tuntube mu"
+	},
+	"home": {
+		"heading": "Haɗu da Ƙaƙwalwar Ƙaƙwalwa tare da ƙwararrun ƴancin kai ba Rukunin Ayyukanmu ba",
+		"heading-desc": "Mafarkin Mafarkin ku yana Jiran - Nemo Cikakken Match ɗinku A Yau.",
+		"search-hint": "Gwada 'tsarin sadarwar zamantakewa'",
+		"search": "Bincika",
+		"search-ex": "Shahararriyar bincike",
+		"banner-text": "HIDIMAR",
+		"pro-service": "Tabbatar da Ayyukan Pro",
+		"pro-service-desc": "Halayen da aka tantance da hannu don duk buƙatun ƙwararrun ku.",
+		"browse-more": "Nemo ƙarin ayyuka",
+		"desire-category": "Zaɓi Rukunin Sha'awarku",
+		"jobs-by-categories": "Ayyuka ta Categories",
+		"job-count": "An Sami Ayyuka",
+		"all-categories": "Duk Categories",
+		"sponsored-services": "Ayyukan Tallafi",
+		"sponsored-services-desc": "Sami fa'ida mai fa'ida a cikin daukar ma'aikata tare da Sabis ɗin Tallafin mu, yana ba da babban haske ga 'yan takara masu daraja.",
+		"resume-title": "A same ku sanya CV a gaban manyan ma'aikata",
+		"resume-desc": "Babban manufar bayyana matsayinku da alhakinku ga masu yuwuwar ma'aikata shine don samar musu da misalan abin da kuka samu akan aikin da kuma yadda kuka ba da gudummawa gaba ɗaya ga kamfani.",
+		"resume-upload": "Shigar da Ci gaba naku",
+		"candidate": "Manyan ’Yan Takara",
+		"candidate-desc": "Buɗe yuwuwar ƙwararrun ƙwararrun ƴan takarar da suke shirye su yi fice a ƙungiyar ku, an tantance su a hankali kuma sun dace da takamaiman bukatun aikinku.",
+		"latest-jobs": "Sabbin Ayyuka",
+		"latest-news": "Sabbin Sabuntawa & Labarai",
+		"latest-news-desc": "Kasance tare da sabbin abubuwan masana'antu, fahimtar kasuwar aiki, da labarai masu dacewa ta hanyar ingantaccen dandamalinmu, tabbatar da cewa koyaushe ana sanar da ku don yanke shawara.",
+		"subscribe": "Yi rijista Yanzu!",
+		"subscribe-desc": "Biyan kuɗi yanzu kuma sami keɓantacciyar dama ga ɗimbin damammakin aiki, albarkatun aiki, da sabbin abubuwa na keɓaɓɓun waɗanda aka keɓance ga abubuwan ƙwararrun ku."
+		,
+		"why-choose-us": "Me yasa Zabi Amurka?",
+		"why-choose-us-1": "1️⃣ Skillswarewararrun kwarewa: dandamalin kayan aikinmu yana tabbatar da tabbatar da ƙwarewar fasaha, bayar da kimantawa mai zaman lafiya ba tare da aikin Kyc ba.",
+		"why-choose-us-2": "2️⃣ Dogara & Tsaro: Muna fifita imani ta hanyar leverargaza bayanai na toshe, tabbatar da amincin bayanan masu zaman kansu da tarihin aiki.",
+		"why-choose-us-3": "Kariyar Sirrin: Tsarkakakken tushenmu da masu hankali, kiyaye bayanan sirri da kuma rage hadarin da ba tare da izini ba.",
+		"why-choose-us-4": "4Yar albashi mai sauki: Jin daɗin abubuwan biyan kuɗi na banbanci kyauta, yana ba da damar masu zaman kansu don su amince da abin da suka samu ba tare da Kyc ba.",
+		"why-choose-us-5": "Haɗin duniya na duniya: Haɗa tare da masu zaman kansu da ma'aikata a duk duniya, zaɓar cikin tafkunan iyawa daban-daban don haɗin gwiwar da ba tare da unparaleled ba.",
+		"why-choose-us-6": "6️⃣ Inn: Tsaya a farkon masana'antar mai zaman kansa tare da sadaukarwarmu don yin rikodin fasahar -Boin.",
+		"why-choose-us-7": "Kasance tare damu don amintacce, an tabbatar da shi, da kuma Haɓaka Kasada ta Kyauta!💪"
+	},
+	
+	"welcome": {
+		"note-1": "A cikin nasara!🎉",
+		"note-2": "Taya murna kan nasara biyan kuɗi zuwa Jerin email!",
+		"note-3": "Na gode da kuka zabi don kasancewa tare da mu! 🥳"
+	},
+	"bonus": {
+		"title": "Monus Bonus Godaway - $ 100 na mambobi 5 masu sa'a!🎁",
+		"desc-1": "Labari mai dadi!Muna rike da bonus na mako-mako na baya inda zamu bayar da kyautar dala 100 ga mambobi 100 zuwa biyar wadanda suka yi fice a kan mabiya, da sakon aikin, da kuma ayyuka daban-daban!🌟",
+		"desc-2": "Ga yadda zaku iya shiga da kuma ƙara yawan damar cin nasara:",
+		"desc-3": "1️⃣ Mika: Yada kalmar game da dandalinmu, samfuran, ko sabis ga abokanka, abokan aiki, ko haɗin kai.Yawancin mutane da kuke magana, mafi girman damar ku na cin nasara!",
+		"desc-4": "2Ya kunne: Raba damar aiki mai mahimmanci, horo, ko bayanan da suka shafi aiki a cikin jama'armu.Ba wai kawai gudummawar ku ba kawai ba kawai taimaka wa wasu ba amma kuma suna ƙidaya zuwa shigarwar ku a cikin bayarwa.",
+		"desc-5": "3Ya biyo baya: Ku kasance tare da mu ta hanyar tasirinmu na hukuma.Za ku karɓi ɗaukakawa, abun ciki mai mahimmanci, kuma ku cancanci bayar da kyauta.",
+		"desc-6": "Ayyuka 4 na ayyuka: sa hannu a cikin al'umma ta hanyar shiga cikin tattaunawa, samar da shawarar taimako, da kuma tallafawa 'yan'uwa mambobi.Za a la'akari da abin da kuka tasirin ku saboda bayarwa.",
+		"desc-7": "A ƙarshen kowane mako, zamu zaɓi masu cin nasara guda biyar waɗanda zasu sami $ 100 kyauta ga godiya ta godiya!Hanya ce ta gode maka don gudummawar da ku da tallafi mai mahimmanci.💵🙌🎁",
+		"desc-8": "Ka tuna ka ci gaba da ido don sanarwar mu da sabuntawa, kazalika da kai tsaye shiga game da kai, sakonnin aiki, da ayyuka masu ma'ana.Tare, za mu iya sa al'ummanmu fiye da ƙarfi da nasara!🌈🚀🌟",
+		"desc-9": "Fatan alheri ga kowa halartar da bonus na mako-mako.Bari mu sanya shi mako mai ban mamaki na nasara!💼💰🎉"
+	},
+	"learn": {
+		"title": "Moreara koyo, sami ƙarin abubuwa.",
+		"desc": "Aauki magunguna daga ƙwararrun masana na duniya kuma sun sami badawa don isa ga ƙarin abokan ciniki.",
+		"popular": "Mashahuri:",
+		"search": "Bincika",
+		"placeholder": "Me kuke so ku koya?"
+	},
+	"auth": {
+		"signin": "Shiga ciki",
+		"or": "Ko",
+		"signin-button": "Shiga",
+		"email-placeholder": "Imel",
+		"password-placeholder": "Kalmar bada iznin wucewa",
+		"forgot-password": "Manta da kalmar sirri?",
+		"signin-register": "Ba ku da asusu?<b> Yi rijista </ b>",
+		"signin-welcome1": "Barka da zuwa FTOT!Da fatan za a shiga don samun damar shiga asusunku kuma gudanar da tsarin da sauƙi.",
+		"signin-welcome2": "Barka da zuwa alamar ficta a shafi!Samun damar asusunka don sarrafawa da sarrafa fuskoki daban-daban na tsarin.Shigar da bayanan shaidarka da ke ƙasa don farawa.",
+		"signup": "Yi rajista",
+		"password-rule": "Tabbatar shigar da haruffa 8 da Max 32, gami da wasiƙa ɗaya, alama da lamba.",
+		"signup-button": "Ƙirƙiri lissafi na",
+		"newpasswd-placeholder": "Kalmar wucewa (8 ko fiye haruffa)",
+		"signup-login": "Kuna da asusu?<b> shiga </ b>",
+		"signup-welcome1": "Airƙiri lissafi don samun damar zuwa asusunka!Sami gata na musamman da gudanar da fasali iri-iri tare da sabbin shaidarka.",
+		"signup-welcome2": "Createirƙiri lissafi don samun damar asusunka.Cika fom ɗin da ke ƙasa don ƙirƙirar asusunka kuma ka fara lalata ikon kayan aikinmu."
+	},
+	"service": {
+		"search": "Bincike",
+		"popula-category": "Mashahuri",
+		"create-service": "Ƙirƙiri sabis",
+		"most-popular-in-programming": "Mafi mashahuri aiyuka a cikin shirye-shirye",
+		"new-services": "Sabbin ayyuka",
+		"summary": "Taƙaitawa",
+		"compare-package": "Kwatanta fakiti",
+		"package": "Ƙunshi",
+		"revisions": "Sake bishi",
+		"delivery": "Lokacin isarwa",
+		"days": "Kwanaki",
+		"select": "Zaɓa",
+		"faq": "Faq",
+		"similar-service": "Irin wannan sabis",
+		"about-seller": "Game da mai siyarwa",
+		"seller-service": "Ayyukan mai siyarwa",
+		"reviews": "Sake dubawa",
+		"hot-service": "Ayyukan zafi",
+		"best-seller": "Mafi siyarwa",
+		"project-rate": "Farashi",
+		"custom-work": "Aikin al'ada",
+		"request-order": "Neman oda",
+		"search-service": "Sabis na Bincike",
+		"notfound": "Babu bayanai",
+		"services": "Ayyuka",
+		"found": "Abubuwan da aka samo",
+		"top-rated": "Mataki mai daraja",
+		"order-queue": "Umarni a cikin layi",
+		"seller-detail": "Shin wani bangare ne na aikin gabatarwa Pro kuma ya kasance wanda aka zaba da shi-da hannu Pro Ungaogin kungiyar da kwarewar su.",
+		"customize-project": "Tsara wannan aikin",
+		"customize-project-detail": "Idan baku ganin ainihin abin da kuke buƙata a nan, aika da ATINDER Pal al'ada buƙatar al'ada.Kuna iya magana game da farashin da tsarin tafiyar don ƙirƙirar aikin keɓaɓɓen aiki.",
+		"message": "Saƙo"
+	},
+	"order": {
+		"selected-package": "Kunshin da aka zaɓa",
+		"package-type": "Nau'in kunshin",
+		"days-delivery": "Ranar isarwa",
+		"target": "Harafin murfin",
+		"payment-breakdown": "Biyan Biyan Kuɗi",
+		"order-cost": "Oda kudin",
+		"process-fee": "Kudin sarrafawa",
+		"total-payment": "Duka biyan kuɗi",
+		"delivery-time": "Lokacin isarwa",
+		"days": "Kwanaki",
+		"select-payment": "Zaɓi zaɓi na Biyan kuɗi",
+		"pay-full": "Biya cikakken adadin",
+		"pay-partial": "Biya kashi",
+		"payment": "Ci gaba don biyan kuɗi",
+		"select-payment-mode": "Zabi Yanayin Biyan Kuɗi",
+		"copy-address": "Kwafi da ajiya zuwa wannan adireshin",
+		"crypto": "crypto",
+		"card": "Katin Kudi",
+		"paypal": "Takardar kuɗi",
+		"summary": "Taƙaitawa",
+		"view-package": "Duba bayanan kunshin",
+		"hide-package": "Ideoye bayanan kunshin",
+		"project-cost": "Farashi",
+		"continue": "Ci gaba",
+		"card-number": "Lambar kati",
+		"card-expiry": "Ƙarewa",
+		"card-cvc": "Cvc"
+	},
+	"freelancer": {
+		"filters": "Tace",
+		"clear-all": "Share duka",
+		"keywords": "keywords",
+		"location": "Gano wuri",
+		"skills": "Gwaninta",
+		"search-button": "Bincike",
+		"recommend": "{n} masu zaman kansu da shawarar ku",
+		"skill-placeholder": "Latsa Shigar don ƙara sabon fasaha.",
+		"sort-newest": "Sabon abu",
+		"sort-latest": "M",
+		"sort-lowest": "M",
+		"sort-highest": "M",
+		"notfound": "Babu bayanai",
+		"edit-profile": "Shirya bayanin martaba",
+		"reviews": "Sake dubawa",
+		"joined": "Shiga",
+		"aboutme": "Akai na",
+		"services": "Ayyuka",
+		"experience": "Gwanintan aiki",
+		"education": "Ilimi & Horarre",
+		"ongoing": "Aiki mai zuwa",
+		"completed": "Kammala aikin",
+		"service-queue": "Sabis a cikin jerin gwano",
+		"completed-service": "Ayyukan da aka kammala",
+		"general": "Na duka",
+		"salary": "Albashi na yanzu",
+		"language": "Yare"
+	},
+	"project": {
+		"filters": "Tace",
+		"clear-all": "Share duka",
+		"keywords": "keywords",
+		"category": "Jinsi",
+		"skills": "Gwaninta",
+		"search-button": "Bincike",
+		"recommend": "{n} Ayyukan da aka ba da shawarar ku",
+		"skill-placeholder": "Latsa Shigar don ƙara sabon fasaha.",
+		"sort-newest": "Sabon abu",
+		"sort-latest": "M",
+		"sort-lowest": "M",
+		"sort-highest": "M",
+		"post-job": "Sanya aiki",
+		"notfound": "Babu bayanai",
+		"viewwork": "Duba Aiki",
+		"hourly": "Na kowace awa",
+		"fixed": "Gyarawa",
+		"bids": "Sa ido",
+		"delete-project": "Share Aikin",
+		"delete-project-desc": "Shin kun tabbata kuna son share wannan aikin?",
+		"title": "Titbance",
+		"cancel": "Warware",
+		"ok": "KO",
+		"send-proposal": "Aika shawara",
+		"urgent": "Na gaggawa",
+		"remote": "M",
+		"job-summary": "Takaitawa na Ayuba",
+		"attachment": "Abin da aka makala",
+		"projectid": "ID na aikin",
+		"share": "Raba aikin",
+		"bid-desc": "masu zaman kansu ne a matsakaita",
+		"login": "Shiga",
+		"your-price": "Farashin ku",
+		"days-complete": "Kwanaki don kammala",
+		"day": "Rana",
+		"cover-letter": "Harafin Rufewa",
+		"bid-applied": "Bodyarku ta riga",
+		"project-bids": "TAFIYA",
+		"reviews": "Sake dubawa",
+		"message": "Saƙo",
+		"award": "Ba da lambar ban girma",
+		"accept": "Yarda",
+		"about-client": "Game da abokin ciniki",
+		"member-since": "Member tunda",
+		"project-info": "Bayanin aikin",
+		"duration": "Tsawon lokaci",
+		"status": "Matsayi",
+		"language": "Harshe",
+		"available-proposal": "Akwai shawarwari"
+	},
+	"job": {
+		"filters": "Tace",
+		"clear-all": "Share duka",
+		"keywords": "keywords",
+		"location": "Gano wuri",
+		"workplace": "Hanyar aiki",
+		"job-type": "Nau'in aiki",
+		"skills": "Gwaninta",
+		"search-button": "Bincika",
+		"recommend": "{n to} shawarar da aka ba ku shawarar",
+		"skill-placeholder": "Latsa Shigar don ƙara sabon fasaha.",
+		"sort-newest": "Sabon abu",
+		"sort-latest": "M",
+		"sort-lowest": "M",
+		"sort-highest": "M",
+		"post-job": "Sanya aiki",
+		"onsite": "A shafin",
+		"hybrid": "hybrid",
+		"remote": "M",
+		"fulltime": "Cikakken lokaci",
+		"parttime": "Dan lokaci",
+		"contract": "Kwangila",
+		"intership": "Mai horewa",
+		"temporary": "Na lokaci",
+		"other": "Wani dabam",
+		"notfound": "Babu bayanai",
+		"yearly": "Kowace shekara",
+		"urgent": "Na gaggawa",
+		"apply": "Aiwatar yanzu",
+		"applications": "Aikace-aikace",
+		"apply-job": "Aiwatar da aiki",
+		"applied": "Amfani da aiki",
+		"summary": "Takaitawa na Ayuba",
+		"share": "Raba aikin",
+		"matching": "Matching Ayyuka",
+		"viewmore": "Duba ƙarin",
+		"worktype": "Nau'in aiki",
+		"postdate": "Kwanan wata",
+		"applyto": "Aiwatar da {n}"
+	},
+	"blog": {
+		"latest": "M",
+		"popular": "M",
+		"comments": "Kalamai",
+		"search": "Bincike",
+		"notfound": "Babu bayanai",
+		"recent-post": "Kwanan nan post",
+		"by": "Da",
+		"post-comment": "Bayanin Post",
+		"share": "Raba",
+		"submit": "Sallama yanzu"
+	},
+	"aboutus": {
+		"mission": "Ofishin Jakadancinmu: Revinging Siyayya Kasuwancin tare da Ingantaccen Bugawa Mai Kyauta!🚀",
+		"mission-detail": "A wasanni, aikinmu shine sake maimaita yanayin binciken neman aiki da daukar ma'aikata ta hanyar lalata babban yiwuwar yiwuwar fasahar fasahar BlockChain.Mun yi imanin cewa ya kamata a gina makomar aiki akan dogaro, bayyananniya, da kuma damar daidai.💪",
+		"start-now": "Fara yanzu",
+		"welcome": "Barka da zuwa FOTT",
+		"welcome-title": "Bari mu takaitaccen labari game da aikin aiki.",
+		"welcome-desc": "A aikace-aikace, muna sauya hanyar yadda ake amfani da kwararru, nuna kwarewar su, kuma buše damar aiki.Tsarin dandamali na kayan aikin mu na fasaha don kawo gaskiya, tsaro, da kuma inganci ga kasuwar aiki.",
+		"welcome-desc-1": "Buɗe yiwuwar ku ba tare da tabbaci ba",
+		"welcome-desc-2": "Kwarewar ku, furofayil ɗinku, labarinku na nasara",
+		"welcome-desc-3": "Haɗin kai da sadarwar sadarwa",
+		"welcome-desc-4": "Shiga cikin ayyukan yau da kullun kuma ya rungumi nan gaba",
+		"learnmore": "Moreara koyo",
+		"brand": "Nasarar Finada don alama",
+		"brand-desc": "Ta hanyar ɗaukar fasahar BlockChain, ayyukan kasuwa suna ba da amintattu, wuraren da ma'aikata inda masu aiki zasu iya haɗawa da manyan baiwa da masu neman aiki na iya gano damar aikin aiki.Danomarmu tana samar da cikakkiyar ma'amala da ƙamshi da ƙamshi-ƙa'idodi, tabbatar da cewa kowane hulɗa da gaskiya, tabbatacce, tabbatacce, tabbatacce, tabbatacce, tabbatacce, tabbatacce.",
+		"listing": "Lissafin da aka sanya",
+		"followers": "Mabiya",
+		"total-member": "Jimlar masu zaman kansu",
+		"total-jobs": "jobs",
+		"needlogin": "Da fatan za a shiga don ci gaba da wannan aikin.",
+		"team-title": "Kungiyarmu ta kwararru",
+		"team-desc-1": "Sannu dai!Muna aiki da sauri don ƙirƙirar dandamalin abokantaka mai amfani wanda yake da sauƙi a kewaya kuma yana ba da ƙwarewar neman aiki.",
+		"team-desc-2": "Teamungiyarmu ta mayar da hankali kan ragewar hadaddun, matakai, da tabbatar da cewa gidan yanar gizon mu da fasalullukan su suna da sauki da kuma illa ga amfani.",
+		"team-desc-3": "Tare da burin samar da bincike na aiki na yau da kullun, kungiyar bunkasuwar cigaba a cikin shafin ayyukan gabatarwa ta himmatu wajen ci gaba da inganta bukatunmu kuma taimaka muku ganin aikinka na wahala.🚀",
+		"feedback-title": "Abin da mutane ke faɗi",
+		"feedback-desc-1": "Bincika 'abin da mutane ke faɗi' sashe na aikin aiki na aiki don ma'anar mahimmanci, abubuwan da suka fuskanta, shaidu, da ra'ayi daga jama'armu.",
+		"feedback-desc-2": "Ka yi wahayi zuwa ga labarun da rai na gaske kuma koya daga hangen nesa na masu neman aiki, ma'aikata, da masu amfani da waɗanda suka yi amfani da dandamalinmu.",
+		"feedback-desc-3": "Gano labarun nasara, zargi da ya mamaye, da ingantacciyar fahimta game da tasirin wasanni game da kulawa da dama.",
+		"feedback-desc-4": "Kasance tare da tattaunawar a cikin wannan sashe na haɗin gwiwa.🌟"
+	},
+	"import-resume": {
+		"title": "Taya zaka iya gaya mana game da kanka?",
+		"desc": "Muna buƙatar samun ma'anar ilimin ku, gogewa da ƙwarewa.Yana da sauri ne don shigo da bayananka - zaku iya shirya shi before your profile goes live.",
+		"upload-btn": "Sanya Raba (* .pdf kasa da 500kb)",
+		"resume-error": "An kasa aiwatar da fayil ɗin sake dawowa.",
+		"back": "Goya baya",
+		"next": "Daga nan",
+		"submit": "Yi biyayya",
+		"cancel": "Warware",
+		"add-title-1": "Aara taken don gaya wa duniya abin da kuke yi.",
+		"add-title-2": "Abu ne na farko da abokan ciniki gani, don haka sanya shi ƙidaya.Tsaya daga cikin bayanin gwanintar ku a cikin kalmominku.",
+		"role": "Matsayin kwararrun ku",
+		"experience-title": "Idan kana da kwarewar aiki mai dacewa, ƙara shi anan.",
+		"experience-desc": "Masu zaman kansu wadanda suka kara da kwarewarsu sau biyu kamar yadda za'a iya cin nasara.Amma idan kun fara fita, har yanzu kuna iya kashe a great profile. Just head on to the next page.",
+		"notitle": "Babu taken",
+		"add-position-name": "Sanya sunan matsayin",
+		"add-company": "Sanya Kamfanin Kusa",
+		"add-date": "Ara Fara Ranar Fara Don Mafi kyawun fahimtar kwarewar aikinku",
+		"add-desc": "Sanya bayanin mafi kyawun fahimtar ƙwarewar aikinku.",
+		"education-title": "Abokan ciniki suna son sanin abin da kuka sani - ƙara ilimin ku a nan.",
+		"education-desc": "Ba lallai ne ku sami digiri ba.Dingara kowane ilimin da ya dace yana taimakawa sanya bayanan martaba ɗinku mafi bayyane.",
+		"add-education": "Sanya Ilimi",
+		"add-university": "Sanya kwanan wata kudin shiga jami'ar ku.",
+		"add-university-loca": "Sanya wurin jami'ar ku.",
+		"language-title": "Da kyau.Bayan haka, gaya mana waɗanne harsuna kuke magana.",
+		"language-desc": "Aikin shine duniya, don abokan ciniki yawanci suna sha'awar sanin menene yare kuke magana.Turanci ya zama dole, amma kuna jin waniy other languages?",
+		"add-language": "Yare",
+		"skill-title": "Kusan can!Wane aiki kuke nan?",
+		"skill-desc": "Kwarewar ku ta nuna abokan ciniki abin da zaku iya bayarwa, kuma taimaka mana mu zabi muku waɗanne ayyukan don bayar da shawarar ku.Ƙara ko cire wadanda mukee suggested, or start typing to pick more. It's up to you.",
+		"overview-title": "Babban!Yanzu rubuta baci don gaya wa duniya game da kanka.",
+		"overview-desc": "Taimaka wa mutane su san ku da kallo.Wane aiki kuka fi kyau?Faɗa musu a sarari, ta amfani da sakin layi ko wuraren harsasai.You can always edit later - just make sure you proofread now!",
+		"overview": "Overviewarku",
+		"hourly": "Awa",
+		"weekly": "Lokaci na mako-mako",
+		"info-title": "Bayan 'yan bayanai na ƙarshe, to, zaku iya bincika da buga bayanan ku.",
+		"info-desc": "Hoton kwararru yana taimaka muku ka dogara da abokan cinikin ka.Don kiyaye abubuwa lafiya kuma mai sauki, za su biya ka ta hanyar mu - which is why we need your personal information.",
+		"remove": "Motsa",
+		"take-photo": "Takeauki hotonku",
+		"email": "Imel",
+		"firstname": "Sunan rana",
+		"lastname": "Sunan mahaifa",
+		"street": "Adireshin titi * (ba zai nuna a bayanin martaba ba)",
+		"city": "Gari",
+		"state": "Jiha / lardin",
+		"country": "Ƙasa",
+		"zipcode": "Lambar ZIP / lambar gidan waya",
+		"preview-title": "Tallafinku na Freewer",
+		"preview-confirm": "Shin kuna da tabbacin duk rajista daidai ne da doka?",
+		"uploading": "Sauke",
+		"select-banner": "Zaɓi Banki",
+		"add-experience": "Ƙara gwaninta",
+		"label-title": "Titbance",
+		"label-company": "Kamfani",
+		"label-country": "Ƙasa",
+		"label-zipcode": "Lambar lambar zip (zaɓi)",
+		"label-city": "Birni (na zabi ne)",
+		"label-state": "Jiha ko lardin (na zaɓi)",
+		"label-startdate": "Fara kwanan wata",
+		"label-enddate": "Ranar ƙarshe",
+		"label-desc": "Siffantarwa"
+	},
+	
+	"create-profile": {
+		"welcome-title": "Bari mu ƙirƙiri bayanin martaba na Freel.",
+		"welcome-desc": "Yana ɗaukar minti 5-10 kawai kuma zaka iya shirya shi daga baya.Zamu ajiye yadda kuka tafi.",
+		"create": "Ƙirƙira bayanin martaba",
+		"resume-title": "Taya zaka iya gaya mana game da kanka?",
+		"resume-desc": "Muna buƙatar samun ma'anar ilimin ku, gogewa da ƙwarewa.Yana da sauri a shigo da bayananka - zaku iya shirya shi kafin bayanan ku na rayuwa.",
+		"upload-desc": "Sanya Raba (* .pdf kasa da 500kb)",
+		"fill": "Cika da hannu",
+		"resume-error": "An kasa aiwatar da fayil ɗin sake dawowa.",
+		"submit": "Yi biyayya",
+		"cancel": "Warware",
+		"next": "Daga nan",
+		"back": "Goya baya",
+		"role-title": "Aara taken don gaya wa duniya abin da kuke yi.",
+		"role-desc": "Abu ne na farko da abokan ciniki gani, don haka sanya shi ƙidaya.Tsaya daga cikin bayanin gwanintar ku a cikin kalmominku.",
+		"role-input": "Matsayin kwararrun ku",
+		"experience-title": "Idan kana da kwarewar aiki mai dacewa, ƙara shi anan.",
+		"experience-desc": "Masu zaman kansu wadanda suka kara da kwarewarsu sau biyu kamar yadda za'a iya cin nasara.Amma idan kun fara fita, har yanzu kuna iya ƙirƙirar babban bayanin martaba.Kawai kai zuwa shafi na gaba.",
+		"education-title": "Abokan ciniki suna son sanin abin da kuka sani - ƙara ilimin ku a nan.",
+		"education-desc": "Ba lallai ne ku sami digiri ba.Dingara kowane ilimin da ya dace yana taimakawa sanya bayanan martaba ɗinku mafi bayyane.",
+		"certification-title": "Idan kuna da takaddun shaida, ƙara shi a nan.",
+		"certification-desc": "Jerin takaddun takaddun ku na iya taimaka wa takamaiman ilimin ku ko iyawar ku.Za iya ƙara su da hannu ko shigar da su daga tsari.",
+		"showcredential": "Nuna shaidata",
+		"language-title": "Da kyau.Bayan haka, gaya mana waɗanne harsuna kuke magana.",
+		"language-desc":"FWork is global, so clients are often interested to know what languages you speak. English is a must, but do you speak any other languages?",
+		"skill-title": "Kusan can!Wane aiki kuke nan?",
+		"skill-desc": "Kwarewar ku ta nuna abokan ciniki abin da zaku iya bayarwa, kuma taimaka mana mu zabi muku waɗanne ayyukan don bayar da shawarar ku.Addara ko cire waɗanda muka ba da shawara, ko fara buga don karɓar ƙarin.Ya rage a gare ku.",
+		"overview-title": "Babban!Yanzu rubuta baci don gaya wa duniya game da kanka.",
+		"overview-desc": "Taimaka wa mutane su san ku da kallo.Wane aiki kuka fi kyau?Faɗa musu a sarari, ta amfani da sakin layi ko wuraren harsasai.Kuna iya shirya a koyaushe daga baya - kawai tabbatar cewa kun sake magana yanzu!",
+		"overview": "Overviewarku",
+		"hourly":"Hourly Rate",
+		"weekly": "Lokaci na mako-mako",
+		"info-title":"A few last details, then you can check and publish your profile.",
+		"info-desc":"A professional photo helps you build trust with your clients. To keep things safe and simple, they’ll pay you through us - which is why we need your personal information.",
+		"remove": "Motsa",
+		"photo": "Takeauki hotonku",
+		"firstname": "Sunan rana",
+		"lastname": "Sunan mahaifa",
+		"country": "Ƙasa",
+		"street": "Adireshin titi * (ba zai nuna a bayanin martaba ba)",
+		"district": "Yanki",
+		"city":"City",
+		"state": "Jiha / lardin",
+		"zipcode": "Lambar ZIP / lambar gidan waya",
+		"preview-title": "Tallafinku na Freewer",
+		"preview-desc": "Shin kuna da tabbacin duk rajista daidai ne da doka?",
+		"uploading": "Sauke",
+		"add-language": "Yare",
+		"language": "Harshe",
+		"proficiency": "Gwaninta",
+		"save": "Ceta",
+		"add-education": "Sanya Ilimi",
+		"school": "Makaranta",
+		"field": "Filin nazarin",
+		"accreditation": "M",
+		"startdate": "Fara kwanan wata",
+		"enddate": "Ranar ƙarshe",
+		"description": "Siffantarwa",
+		"add-certificate": "Sanya Takaddun shaida",
+		"name-certificate": "Sunan Takaddun Shaida",
+		"issuing-org": "Bayar da Kungiyar",
+		"issue-date": "An bayar da kwanan wata",
+		"expire-date": "Kwanan wata",
+		"credential-id": "ID na ID",
+		"credential-link": "Haɗin shaida"
+	},
+
+	"account": {
+		"editname": "Shirya sunanka",
+		"firstname": "Sunan rana",
+		"lastname": "Sunan mahaifa",
+		"save": "Ceta",
+		"editlocation": "Shirya wurinka",
+		"country": "Ƙasa",
+		"district": "Yanki",
+		"city":"City",
+		"state": "Jiha / lardin",
+		"zipcode": "Lambar ZIP / lambar gidan waya",
+		"edittimezone": "Shirya lokaci",
+		"email": "Imel",
+		"closeaccount": "Kusa da lissafi",
+		"close-desc": "Faɗa mana dalilin da yasa zaku so ku rufe asusunka:",
+		"other": "Wani dabam",
+		"close-reason-1": "Ba na sake amfani da gidan yanar gizon.",
+		"close-reason-2": "Na damu da sirrin na.",
+		"close-reason-3": "Gidan yanar gizon ya canza manufofin ta.",
+		"close-reason-4": "Ina canzawa zuwa sabis daban-daban.",
+		"close-reason-5": "Ina matsawa zuwa wata ƙasa ta daban.",
+		"close-reason-6": "Ni ba memba na masu sauraro ne.",
+		"close-reason-7": "Wannan rukunin yanar gizon ba abin dogara bane.",
+		"close-reason-8": "Na kasance wanda aka azabtar da shi.",
+		"update-role": "Sabunta aikin ƙwararru",
+		"edit-overview": "Shirya Overview",
+		"information": "Ba da labari",
+		"security": "Tsaro",
+		"finance": "Biya kuɗi",
+		"profile": "Bayani mai Kyau",
+		"client-profile": "Bayanin martaba na abokin ciniki",
+		"contacts": "Lambobin sadarwa",
+		"notification": "Fadakarwa",
+		"proposals": "Ba da shawarwari",
+		"orders": "Umarci",
+		"services": "Ayyuka",
+		"projects": "Aikin",
+		"jobs": "jobs",
+		"promotion": "Gabatarwa",
+		"account-info": "Bayanin Asusun",
+		"online": "Kan layi",
+		"location": "Gano wuri",
+		"nosetup": "Babu saiti",
+		"timezone": "Lokaci",
+		"connected-service": "Ayyukan da aka haɗa",
+		"connect": "Haɗa",
+		"disconnect": "Raba",
+		"password-set": "An saita kalmar sirri",
+		"password-noset": "Babu kalmar sirri da aka saita.",
+		"password": "Kalmar bada iznin wucewa",
+		"login-log": "A halin yanzu kuna amfani da {n} shiga zuwa shiga.",
+		"create-password": "Createirƙiri kalmar sirri",
+		"change-password": "Canza kalmar shiga",
+		"oldpassword": "tsohon kalmar shiga",
+		"newpassword": "Sabuwar kalmar sirri",
+		"confirmpassword": "tabbata kalmar shiga",
+		"cancel": "Warware",
+		"2fa-title": "Daidaitaccen bayani (2FA)",
+		"2fa-desc-1": "Asusunka bashi da ingantaccen ingantaccen abu-factor.",
+		"2fa-desc-2": "Daidaitaccen ingantaccen abu (2FA) yana ƙara ƙarin tsaro na tsaro zuwa asusunku ta buƙatar shigar da lambar daga app ɗin da kuka samu ban da kalmar wucewa.Wannan lambar tana canza kowane sakan 60, don haka yana da matukar wahala ga wani don tsammani ko sata.",
+		"setup-auth": "Yadda za a kafa Google Mai Tabbatarwa?",
+		"turn-2fa": "Kunna tabbaci-factor biyu",
+		"2fa-complete": "Ana kiyaye asusunka tare da ingantacciyar tabbacin.",
+		"turnoff": "Kashe",
+		"connected-device": "Na'urorin da aka haɗa",
+		"signout": "Fita",
+		"this-device": "Wannan na'urar",
+		"last-activity": "Aiki na karshe",
+		"balance": "Daidaita aiki",
+		"withdraw": "Nemi karba",
+		"pending-balance": "A lokacin Biyan kuɗi",
+		"view-detail": "Duba cikakkun bayanai",
+		"credit": "Forci Crorit",
+		"withdraw-method": "Kadan hanyoyin",
+		"paypal-card": "Katin biyan kuɗi na PayPal",
+		"payoneer-card": "Katin biyan kuɗi",
+		"address": "Yi jawabi",
+		"pending-withdraw": "A lokacin cirewa",
+		"last-withdraw": "Karshe na ƙarshe",
+		"last-deposit": "Kudi na ƙarshe",
+		"reviewing": "Yi na bita",
+		"completed": "Kammala",
+		"rejected": "Ƙi",
+		"send": "Aika da",
+		"write-message": "Da fatan za a shigar da saƙo",
+		"all": "Duka",
+		"activity": "Aiki",
+		"listing": "Sabuwar jerin abubuwa",
+		"system-alert": "Fadakarwa tsarin",
+		"edit-company": "Shirya Kamfanin",
+		"create-compaign": "Haifar da kamfen",
+		"back": "Goya baya",
+		"next": "Daga nan",
+		"create-service-title": "Taken sabis",
+		"create-service-desc": "A matsayin kayan aikin sabis ɗinku, taken ku shine wuri mafi mahimmanci don haɗa mahimman kalmomin waɗanda masu siye zasu iya amfani da su don bincika sabis kamar naku.",
+		"iwill": "Zan",
+		"create-service-image": "Hotuna (har zuwa 3)",
+		"create-service-image-2": "Samu lura da masu sayen da suka dace tare da misalai na gani na ayyukanka.",
+		"description": "Siffantarwa",
+		"browse-photo": "Zaɓi hoto ko lilo",
+		"primary": "Na farko",
+		"browse-video": "Video (daya kawai)",
+		"browse-video-desc": "Da fatan za a zabi bidiyon fiye da 75 seconds kuma karami fiye da 50MB",
+		"review-trust": "A karkashin bita ta hanyar amincewa da aminci",
+		"browse-document": "Takardu (daya kawai)",
+		"browse-document-2": "Nuna wasu mafi kyawun aikin da kuka kirkira a cikin takaddar (PDFS kawai).",
+		"browse-document-3": "Zaɓi daftarin aiki ko lilo",
+		"create-service-tags-1": "Bincika alamun (na zabi ne)",
+		"create-service-tags-2": "Tasha sabis ɗinku tare da kalmomin kuzari waɗanda suka dace da ayyukan da kuke bayarwa.Yi amfani da duk alamun 5 don samo.",
+		"tags-maximum": "5 Matsakaicin.Yi amfani da haruffa da lambobi kawai.",
+		"category-title": "Jinsi",
+		"category-desc": "Zaɓi rukuni don haka yana da sauki ga abokan ciniki don nemo aikinku.",
+		"service-type": "Nau'in sabis",
+		"service-meta": "Metadata",
+		"faq-title": "Tambayoyi akai-akai",
+		"add-faq": "+ Daara Faq",
+		"faq-desc": "Sanya tambayoyi & amsoshin masu siyar ku.",
+		"char": "haruffa",
+		"update": "Sabuntawa",
+		"delete": "Share",
+		"scope-title": "Farashin & ikon mallaka",
+		"scope-title-1": "Haifar da farashin farashi",
+		"scope-desc": "Tsara aikinku tare da 1 ko 3 farashin",
+		"starter": "Mai farawa",
+		"standard": "Na misali",
+		"advanced": "M",
+		"custom-title": "Takon al'ada",
+		"custom-desc": "Bayanin al'ada",
+		"delivery-day": "Ranakun bayarwa",
+		"revision": "Yawan bita",
+		"project-price": "Farashin aikin",
+		"choose-add": "Zabi ƙara",
+		"for-extra": "Don ƙarin",
+		"additional": "da kuma ƙarin",
+		"ques-title": "Tambayarku",
+		"add-ques": "Ƙara sabon tambaya",
+		"add-ques-desc": "Anan zaka iya neman cikakkun bayanai da ake buƙata don kammala umarnin ku.",
+		"ques-type": "Samu shi a cikin wani nau'i na:",
+		"add": "Haɗa",
+		"finalize": "Gama",
+		"copyright": "Sanarwar haƙƙin mallaka",
+		"copyright-desc": "Ta hanyar ƙaddamar da aikinku, kun bayyana ku ko dai ku ko dai ku ko da haƙƙi ga kayan da aka sanya kuma suna tura waɗannan kayan ba ya keta dokokin ɓangare na uku.Kun kuma yarda cewa kun fahimci aikinku za a bincika kuma ana kimanta shi ta hanyar tabbatar da cewa ya cika buƙatun shiga.",
+		"terms": "Sharuɗɗan sabis",
+		"terms-desc": "Na fahimta kuma na yarda da sharuɗɗan ayyukan sabis, gami da yarjejeniyar mai amfani da tsarin sirrin.",
+		"privacy": "Bayanin Sirrin",
+		"privacy-desc": "Ta hanyar gabatar da wannan aikin kuma kunna shi, na fahimci cewa zai bayyana a cikin binciken binciken Forcila, koda kuwa ana saita su a cikin masu amfani da bayanan da aka bincika kawai.",
+		"submit": "Yi biyayya",
+		"post-project-title": "Bari mu fara da taken mai karfi.",
+		"post-project-desc": "Wannan yana taimaka wa gidan aikinku ya kasance zuwa ga 'yan takarar da suka dace.Abu ne na farko da za su gani, don haka sanya shi ƙidaya!",
+		"project-title": "Titbance",
+		"project-desc": "Siffantarwa",
+		"attachment": "Abin da aka makala (na zaɓi)",
+		"browse-file": "Zaɓi fayil ko bincike",
+		"project-skill": "Menene manyan dabarun da ake buƙata don aikinku?",
+		"add-skill": "Ƙara dabaru",
+		"skill-max": "5 Matsakaicin.Yi amfani da haruffa da lambobi kawai.",
+		"project-budget-title": "Faɗa mana game da kasafin ku.",
+		"project-budget-desc": "Wannan zai taimaka mana dacewa da baiwa a cikin kewayon ku",
+		"currency": "Kuɗi",
+		"hourlyrate": "Awa",
+		"project-budget": "Kasafin kuɗi",
+		"from": "Daga",
+		"to": "Zuwa",
+		"budget-note": "Kwararru suna iya cajin $ 25 - $ 50 / awa (USD) don ayyukan ƙirar zane kamar naku.",
+		"budget-max": "Kasafin kudin aikin (USD)",
+		"budget-note-2": "Za ku sami zaɓi don ƙirƙirar milestones wanda raba aikinku da aka tsara.",
+		"job-detail": "Bayanin aiki",
+		"budget": "Kasafin kuɗi",
+		"hourly": "Na kowace awa",
+		"fixed": "Gyarawa",
+		"post": "Matsayi",
+		"edit-project-title": "Shirya taken aikin",
+		"edit-project-desc": "Shirya bayanin aikin",
+		"edit-project-scope": "Shirya ikon aiki",
+		"edit-project-category": "Shirya sabon aikin",
+		"edit-project-skill": "Shirya kwarewar aikin",
+		"edit-project-budget": "Shirya kasafin kuɗi",
+		"job-post-title": "Sanya wani aiki yanzu",
+		"job-post-desc": "Sanya aikinku a kan babban cibiyar sadarwar duniya da amfani da kayan aiki masu sauƙi don fifita 'yan takarar da suka cancanta - saboda haka zaka iya samun mutanen da kake son yin hira, da sauri.",
+		"job-title": "Aiki aiki",
+		"job-company": "Kamfani",
+		"job-logo": "Logo",
+		"job-select-logo": "Zaɓi Logo",
+		"job-desc": "Siffantarwa",
+		"job-workplace": "Nau'in wurin aiki",
+		"job-location": "Aiki aiki",
+		"job-type": "Nau'in aiki",
+		"job-skill": "Kwarewar aiki",
+		"job-skill-max": "5 Matsakaicin.Yi amfani da haruffa da lambobi kawai.",
+		"job-currency": "Kuɗi",
+		"annually": "A shekara",
+		"job-question": "Tambayoyi",
+		"job-add-ques": "+ Imara tambaya",
+		"answer-type": "Nau'in amsa",
+		"post-job": "Post aiki"
+	},
+	"affiliate": {
+		"title": "Shirin Hadin gwiwar Hadin gwiwa",
+		"desc": "Shiga shirin abokin tarayya don samun ƙarin ayyukan game",
+		"longterm": "kwamitocin dogon lokaci",
+		"addition": "M",
+		"addition-desc": "a kan kudin shiga",
+		"income-desc": "a kan kudin shiga",
+		"upto": "Har zuwa",
+		"start-earn": "Fara samun",
+		"section-desc": "Yawanmu ya fi sau biyu sama da ƙa'idodin masana'antu",
+		"partners": "Abokan hulɗa",
+		"coverage": "Wutar Duniya",
+		"total-paid": "Jimlar hukumar da aka biya",
+		"you-can-earn": "Kuna iya samun kuɗi",
+		"earn-desc": "Sami samun kudin shiga a kowane wata don kowane dan kasuwa da kuke magana",
+		"earn-desc-2": "a kan kudaden kasuwanci game da 'Kasuwancinku.",
+		"earn-desc-3": "A kan abin da masu haɗin gwiwa suka samu",
+		"section2-title": "Fa'idodi na Taimako da Ayyuka",
+		"section2-desc": "Har zuwa 60% Hukumar Kula da Haɗin 10%",
+		"section2-desc-2": "Kwakwalwar dogon lokaci, kudaden shiga butanni",
+		"section2-desc-3": "Manajan Asusun Daya",
+		"section2-desc-4": "Sakamakon tushe har zuwa $ 600 / watan",
+		"section5-title": "Aiwatar da zama mai haɗin gwiwa na FTOMa kuma fara samun kuɗin ku yanzu!",
+		"section5-desc": "Tuntuɓi: Shiga Albutw.io",
+		"joinnow": "Shiga Yanzu",
+		"join-us": "Kasance tare damu",
+		"your-uid": "Ayyukanku UID",
+		"social": "Kafofin watsa labarun",
+		"telegram-id": "ID na telegal",
+		"email-id": "Adireshin imel",
+		"submission": "Tabbatar da ƙaddamarwa",
+		"register-title": "Shirin Hadin gwiwar Hadin gwiwa",
+		"register-desc": "Haɗa kai tsaye ga shirin haɗin gwiwa",
+		"register-desc-2": "Neman hustle?Haɗa tsarin haɗin gwiwa da tsarin haɗin gwiwa kuma fara samun ƙarin kuɗi a yau!Inganta Shafin aikinmu zuwa cibiyar sadarwarka kuma sami kwamiti a kan kowane magana mai nasara.Babu kwarewa da ake buƙata - kawai shiga, raba keɓaɓɓen hanyar haɗin ku na zamani, kuma kalli kuɗin ku ya yi girma.Karka manta da wannan damar don samun kuɗi daga ta'aziyyar gidanka.Haɗa aikin haɗin gwiwa a yanzu!",
+		"apply-desc": "Na gode da amfani",
+		"register-detail": "Karin cikakkun bayanai anan"
+	},
+	"influencer": {
+		"title": "Rinjayi shirin",
+		"desc": "Gayyato abokanka su shiga cikin ayyukan yi kuma sami ladan babban sakamako!",
+		"desc-2": "Ji dadin $ 50 na sabon mai amfani",
+		"join-now": "Shiga Yanzu",
+		"desc-3": "5-50 USDT tsabar kudi na USDT don kowane ingantaccen mai amfani da aka gayyata.",
+		"desc-4": "Shiga cikin shirin Jami'in Gefen kuma ku more 40% tabo ukurin 40%.",
+		"desc-5": "Yi farin ciki da damar da za a lashe lambar iyakance na kyaututtuka.",
+		"desc-6": "Wakilan da suka kai jami'in zinare na zinare don watanni biyu a jere za'a iya inganta su zuwa wakilan ayyukan",
+		"benefit-title": "FIFT tasiri fa'idodi",
+		"benefit-desc": "Muna neman shugabannin ra'ayoyi na key (Kols) da masu kirkirar abun ciki waɗanda ke raba manufarmu da dabi'unmu don inganta tsarin kasuwancinmu.",
+		"partners": "Abokan hulɗa",
+		"partners-desc": "Abokin tarayya tare da mafi mahimmancin musayar crypto na duniya.",
+		"transparency": "Ra'ayi",
+		"transparency-desc": "Samu cikakken rahoton ingancin ingancin ku.",
+		"compensation": "Ramuwa",
+		"compensation-desc": "Samu biya a cikin kukan kuka fi so.",
+		"note": "SAURARA:",
+		"note-desc": "Tambayar lamba: don binciken bincike da hadin gwiwar kasuwanci, tuntuɓi: EPLROR@Fwork.io.",
+		"note-desc-2": "Ingancin Shiga: Wannan aikin an ƙuntata ga waɗanda suke a yanzu a cikin wakili na gaba (jami'an) shirin.Sabuwar jami'in game da batun kowane mai amfani na wata-wata a lokacin biyan kowane wata a lokaci guda kafin haɓakawa don karɓar fa'idodin.",
+		"note-desc-3": "Da fatan za a lura cewa mazauna mazauna daga Belgium an ƙuntata daga shiga cikin sa hannu a cikin shirin rinjayar shirin.Dokokin sakamako: Bayan da amfani da aikin Fort.com Group Jami'i, kowane ingantaccen mai amfani, ba tare da iyakar kuɗi ba.Rungiyoyin Cikin Cin Cinctionsungiyoyi na Daɗaɗi, Fork.com USDTT-maddarin-madd da Tristing (ban da BTC-tabo nau'i biyu) Ba za a ƙidaya nau'i-nau'i ba",
+		"note-desc-4": "Rarraba lada: ƙididdiga na ainihi da rarraba tabo na kasuwanci, ƙididdigar kuɗi da rarraba sau ɗaya a cikin asusun Forker.com Account.",
+		"note-desc-5": "Halin arha: Sabon masu amfani kawai suna yin ma'amala ɗaya a farkon watan bayan rajista, da wasu halayyar kasuwanci guda ɗaya, da sauran halayyar kasuwanci za a ɗauke su azaman magudi.Za a jinkirta kyautar.Idan yanayi ya kasance mai mahimmanci, za a soke lambar yabo da matsayin jami'an da aka ba da shawarar da kuma a soke shi kuma a cikin aiwatarwa.",
+		"reward-title": "Ci nasara har zuwa $ 100 a cikin barka da maraba",
+		"reward-desc": "Kammala ayyukan farko & lashe kyautar yabo",
+		"join-us": "Kasance tare damu",
+		"uid": "Ayyukanku UID",
+		"social": "Kafofin watsa labarun",
+		"telegram": "ID na telegal",
+		"email": "Adireshin imel",
+		"confirm": "Tabbatar da ƙaddamarwa"
+	},
+	"referral": {
+		"title": "Kira abokai & tashi zuwa 40% Hukumar",
+		"desc": "Gayyato abokanka su shiga cikin ayyukan, kuma ku da abokanka da aka ambata suna iya jin daɗin amfanin musamman da kari!",
+		"code": "Bayanin Code",
+		"link": "Matsa Hanyar haɗin",
+		"invite-friend": "Gayyata abokai",
+		"commission-ratio": "HUKUNCIN HUKUNCIN HUKUNCIN SAUKI",
+		"commission-desc": "Hukumar Rage ragi ta shafi sabbin mabiya kawai, ba ta amfani da wadanda ke ciki.",
+		"your-share": "Share:",
+		"invited-share": "Mutanen da kuka gayyaci Share:",
+		"my-referral": "My magana",
+		"earned": "Wanda aka samu",
+		"total-refer": "Jimlar alƙalai",
+		"persons": "Mutum",
+		"referred-user": "Wasiko masu amfani",
+		"referee-registed": "Alƙali rajista a",
+		"referee-uid": "Alkama yarda",
+		"no-record": "Babu rikodin",
+		"rebate-detail": "Bayanai na rabawa",
+		"rebate-at": "Hukumar da aka buga a",
+		"type": "Iri",
+		"commission-amount": "Adadin adadin Hukumar",
+		"top-earners": "Fork Mants",
+		"account": "Ajiya",
+		"how-work": "Yadda Game da Ayyuka",
+		"how-work-detail": "Haɓaka abin da kuka samu tare da abokai!",
+		"how-work-detail-2": "Kammani Hukumar Takaddama don saka abokanka da karimci!",
+		"refer-friends": "Game da abokai kuma sami lada!",
+		"refer-friends-desc": "Buše lada mai ban sha'awa ta hanyar haɗin mahaɗinku na musamman ko lambar QR tare da abokanka da kuma wasu abokanka da kuka fi so.",
+		"start-earn": "Fara samun Crypto yau!",
+		"start-earn-desc": "Buše har zuwa 40% Hukumar yayin da abokanka suka shiga cikin ciniki.",
+		"program-rule": "Gwaji Dokokin Shirye-shiryen:",
+		"rule-desc": "Babu iyaka ga adadin asusun da mai magana zai iya gayyata.Magana zata cancanci karɓar kwamiti daga kuɗin kasuwanci na alkalin wasa na tsawon watanni 12.",
+		"rule-desc-2": "Idan alkalin wasa ya gudanar da kasuwanci a kasuwar tabo, wani kashi dari na kudin ciniki da aka kirkira za a samar da shi azaman hukumar.",
+		"rule-desc-3": "Domin a cikin jerin abubuwan da aka yi la'akari da shi, alkalin wasa da ake magana dole ne ya raba adireshin IP iri daya kuma dole ne ya zama akalla kwanaki 1.",
+		"rule-desc-4": "FOTTIC ZAI SAMU DA SANTA KYAUTA KYAUTA KYAUTA Idan an gano mai amfani ta hanyar ƙirƙirar rajistar da yawa.",
+		"rule-desc-5": "Da fatan za a san cewa mazauna yankin ba a ba su izinin shiga cikin shirin Magana ba.",
+		"rule-desc-6": "Aiki tare da 'yancin fassara dokokin shirin na batun kuma suna yin canje-canje kamar yadda ya cancanta.",
+		"register-now": "Yi rijista yanzu.Sami Crypto tare.",
+		"referral-id": "Mayar da id"
+	},
+	"contactus": {
+		"title": "Tuntube mu",
+		"touch": "Shiga cikin taɓawa.",
+		"touch-desc": "TAFIYA TAFIYA Via Telegram, mail, kira da adireshin kai tsaye.",
+		"reach": "Kai mu:",
+		"contact-title": "Da fatan za a rubuta wasu 'yan kalmomi game da tambayar ku kuma za mu shirya tambayar ku a cikin sa'o'i 24 kuma mu tuntube ku ba da daɗewa ba.",
+		"name": "Sunanka",
+		"company": "Kamfani",
+		"email": "Imel",
+		"phone": "Lambar tarho",
+		"query": "Tambayarku",
+		"submit": "Submitaddamar da Tambaya"
+	},
+	"category": {
+		"graphics-and-design": {
+			"label": [
+				"Hotuna & Zane",
+				"Zane-zane don sanya ku fice."
+			],
+			"items": {
+				"logo-design": [
+					"Logo Design",
+					"Ku tashi daga cikin taron tare da tambarin da ya dace da halayen ku."
+				],
+				"brand-style-guides": [
+					"Jagorancin Salon Alama",
+					"Ku wuce tambarin don tabbatar da ainihin alamarku, launuka, da fonts ɗin ku"
+				],
+				"business-cards-and-stationery": [
+					"Katunan Kasuwanci & Kayan Aiki",
+					"Murkushe ra'ayi na farko tare da katin kasuwanci na al'ada da ƙirar kayan rubutu"
+				],
+				"fonts-and-typography": [
+					"Haruffa & Rubutun rubutu",
+					"Ƙirƙiri sababbin haruffa, rubutun rubutu, rubutun hannu & ƙirar ƙira."
+				],
+				"illustration": [
+					"Misali",
+					"Zana hoto don masu sauraron ku tare da zane-zane na dijital & da hannu."
+				],
+				"ai-artists": [
+					"AI Artists",
+					"Bincika iyakokin fasaha da fasaha tare da masu fasahar AI na Fiverr"
+				],
+				"childrens-book-illustration": [
+					"Hoton Littafin Yara",
+					"Kawo littattafan 'ya'yanku rayuwa tare da zane-zane masu kayatarwa."
+				],
+				"portraits-and-caricatures": [
+					"Hotuna & Abubuwan Kaya",
+					"Sanya mafi kyawun ƙafar ku gaba tare da hoto ko caricature mai ban mamaki"
+				],
+				"cartoons-and-comics": [
+					"Cartoons & Comics",
+					"Kawo abin wasa zuwa aikinku na gaba tare da zane mai ban dariya ko wasan ban dariya"
+				],
+				"pattern-design": [
+					"Tsarin Tsarin",
+					"Samu kyawawan ƙirar ƙira don kayan adon gidanku, na tsaye, yadi, da ƙari."
+				],
+				"tattoo-design": [
+					"Tsarin Tattoo",
+					"Bayyana halin ku tare da kyakkyawan zanen tattoo za ku so koyaushe"
+				],
+				"storyboards": [
+					"Allon labarai",
+					"Kawo hangen nesanka tare da allunan labarai don wasanni, bidiyo, gabatarwa, da ƙari"
+				],
+				"nft-art": [
+					"NFT Art",
+					"Ƙirƙiri zane-zane na NFT wanda ya cancanci tattarawa."
+				],
+				"design-advice": [
+					"Nasihar Zane",
+					"Haɗa da ƙwararru don jagora, jagoranci da haɓaka ƙwarewa."
+				],
+				"website-design": [
+					"Tsarin Yanar Gizo",
+					"Samu kyakkyawan tsarin gidan yanar gizon da mutane ke son yin hulɗa da su."
+				],
+				"app-design": [
+					"Tsarin App",
+					"Keɓance ƙa'idar ku tare da kyakkyawan ƙirar ƙa'idar."
+				],
+				"ux-design": [
+					"UX Design",
+					"Ba wa baƙon ku ƙwarewar kan layi mai santsi tare da ingantaccen ƙirar UX."
+				],
+				"landing-page-design": [
+					"Tsarin Shafi na Saukowa",
+					"Haɗa masu sauraron ku tare da ƙirar shafin saukowa mai ɓarna."
+				],
+				"icon-design": [
+					"Icon Design",
+					"Ka sanya aikinku ya zama na musamman tare da ƙirar alamar ta musamman."
+				],
+				"industrial-and-product-design": [
+					"Masana'antu & Tsarin Samfura",
+					"Zana da ƙirƙirar kowane irin samfur daga ra'ayi zuwa ƙirar 3D zuwa masana'antu."
+				],
+				"character-modeling": [
+					"Tsarin Hali",
+					"Haruffa na samfuri da halittu don bugu na 3D ko don babban wasan bidiyo na gaba"
+				],
+				"game-art": [
+					"Wasan Wasanni",
+					"Zana babban wasanku na gaba tare da zane-zane da kayan ƙira don kowane ɓangaren wasan."
+				],
+				"graphics-for-streamers": [
+					"Masu zane-zane don masu rafi",
+					"Haɗa masu kallon wasanku tare da abin rufe fuska, emotes, da ƙari."
+				],
+				"flyer-design": [
+					"Tsarin Flyer",
+					"Haɓaka kasuwancin ku da kayan tallan da aka buga za ku iya aikawa a ko'ina da ko'ina"
+				],
+				"brochure-design": [
+					"Tsarin Rubuce-rubuce",
+					"Samar da babban saƙonku tare da ƙasidu da ƙasidu"
+				],
+				"poster-design": [
+					"Poster Design",
+					"Ƙirƙiri fostocin da ke haɓakawa, haɗawa, da ƙara haske ga bangonku"
+				],
+				"catalog-design": [
+					"Katalogin Zane",
+					"Nuna samfuran ku tare da ƙira mai ban sha'awa"
+				],
+				"menu-design": [
+					"Tsarin Menu",
+					"Menu mai ban sha'awa da lissafin farashi don gidan abincin ku, taron musamman, da ƙari!"
+				],
+				"invitation-design": [
+					"Tsarin Menu",
+					"Menu mai ban sha'awa da lissafin farashi don gidan abincin ku, taron musamman, da ƙari!"
+				],
+				"image-editing": [
+					"Tsarin Hoto",
+					"Samar da abubuwan gani naku cikakke, daga samfurori zuwa hotuna."
+				],
+				"presentation-design": [
+					"Tsarin Gabatarwa",
+					"Wow masu sauraron ku tare da ingantaccen gabatarwar da aka ƙera."
+				],
+				"infographic-design": [
+					"Tsarin Bayani",
+					"Ba da bayanan kamannin da ya cancanta tare da taimako daga masu zanen bayanai masu zaman kansu"
+				],
+				"vector-tracing": [
+					"Vector Tracing",
+					"Barka da zuwa ga yuwuwar ƙira mara iyaka tare da canza hoto da gano vector"
+				],
+				"resume-design": [
+					"A ci gaba da Zane",
+					"Yiwa bayanin martabar ku ya fice tare da ƙirar prefect resume"
+				],
+				"social-media-design": [
+					"Zane-zanen Social Media",
+					"Ku yi kafofin watsa labarun mafi kyau fiye da sauran tare da fatun ƙira na al'ada, avatars & ƙari"
+				],
+				"social-posts-and-banners": [
+					"Shafukan zamantakewa & Banners",
+					"Samu sakonnin kafofin watsa labarun da banners da aka ƙera don duk shahararrun dandamali."
+				],
+				"email-design": [
+					"Tsarin Imel",
+					"Zana kyawawan imel ɗin da ke haɗa masu sauraron ku."
+				],
+				"web-banners": [
+					"Banners na Yanar Gizo",
+					"Ci gaban Skyrocket tare da tallan tallace-tallace abokan ciniki ba za su iya taimakawa ba sai dai danna"
+				],
+				"signage-design": [
+					"Tsarin Alama",
+					"Kaddamar da hankali ga saƙon ku da alamarku tare da kyawawan alamun waje."
+				],
+				"packaging-and-label-design": [
+					"Marufi & Label Design",
+					"Ka sa masu siyayya su duba sau biyu tare da marufi masu ƙirƙira da ƙirar ƙira."
+				],
+				"book-design": [
+					"Tsarin Littafi",
+					"Ba da damar ƙirƙira ku ta haskaka tare da ƙirar littafi mai jan hankali."
+				],
+				"book-covers": [
+					"Rufin Littafi",
+					"Ka ɗauki hankalin masu karatun ku tare da ƙirar murfin littafin ban mamaki"
+				],
+				"album-cover-design": [
+					"Tsarin Rufin Album",
+					"Ka sanya kundin ku yayi kyau kamar yadda yake sauti tare da Ƙirƙirar Album"
+				],
+				"architecture-and-interior-design": [
+					"Tsarin Gine-gine & Tsarin Cikin Gida",
+					"Samu aikin ku daga ƙasa tare da cikakkun tsare-tsare, ƙirar 3D, da ƙari."
+				],
+				"landscape-design": [
+					"Tsarin shimfidar wuri",
+					"Shirya, tsarawa da ganin buɗaɗɗenku"
+				],
+				"building-engineering": [
+					"Injinin Gine-gine",
+					"Duk ayyukan injiniya da kuke buƙatar gina shi daidai."
+				],
+				"tshirts-and-merchandise": [
+					"T-Shirts & Kayayyaki",
+					"Samu T-shirts & kayayyaki don kasuwancin ku ko a matsayin kyauta ta musamman."
+				],
+				"fashion-design": [
+					"Tsarin Kaya",
+					"Sami ƙwararriyar ƙirar tufafin da aka keɓance muku, ƙarshen-zuwa-ƙarshe."
+				],
+				"jewelry-design": [
+					"Zane Kayan Ado",
+					"Ƙirƙiri kyawawan kayan ado tare da taimakon ƙwararrun masu fasaha."
+				],
+				"3d-architecture": [
+					"Tsarin Gine-gine na 3D",
+					"Yi tunanin ra'ayoyin ku tare da ainihin 3D Architectural Rendering & Modeling."
+				],
+				"3d-industrial-design": [
+					"Tsarin Masana'antu na 3D",
+					"Yi tunanin aikin ku tare da samfurin 3D na gaske"
+				],
+				"3d-fashion-and-garment": [
+					"Falo & Tufafi 3D",
+					"Kawo tufafinka zuwa rai tare da hangen nesa na 3D na ainihi."
+				],
+				"3d-printing-characters": [
+					"Halayen Buga 3D",
+					"Nemo mafi kyawun sabis na haruffan 3D da kuke buƙata don taimaka muku samun nasarar cimma burin tsara aikin ku da ranar ƙarshe"
+				],
+				"3d-landscape": [
+					"Tsarin Kasa na 3D",
+					"Yi tunanin shimfidar wuri tare da ƙirar 3D da ma'ana"
+				],
+				"3d-game-art": [
+					"Fasahar Wasan 3D",
+					"Nemi mafi kyawun sabis na fasahar wasan 3D da kuke buƙata don taimaka muku samun nasarar cimma burin tsara ayyukan ku da ranar ƙarshe"
+				],
+				"3d-jewelry-design": [
+					"Zana Kayan Adon 3D",
+					"Kawo hangen nesa na kayan adonku zuwa rayuwa tare da ƙirar 3D da ma'ana."
+				]
+			}
+		},
+		"programming-and-tech": {
+			"label": [
+				"Shirye-shiryen & Fasaha",
+				"Kuna tunani. Mai tsara shirye-shirye yana haɓaka shi."
+			],
+			"items": {
+				"website-development": [
+					"Ci gaban Yanar Gizo",
+					"Nemo mafi kyawun ayyukan ci gaban gidan yanar gizon da kuke buƙata don taimaka muku samun nasarar cimma burin tsara ayyukan ku da ranar ƙarshe."
+				],
+				"website-maintenance": [
+					"Mai Kula da Yanar Gizo",
+					"Kashe kurakuran gidan yanar gizo tare da taimako daga masana shirye-shiryen gidan yanar gizo masu zaman kansu"
+				],
+				"game-development": [
+					"Ci gaban Wasan",
+					"Gina wasannin bidiyo masu ban mamaki tare da taimakon masu haɓaka wasan masu zaman kansu."
+				],
+				"software-development": [
+					"ci gaban software",
+					"Gina aikace-aikacen ku na al'ada daga karce tare da taimako daga ƙwararrun masu ba da izini."
+				],
+				"mobile-app-development": [
+					"Ci gaban App na Waya",
+					"Ƙirƙiri Aikace-aikacen Wayar hannu tare da taimakon masu haɓaka masu zaman kansu."
+				],
+				"ai-development": [
+					"AI Development",
+					"Gina da haɗa AI Engines cikin aikace-aikacenku ko gidan yanar gizonku."
+				],
+				"blockchain-and-cryptocurrency": [
+					"Blockchain & Cryptocurrency",
+					"Yi aiki tare da ayyuka na musamman akan blockchain da ayyukan cryptocurrency."
+				],
+				"nft-development": [
+					"Ci gaban NFT",
+					"Sami taimakon mai zaman kansa don gina gidan yanar gizon inda za ku iya sauke, mint da sayar da NFTs."
+				],
+				"electronics-engineering": [
+					"Injinin lantarki",
+					"Samu injiniya don taimaka muku tsarawa, tsarawa & haɓaka samfuran ku na lantarki."
+				],
+				"devops-and-cloud": [
+					"Devops & Cloud",
+					"Gina, sikelin, da sarrafa yanayin lissafin girgije da ayyukan ci gaba."
+				],
+				"support-and-it": [
+					"Tallafawa & IT",
+					"Ku gai da ayyukan tallafi na IT da bankwana da katsewar sabis."
+				],
+				"online-coding-lessons": [
+					"Darussan Rubutun Kan layi",
+					"Koyi code tare da ƙwararrun masu shirye-shirye"
+				],
+				"chatbot-development": [
+					"Ci gaban Chatbot",
+					"Ka sarrafa kasancewar ku ta kan layi tare da ayyukan ci gaban chatbot daga gogaggun masu zaman kansu."
+				],
+				"convert-files": [
+					"Mayar da fayiloli",
+					"Yanta kanka daga jinkirin tafiyar matakai tare da sauri, sauƙin sauya fayilolin fayil."
+				],
+				"user-testing": [
+					"Gwajin mai amfani",
+					"Ina son samfurin ku? Gano idan wasu suna yin ma godiya ga ayyukan gwajin mai amfani."
+				],
+				"qa-and-review": [
+					"QA & Bita",
+					"Haɗa nazarin lamba da zaman jagoranci tare da ƙwararren mai haɓakawa."
+				],
+				"other": [
+					"Sauran",
+					""
+				]
+			}
+		},
+		"digital-marketing": {
+			"label": [
+				"Tallan Dijital",
+				"Gina alamar ku. Haɓaka kasuwancin ku."
+			],
+			"items": {
+				"search-engine-optimization-seo": [
+					"Ingantattun Injin Bincike (SEO)",
+					"Mai girma a cikin injunan bincike kuma ku sami ƙarin baƙi tare da SEO."
+				],
+				"search-engine-marketing-sem": [
+					"Search Engine Marketing (SEM)",
+					"Ba wa kamfen ɗin ku haɓakar da suke buƙata tare da ayyukan SEM da PPC"
+				],
+				"local-seo": [
+					" SEO na gida",
+					"Ku rayu cikin haske tare da inganci, SEO na gida da sabis na lissafin kasuwanci"
+				],
+				"social-media-marketing": [
+					"Sallar Social Media",
+					"Ƙara kasancewar ku akan layi tare da abubuwan da suka dace na kafofin watsa labarun."
+				],
+				"influencer-marketing": [
+					"Mai Tasirin Talla",
+					"Haɓaka alamar ku tare da taimakon masu tasiri da masana tallace-tallace."
+				],
+				"community-management": [
+					"Gudanar da Al'umma",
+					"Haɗa da faranta wa mabiyan ku da ayyukan gudanarwa na al'umma."
+				],
+				"video-marketing": [
+					"Kasuwancin Bidiyo",
+					"Kaɗa bidiyon ku tare da ayyukan bidiyo na SEO."
+				],
+				"ecommerce-marketing": [
+					"Kasuwancin E-Kasuwa",
+					"Samu gano samfuran ku ta haɓaka manyan kantunan ku da jeri tare da ayyukan SEO na E-Ciniki."
+				],
+				"email-marketing": [
+					"Kasuwancin Imel",
+					"A guji babban fayil ɗin takarce tare da sabis na tallan imel mai zaman kansa"
+				],
+				"guest-posting": [
+					"Tsarin Baƙi",
+					"Samu babban abun ciki da aka ƙirƙira kuma aka buga muku tare da sabis ɗin aika sakon baƙi."
+				],
+				"affiliate-marketing": [
+					"Affiliate Marketing",
+					"Fadada isar ku ga ƙarin abokan ciniki tare da tallan haɗin gwiwa."
+				],
+				"display-advertising": [
+					"Nuna Talla",
+					"Ƙirƙiri, ƙaddamar da kula da kamfen ɗin nunin ku tare da ayyukan talla"
+				],
+				"text-message-marketing": [
+					"Sallar Saƙon Rubutu",
+					"Haɗa tare da masu sauraron ku tare da sabis na tallan saƙon rubutu"
+				],
+				"marketing-strategy": [
+					"Dabarun Kasuwanci",
+					"Nemi dabarun tallan tallace-tallace masu zaman kansu don jagorance ku kan yadda ake yin nasara"
+				],
+				"marketing-advice": [
+					"Shawarar Kasuwanci",
+					"Haɗa da ƙwararrun masana don jagorar tallace-tallace da alaƙar ƙwararru."
+				],
+				"web-analytics": [
+					"Binciken Yanar Gizo",
+					"Samu bayanan da ke kan zirga-zirgar ku tare da nazarin yanar gizo da kuma inganta aikin kallon"
+				],
+				"music-promotion": [
+					"Inganta Kiɗa",
+					"Kiɗa zuwa kunnuwanku. Samun haɓaka kiɗan duniya & virality a cikin ƙiftawar ido"
+				],
+				"podcast-marketing": [
+					"Kasuwancin Podcast",
+					"Fadada masu sauraron ku tare da ayyukan haɓaka Podcast"
+				],
+				"book-and-ebook-marketing": [
+					"Littafin & Tallan eBook",
+					"Nemi tashoshi masu dacewa don inganta littafinku ko ebook"
+				],
+				"mobile-app-marketing": [
+					"Sallar Wayar hannu",
+					"Ka kai miliyoyin tare da inganta kantin sayar da kayan aiki (ASO), tallace-tallacen app & ayyukan yakin neman tallan wayar hannu."
+				],
+				"crowdfunding": [
+					"Crowdfunding",
+					"Nemo mafi kyawun sabis na tattara kuɗi don taimaka muku ƙaddamarwa, haɓakawa, da haɓaka yaƙin neman zaɓe ku."
+				],
+				"digital-marketing-other": [
+					"Sauran",
+					"Mafi ban mamaki gaba - haɓaka bayyanarku tare da ƙarin sabis na tallan dijital"
+				]
+			}
+		},
+		"video-and-animation": {
+			"label": [
+				"Bidiyo & Animation",
+				"Kawo labarin ku tare da bidiyoyi masu ƙirƙira."
+			],
+			"items": {
+				"video-editing": [
+					"Tsarin Bidiyo",
+					"Ƙirƙiri ko inganta bidiyon ku tare da gyaran bidiyo da ayyukan samarwa."
+				],
+				"visual-effects": [
+					"Tasirin gani",
+					"Wannan shine inda sihirin ke faruwa, komai daga rotoscoping zuwa hadawa na dijital! Mun rufe ku."
+				],
+				"video-art": [
+					"Aikin Bidiyo",
+					"Bayyana hangen nesa ta hanyar musamman, fasahar bidiyo ta asali don kowane matsakaici."
+				],
+				"intro-and-outro-videos": [
+					"Intro & Outro Bidiyo",
+					"Shigar da masu sauraron ku kafin da kuma bayan sun kalli bidiyon ku tare da gabatarwar al'ada da abubuwan waje."
+				],
+				"video-templates-editing": [
+					"Tsarin Samfuran Bidiyo",
+					"Ƙirƙiri da shirya samfurin software na bidiyo da saiti."
+				],
+				"subtitles-and-captions": [
+					"Subtitles & Cations",
+					"Yi damar yin amfani da bidiyon ku tare da rubutun kalmomi ko rubutun kalmomi a kowane harshe"
+				],
+				"video-ads-and-commercials": [
+					"Bidiyo Talla & Kasuwanci",
+					"Kuna haskaka kasuwancinku ko samfurinku tare da tallan bidiyo da tallace-tallace na kan layi."
+				],
+				"social-media-videos": [
+					"Bidiyon Social Media",
+					" Ƙirƙirar abun ciki na bidiyo mai kayatarwa don duk buƙatun kafofin watsa labarun ku."
+				],
+				"ugc-videos": [
+					"Bidiyon UGC",
+					"Nuna samfur ko ajiya tare da bidiyon UGC ta ƙwararrun masu ƙirƙirar abun ciki."
+				],
+				"music-videos": [
+					"Bidiyon Kiɗa",
+					"Nemi tauraruwar pop a ciki. Ƙirƙiri MTV-cancantar waƙoƙi da bidiyoyin kiɗa."
+				],
+				"slideshow-videos": [
+					"Bidiyon Slideshow",
+					"Mayar da hotunanku da gabatarwar ku zuwa nunin faifan bidiyo don amfanin kanku ko kasuwanci"
+				],
+				"logo-animation": [
+					"Logo Animation",
+					"Kawo tambarin ku tare da kyawawan raye-raye masu kama ido"
+				],
+				"character-animation": [
+					"Aniation na Hali",
+					"Samar da haruffanku don motsi don wasanninku, bidiyo da ƙari"
+				],
+				"animated-gifs": [
+					"GIF masu rairayi",
+					"Ƙara haɓaka masu sauraron ku tare da GIF na al'ada don kafofin watsa labarun, imel, da ƙari."
+				],
+				"animation-for-kids": [
+					"Animation ga Yara",
+					"Ƙirƙiri abun ciki mai jan hankali ga ƙananan yara, daga waƙoƙin yara zuwa wasan kwaikwayo na ilimi."
+				],
+				"animation-for-streamers": [
+					"Animation for Streamers",
+					"Haɓaka rafukan ku da kyawawan kadarori masu rai"
+				],
+				"lottie-and-web-animation": [
+					"Lottie & Web Animation",
+					"Ƙara ra'ayoyin masu amfani tare da raye-rayen mu'amala don gidan yanar gizo, app ko UI."
+				],
+				"rigging": [
+					"Hadawa",
+					"Ba da haruffa da kuma tsara tsarin kasusuwa wanda ke ba da damar samfurin don motsawa."
+				],
+				"nft-animation": [
+					"NFT Animation",
+					"Ƙirƙirar raye-rayen NFT masu tattarawa, tarin, katunan ciniki a cikin motsi da ƙari."
+				],
+				"videographers": [
+					"Masu daukar bidiyo",
+					"Samu faifan fim ɗin da aka yi-don-odar don buƙatun kasuwanci, abubuwan da suka faru, rafukan raye-raye da ƙari."
+				],
+				"filmed-video-production": [
+					"Fim ɗin Bidiyo",
+					"Samar da bidiyon da aka yi fim na al'ada don buƙatun kasuwanci, abubuwan da suka faru da ƙari a ko'ina."
+				],
+				"animated-explainers": [
+					"Masu bayyana ra'ayi",
+					"Taimaka wa masu sauraron ku su fahimci labarinku tare da bidiyoyi masu bayyana ra'ayi."
+				],
+				"live-action-explainers": [
+					"Masu Bayanin Ayyukan Live",
+					"Haɗa kuma ku shawo kan masu sauraron ku tare da bidiyon samfuri da masu bayyana aikin kai tsaye"
+				],
+				"spokesperson-videos": [
+					"Bidiyon Kakakin",
+					"Kamara jin kunya? Yi amfani da ƙwararriyar bidiyo mai magana da yawun don inganta alamar ku"
+				],
+				"screencasting-videos": [
+					"Bidiyoyin allo",
+					"Demo app ɗinku, gidan yanar gizonku ko software ta hanyar ƙwararriyar bidiyo mai ɗaukar hoto"
+				],
+				"elearning-video-production": [
+					"Samarwar Bidiyo na eLearning",
+					"Ƙirƙiri darussan bidiyo masu jan hankali don dandamali na eLearning"
+				],
+				"crowdfunding-videos": [
+					"Bidiyoyin Crowdfunding",
+					"Ku ba da kuɗin aikinku tare da tursasawa bidi'o'i masu tarin yawa."
+				],
+				"3d-product-animation": [
+					"Animation na 3D",
+					"Nuna kuma bayyana samfurin ku a cikin cikakken bidiyon 3D mai rai"
+				],
+				"ecommerce-product-videos": [
+					"Bidiyon Samfuran E-Kasuwa",
+					"Samar da ƙarfi da jujjuya samfurin bidiyo don jerin kasuwancin ku na e-kasuwanci."
+				],
+				"corporate-videos": [
+					"Bidiyon kamfanoni",
+					"Gabatar da kamfanin ku tare da bidiyo na kamfani."
+				],
+				"app-and-website-previews": [
+					"Tsarin Kayayyakin Yanar Gizo & Yanar Gizo",
+					"Nuna samfotin aikace-aikacenku ko gidan yanar gizonku tare da hotunan kariyar allo da taken magana"
+				],
+				"game-trailers": [
+					"Tsilolin Wasan",
+					"Kaddamar da farin ciki don wasanku tare da tirela na wasan"
+				],
+				"meditation-videos": [
+					"Bidiyon Tunani",
+					"Ku huta yayin da muke ƙirƙirar bidiyoyin tunani."
+				],
+				"real-estate-promos": [
+					"Kayayyakin Kasuwanci",
+					"Nuna jerin abubuwan mallakar ku da tallace-tallacen hukuma ta hanya mai ban sha'awa da ba da labari"
+				],
+				"book-trailers": [
+					"Tsarin Littattafai",
+					"Mayar da masu kallon ku zuwa masu karatu tare da tireloli masu kayatarwa"
+				],
+				"video-advice": [
+					"Shawarar Bidiyo",
+					"Haɗa tare da ƙwararru don jagora, ƙwarewa da alaƙar sana'a."
+				]
+			}
+		},
+		"writing-and-translation": {
+			"label": [
+				"Rubutu & Fassara",
+				"Samar da kalmomin ku-a kowane harshe."
+			],
+			"items": {
+				"articles-and-blog-posts": [
+					"Labarai & Rubutun Blog",
+					"Ci gaba da masu karatun ku shiga tare da sabobin abun ciki."
+				],
+				"content-strategy": [
+					"Dabarun abun ciki",
+					"Haɓaka ingantaccen dabarun abun ciki don alamar ku"
+				],
+				"website-content": [
+					"Abincin Yanar Gizo",
+					"Samu sabis na rubutun abun ciki masu inganci don gina gidan yanar gizo mai wadatar abun ciki wanda Google zai so"
+				],
+				"scriptwriting": [
+					"Rubutun rubutu",
+					"Rubutun rubutun da ra'ayin wasan allo don bidiyon ku na gaba, tallan sauti, ko babban labari"
+				],
+				"creative-writing": [
+					"Rubutun Halitta",
+					"Bayyana kanku ko alamar ku tare da rubutun ƙirƙira daga waƙoƙi zuwa waƙoƙin waƙa"
+				],
+				"podcast-writing": [
+					"Rubutun Podcast",
+					"Nemo ƙwararrun faifan podcast don rubuta labari mai jan hankali ko don jawo hankalin masu sauraron ku da bayanan nuni"
+				],
+				"speechwriting": [
+					"Rubutun magana",
+					"Karfafa hulɗar ku ta gaba tare da ƙwararrun marubutan magana a kowane lokaci"
+				],
+				"research-and-summaries": [
+					"Bincike & Takaitattun Labarai",
+					"Samu binciken da kuke buƙata don sanar da kyawawan ra'ayoyin kasuwancinku"
+				],
+				"custom-writing-prompts": [
+					"Buƙatun Rubutun Na Musamman",
+					"Wahayi a yatsanka: saurin rubutu don ƙirƙira mara iyaka"
+				],
+				"proofreading-and-editing": [
+					"Tsarin Karatu & Gyarawa",
+					"Bari mai karantawa ko edita ya daidaita kalmominku zuwa kamala."
+				],
+				"book-editing": [
+					"Gyara Littafi",
+					"Ɗaukaka rubutunku tare da manyan editoci."
+				],
+				"beta-reading": [
+					"Karanta Beta",
+					"Ka sa rubutun littafinku ya haskaka tare da amsa daga gogaggun masu karanta beta"
+				],
+				"writing-advice": [
+					"Shawarar Rubutu",
+					"Haɗa tare da ƙwararru don rubutu & jagorar fassara da ƙwararrun alaƙa."
+				],
+				"resume-writing": [
+					"Ci gaba da Rubutun",
+					"Nuna ƙwarewar sana'ar ku tare da rubutaccen ci gaba da ƙwarewa"
+				],
+				"cover-letters": [
+					"Haruffa Marubuciya",
+					"A yi aiki da sauri tare da wasiƙar murfin ƙwararru"
+				],
+				"linkedin-profiles": [
+					"LinkedIn Profiles",
+					"Nuna ƙwarewar ku kuma haɓaka hanyar sadarwar ku tare da ingantaccen bayanin martabar LinkedIn"
+				],
+				"job-descriptions": [
+					"Bayyana Ayyukan Aiki",
+					"Nemi ƙwararrun ƙwararrun taurari tare da kwatancen aikin ƙwararru."
+				],
+				"brand-voice-and-tone": [
+					"Muryar Alamar & Sautin",
+					"Ƙara kuma kafa muryar alamar ku tare da ƙwararrun jagororin alamar"
+				],
+				"business-names-and-slogans": [
+					"Sunayen Kasuwanci & Kalmomi",
+					"Samu abin burgewa da sauƙin tunawa da sunan kasuwanci da taken kasuwanci don kama ƙarin abokan ciniki"
+				],
+				"case-studies": [
+					"Nazarin Harka",
+					"Sami amana kuma gina sahihanci tare da ingantaccen nazarin shari'a da labarun nasara."
+				],
+				"white-papers": [
+					"Fararen Takardu",
+					"Ka kafa ikonka da farar takarda masu ba da labari, masu rarrashi"
+				],
+				"product-descriptions": [
+					"Bayyanawar Samfura",
+					"Samu sabis na rubuta bayanin samfurin da aka keɓance ga duk samfuran ku kuma ku ja hankalin masu karatun ku"
+				],
+				"ad-copy": [
+					"Ad Copy",
+					"Ƙara yawan canjin ku tare da ƙirƙira da kwafin talla da aka yi niyya."
+				],
+				"sales-copy": [
+					"Kwafin tallace-tallace",
+					"Sami kwafin tallace-tallace mai gamsarwa wanda zai sa ku ƙara siyarwa ta hanyar mai da masu shakka zuwa masu siye"
+				],
+				"email-copy": [
+					"Kwafin Imel",
+					"Samu kwafin imel mai gamsarwa wanda ke aiki don tallan ku da wasiƙun imel na sirri"
+				],
+				"social-media-copy": [
+					"Copy Social Media",
+					"Ƙirƙiri abubuwan shiga, danna-cancantar abubuwan kafofin watsa labarun don jan hankalin masu sauraron ku"
+				],
+				"press-releases": [
+					"Sanarwar Latsawa",
+					"Fitar da maganar tare da ƙwararrun ƴan jarida da sabis na waya"
+				],
+				"ux-writing": [
+					"Rubutun UX",
+					"Shiryar da masu amfani da ku ta hanyar samfurin ku tare da bayyanannen rubutu na UX da ƙaramin kwafi"
+				],
+				"translation": [
+					"Fassarar",
+					"Isar da babban masu sauraro tare da fassarorin abun ciki a cikin haɗakar harsuna da yawa."
+				],
+				"localization": [
+					"Localization",
+					"Katse shingen harshe kuma ku faɗaɗa cikin sababbin kasuwanni tare da ƙwararrun ƙwararrun mafita"
+				],
+				"transcription": [
+					"Tsarin",
+					"Ajiye lokaci (da hankali) tare da ayyukan kwafi mai zaman kansa"
+				],
+				"elearning-content-development": [
+					"Ci gaban Abubuwan Ci gaban eLearning",
+					"Ku faranta wa masu sauraron ku farin ciki da abubuwan da ke cikin kwas ɗin kan layi."
+				],
+				"technical-writing": [
+					"Rubutun Fasaha",
+					"Samu rubutun fasaha don jagorar ku, kwatance, da sauran buƙatun abun ciki masu sarƙaƙiya"
+				],
+				"grant-writing": [
+					"Bayar da Rubutun",
+					"A sami tallafi da sauri tare da ƙwararrun marubutan tallafi"
+				],
+				"writing-and-translation-other": [
+					"Sauran",
+					"Mafi ban mamaki gaba - bincika ƙarin sabis na dijital daga marubuta masu zaman kansu"
+				]
+			}
+		},
+		"music-and-audio": {
+			"label": [
+				"Kiɗa & Audio",
+				"Kar a rasa nasara. Kawo sautinka zuwa rai."
+			],
+			"items": {
+				"producers-and-composers": [
+					"Masu shiryawa & Mawaƙa",
+					"Shin kuna buƙatar juya demo ɗin ku zuwa nasara? Kun zo wurin da ya dace"
+				],
+				"singers-and-vocalists": [
+					"Mawaƙa & Mawaƙa",
+					"Bazan iya waka ba? Muna da mawaka da mawakan da za su iya yi muku."
+				],
+				"session-musicians": [
+					"Mawakan Zama",
+					"Yi kiɗa mai daɗi ta amfani da ƙwararrun mawakan zaman. Duk wani kayan aiki, same shi a nan"
+				],
+				"songwriters": [
+					"Masu rubuta waƙa",
+					"Samu marubucin Mawaƙa ya rubuta kuma ya tsara bugun ku na gaba"
+				],
+				"beat-making": [
+					"Yin bugun zuciya",
+					"Bukatar bugun da ke da vibe ɗin da kuke nema?"
+				],
+				"jingles-and-intros": [
+					"Jingles & Gabatarwa",
+					"Inganta kwasfan fayiloli, tallace-tallace da nunin rediyo tare da jingles da intros masu kayatarwa"
+				],
+				"mixing-and-mastering": [
+					"Hadawa & Jagora",
+					"Ɗaukaka sautin ku tare da manyan haɗakarwa & ƙwararrun injiniyoyi."
+				],
+				"audio-editing": [
+					"Editing Audio",
+					"Ka sanya sautin naka ya zama cikakke, ko da a ina aka nadi shi."
+				],
+				"vocal-tuning": [
+					"Tsarin Murya",
+					"Kwantar da waƙoƙin muryar waƙar ku kuma ku tabbata sun yi daidai da tsafta"
+				],
+				"voice-over": [
+					"Muryar Murya",
+					"Nemo cikakkiyar murya don sauti ko bidiyo a kowane salo, harshe, ko lafazi."
+				],
+				"podcast-production": [
+					"Podcast Production",
+					"Ɗauki podcast ɗin ku zuwa mataki na gaba tare da ƙwararrun masu kera podcast da masu gyara."
+				],
+				"audiobook-production": [
+					"Karanta Littafin Audio",
+					"Ƙirƙiri Littafin Sauti naku daga A zuwa Z tare da masu gyara sauti da furodusa"
+				],
+				"audio-ads-production": [
+					"Samar da Tallace-tallacen Audio",
+					"Ku isa ga masu sauraro da yawa tare da ingantaccen tallace-tallacen sauti"
+				],
+				"voice-synthesis-and-ai": [
+					"Tsarin Murya & AI",
+					"Yi amfani da fasahar yanke AI don haɗa murya da sabis na AI"
+				],
+				"dj-drops-and-tags": [
+					"DJ Drops & Tags",
+					"Samu digo na DJ na al'ada da alamun waƙa, tallace-tallace da ƙari"
+				],
+				"dj-mixing": [
+					"DJ Mixing",
+					"Fara bikin tare da keɓaɓɓen DJ Mix."
+				],
+				"remixing-and-mashups": [
+					"Remixing & Mashups",
+					"Ba wa waƙar ku ta musamman tare da remix ko mashup."
+				],
+				"sound-design": [
+					"Tsarin Sauti",
+					"Haɗa kunnuwan masu sauraro tare da ƙirar sauti na al'ada."
+				],
+				"synth-presets": [
+					"Synth Presets",
+					" Kuna buƙatar sake ƙirƙirar wannan mahaukaciyar sautin synth? Samo sautin da aka tsara a nan."
+				],
+				"meditation-music": [
+					"Kiɗa na tunani",
+					"Yanki zuwa kiɗan da aka yi na al'ada wanda ya dace da tunanin ku."
+				],
+				"audio-logo-and-sonic-branding": [
+					"Audio Logo & Sonic Branding",
+					"Wakilin alamar ku a cikin duniyar sauti."
+				],
+				"online-music-lessons": [
+					"Darussan Kiɗan Kan layi",
+					"Masanin sabon kayan aiki, software, ko fasaha tare da ƙwararrun kiɗa & masu koyar da sauti."
+				],
+				"music-transcription": [
+					"Rubutun kiɗa",
+					"Mayar da waƙoƙin ku zuwa waƙar takarda. Duk wani kayan aiki, kowane nau'i - mun sami baya."
+				],
+				"music-and-audio-advice": [
+					"Shawarar Kiɗa da Sauti",
+					"Haɗa da ƙwararren kiɗa don samun sautin aikin ku daidai."
+				]
+			}
+		},
+		"business": {
+			"label": [
+				"Kasuwanci",
+				"Kar a rasa nasara. Kawo sautinka zuwa rai."
+			],
+			"items": {
+				"business-plans": [
+					"Shirye-shiryen Kasuwanci",
+					"Dasa tushe don nasara tare da ƙwararrun tsarin kasuwanci"
+				],
+				"legal-consulting": [
+					"Shawarwari na Shari'a",
+					"Kare abin da kuka yi aiki da shi tare da binciken shari'a & tuntuɓar kan layi"
+				],
+				"virtual-assistant": [
+					"Mataimaki na Farko",
+					"Sami taimako na zahiri don adana lokaci kuma ku sa ku mai da hankali kan sha'awar ku"
+				],
+				"ecommerce-management": [
+					"Gudanar da Kasuwancin E-commerce",
+					"Duk abin da kuke buƙata don sarrafa kasuwancin ku na e-commerce"
+				],
+				"hr-consulting": [
+					"Hukumar HR",
+					"Samu sabis na tuntuɓar HR don ɗaukar mafi kyawun ƙungiyar don kasuwancin ku."
+				],
+				"project-management": [
+					"Gudanar da Ayyuka",
+					"Ka yi aikinka daga farko zuwa ƙarshe tare da ƙwararrun ayyukan sarrafa ayyukan."
+				],
+				"supply-chain-management": [
+					"Gudanar da Sarkar Kawo",
+					"Kiyaye dukkan tsarin tsarin samar da kayayyaki a karkashin iko."
+				],
+				"business-consulting": [
+					"Shawarar Kasuwanci",
+					"Sami shawarwarin ƙwararru don haɓaka kasuwancin ku, daga dabarun tallan kasuwanci zuwa gudanarwa, da ƙari."
+				],
+				"market-research": [
+					"Binciken Kasuwa",
+					"Mayar da waɗannan manyan ra'ayoyin tare da bayanai daga masana bincike na kasuwa"
+				],
+				"sales": [
+					"Sayarwa",
+					"Ƙara tallace-tallace tare da taimakon ƙwararru."
+				],
+				"customer-care": [
+					"Customer Care",
+					"Ɗauki kasuwancin ku zuwa mataki na gaba tare da aikin kula da abokin ciniki mai ƙarfi."
+				],
+				"crm-management": [
+					"Gudanar da CRM",
+					"Samu taimako tare da sarrafa software ɗinku na Abokin Ciniki (CRM)."
+				],
+				"financial-consulting": [
+					"Shawarar Kuɗi",
+					"Waɗannan masu ba da shawara kan kuɗi masu zaman kansu suna ɗaukar abubuwa masu wahala. Kun sami sauran."
+				],
+				"erp-management": [
+					"Gudanar da ERP",
+					"Samu taimako tare da sarrafa software na Tsare-tsaren Albarkatun Kasuwanci (ERP)."
+				],
+				"fact-checking": [
+					"Binciken Gaskiya",
+					"Samu taimako tare da bincikawa da tabbatar da gaskiya daga gidajen yanar gizo, labarai, ko wasu rubutu."
+				],
+				"event-management": [
+					"Gudanar da taron",
+					"Gudanar da taron da sabis na tsara taron."
+				],
+				"game-concept-design": [
+					"Tsarin Ra'ayin Wasan",
+					"Yi hayar ƙwararren da zai kula da ƙirar wasan ku don ku iya mai da hankali kan abin da ke da mahimmanci"
+				],
+				"business-other": [
+					"Sauran",
+					"Mafi kyawun gaba - sami ƙarin Gigs daga masana ci gaban kasuwanci masu zaman kansu"
+				]
+			}
+		},
+		"data": {
+			"label": [
+				"Bayanai",
+				"Yi nazari da girma tare da bayanan da ke da ƙarfi."
+			],
+			"items": {
+				"data-entry": [
+					"Shigar da bayanai",
+					"Samu taimako tare da bugawa da ƙarin sabis na shigar da bayanai."
+				],
+				"data-formatting-and-cleaning": [
+					"Tsarin Bayanai & Tsaftacewa",
+					"Samu taimako tare da kowane nau'in tsara bayanai ko ayyukan tsaftace bayanai."
+				],
+				"data-mining-and-scraping": [
+					"Ma'adinin Bayanai & Scraping",
+					"Samu yin hakar bayanai da gogewar yanar gizo don adana lokaci da kuɗi."
+				],
+				"data-analytics": [
+					"Binciken Bayanai",
+					"Yi amfani da nazarin bayanan don gano abubuwan da ke faruwa kuma ku yanke shawara mai kyau."
+				],
+				"data-visualization": [
+					"Hannun Bayanai",
+					"Ka sa bayananka su yi fice tare da waɗannan ayyukan gani."
+				],
+				"data-processing": [
+					"Tsarin Bayanai",
+					"Kira ta hanyar kuma tsara bayanai hanya mafi kyau."
+				],
+				"data-engineering": [
+					"Injiniya Data",
+					"Yi aiki tare da injiniya don ginawa da kula da albarkatun bayanan ku."
+				],
+				"data-governance-and-protection": [
+					"Hukumar Bayanai & Kariya",
+					"Samu tsarin sarrafa bayanai da aiwatar da bin doka don ceton ku lokaci da kuɗi."
+				],
+				"databases": [
+					"Dabarun bayanai",
+					"Nemo ayyuka don taimaka muku ginawa, sarrafa, da haɓaka bayananku."
+				]
+			}
+		},
+		"photography": {
+			"label": [
+				"Hotuna",
+				"Samun harbin da kuke buƙata. Kowace lokaci."
+			],
+			"items": {
+				"data-entry": [
+					"Shigar da bayanai",
+					"Samu taimako tare da bugawa da ƙarin sabis na shigar da bayanai."
+				],
+				"data-formatting-and-cleaning": [
+					"Tsarin Bayanai & Tsaftacewa",
+					"Samu taimako tare da kowane nau'in tsara bayanai ko ayyukan tsaftace bayanai."
+				],
+				"data-mining-and-scraping": [
+					"Ma'adinin Bayanai & Scraping",
+					"Samu yin hakar bayanai da gogewar yanar gizo don adana lokaci da kuɗi."
+				],
+				"data-analytics": [
+					"Binciken Bayanai",
+					"Yi amfani da nazarin bayanan don gano abubuwan da ke faruwa kuma ku yanke shawara mai kyau."
+				],
+				"data-visualization": [
+					"Hannun Bayanai",
+					"Ka sa bayananka su yi fice tare da waɗannan ayyukan gani."
+				],
+				"data-processing": [
+					"Tsarin Bayanai",
+					"Kira ta hanyar kuma tsara bayanai hanya mafi kyau."
+				],
+				"data-engineering": [
+					"Injiniya Data",
+					"Yi aiki tare da injiniya don ginawa da kula da albarkatun bayanan ku."
+				],
+				"data-governance-and-protection": [
+					"Hukumar Bayanai & Kariya",
+					"Samu tsarin sarrafa bayanai da aiwatar da bin doka don ceton ku lokaci da kuɗi."
+				],
+				"databases": [
+					"Dabarun bayanai",
+					"Nemo ayyuka don taimaka muku ginawa, sarrafa, da haɓaka bayananku."
+				]
+			}
+		}
+	},
+	"categoryMeta": {
+				"aa": [
+					"nau'in wasan",
+					"Zaɓi girman wasan da kuka haɓaka (idan kun haɓaka cikin nau'ikan biyu, ƙirƙirar gig daban-daban don kowane nau'in girma)*"
+				],
+				"ab": [
+					"injin wasan",
+					"Zaɓi injin wasan da kuke amfani da shi don tsarawa da code wasan."
+				],
+				"ac": [
+					"nau'in dandamali",
+					"Zaɓa har zuwa dandamali 3 waɗanda kuke gina wasanni don su.*"
+				],
+				"ad": [
+					"harshen murya",
+					"Zaɓi harshen ku na riwaya*"
+				],
+				"ae": [
+					"iri",
+					"Zaɓi nau'in wasannin da kuka haɓaka."
+				],
+				"af": [
+					"jinin murya",
+					"Zaɓi jinsin ku:*"
+				],
+				"ag": [
+					"manufar murya",
+					"Zaɓi nau'in muryar da kuka bayar*"
+				],
+				"ah": [
+					"zamanin murya",
+					"Zaɓi shekarun ku:*"
+				],
+				"ai": [
+					"sautin murya",
+					"Zaɓa har zuwa sautunan murya 5 da kuke bayarwa a cikin wannan Gig*"
+				],
+				"aj": [
+					"plugins",
+					"Zaɓi plugins ɗin da kuke tallafawa"
+				],
+				"ak": [
+					"software",
+					"Wace software ce mai gudana kai tsaye za ku yi amfani da ita don saita ayyukan yawo?*"
+				],
+				"al": [
+					"dandali",
+					"Don Allah zaɓi dandamalin da kuke ba da sabis."
+				],
+				"am": [
+					"manufa",
+					"Wane nau'in watsa shirye-shiryen kai tsaye kuka ƙware a ciki. Kuna iya zaɓar fiye da ɗaya."
+				],
+				"an": [
+					"harshen shirye-shirye",
+					"Zaɓi harshen da kuke ba da sabis don*"
+				],
+				"ao": [
+					"tsarin gaba",
+					"Zaɓi tsarin gaba guda biyar da kuka ƙware a ciki"
+				],
+				"ap": [
+					"tsarin baya",
+					"Zaɓi tsarin baya har guda biyar wanda kai kwararre ne a ciki"
+				],
+				"aq": [
+					"kwararre",
+					"Zaba wurare har guda biyar da kake gwani a ciki"
+				],
+				"ar": [
+					"dandali*",
+					"Zaɓi dandamalin wayar hannu wanda kuke ba da sabis. Idan sabis ɗinku ya ƙunshi duka iOS da aikace-aikacen Android a cikin bayarwa, zaɓi zaɓin 'iOS & Android (Dual)'*"
+				],
+				"as": [
+					"app-type*",
+					"Zaɓi nau'in fasaha na ƙa'idar*"
+				],
+				"at": [
+					"ci gaba-fasaha*",
+					"Da fatan za a zaɓi nau'ikan fasaha har guda uku waɗanda kuke amfani da su don haɓaka ƙa'idodi. Kuna iya ƙirƙirar ƙarin gigs don tallafawa ƙarin fasahohi*"
+				],
+				"au": [
+					"manufa*",
+					"Wanne app kuka kware a ciki? Zaku iya zaɓar dalilai har guda 10*"
+				],
+				"av": [
+					"kwararre*",
+					"Zaɓi wurare guda 6 da kuke gwaninta a*"
+				],
+				"aw": [
+					"injini*",
+					"Da fatan za a zaɓi injin (s) AI da kuke da gogewar aiki da su:*"
+				],
+				"ax": [
+					"nau'in bayarwa*",
+					"Zaɓi nau'in isarwa*"
+				],
+				"ay": [
+					"nau'in bayanai*",
+					"Nau'in bayanan da kuke aiki da su"
+				],
+				"az": [
+					"harshen shirye-shirye*",
+					"Yaren shirye-shiryen da kuke aiki a ciki*"
+				],
+				"a0": [
+					"na'ura",
+					"Zaɓi na'urar da kuke ba da sabis don ita"
+				],
+				"a1": [
+					"tsarin aiki",
+					"Zaba tsarin aiki da kuke ba da sabis don"
+				],
+				"a2": [
+					"mai bayarwa",
+					"Shin ɗayan waɗannan ayyukan an haɗa su a cikin Gig ɗinku na asali ko kari?"
+				],
+				"a3": [
+					"manufa darasi",
+					"Zaɓi nau'in darasin da kuke bayarwa*"
+				],
+				"a4": [
+					"Shekarun dalibi",
+					"Zabi rukunin shekarun daliban da kuke koyarwa*"
+				],
+				"a5": [
+					"fasaha na ci gaba",
+					"Zaɓi yaren programming ko fasahar da kuke koyarwa*"
+				],
+				"a6": [
+					"nau'in bot",
+					"Da fatan za a zaɓi dalilai daban-daban har guda uku waɗanda kuka ƙirƙira chatbots don"
+				],
+				"a7": [
+					"nau'in bot",
+					"Da fatan za a zaɓi dandalin saƙon da kuke haɓakawa don*"
+				],
+				"a8": [
+					"haɓaka-fasaha",
+					"Don Allah a zaɓi nau'ikan dandamali iri uku waɗanda kuke amfani da su don haɓaka chatbots"
+				],
+				"a9": [
+					"juya daga",
+					"Zaɓi tsarin fayil don canzawa daga*"
+				],
+				"ba": [
+					"juya zuwa",
+					"Zaɓi tsarin fayil don canzawa zuwa*"
+				],
+				"bb": [
+					"tsawon shekaru",
+					"Zaɓi rukunin shekarun ku"
+				],
+				"bc": [
+					"ilimi",
+					"Zaba matakin ilimi"
+				],
+				"bd": [
+					"dandalin gwaji",
+					"Zaɓi dandalin da kuke ba da sabis don shi"
+				],
+				"be": [
+					"na'urar mai amfani",
+					"Zaɓi na'urar da za a yi amfani da ita don gwaji"
+				],
+				"bf": [
+					"harshe",
+					"Wane harshe kuke rubutawa?"
+				],
+				"bg": [
+					"Dandalin gwaji",
+					"Zaɓi dandamalin da kuke ba da sabis nasa*"
+				],
+				"bh": [
+					"ka-na'ura",
+					"Zaɓi na'urar da za a yi amfani da ita don gwaji*"
+				],
+				"bi": [
+					"Tsarin ciniki",
+					"Don Allah zaɓi dandalin ciniki wanda zaku iya haɓaka bots ɗin ciniki don"
+				],
+				"bj": [
+					"Tsarin ciniki",
+					"Don Allah zaɓi dandalin ciniki wanda zaku iya haɓaka bots ɗin ciniki don"
+				],
+				"bk": [
+					"nau'in shigarwa",
+					"Zaɓi nau'in sabis ɗin shigar da bayanan da zaku bayar*"
+				],
+				"bl": [
+					"kayan shiga",
+					"Zaɓi kayan aikin da kuke amfani da su a cikin sabis ɗin ku*"
+				],
+				"bm": [
+					"tsara-fasaha-bayanai",
+					"Don Allah zaɓi fasahar da kuke amfani da ita*"
+				],
+				"bn": [
+					"Masana'ar sarrafa bayanai",
+					"Don Allah a zaɓi masana'antun da kuka kware a ciki*"
+				],
+				"bo": [
+					"nau'in tsara bayanai",
+					"Don Allah zaɓi nau'ikan bayanan da kuke tallafawa*"
+				],
+				"bp": [
+					"Bayanai-Ma'adinai-Fasaha",
+					"Da fatan za a zaɓi fasahar fasaha har guda 5 da kuke amfani da ita don ma'adinan ko goge bayanai*"
+				],
+				"bq": [
+					"nau'in bayanai-bayanai",
+					"Da fatan za a zaɓi nau'ikan bayanai har guda biyar waɗanda kuke goyan bayan*"
+				],
+				"br": [
+					"data-technique",
+					"Da fatan za a zaɓi dabarar da kuke amfani da ita don nawa ko goge bayanai*"
+				],
+				"bs": [
+					"kwarewar bayanai",
+					"Zaɓi wuraren da kuka kware a ciki*"
+				],
+				"bt": [
+					"injiniya-fasaha",
+					"Zaɓi kayan aiki ko software wanda kuke ba da sabis a ciki*"
+				],
+				"bu": [
+					"kwarewar mulki",
+					"Da fatan za a zaɓi yanki har guda uku da kuka kware a ciki*"
+				],
+				"bv": [
+					"mayar da hankali kan aikin",
+					"Don Allah a zaɓi nau'ikan ayyukan har zuwa guda huɗu*"
+				],
+				"bw": [
+					"nau'in bayanai",
+					"Da fatan za a zaɓi nau'in bayanan bayanan da kuke ba da sabis don su*"
+				],
+				"bx": [
+					"dandamali",
+					"Da fatan za a zaɓi dandamalin girgijen da kuke ba da sabis a cikinsu*"
+				],
+				"by": [
+					"kwarewar bayanai",
+					"Zaɓi wurare 4 da kai kwararre ne a*"
+				],
+				"bz": [
+					"kwarewar bayanai",
+					"Da fatan za a zaɓi dandamali na bayanan bayanai waɗanda kuke ba da sabis a cikinsu*"
+				],
+				"b0": [
+					"Kwarewar masana'antu",
+					"Don Allah zaɓi masana'antun da kuka fi mayar da hankali a kansu: *"
+				],
+				"b1": [
+					"harshen bincike",
+					".Don Allah zaɓi yaren da kuke ba da sabis ɗin ku. *"
+				],
+				"b2": [
+					"injin bincike",
+					"Da fatan za a zaɓi injunan bincike har guda 2 waɗanda kuke tallafawa:*"
+				],
+				"b3": [
+					"masana'antu-bincike",
+					"Da fatan za a zaɓi injunan bincike har guda 2 waɗanda kuke tallafawa:*"
+				],
+				"b4": [
+					"seo-platform-type",
+					"Zaɓi dandalin farko wanda kuke taimakawa masu siye da su:*"
+				],
+				"b5": [
+					"seo-industry",
+					"Zaɓi masana'antun da kuke mayar da hankali akai:"
+				],
+				"b6": [
+					"nau'in dandalin zamantakewa",
+					"Da fatan za a zaɓi dandamali na farko waɗanda kuke tallafawa:*"
+				],
+				"b7": [
+					"masu sauraro- manufa",
+					"Zaɓi ƙungiyoyi biyu waɗanda suka fi dacewa da masu sauraron ku*"
+				],
+				"b8": [
+					"nau'in tallace-tallace-dandamali",
+					"Da fatan za a zaɓi dandalin farko inda kuke hulɗa tare da masu sauraron ku/mabiyanku*"
+				],
+				"b9": [
+					"masana'antar al'umma",
+					"Don Allah a zabi masana'antu har guda 5 da kuka kware a ciki.*"
+				],
+				"ca": [
+					"gaban al'umma",
+					"Don Allah a zabi irin al'ummar da kuka kware a ciki.*"
+				],
+				"cb": [
+					"dandamali na dijital",
+					"Don al'ummomin kan layi - don Allah zaɓi dandamali na dijital da kuka kware a ciki."
+				],
+				"cc": [
+					"email-platform",
+					"Zaɓi dandamali na farko waɗanda kuke aiki da su:"
+				],
+				"cd": [
+					"masana'antu-baƙi",
+					"Zaɓi masana'antun da kuke mayar da hankali a kansu: *"
+				],
+				"ce": [
+					"nau'in baƙo",
+					"Zaɓi nau'in sabis ɗin da ya fi bayanin wannan gig:*"
+				],
+				"cf": [
+					"masana'antu-affiliate",
+					"Zaɓa har zuwa masana'antu 5 da kuka kware a cikinsu:"
+				],
+				"cg": [
+					"ad-network",
+					"Zaɓi hanyoyin sadarwar talla da kuke aiki da su: *"
+				],
+				"ch": [
+					"wuri",
+					"Zaɓi wuraren da kuke bayarwa: *"
+				],
+				"ci": [
+					"tsarin talla",
+					"Zaɓi tsarin tallan da kuke aiki da shi:*"
+				],
+				"cj": [
+					"nuni-masana'antu",
+					"Zaɓi masana'antun da kuke mayar da hankali akai:*"
+				],
+				"ck": [
+					"Tsarin rubutu",
+					"Zaɓi dandamali na farko waɗanda kuke aiki da su:*"
+				],
+				"cl": [
+					"harshen rubutu",
+					"Zaɓi harsunan da kuke tallafawa:*"
+				],
+				"cm": [
+					"nau'in saƙo",
+					"Don Allah zaɓi nau'in saƙon da kuke goyan bayan: *"
+				],
+				"cn": [
+					"analytics-masana'antu",
+					"Don Allah a zaɓi masana'antu har guda 5 da kuka kware a cikinsu:"
+				],
+				"co": [
+					"Dabarun-manufa",
+					"Zaba makasudin tsarin talla:*"
+				],
+				"cp": [
+					"matakin kasuwanci",
+					"Zaɓi nau'ikan kasuwancin da kuke shirin yi:*"
+				],
+				"cq": [
+					"nau'in kasuwanci",
+					"Zaɓi nau'ikan kasuwancin da kuke shirin yi:*"
+				],
+				"cr": [
+					"batun shawara",
+					"Zaɓi batutuwan gwanintar ku: *"
+				],
+				"cs": [
+					"dandamali na kiɗa",
+					"Da fatan za a zaɓi dandamali na kiɗa na farko da kuke tallafawa *"
+				],
+				"ct": [
+					"masana'antu-musical-iri",
+					"Zaɓi nau'ikan kiɗan da kuke tallafawa.*"
+				],
+				"cu": [
+					"kasa-kasa",
+					"Zaɓi ƙasashen da kuka ƙware a ciki (ko zaɓi 'duniya') *"
+				],
+				"cv": [
+					"nau'in masana'antu-dandamali",
+					"Zaɓi nau'in kafofin watsa labaru da kuke aiki da su. *"
+				],
+				"cw": [
+					"tashar",
+					"Zaɓa har zuwa tashoshi 2 da za ku yi amfani da su don haɓakawa."
+				],
+				"cx": [
+					"harshen podcast",
+					"Don Allah zaɓi yare ɗaya"
+				],
+				"cy": [
+					"Podcast-categori",
+					"Da fatan za a zaɓi nau'ikan podcast guda uku"
+				],
+				"cz": [
+					"podcast-aggregator",
+					"Da fatan za a zaɓi masu tara kwasfan fayiloli har guda uku"
+				],
+				"c0": [
+					"kantin sayar da aikace-aikace",
+					"Zaɓi kantin sayar da aikace-aikacen hannu da kuke aiki da su:*"
+				],
+				"c1": [
+					"masana'antar tafi-da-gidanka",
+					"Zaɓi masana'antun da kuka kware a cikinsu:"
+				],
+				"c2": [
+					"nau'in dandali-iri",
+					"Da fatan za a zaɓi dandamali na taron jama'a na farko da kuke tallafawa"
+				],
+				"c3": [
+					"nau'in bidiyo",
+					"Zaɓi nau'in bidiyo na farko da kuke gyarawa*"
+				],
+				"c4": [
+					"intro/nau'in waje",
+					"Zaɓi nau'in sabis ɗin da kuke bayarwa:"
+				],
+				"c5": [
+					"tsarin bidiyo-fayil",
+					"Mene ne tsarin fayil ɗin bidiyo da za ku bayar?"
+				],
+				"c6": [
+					"bidiyo-software",
+					"Zaɓi aikace-aikacen da samfuran ku suka dace da: *"
+				],
+				"c7": [
+					"subtitles-harshen",
+					"Zaɓi harsunan fassarar fassarar da za ku iya ƙirƙira*"
+				],
+				"c8": [
+					"bidiyo-dandamali",
+					"Zaɓi dandalin gwanintar ku*"
+				],
+				"c9": [
+					"nau'in bidiyo na zamantakewa",
+					"Zaɓi nau'in bidiyon da kuka ƙirƙira"
+				],
+				"da": [
+					"daidaitawar bidiyo",
+					"Don Allah zaɓi har zuwa zaɓuɓɓuka 3"
+				],
+				"db": [
+					"kafofin watsa labarun-dandamali",
+					"Zaɓi dandalin ƙwararrun kafofin watsa labarun ku:*"
+				],
+				"dc": [
+					"style-bidiyo na zamantakewa",
+					"Zaɓi salon bidiyon da kuka ƙirƙira*"
+				],
+				"dd": [
+					"nau'in abun ciki",
+					"Zaɓa duk nau'ikan abun ciki na bidiyo da kuke bayarwa a cikin sabis ɗin ku: *"
+				],
+				"de": [
+					"style-bidiyoyin kida",
+					"Zaɓi salon zane da kuke bayarwa. *"
+				],
+				"df": [
+					"nau'in nunin faifai",
+					"Zaɓi nau'in (s) na nunin faifan bidiyo waɗanda za ku isar da su*"
+				],
+				"dg": [
+					"Logo-animation-type",
+					"Zaɓi nau'in rayarwa da kuka bayar"
+				],
+				"dh": [
+					"logo-animation-file-format",
+					"Zaɓi tsarin fayil ɗin da kuka bayar"
+				],
+				"di": [
+					"nau'in hali-animation",
+					"Zaɓi nau'in rayarwa da kuka bayar*"
+				],
+				"dj": [
+					"Salon hali",
+					"Zaɓi salon haruffan da kuke rayarwa*"
+				],
+				"dk": [
+					"hali-manufa",
+					"Zaɓi babban dalilin don rayarwa da kuka ƙirƙira*"
+				],
+				"dl": [
+					"hali-software",
+					"Zaɓi software ɗin da kuke amfani da ita tare da gwaninta don haɓaka haruffa."
+				],
+				"dm": [
+					"gifs-manufa",
+					"Zaɓi nau'in GIFs da kuke ƙirƙira*"
+				],
+				"dn": [
+					"Salon gifs-animation",
+					"Zaɓi salon GIF ɗin da kuka ƙirƙira*"
+				],
+				"do": [
+					"gifs-file-format",
+					"Zaɓi tsarin fayil ɗin da za ku iya bayarwa"
+				],
+				"dp": [
+					"salon yara-animation",
+					"Zaɓi nau'in rayarwa da kuka bayar"
+				],
+				"dq": [
+					"nau'in-bidiyo-yara",
+					"Zaɓi nau'in bidiyon da kuke bayarwa"
+				],
+				"dr": [
+					"dandamali-raye-raye-raye-raye",
+					"Zaɓi dandalin yawo da kuke yi don"
+				],
+				"ds": [
+					"nau'in kadari",
+					"Zaɓi farkon nau'in kadari da kuke rayarwa"
+				],
+				"dt": [
+					"web-fayil-format",
+					"Zaɓi tsarin fayil ɗin da kuka bayar *"
+				],
+				"du": [
+					"nft-animation-dimension",
+					"Zaɓi girman da kuke ƙirƙirar rayarwa:*"
+				],
+				"dv": [
+					"nft-style",
+					"Zaɓi salon zanenku:*"
+				],
+				"dw": [
+					"nau'in sabis na nft",
+					"Zaɓi nau'in sabis ɗin da kuke bayarwa:*"
+				],
+				"dx": [
+					"birni",
+					"Zaɓi birnin da kuke ba da sabis na daukar hoto:*"
+				],
+				"dy": [
+					"nau'in bidiyo",
+					"Zaɓi nau'ikan hotunan bidiyo da kuka kware a cikinsu:*"
+				],
+				"dz": [
+					"kayan aiki na musamman",
+					"Zaɓi kowane kayan aiki na musamman waɗanda za ku iya amfani da su akan ƙarin farashi; muna ba da shawarar ku kuma ƙara abubuwan da suka dace daidai."
+				],
+				"d0": [
+					"nau'in abun ciki na fim",
+					"Zaɓi nau'ikan abun ciki da kuka bayar*"
+				],
+				"d1": [
+					"wanda aka yi fim",
+					"Zaɓi birnin da kuka fara samar da sabis na bidiyo:*"
+				],
+				"d2": [
+					"kayan aikin fim-na musamman",
+					"Zaɓi kowane kayan aiki na musamman waɗanda za ku iya amfani da su akan ƙarin farashi; muna ba da shawarar ku kuma ƙara abubuwan da suka dace daidai."
+				],
+				"d3": [
+					"mai gabatarwa",
+					"Zaɓi mahalarta bidiyo*"
+				],
+				"d4": [
+					"harshen bidiyo",
+					"Zaɓi harsunanku:*"
+				],
+				"d5": [
+					"lafazin",
+					"Zaɓi lafazin naku:"
+				],
+				"d6": [
+					"bidiyo-tsawon shekaru",
+					"Zaɓi shekarun ku:*"
+				],
+				"d7": [
+					"bangaren / muhalli",
+					"Zaɓi bayanan bidiyo da kuka samar:"
+				],
+				"d8": [
+					"tsarin fayil",
+					"Zaɓi tsarin fayil ɗin da kuka bayar a cikin Gig ɗinku na asali ko kari"
+				],
+				"d9": [
+					"bidiyo-na'urar",
+					"Da fatan za a zaɓi nau'in na'urar da za ku yi hoton allo*"
+				],
+				"ea": [
+					"nau'in kwas",
+					"Zaɓi nau'in kwas ɗin da kuke bayarwa a cikin wannan Gig*"
+				],
+				"eb": [
+					"nau'in-bidiyo-carodfunding",
+					"Zaɓi nau'in bidiyon da kuka ƙirƙira*"
+				],
+				"ec": [
+					"bidiyo-masana'antu-kwarewa",
+					"Zaɓi masana'antu waɗanda ku ƙware ne don ƙirƙirar bidiyo."
+				],
+				"ed": [
+					"3d-masana'antu",
+					"Zaɓi masana'antu don Gig ɗin ku"
+				],
+				"ee": [
+					"yanayi",
+					"Zaɓi nau'in muhallin da zaku iya bayarwa a cikin wannan Gig"
+				],
+				"ef": [
+					"3d-file-format",
+					"Zaɓi tsarin fayil ɗin da kuke bayarwa"
+				],
+				"eg": [
+					"kasuwa-kwarewa",
+					"Zaɓi kasuwannin da kai kwararre ne wajen ƙirƙirar bidiyo:*"
+				],
+				"eh": [
+					"nau'in bidiyo na ecommerce",
+					"Zaɓi nau'in bidiyo na farko da zaku ƙirƙira:*"
+				],
+				"ei": [
+					"nau'in samfur",
+					"Zaɓi nau'ikan samfuran da kuke ɗaukar bidiyo:*"
+				],
+				"ej": [
+					"Salon-bidiyo na kamfani",
+					"Zaɓi salon bidiyon da kuka ƙirƙira*"
+				],
+				"ek": [
+					"nau'in-bidiyo na kamfani",
+					"Zaɓi nau'ikan bidiyon da kuka ƙirƙira*"
+				],
+				"el": [
+					"ƙwarewar masana'antu",
+					"Zaɓi masana'antu waɗanda ku ƙware ne don ƙirƙirar bidiyo."
+				],
+				"em": [
+					"nau'in samfurin-app",
+					"Da fatan za a zaɓi nau'in samfurin wanda zaku ƙirƙira samfoti donsa*"
+				],
+				"en": [
+					"Trailer-style",
+					"Zaɓi nau'in tirelolin wasan da kuka ƙirƙira"
+				],
+				"eo": [
+					"nau'in tunani-bidiyo",
+					"Zaɓi nau'in bidiyon tunani da kuke bayarwa:*"
+				],
+				"ep": [
+					"abun da aka inganta na gaske",
+					"Da fatan za a zaɓi batun batun bidiyon talla*"
+				],
+				"eq": [
+					"nau'in littafi",
+					"Zaɓi nau'in tirelar littafin da za ku ƙirƙira*"
+				],
+				"er": [
+					"bidiyo-batun",
+					"Zaɓi batutuwan gwanintar ku:*"
+				],
+				"es": [
+					"blog-harshen",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"et": [
+					"batun-blog",
+					"Don Allah a zaɓi batutuwan labarin har guda 2*"
+				],
+				"eu": [
+					"blog-sautin",
+					"Da fatan za a zaɓi sautin muryar don labarin ku*"
+				],
+				"ev": [
+					"nau'in rubutu",
+					"Zaɓi irin labarin da kuka rubuta *"
+				],
+				"ew": [
+					"nau'in abun ciki-dabarun",
+					"Zaɓi nau'in abun ciki wanda zaku haɗa da *"
+				],
+				"ex": [
+					"Harshen dabarun",
+					"Don Allah zaɓi harsuna:*"
+				],
+				"ey": [
+					"Dabarun-masana'antu-kwarewa",
+					"Zaɓi ƙwarewar masana'antar ku (idan akwai)"
+				],
+				"ez": [
+					"harshen yanar gizo",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"e0": [
+					"nau'in gidan yanar gizon-abun ciki",
+					"Zaɓi nau'in abun ciki wanda zaku ƙirƙira.*"
+				],
+				"e1": [
+					"Rubutun-harshen",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"e2": [
+					"harshen rubutu",
+					"Wane yare kuke rubutawa?*"
+				],
+				"e3": [
+					"Rubutun-rubuce-rubuce",
+					"Zaɓi har zuwa nau'ikan 3 wanda zaku rubuta abubuwan da aka keɓancewa *"
+				],
+				"e4": [
+					"Rubutun podcast",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"e5": [
+					"nau'in magana",
+					"Zaɓi nau'in jawabin da kuka rubuta:*"
+				],
+				"e6": [
+					"harshen magana",
+					"Zaɓi yaren da kuke rubutawa."
+				],
+				"e7": [
+					"nau'in bincike-sabis",
+					"Wane irin sabis kuke bayarwa?"
+				],
+				"e8": [
+					"nau'in bincike-sabis",
+					"Wane irin sabis kuke bayarwa?"
+				],
+				"e9": [
+					"harshen gyarawa",
+					"Da fatan za a zaɓi yaren da ya dace don karantawa ko gyarawa*"
+				],
+				"fa": [
+					"nau'in gyara-abun ciki",
+					"Da fatan za a zaɓi nau'in abun ciki wanda zaku karanta ko gyarawa*"
+				],
+				"fb": [
+					"Littafi-gyare-gyare-iri",
+					"Zaɓi ƙwarewar nau'in littafin ku:*"
+				],
+				"fc": [
+					"harshen littafi",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"fd": [
+					"Beta-genre",
+					"Zaɓi ƙwarewar nau'in littafin ku"
+				],
+				"fe": [
+					"harshen beta",
+					"Zaɓi yaren da suka dace)*"
+				],
+				"ff": [
+					"Rubutu-batun",
+					"Zaɓi batutuwan gwanintar ku:*"
+				],
+				"fg": [
+					"masana'antar rubutu",
+					"Ka yiwa masana'antun da kake mai da hankali akai:"
+				],
+				"fh": [
+					"harshen ci gaba",
+					"Wane yare kuke rubutawa?*"
+				],
+				"fi": [
+					"Rubutu-batun",
+					"Da fatan za a zaɓi masana'antar gwaninta *"
+				],
+				"fj": [
+					"masana'antu",
+					"Da fatan za a zaɓi masana'antar gwaninta *"
+				],
+				"fk": [
+					"harshen rufe",
+					"Don Allah zaɓi yaren(s) da kuke rubutawa*"
+				],
+				"fl": [
+					"nau'in sabis",
+					"Zaɓi nau'in sabis ɗin da zaku bayar a cikin wannan gig*"
+				],
+				"fm": [
+					"linkedin-harshen",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"fn": [
+					"harshen aiki",
+					"Don Allah zaɓi yaren(s) da za ku rubuta bayanin aikin*"
+				],
+				"fo": [
+					"nau'in aiki",
+					"Zaɓi nau'in aikin da za ku rubuta bayanin aikin."
+				],
+				"fp": [
+					"sana'ar sauti",
+					"Zaɓi masana'antar gwaninta*"
+				],
+				"fq": [
+					"harshen sauti",
+					"Zaɓi masana'antar gwaninta*"
+				],
+				"fr": [
+					"suna-sabis",
+					"Zaɓi sabis ɗin da zaku sanya suna*"
+				],
+				"fs": [
+					"harshen kasuwanci",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"ft": [
+					"masana'antu",
+					"Zaɓi masana'antar gwaninta*"
+				],
+				"fu": [
+					"harshen magana",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"fv": [
+					"fararen manufa",
+					"Zaba makasudin farar takarda da zaka rubuta*"
+				],
+				"fw": [
+					"fararen batu",
+					"Zaɓi batun farar takardar ku*"
+				],
+				"fx": [
+					"fararen harshe",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"fy": [
+					"harshen samfur",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"fz": [
+					"samfuri-dandamali",
+					"Zaɓi nau'in dandalin da kuke rubuta kwatancen samfur donsa.*"
+				],
+				"f0": [
+					"ad-harshen",
+					"Don Allah zaɓi yaren da za ku rubuta."
+				],
+				"f1": [
+					"matsakaicin talla",
+					"Da fatan za a zaɓi matsakaicin tallan da ya dace.*"
+				],
+				"f2": [
+					"harshen tallace-tallace",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"f3": [
+					"harshen imel",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"f4": [
+					"nau'in imel-kwafin",
+					"Don Allah zaɓi nau'in (s) na imel ɗin da za ku rubuta."
+				],
+				"f5": [
+					"manufar zamantakewa",
+					"Zaɓi manufar kwafin zamantakewa*"
+				],
+				"f6": [
+					"Social-copy-platform",
+					"Zaba social channel wanda zaku rubuta kwafin dominsa*"
+				],
+				"f7": [
+					"harshen zamantakewa",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"f8": [
+					"harshen latsa",
+					"Don Allah zaɓi yaren(s) da kuke rubutawa.*"
+				],
+				"f9": [
+					"ux-platform",
+					"Zaɓi dandamali(s) waɗanda kuke rubutawa: *"
+				],
+				"ga": [
+					"harshen uks",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"gb": [
+					"harshen fassara",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"gc": [
+					"nau'in takarda",
+					"Zaɓi nau'in takarda"
+				],
+				"gd": [
+					"ƙwarewar fassara-masana'antu",
+					"Zaɓi ƙwarewar masana'antar ku (idan akwai)"
+				],
+				"ge": [
+					"nau'in wuri-abun ciki",
+					"Da fatan za a zaɓi nau'in abun ciki da za ku mayar da shi*"
+				],
+				"gf": [
+					"harshen wuri",
+					"Don Allah zaɓi harsuna:*"
+				],
+				"gg": [
+					"kwarewa-masana'antu-kwarewa",
+					"Zaɓi ƙwarewar masana'antar ku (idan akwai)"
+				],
+				"gh": [
+					"harshen fassara",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"gi": [
+					"matakin kwas",
+					"Zaba matakin kwas."
+				],
+				"gj": [
+					"harshen ilimi",
+					"Zaɓi yaren da za ku ƙirƙiri abun ciki na kwas."
+				],
+				"gk": [
+					"batun-batun",
+					"Zaɓi batun kwas ɗin.*"
+				],
+				"gl": [
+					"nau'in fasaha-takardu",
+					"Zaɓi nau'in takaddun fasaha da kuka rubuta*"
+				],
+				"gm": [
+					"masana'antu-fasahar",
+					"Don Allah a zaɓi gwanintar masana'antar ku"
+				],
+				"gn": [
+					"harshen fasaha",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"go": [
+					"masana'antu kyauta",
+					"Da fatan za a zaɓi fannin gwanintar ku*"
+				],
+				"gp": [
+					"harshen kyauta",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"gq": [
+					"wani yare",
+					"Zaɓi yaren da kuke rubutawa.*"
+				],
+				"gr": [
+					"masu daukar hoto-nau'in samfur",
+					"Zaɓi nau'ikan samfuran da kuke ɗaukar hotuna na*"
+				],
+				"gs": [
+					"masu daukar hoto- saitin-hotuna",
+					"Zaɓi saitin farko da kuke ɗaukar hotuna (zaku iya ƙara ƙarin a matakin Farashi)*"
+				],
+				"gt": [
+					"masu daukar hoto-manufa",
+					"Zaba gwanintar manufar*"
+				],
+				"gu": [
+					"Masu daukar hoto-birni",
+					"Zaba garin da zaku iya harbi*"
+				],
+				"gv": [
+					"nau'in abinci",
+					"Zaɓi nau'in abincin da kuke ɗaukar hotuna na*"
+				],
+				"gw": [
+					"tsarin hoto-abinci",
+					"Zaɓi saitin farko da za ku ɗauki hotunan abinci (zaku iya ƙara ƙarin a matakin Farashi)*"
+				],
+				"gx": [
+					"birnin abinci",
+					"Zaba garin da zaku iya harbi*"
+				],
+				"gy": [
+					"manufa abinci",
+					"Zaba gwanintar manufar*"
+				],
+				"gz": [
+					"nau'in zamani",
+					"Zaba gwanintar daukar hoto*"
+				],
+				"g0": [
+					"salon-hoton-saitin",
+					"Zaɓi saitin farko da kuke ɗaukar hotuna (zaku iya ƙara ƙarin a matakin Farashi)*"
+				],
+				"g1": [
+					"garin zamani",
+					"Zaba garin da zaku iya harbi*"
+				],
+				"g2": [
+					"manufa-fashion",
+					"Zaba gwanintar manufar*"
+				],
+				"g3": [
+					"birni-hoton",
+					"Zaba garin da zaku iya harbi*"
+				],
+				"g4": [
+					"batun gaba",
+					"Zaba nau'ikan hotunan da kuka kware a ciki*"
+				],
+				"g5": [
+					"saitin hoto",
+					"Zaɓi saitin farko da kuke ɗaukar hotuna (zaku iya ƙara ƙarin a matakin Farashi)*"
+				],
+				"g6": [
+					"kamara-kamara",
+					"Zaɓi nau'in kyamarar da kuke amfani da shi*"
+				],
+				"g7": [
+					"nau'in taron",
+					"Zaɓi gwanintar daukar hoto na taron ku*"
+				],
+				"g8": [
+					"birnin taron",
+					"Zaba garin da zaku iya harbi*"
+				],
+				"g9": [
+					"nau'in gaske",
+					"Zaba gwanintar daukar hoto*"
+				],
+				"ha": [
+					"dukiya ta gaske",
+					"Zaɓi nau'ikan kadarorin da kuke ɗaukar hotunan*"
+				],
+				"hb": [
+					"ainihin birni",
+					"Zaba garin da zaku iya harbi*"
+				],
+				"hc": [
+					"yanayi-muhalli",
+					"Zaba yanayin da kuka kware a ciki: *"
+				],
+				"hd": [
+					"tsare-harshen",
+					"Zaɓi harsunan da za ku iya tallafawa*"
+				],
+				"he": [
+					"tsare-tsare-nau'in kasuwanci",
+					"Zaɓi nau'ikan kasuwancin da kuke shirin yin hidima:"
+				],
+				"hf": [
+					"tsarin tsari",
+					"Zaɓi tsarin da za ku aika wa abokin cinikin ku:"
+				],
+				"hg": [
+					"manufa",
+					"Zaba makasudin shirin:"
+				],
+				"hh": [
+					"filin doka",
+					"Wane fannin Shari'a kuke goyon baya*"
+				],
+				"hi": [
+					"ƙasar-masu manufa",
+					"Wane fannin Shari'a kuke goyon baya*"
+				],
+				"hj": [
+					"harshen doka",
+					"Wane harsuna kuke goyon baya*"
+				],
+				"hk": [
+					"manufa ta zahiri",
+					"Zaɓi manufa*"
+				],
+				"hl": [
+					"masana'antu na zahiri",
+					"Zaɓi masana'antu"
+				],
+				"hm": [
+					"harshen zahiri",
+					"Zaɓi harshe *"
+				],
+				"hn": [
+					"management-masana'antu",
+					"Zaɓi masana'antun da kuka kware a ciki."
+				],
+				"ho": [
+					"management-flatform",
+					"Zaɓa har zuwa dandamali 3*"
+				],
+				"hp": [
+					"harshen gudanarwa",
+					"Zaɓi yaren da kuke aiki da shi.*"
+				],
+				"hq": [
+					"hr-industry",
+					"bayani*"
+				],
+				"hr": [
+					"Kasar-manufa",
+					"Wane kasashe kuke goyon baya*"
+				],
+				"hs": [
+					"ƙasa mai niyya",
+					"Wane kasashe ne masu sauraron ku"
+				],
+				"ht": [
+					"ƙasar wadata-manufa",
+					"Wace kasa kuke goyon baya"
+				],
+				"hu": [
+					"masana'antu na shawarwari",
+					"Wane masana'antu kuka kware a ciki?*"
+				],
+				"hv": [
+					"manufar shawara",
+					"Zaɓi manufar shawara*"
+				],
+				"hw": [
+					"harshen shawara",
+					"Zaɓi yaren da kuke ba da sabis ɗin ku.*"
+				],
+				"hx": [
+					"harshen kasuwa",
+					"Harusan da kuke tallafawa don Binciken Kasuwa*"
+				],
+				"hy": [
+					"hanyar bincike",
+					"Wane hanyoyin bincike kuke bayarwa"
+				],
+				"hz": [
+					"crm-software",
+					"Zaɓi wace software kuke aiki da ita"
+				],
+				"h0": [
+					"crm-masana'antu",
+					"Don Allah a zaɓi wacce masana'anta kuke aiki da ita"
+				],
+				"h1": [
+					"masana'antu-kudi",
+					"Wane masana'antu kuke tallafawa"
+				],
+				"h2": [
+					"kasa-da-manufa",
+					"Zaɓi ƙasar da kuke goyon baya"
+				],
+				"h3": [
+					"erp-software",
+					"Don Allah a zaɓi wace software kuke aiki da ita"
+				],
+				"h4": [
+					"erp-inudtry",
+					"Don Allah a zaɓi wacce masana'anta kuke aiki da ita"
+				],
+				"h5": [
+					"harshen gaskiya",
+					"Zaɓi yaren da kuke ba da sabis ɗin ku.*"
+				],
+				"h6": [
+					"masana'antu na gaskiya",
+					"Zaɓi masana'antu(s) waɗanda kuke ba da sabis ɗin ku*"
+				],
+				"h7": [
+					"nau'in gaskiya-abun ciki",
+					"Da fatan za a zaɓi nau'in abun ciki wanda za ku bincika:*"
+				],
+				"h8": [
+					"nau'in sarrafa taron",
+					"Zaɓi nau'in taron:*"
+				],
+				"h9": [
+					"lokuta",
+					"Zaɓi lokacin taron:*"
+				],
+				"ia": [
+					"nau'in taron-abun ciki",
+					"Idan kuna aiki tare da abubuwan da suka faru na kama-da-wane, zaɓi idan taron ku na kama-da-wane zai kasance mai rai ko yin rikodin:"
+				],
+				"ib": [
+					"dandamali",
+					"Idan kuna aiki tare da kama-da-wane ko abubuwan da suka faru, zaɓi dandamalin da za a gudanar da taron ku:"
+				],
+				"ic": [
+					"farashi-samfurin",
+					"Zaɓi samfurin farashi na abubuwan da kuke aiki da su:"
+				],
+				"id": [
+					"irin-wasa",
+					"Zaɓi nau'in wasannin da kuka haɓaka."
+				],
+				"ie": [
+					"nau'in ra'ayi game",
+					"Zaɓi nau'in wasan *"
+				],
+				"if": [
+					"nau'in-dandamali-wasa",
+					"Zaɓa har zuwa dandamali 3 waɗanda kuke gina wasanni."
+				],
+				"ig": [
+					"monetization-samfurin",
+					"Zaɓi samfurin samun kuɗi"
+				],
+				"ih": [
+					"manufa-wasa",
+					"Zaɓi manufar wasan"
+				],
+				"ii": [
+					"Masu tsara-iri",
+					"Zabi nau'ikan kungiyoyi uku wadanda suka fi dacewa da ku *"
+				],
+				"ij": [
+					"masu tsara-manufa",
+					"Zaɓi dalilin da kuke ƙirƙira / tsara kiɗa don shi"
+				],
+				"ik": [
+					"mawaƙa-software",
+					"Zaɓi abin da software/DAW(s) za ku iya aiki a ciki. Mai siye yana iya son yin aiki tare da wani a cikin DAW iri ɗaya. *"
+				],
+				"il": [
+					"jinsi",
+					"Zaɓi jinsin da kuka gane da su*"
+				],
+				"im": [
+					"Mawaƙa-nau'i",
+					"Zaɓi nau'i biyu waɗanda suka fi dacewa da ku*"
+				],
+				"in": [
+					"harshen mawaƙa",
+					"Zaɓi yare ko harsunan da za ku iya waƙa a ciki.*"
+				],
+				"io": [
+					"kayan zaman",
+					"Wane irin kayan aiki kuke kunnawa?*"
+				],
+				"ip": [
+					"zama-nau'i",
+					"Zabi har zuwa nau'ikan biyu wanda ya fi dacewa da kwarewar ku *"
+				],
+				"iq": [
+					"marubuta-salon",
+					"Zabi har zuwa nau'ikan kungiyoyi 3 wanda ya fi dacewa da ƙwarewar wakokinku *"
+				],
+				"ir": [
+					"jingles-manufa",
+					"Da fatan za a zaɓi ainihin dalilin da kuka ƙirƙiri Jingles/Intros don:*"
+				],
+				"is": [
+					"Salon Jingles",
+					"Zaɓi salon da kuke bayarwa*"
+				],
+				"it": [
+					"mixing-genre",
+					"Zaɓi nau'o'i uku waɗanda suka fi dacewa da sabis ɗin ku."
+				],
+				"iu": [
+					"nau'in gyaran sauti",
+					"Wane irin sabis na gyaran sauti kuke bayarwa?"
+				],
+				"iv": [
+					"harshen murya",
+					"Zaɓi harshen ku na riwaya*"
+				],
+				"iw": [
+					"vocal-jinsi",
+					"Zaɓi jinsin ku:*"
+				],
+				"ix": [
+					"manufar murya",
+					"Zaɓi nau'in muryar da kuka bayar*"
+				],
+				"iy": [
+					"tsawon-shekarin murya",
+					"Zaɓi shekarun ku:*"
+				],
+				"iz": [
+					"toni",
+					"Zaɓa har zuwa sautunan murya 5 da kuke bayarwa a cikin wannan Gig*"
+				],
+				"i0": [
+					"harshen audio",
+					"Zaɓi yare ko yarukan da za ku iya samar da littattafan Kaset a ciki.*"
+				],
+				"i1": [
+					"harshen audio",
+					"Zaɓi yaren sabis ɗin ku*"
+				],
+				"i2": [
+					"sautin sauti",
+					"Zaɓi sautin muryar da za ku iya bayarwa*"
+				],
+				"i3": [
+					"harshen dj",
+					"Zaɓi yaren sabis ɗin ku*"
+				],
+				"i4": [
+					"dj-jinsi",
+					"Zaba jinsin da kuka gane kanku da su*"
+				],
+				"i5": [
+					"Dj-genre",
+					"Zaɓi nau'ikan nau'ikan har zuwa nau'ikan nau'ikan 2 don sabis ɗin ku*"
+				],
+				"i6": [
+					"dj-tone",
+					"Zaɓi sautuna har 3 za ku iya bayarwa*"
+				],
+				"i7": [
+					"dj-mixing-genre",
+					"Zaɓi nau'in da ya fi dacewa da salon DJ ɗin ku.' *"
+				],
+				"i8": [
+					"manufa-sauti",
+					"Zaɓi dalilin da yasa kuka ƙirƙiri ƙirar sauti*"
+				],
+				"i9": [
+					"nau'in hadawa",
+					"Zaba nau'in hadawa da kuka bayar*"
+				],
+				"ja": [
+					"Synth-genre",
+					"Zaɓi nau'ikan da suka fi dacewa da sautunan ku.*"
+				],
+				"jb": [
+					"nau'in synthesizer",
+					"Shin kuna bayar da ƙirar sauti don faifan soft-synth mai kama-da-wane ko hard-synth?*"
+				],
+				"jc": [
+					"nau'in vst-synthesizer",
+					"Wanne VST soft-synth kuke yin presets da shi?"
+				],
+				"jd": [
+					"salon hadawa",
+					"Zaɓi salo na musamman na haɗawa da kuke bayarwa. *"
+				],
+				"je": [
+					"manufa-logo",
+					"Zaɓi inda za a iya amfani da tambarin sauti. *"
+				],
+				"jf": [
+					"kayan aiki",
+					"Zaɓi kayan aikin da kuke rubutawa*"
+				],
+				"jg": [
+					"tsarin kiɗa-fayil",
+					"Zaɓi tsarin fayil ɗin da kuka bayar*"
+				],
+				"jh": [
+					"Logo style",
+					"Zaɓi salon tambarin ku:*"
+				],
+				"ji": [
+					"nau'in logo",
+					"Zaɓi nau'ikan tambarin ku:*"
+				],
+				"jj": [
+					"tsarin fayil",
+					"Zaɓi tsarin fayil ɗin da kuka bayar a cikin Gig ɗinku na asali ko kari"
+				],
+				"jk": [
+					"style",
+					"Zaba salon tambarin da kuka tsara:*"
+				],
+				"jl": [
+					"babban nau'in",
+					"Wane irin samfur kuke zana?*"
+				],
+				"jm": [
+					"nau'in gidan yanar gizon",
+					"Zaɓi nau'ikan gidan yanar gizon da kuka tsara.*"
+				],
+				"jn": [
+					"dandamali & kayan aiki",
+					"Zaɓi dandamali ko kayan aikin ƙira waɗanda kuke amfani da su don wannan sabis ɗin:*"
+				],
+				"jo": [
+					"nau'in app",
+					"Zaɓi nau'ikan aikace-aikacen da kuka ƙware a cikinsu:*"
+				],
+				"jp": [
+					"kayan zane",
+					"Zaɓi kayan aikin ƙira da kuke bayarwa a cikin sabis ɗinku ko Ƙari:*"
+				],
+				"jq": [
+					"na'ura",
+					"Wace na'ura kuke tsarawa don?*"
+				],
+				"jr": [
+					"filin-kwarewa",
+					"Zaɓi fannin gwanintar ku"
+				],
+				"js": [
+					"game-art-dimension",
+					"Zaɓi girman da kuke tsara wasanni."
+				],
+				"jt": [
+					"Salon fasaha",
+					"Zaɓi salon wasan da kuka tsara:"
+				],
+				"ju": [
+					"tsarin wasan-fayil",
+					"Zaɓi tsarin fayil ɗin da kuke bayarwa:"
+				],
+				"jv": [
+					"tsara-software",
+					"Zaɓi software ɗin da kuke aiki akai*"
+				],
+				"jw": [
+					"harshe",
+					"Da fatan za a zaɓi yare (s) masu dacewa don ƙirar ci gaba."
+				],
+				"jx": [
+					"masana'antu",
+					"Zaɓi masana'antun da kuka ƙware a cikinsu*"
+				],
+				"jy": [
+					"nau'in fayil",
+					"Zaɓi nau'in fayil ɗin da za ku aika."
+				],
+				"jz": [
+					"kafofin watsa labarun-tsara-dandamali",
+					"Zaɓi dandamalin kafofin watsa labarun da kuke tsarawa:*"
+				],
+				"j0": [
+					"format-file-format",
+					"Zaɓi tsarin fayil ɗin da kuka bayar a cikin Gig ɗinku na asali ko kari:"
+				],
+				"j1": [
+					"kayan kan layi",
+					"Da fatan za a zaɓi kayan aikin da kuke koyarwa a wannan Gig ɗin.*"
+				],
+				"j2": [
+					"style",
+					"Zaɓi salon misalin ku:*"
+				],
+				"j3": [
+					"KASHIN FASAHA",
+					"Zaɓi fasahar fasaha da kuka ƙware a ciki:*"
+				],
+				"j4": [
+					"jigo",
+					"Zaɓi jigon misalin ku:*"
+				],
+				"j5": [
+					"maudu'i",
+					"Zaɓi batun misalin ku:*"
+				],
+				"j6": [
+					"KASHIN FASAHA",
+					"Zaɓi fasahar fasaha da kuka ƙware a ciki:*"
+				],
+				"j7": [
+					"Shekaru",
+					"Zaɓi iyakar shekaru*"
+				],
+				"j8": [
+					"tsarin shimfidar wuri-tsara-file-format",
+					"Zaɓi tsarin fayil ɗin da kuka bayar a cikin gig ɗin ku:"
+				],
+				"j9": [
+					"tsarin ƙasa-tsara-software",
+					"Zaɓi software da kuke aiki da ita:"
+				],
+				"ka": [
+					"Nau'i",
+					"Zaɓi nau'in littafin yara*"
+				],
+				"kb": [
+					"AI INJI",
+					"Zaɓi babban injin AI da kuke amfani da shi."
+				],
+				"kc": [
+					"GIRMAN ART",
+					"Zaɓi girman da kuka ƙirƙira fasaha a cikinsa."
+				],
+				"kd": [
+					"Salon zane",
+					"Zaɓi salon ƙira na ƙirar*"
+				],
+				"ke": [
+					"Dabarun zane",
+					"Zaɓi fasahar ƙira da kuka kware a ciki*"
+				],
+				"kf": [
+					"NUFI",
+					"Zaba makasudin tsarin *"
+				],
+				"kg": [
+					"KASHIN TSARI",
+					"Da fatan za a zaɓi jigon ƙirar."
+				],
+				"kh": [
+					"NUFI",
+					"Zaba makasudin fastocin da kuka tsara"
+				],
+				"ki": [
+					"NUFI",
+					"Zaɓi manufar ƙasidun da kuka tsara"
+				],
+				"kj": [
+					"NIN SIFFOFIN",
+					"Wane irin samfur kuke zana?*"
+				],
+				"kk": [
+					"SIFFOFIN HOTO",
+					"Zaɓi tsarin fayil ɗin da kuka bayar a cikin Gig ɗinku na asali ko kari:"
+				],
+				"kl": [
+					"TSARIN TSIRA",
+					"Zaɓi salon ƙirar ku.*"
+				],
+				"km": [
+					"GENRE",
+					"Zaɓi nau'in littafin ku*"
+				],
+				"kn": [
+					"SAMUN FILE",
+					"Zaɓi tsarin fayil ɗin da kuka bayar a cikin Gig ɗinku na asali ko kari"
+				],
+				"ko": [
+					"TSARIN TSIRA",
+					"Zaɓi Salon Ƙirar Kundin ku.*"
+				],
+				"kp": [
+					"SAURAN MUSULUNCI",
+					"Zaɓi Salon Kiɗa naku.*"
+				],
+				"kq": [
+					"ALBUM TYPE",
+					"Zaɓi Nau'in Album ɗin ku.*"
+				],
+				"kr": [
+					"SALAN RUFE POSTING",
+					"Zaɓi salon fasahar murfin podcast ɗin ku:*"
+				],
+				"ks": [
+					"KYAUTA KYAUTA",
+					"Wane nau'in kunshin ko ƙirar lakabi kuke bayarwa?*"
+				],
+				"kt": [
+					"SAMUN FILE",
+					"Zaɓi tsarin fayil ɗin da zaku samar a cikin sabis ɗin ku"
+				],
+				"ku": [
+					"NUFI",
+					"Zaɓi manufar allunan labaran da kuka ƙirƙira."
+				],
+				"kv": [
+					"dandali",
+					"Zaɓi dandamalin kafofin watsa labarun da kuke tsarawa:*"
+				],
+				"kw": [
+					"NIN SIFFOFIN",
+					"Zaɓi nau'in kasida da kuka tsara"
+				],
+				"kx": [
+					"manufa",
+					"Zaɓi manufar menus ɗin da kuka tsara"
+				],
+				"ky": [
+					"BABBAN NAU'I",
+					"Wane irin gayyata kuke tsarawa?"
+				],
+				"kz": [
+					"NAU'IN KYAUTA",
+					"Zaɓi nau'in kwatancin da kuka saba bayarwa*"
+				],
+				"k0": [
+					"Salon KYAUTA",
+					"Zaɓi salon kwatanta ku*"
+				],
+				"k1": [
+					"babban nau'in",
+					"Zaɓi nau'in zane mai ban dariya da kuka samar:*"
+				],
+				"k2": [
+					"Salon KYAUTA",
+					"Zaɓi salon zane mai ban dariya da kuka samar:"
+				],
+				"k3": [
+					"SALLON TATTO",
+					"Zaɓi salon ƙirar tattoo ɗinku:"
+				],
+				"k4": [
+					"Nau'in Launi",
+					"Zaɓi ko kuna bayar da ƙirar tattoo a Launi ko Baƙar fata & Fari:"
+				],
+				"k5": [
+					"NAU'IN SAHAMA",
+					"Zaɓi nau'in alamar da kuka tsara"
+				],
+				"k6": [
+					"BABBAN NAU'I",
+					"Zaɓi nau'ikan banner ɗin da kuka tsara:"
+				],
+				"k7": [
+					"NIN INGANTATTU",
+					"Zaɓi ayyukan gyara da kuke bayarwa:"
+				],
+				"k8": [
+					"SIKEN AIKI",
+					"Zaɓi ma'aunin aikin da kuke nufi a cikin sabis ɗin ku:"
+				],
+				"k9": [
+					"NIN GINA",
+					"Zaɓi nau'in ginin da ya dace:"
+				],
+				"la": [
+					"SIFFOFIN HOTO",
+					"Zaɓi tsarin fayil ɗin da kuka bayar a cikin ainihin sabis ɗinku ko Ƙari:"
+				],
+				"lb": [
+					"SAMUN FILE",
+					"Zaɓi tsarin fayil ɗin da kuka bayar a cikin sabis ɗin ku:"
+				],
+				"lc": [
+					"SOFTWARE",
+					"Zaɓi software da kuke aiki da ita:"
+				],
+				"ld": [
+					"NUFI",
+					"Zaɓi manufar ƙirar 3D da kuka ƙirƙira."
+				],
+				"le": [
+					"STYLE",
+					"Zaɓi salon ƙirar ƙirar ku."
+				],
+				"lf": [
+					"SAMUN FILE",
+					"Zaɓi tsarin fayil ɗin da kuke bayarwa."
+				],
+				"lg": [
+					"FURIN KWAREWA",
+					"Zaɓi filin gwanintar ku."
+				],
+				"lh": [
+					"TSIRA SOFTWARE",
+					"Zaɓi software ɗin da kuke aiki akai*"
+				],
+				"li": [
+					"girman wasan",
+					"Zaɓi girman da kuke tsara wasanni."
+				],
+				"lj": [
+					"style",
+					"Zaɓi salon wasan da kuka tsara:"
+				],
+				"lk": [
+					"tsarin fayil",
+					"Zaɓi tsarin fayil ɗin da kuke bayarwa:"
+				],
+				"ll": [
+					"nau'in kadari *",
+					"Zaɓi kaddarorin da kuka zana:*"
+				],
+				"lm": [
+					"Dandali mai yawo *",
+					"Zaɓi dandamalin da kuke tsarawa:*"
+				],
+				"ln": [
+					"NIN BOOTH",
+					"Zaɓi nau'in rumfar da aka haɗa a cikin Gig ɗin ku:*"
+				],
+				"lo": [
+					"SHAFIN BOOTH",
+					"Zaɓi ƙirar rumfar da kuka ƙware a ciki:*"
+				],
+				"lp": [
+					"Masana'antu",
+					"Zaɓi masana'antun da kuka kware a cikinsu:"
+				],
+				"lq": [
+					"NIN KASUWA",
+					"Zaɓi nau'in kasuwancin da kuke bayarwa*"
+				],
+				"lr": [
+					"NIN SAUKI",
+					"Zaɓi nau'in sabis ɗin da kuke bayarwa a cikin sabis ɗin ku:"
+				],
+				"ls": [
+					"NUFI",
+					"Zaɓi dalilin da kuke ba da ƙirar gabatarwa:"
+				],
+				"lt": [
+					"SOFTWARE",
+					"Zaɓi software ɗin da kuka ƙirƙira a ciki"
+				],
+				"lu": [
+					"SAMUN FILE",
+					"Zaɓi tsarin fayil ɗin da kuka bayar"
+				],
+				"lv": [
+					"Nau'in imel",
+					"Zaɓi nau'ikan imel ɗin da kuka tsara"
+				],
+				"lw": [
+					"PATFORM & Tool",
+					"Zaɓi dandamalin da kuka ƙware a ciki ko kayan aikin ƙirar ku"
+				],
+				"lx": [
+					"Salo",
+					"Zaɓi salon alamar ku"
+				],
+				"ly": [
+					"NUFI",
+					"Zaɓi manufar gunkin ku"
+				],
+				"lz": [
+					"SAMUN FILE",
+					"Zaɓi tsarin fayil ɗin da kuka bayar"
+				],
+				"l0": [
+					"IRIN MOTA",
+					"Zaba motar da za ku kera don ita"
+				],
+				"l1": [
+					"TOPIC",
+					"Zaɓi batutuwan gwanintar ku"
+				],
+				"l2": [
+					"NIN DARASIN",
+					"Zaɓi nau'in darussan da kuke bayarwa"
+				],
+				"l3": [
+					"nau'in gidan yanar gizon",
+					"Zaɓi nau'in gidan yanar gizon da kuke tallafawa"
+				],
+				"l4": [
+					"FALALAR SHAFIN SHAFIN",
+					"Zaɓi abubuwan da kuke tallafawa"
+				],
+				"l5": [
+					"FALALAR SHAFIN SHAFIN",
+					"Zaɓi abubuwan da kuke tallafawa"
+				],
+				"l6": [
+					"Dabarun-masana'antu-kwarewa",
+					"Zaɓi ƙwarewar masana'antar ku (idan akwai)"
+				],
+				"l7": [
+					"PLUGINS",
+					"Zaɓi plugins ɗin da kuke tallafawa"
+				],
+				"l8": [
+					"PLUGINS",
+					"Zaɓi plugins ɗin da kuke tallafawa"
+				]
+	},
+	"categoryScope": {
+		"aa": "Yawan ra'ayoyin da aka haɗa",
+		"ab": "Tambarin nuna gaskiya",
+		"ac": "Vector fayil",
+		"ad": "Fayil mai bugawa",
+		"ae": "3D izgili",
+		"af": "Kayan aikin rubutu",
+		"ag": "Kit ɗin kafofin watsa labarun",
+		"ah": "Jagororin amfani da tambari",
+		"ai": "Launi mai launi",
+		"aj": "Jagororin rubutun rubutu",
+		"ak": "Hoton hoto",
+		"al": "Yi da kar a yi",
+		"am": "Tsarin littafin Brand",
+		"an": "Ka'idojin Zane",
+		"ao": "Buga-Shirya",
+		"ap": "Mai gefe biyu",
+		"aq": "Sa hannun imel",
+		"ar": "Jirgin ruwa",
+		"as": "Na hannu",
+		"at": "Kala-kala",
+		"au": "Shipping asali",
+		"av": "Figures",
+		"aw": "Babban ƙuduri",
+		"ax": "Fage/ scene",
+		"ay": "Launi",
+		"az": "Cikakkun jiki",
+		"a0": "Amfanin kasuwanci",
+		"a1": "# na tsokaci",
+		"a2": "Halittar gaggawa",
+		"a3": "Isar da gaggawa",
+		"a4": "Haɗa hotunan samfurin",
+		"a5": "Umarni sun haɗa",
+		"a6": "Isar da zane-zane",
+		"a7": "Bita",
+		"a8": "Halaye",
+		"a9": "Misalin launi",
+		"ba": "Allon labari",
+		"bb": "murfin littafin",
+		"bc": "Ya haɗa da shimfidar littafi",
+		"bd": "Tsarin eBook",
+		"be": "Yawan alamu",
+		"bf": "Yawan abubuwa",
+		"bg": "Farashin",
+		"bh": "kalmomi-haɗe-kowace samfur",
+		"bi": "Girma (inci)",
+		"bj": "Ƙara launi",
+		"bk": "Haɗa inuwa",
+		"bl": "Tattoo flash sheet",
+		"bm": "Adadin firam ɗin da aka haɗa",
+		"bn": "Bayanin rubutu",
+		"bo": "Yawan kayan fasaha na tushe",
+		"bp": "Yawan halaye/na'urorin haɗi",
+		"bq": "Yawan bambancin",
+		"br": "Metadata",
+		"bs": "Ƙirƙirar tarin",
+		"bt": "Tsawon darasi (minti)",
+		"bu": "Yawan darussa",
+		"bv": "Yawan shafuka ko allo",
+		"bw": "Tsarin kadara ta al'ada",
+		"bx": "Zane mai amsawa",
+		"by": "Samfura",
+		"bz": "Loda abun ciki",
+		"b0": "Canza zuwa HTML/CSS",
+		"b1": "Wireframes",
+		"b2": "Binciken UX mai gasa",
+		"b3": "Binciken mai amfani da mutane",
+		"b4": "Mai amfani yana gudana",
+		"b5": "UI zane",
+		"b6": "Adadin sassan da aka tsara",
+		"b7": "Adadin gumaka",
+		"b8": "Ikon tashin hankali",
+		"b9": "Samfuran 3D",
+		"ca": "Cikakken samfurin ra'ayi",
+		"cb": "Zane don masana'anta",
+		"cc": "Zane-zane na fasaha",
+		"cd": "# na Farko na Ƙa'idodin Haɗa",
+		"ce": "Haske",
+		"cf": "Rigingimu",
+		"cg": "Yawan ra'ayoyin farko sun haɗa",
+		"ch": "Zane tambari",
+		"ci": "Mai rufi na al'ada",
+		"cj": "Facecam",
+		"ck": "Tsarin panel",
+		"cl": "Yawan faɗakarwa",
+		"cm": "Yawan allo",
+		"cn": "Adadin emotes ko bajoji",
+		"co": "Ya haɗa da rayarwa",
+		"cp": "Zane-zane na al'ada",
+		"cq": "Gyaran hoto",
+		"cr": "Zanen kafofin watsa labarun",
+		"cs": "Adadin bangarori/shafukan",
+		"ct": "Tsarin murfin",
+		"cu": "Yawan shafuka",
+		"cv": "Adadin hotuna",
+		"cw": "An haɗa nunin faifai",
+		"cx": "Haɗa kayan gani",
+		"cy": "Haɗa zane-zane & zane-zane",
+		"cz": "Haɗa bayanan bayanai",
+		"c0": "Haɗa miƙa mulki",
+		"c1": "Haɗa raye-rayen nunin faifai",
+		"c2": "Abubuwan bayanai sun haɗa",
+		"c3": "Gudanar da bincike",
+		"c4": "Aika zuwa rukunin yanar gizon bayanai",
+		"c5": "Zane na harafin murfin",
+		"c6": "Bangaren rumfar da aka fallasa",
+		"c7": "Yawan ra'ayoyin ƙira",
+		"c8": "Zane biyu na bene",
+		"c9": "Booth tsare-tsaren",
+		"da": "Hotunan yin 3D",
+		"db": "3D tafiya mai motsi",
+		"dc": "Haɗa zane mai hoto",
+		"dd": "Haɗin kai kan wurin",
+		"de": "Yawan bangarorin",
+		"df": "Samfurin 3D",
+		"dg": "Yawan dandamali",
+		"dh": "Samfurin Edita",
+		"di": "Saitin imel",
+		"dj": "Yawan bambancin girman",
+		"dk": "Yawan salo",
+		"dl": "Zamantakewa",
+		"dm": "adadin-versions",
+		"dn": "Cire bayanan baya",
+		"do": "Zane ba'a",
+		"dp": "bidiyo-tsawon-mintuna",
+		"dq": "Teburin abubuwan da za a iya dannawa (ToC)",
+		"dr": "Baya & kashin baya",
+		"ds": "Zane littafi",
+		"dt": "Murfin mai rai",
+		"du": "Girma (pixels)",
+		"dv": "Rufe hoton babban hoto",
+		"dw": "Hoton kai",
+		"dx": "Cire abu mai wanzuwa",
+		"dy": "Canja launi & kayan aiki",
+		"dz": "Shirye-shiryen kasuwanci",
+		"d0": "Haɗa yanayi",
+		"d1": "Taswirar",
+		"d2": "Babban ƙuduri (pixels)",
+		"d3": "Hanyar shimfidar wuri",
+		"d4": "Kayan aikin talla",
+		"d5": "Ingantattun bayanai",
+		"d6": "2D zane-zane",
+		"d7": "Analysis & kwaikwayo",
+		"d8": "Cikakken tsarin ƙirar tsarin",
+		"d9": "Tashin kayan abu",
+		"ea": "Load lissafi",
+		"eb": "Yawan ra'ayoyin abu",
+		"ec": "Yawan launuka masu launi",
+		"ed": "Ƙayyadaddun ƙira",
+		"ee": "Girman ginshiƙi",
+		"ef": "Bayanin zane-zane & bugu",
+		"eg": "Bill of Materials (BOM)",
+		"eh": "Yawan zane-zane",
+		"ei": "A cikin launi",
+		"ej": "Concept & zane shawara",
+		"ek": "Yawan ra'ayoyin samfur sun haɗa",
+		"el": "Ra'ayin gani",
+		"em": "Zane-zane",
+		"en": "Babban matakin cikakkun bayanai",
+		"eo": "Girman aikin (sq. ft.)",
+		"ep": "Haɓaka hoto",
+		"eq": "Haɗa zanen gadon shimfiɗa",
+		"er": "Tsarin baya & kashin baya",
+		"es": "Murfin jaket",
+		"et": "Haɗa fayil ɗin tushe",
+		"eu": "Rufin littafin Audio (ACX)",
+		"ev": "Adadin abubuwa",
+		"ew": "Shigar plugins/ kari",
+		"ex": "Ayyukan e-kasuwanci",
+		"ey": "Yawan samfurori",
+		"ez": "Gudanar da biyan kuɗi",
+		"e0": "Fitar-in form",
+		"e1": "Haɗin kai mai amsawa",
+		"e2": "Saurin ingantawa",
+		"e3": "Saitin Hosting",
+		"e4": "Gumakan kafofin watsa labarun",
+		"e5": "Hijira na yanar gizo",
+		"e6": "Loda zuwa kantin kayan aiki",
+		"e7": "Kama taga",
+		"e8": "Haɗin kai mai rufi",
+		"e9": "Zane mai rufi",
+		"fa": "Saitin taɗi",
+		"fb": "Yawan plugins",
+		"fc": "Gyara takardu",
+		"fd": "Cikakkun bayanai na lamba",
+		"fe": "Tsarukan aiki na wayar hannu",
+		"ff": "Ikon app",
+		"fg": "bangarori",
+		"fh": "Fuskar allo",
+		"fi": "Haɗin hanyar sadarwar talla",
+		"fj": "Haɗa lambar tushe",
+		"fk": "Aiki app/shafin yanar gizo",
+		"fl": "Aikace-aikace/Zane Yanar Gizo",
+		"fm": "Saita fayil",
+		"fn": "API hadewa",
+		"fo": "Tsarukan aiki",
+		"fp": "Haɗa ƙira",
+		"fq": "Minting",
+		"fr": "Haɗin walat",
+		"fs": "Rubuce-rubuce",
+		"ft": "Adadin abubuwan da aka gyara",
+		"fu": "Haɗa zane mai tsari",
+		"fv": "An shirya kera",
+		"fw": "Samfura",
+		"fx": "Yanayin aiki",
+		"fy": "Shigarwa",
+		"fz": "Kanfigareshan",
+		"f0": "Hijira",
+		"f1": "Gyara kurakurai",
+		"f2": "Ajiyayyen",
+		"f3": "Ayyuka",
+		"f4": "Motsa jiki & kayan tallafi",
+		"f5": "Matakan tattaunawa",
+		"f6": "Rubutun tattaunawa",
+		"f7": "Zane mai gudana",
+		"f8": "Gwajin yanayin",
+		"f9": "Takaitaccen rahoto",
+		"ga": "Lokacin rikodin allo (min.)",
+		"gb": "Gwada tebur",
+		"gc": "Gwada wayar hannu",
+		"gd": "Annotated hotunan allo",
+		"ge": "Rikodin allo",
+		"gf": "Gwajin amsawa",
+		"gg": "Gwajin rauni",
+		"gh": "Gwajin aiki",
+		"gi": "Gwajin amfani",
+		"gj": "Gwajin dacewa da Browser",
+		"gk": "Gwajin aiki/nauyi",
+		"gl": "An tantance masu fafatawa",
+		"gm": "Ci gaban yakin neman zabe",
+		"gn": "Saitin asusu",
+		"go": "Rahoton da aka ƙayyade na SEM",
+		"gp": "Tsawon lokacin gudanarwa (makonni)",
+		"gq": "Inganta yakin neman zabe",
+		"gr": "SEO Audit & Rahoton",
+		"gs": "Tsarin aiki da aka keɓance",
+		"gt": "SEO ingantawa",
+		"gu": "Cire hanyoyin haɗin yanar gizo mara kyau",
+		"gv": "Keywords bincike & nazari",
+		"gw": "Gabatarwa directory",
+		"gx": "Da'awar Yelp jeri",
+		"gy": "Da'awar jeri na Foursquare",
+		"gz": "Saitin shafi",
+		"g0": "Haɓaka shafi",
+		"g1": "Tsarin tallan da aka keɓance",
+		"g2": "Rubuce-rubucen kafofin watsa labarun",
+		"g3": "Abubuwan abun ciki",
+		"g4": "Rahoton bincike na Hashtag",
+		"g5": "Tsarin aiki",
+		"g6": "Ƙaddamar da haɗin kai da sadarwa",
+		"g7": "Ci gaban al'umma da haɓaka hacking",
+		"g8": "Gudanar da al'umma & haɗin gwiwa",
+		"g9": "SEO inganta bidiyo",
+		"ha": "Binciken keyword & hashtag",
+		"hb": "Katin ƙarshe na al'ada",
+		"hc": "Ci gaban lissafin tuntuɓar",
+		"hd": "Bangaren masu sauraro",
+		"he": "Yawan lambobin sadarwa",
+		"hf": "Tsaftar lissafin imel",
+		"hg": "Binciken batutuwa",
+		"hh": "Rubutun labarin",
+		"hi": "SEO Keywords",
+		"hj": "An haɗa kadarar mai jarida",
+		"hk": "An haɗa Backlink",
+		"hl": "Tsawon lokacin gudanarwa",
+		"hm": "Rahoton nazari na talla",
+		"hn": "Ana shigo da lambobin sadarwa",
+		"ho": "Kwafi bambancin",
+		"hp": "Saitin kamfen",
+		"hq": "Saitin atomatik",
+		"hr": "An aika yakin neman zabe",
+		"hs": "Rahoton yakin neman zabe",
+		"ht": "Rahoton dabarun talla",
+		"hu": "Bangaren abokin ciniki",
+		"hv": "Yakin talla",
+		"hw": "Tsawon zama",
+		"hx": "Ayyuka masu biyo baya",
+		"hy": "Takaitaccen zama",
+		"hz": "Alamun bin diddigi",
+		"h0": "Adadin da aka saita burin",
+		"h1": "Ƙirƙiri dashboard na nazari",
+		"h2": "Custom GA rahoton",
+		"h3": "Rahoton juyawa",
+		"h4": "Gudanar da talla",
+		"h5": "Bita & Sharhi",
+		"h6": "Rahoton tallan imel",
+		"h7": "Inganta taken",
+		"h8": "Rarraba wuraren kasuwa",
+		"h9": "Ikon dubawa",
+		"ia": "App Store upload",
+		"ib": "Binciken kwafin tallace-tallace",
+		"ic": "Lokacin gudu (a cikin mintuna)",
+		"id": "Girman launi",
+		"ie": "Tsarin sauti & haɗawa",
+		"if": "Hotunan motsi",
+		"ig": "Subtitles",
+		"ih": "An haɗa babban hoto",
+		"ii": "Gyaran bidiyo",
+		"ij": "Ci gaban ra'ayi",
+		"ik": "Kiɗa & Tasirin Sauti",
+		"il": "Muryar fiye da rikodi",
+		"im": "Mai gabatarwa akan kyamara",
+		"in": "Binciken mai amfani",
+		"io": "Yawan shafuka/allon fuska",
+		"ip": "Ƙara tambari",
+		"iq": "Bayani mai gaskiya",
+		"ir": "Tsarin al'ada",
+		"is": "Tasirin sauti",
+		"it": "Keɓance samfuri",
+		"iu": "Ƙirƙirar samfuri",
+		"iv": "Yawan samfuri",
+		"iw": "Samfurin tushen fayil",
+		"ix": "Cikakken HD (1080p)",
+		"iy": "Saka rubutun kalmomi",
+		"iz": "Rubutu",
+		"i0": "Fassara",
+		"i1": "SRT fayil",
+		"i2": "Abubuwan da ke ciki",
+		"i3": "Rubutun rubutun",
+		"i4": "An haɗa tasirin musamman",
+		"i5": "An haɗa yin fim",
+		"i6": "An haɗa samfurin kai tsaye",
+		"i7": "An haɗa fassarar fassarar",
+		"i8": "Thumbnail",
+		"i9": "Lokacin gudu (dakika)",
+		"ja": "Yawan bambancin tsayi",
+		"jb": "Yawan daidaitawa",
+		"jc": "Nuna hoton samfur",
+		"jd": "Murya-over",
+		"je": "Mai masaukin kyamara",
+		"jf": "nunin samfur",
+		"jg": "Nuna fakitin samfur",
+		"jh": "Abubuwan zane-zane",
+		"ji": "Kalmomi sun haɗa",
+		"jj": "Ultra HD 4k",
+		"jk": "Babban audio",
+		"jl": "Lakabi",
+		"jm": "Haɗa waƙoƙi",
+		"jn": "Tasiri na musamman",
+		"jo": "Adadin rubutun kalmomi",
+		"jp": "Hoton bidiyo",
+		"jq": "Canje-canje masu ƙarfi",
+		"jr": "Launuka na al'ada",
+		"js": "Rubutun mai rufi",
+		"jt": "Tashin hankali na al'ada",
+		"ju": "Cikakken madauki",
+		"jv": "Fayil na asali",
+		"jw": "Tsarin hali",
+		"jx": "Cikakkun motsi",
+		"jy": "Yawan haruffa",
+		"jz": "Isar da fayil ɗin aikin",
+		"j0": "Girman fayil da yawa",
+		"j1": "Tsawon lokaci (a cikin dakika)",
+		"j2": "Tsarin bidiyo",
+		"j3": "madauki mara kyau",
+		"j4": "Dangane da hoto/bidiyo",
+		"j5": "Cikakken launi",
+		"j6": "Dubing",
+		"j7": "Hoton bangon baya",
+		"j8": "Tsawon (a cikin dakika)",
+		"j9": "Ƙirƙiri fayil ɗin vector",
+		"ka": "Haɗa gunki",
+		"kb": "Hada Logo",
+		"kc": "Haɗa hali",
+		"kd": "Haɗa mai saukarwa/jarumin wasan kwaikwayo",
+		"ke": "Haɗa hulɗa",
+		"kf": "Rabin jiki",
+		"kg": "Rigar fuska",
+		"kh": "Rigar yatsa",
+		"ki": "IK/FK canza",
+		"kj": "Zane na asali",
+		"kk": "An haɗa hoton al'ada",
+		"kl": "Halin motsin rai",
+		"km": "Bayanin rayarwa",
+		"kn": "Katin mai gefe biyu",
+		"ko": "Yawan kwanakin harbi",
+		"kp": "An haɗa sigogin",
+		"kq": "Muryar da aka haɗa",
+		"kr": "Hazakar kan iska",
+		"ks": "Harbin kyamara da yawa",
+		"kt": "Rikodin sauti",
+		"ku": "An haɗa haruffa",
+		"kv": "An haɗa bayanan da aka kwatanta",
+		"kw": "Yawan 'yan wasan kwaikwayo",
+		"kx": "Fage",
+		"ky": "Kaya ta al'ada",
+		"kz": "Haɗa taken magana",
+		"k0": "Tasirin haskakawa",
+		"k1": "Mintuna sun haɗa",
+		"k2": "Titles & graphics",
+		"k3": "Model/mai watsa shiri sun haɗa",
+		"k4": "3D animation",
+		"k5": "Duban fashe",
+		"k6": "Duban X-ray",
+		"k7": "An haɗa yin fim ɗin samfur",
+		"k8": "Yawan hotunan kariyar kwamfuta",
+		"k9": "Subtitle",
+		"la": "Hotunan hannun jari",
+		"lb": "Hoton jari",
+		"lc": "Multi-dandamali ingantawa",
+		"ld": "Zane na thumbnail",
+		"le": "Rikodin tunani mai jagora",
+		"lf": "Rubutun tunani",
+		"lg": "Adadin magana & taken magana",
+		"lh": "Binciken Keyword SEO",
+		"li": "Nassoshi & ambato",
+		"lj": "Taswirar bayanai",
+		"lk": "Duban saɓo",
+		"ll": "Binciken gaskiya",
+		"lm": "Gano AI",
+		"ln": "Binciken masu sauraro manufa",
+		"lo": "Binciken abun ciki",
+		"lp": "Kalanda abun ciki",
+		"lq": "Tsarin abun ciki",
+		"lr": "Ci gaban labari",
+		"ls": "Bayanin gani",
+		"lt": "Binciken samfur",
+		"lu": "Binciken masu gasa",
+		"lv": "Tsawon Magana (mintuna)",
+		"lw": "Ƙarin bincike",
+		"lx": "Gyaran tsari",
+		"ly": "Gyara layi",
+		"lz": "Sake rubutawa",
+		"l0": "Jawabin",
+		"l1": "Tabbatar da karantawa",
+		"l2": "Gano AI & gyarawa",
+		"l3": "Daidaiton murya & sautin",
+		"l4": "Sake rubuta sashe",
+		"l5": "Gyaran haɓakawa",
+		"l6": "Takardun salo",
+		"l7": "Samfurin gyara layi",
+		"l8": "Rahoton mai karatu",
+		"l9": "Ƙarin kayan aiki / motsa jiki",
+		"ma": "Fayil mai iya daidaitawa",
+		"mb": "Gyara & sake rubutawa",
+		"mc": "Haɓaka bayanin martaba na LinkedIn",
+		"md": "Harafin murfin",
+		"me": "Haruffan murfin da aka yi niyya",
+		"mf": "Ilimi, takaddun shaida & kyaututtuka",
+		"mg": "Kwarewar sana'a",
+		"mh": "Hashtags / kalmomi masu niyya",
+		"mi": "Ƙwarewa & yarda",
+		"mj": "Binciken gasa",
+		"mk": "Bayanin bayanin aikin",
+		"ml": "Nauyi da ayyuka",
+		"mm": "cancanta",
+		"mn": "Alamar daidaiton murya",
+		"mo": "Alamar labari",
+		"mp": "Masu sauraro manufa & matsayi",
+		"mq": "Jagororin murya & sautin",
+		"mr": "Jagororin ƙirar ƙira",
+		"ms": "Sunan kasuwanci & taken",
+		"mt": "Sunayen kasuwanci / samfur",
+		"mu": "An hada da taken",
+		"mv": "Social media rike",
+		"mw": "Duba alamar kasuwanci",
+		"mx": "Binciken yanki",
+		"my": "Tambayoyin abokin ciniki",
+		"mz": "An haɗa taken (kowace samfur)",
+		"m0": "An haɗa bulletpoint (kowace samfur)",
+		"m1": "html take",
+		"m2": "Sigar kwafin talla",
+		"m3": "Bita & gyara",
+		"m4": "Layukan magana sun haɗa",
+		"m5": "An rubuta imel",
+		"m6": "Aika sanarwar manema labarai",
+		"m7": "Tsarin sakin latsawa",
+		"m8": "Ra'ayoyin sakin latsa",
+		"m9": "Tsara daftarin aiki",
+		"na": "Jagoran salon harshe",
+		"nb": "Maganar lokaci",
+		"nc": "Yawan masu magana",
+		"nd": "Rubutu a zahiri",
+		"ne": "Maida fayil",
+		"nf": "Yawan surori",
+		"ng": "Ƙididdigar kalmomi a kowane babi",
+		"nh": "Ayyuka & mafita",
+		"ni": "Rubutun bidiyo",
+		"nj": "Bincika abubuwan da ke akwai",
+		"nk": "Jerin albarkatun",
+		"nl": "Gyarawa & gyarawa",
+		"nm": "Tsarin jagorar salo",
+		"nn": "Misalin fasaha",
+		"no": "Shafukan da aka haƙa / goge",
+		"np": "Zazzage albarkatu",
+		"nq": "Tsara & tsaftacewa",
+		"nr": "Adadin ma'auni",
+		"ns": "Adadin sassa",
+		"nt": "Al'amura",
+		"nu": "Ƙimar sa ido na yanar gizo",
+		"nv": "Takaitaccen bayani",
+		"nw": "Ra'ayoyin inganta juzu'i",
+		"nx": "Shigar da yanar gizo",
+		"ny": "Abubuwan gani masu mu'amala/mai rai",
+		"nz": "Graphs/charts",
+		"n0": "Bambance-bambancen zane/zane",
+		"n1": "Gabatarwa",
+		"n2": "Adadin macro",
+		"n3": "Maɓalli & siffofi",
+		"n4": "Haɗin tushen bayanai",
+		"n5": "Haɗin kayan aikin",
+		"n6": "Takaddun samfur",
+		"n7": "Gyara tambayoyin",
+		"n8": "Inganta tambayoyin",
+		"n9": "Jadawalin tambayoyin",
+		"oa": "Yi nazarin tambayoyin",
+		"ob": "Samfurin rayuwa",
+		"oc": "Tsarin salon rayuwa",
+		"od": "Salon Hoto",
+		"oe": "Ra'ayin kai tsaye",
+		"of": "Gyaran hoto",
+		"og": "Bayanan bayanai",
+		"oh": "Yawan girke-girke",
+		"oi": "Shirye-shiryen abinci",
+		"oj": "Kayan tebur",
+		"ok": "# na Hotuna",
+		"ol": "Hoton mai salo",
+		"om": "Studio hada",
+		"on": "Gashi & kayan shafa",
+		"oo": "Bayanin kamfani",
+		"op": "Binciken masana'antu & masu fafatawa",
+		"oq": "Binciken SWOT",
+		"or": "Binciken abokin ciniki",
+		"os": "Hasashen kudi",
+		"ot": "Jerin masu saka hannun jari",
+		"ou": "Kwafin imel na kai tsaye",
+		"ov": "Fitowar tudu",
+		"ow": "Tsarin hawan ma'aikata",
+		"ox": "Daidaiton ma'aikata",
+		"oy": "Ra'ayin ma'aikata",
+		"oz": "Ƙayyade burin aikin",
+		"o0": "Ƙayyade isarwa & KPIs",
+		"o1": "Ƙaddamar da jadawali & abubuwan ci gaba",
+		"o2": "Gudanar da haɗari",
+		"o3": "Gudanar da albarkatun",
+		"o4": "Gudanar da kasafin kuɗi",
+		"o5": "Ƙirƙirar rahotannin aikin",
+		"o6": "Ƙirƙirar zane-zane na aikin",
+		"o7": "Awanni shawarwari",
+		"o8": "Kima na farko",
+		"o9": "Dabarun shawarwari",
+		"pa": "Daftarin aiwatar da dabarun",
+		"pb": "Deck mai ba da shawara",
+		"pc": "Binciken gasa",
+		"pd": "TAM lissafi ko bincike",
+		"pe": "Rubutun bincike",
+		"pf": "Ci gaban kusoshi",
+		"pg": "Ci gaban tashar",
+		"ph": "Lamunin tallace-tallace",
+		"pi": "Horon tallace-tallace na ciki",
+		"pj": "Ƙirƙirar ilimi da kiyayewa",
+		"pk": "Saitin tsarin",
+		"pl": "Macros ci gaban",
+		"pm": "Tsarin kula da abokin ciniki da littafin wasan tafiya",
+		"pn": "Horon wakili",
+		"po": "Zaman horo",
+		"pp": "Gudanar da asusun",
+		"pq": "Tsare-tsare ta atomatik",
+		"pr": "Binciken bayanai & rahoto",
+		"ps": "Tsare-tsare na atomatik & saitin",
+		"pt": "Binciken bayanai & rahotanni",
+		"pu": "An duba gaskiya",
+		"pv": "Gyaran rubutu",
+		"pw": "Tsare-tsare",
+		"px": "Dabaru",
+		"py": "Yawan baƙi",
+		"pz": "Tallan taron",
+		"p0": "Ƙirƙirar abun ciki",
+		"p1": "Ma'aikatan sun haɗa da",
+		"p2": "Mai watsa shiri/mai gudanarwa",
+		"p3": "Goyon bayan sana'a",
+		"p4": "Goyan bayan taron",
+		"p5": "Makanikan wasan kwaikwayo",
+		"p6": "Yawan matakan",
+		"p7": "Dabarun samun kuɗi",
+		"p8": "Ilimin tattalin arziki",
+		"p9": "Ƙirƙirar takaddar ƙirar wasa",
+		"qa": "Shirin aikin / samarwa",
+		"qb": "Tsawon rikodi (a cikin daƙiƙa)",
+		"qc": "Yawan kayan aiki",
+		"qd": "HQ fayil mai jiwuwa",
+		"qe": "Fayiloli daban",
+		"qf": "Kidan takarda",
+		"qg": "Melody na asali",
+		"qh": "Hadawa & Jagoranci",
+		"qi": "Isar da Fayil/Stems Project",
+		"qj": "Yi rikodin Bidiyo",
+		"qk": "Muryar Harmony",
+		"ql": "Muryoyin bin diddigi sau biyu",
+		"qm": "Yawan waƙoƙi",
+		"qn": "Kundin kida/MIDI",
+		"qo": "Chorus",
+		"qp": "Gada",
+		"qq": "Rubutun Melody",
+		"qr": "Rikodin muryoyin",
+		"qs": "Rubutun wakoki",
+		"qt": "Rarrabe waƙoƙi/guru",
+		"qu": "Fayil ɗin aikin",
+		"qv": "Jagoranci",
+		"qw": "Adadin waƙoƙi/tsafi",
+		"qx": "Madadin sigar",
+		"qy": "Kwarewar fitar da tushe",
+		"qz": "Analog gear",
+		"q0": "An haɗa waƙoƙi",
+		"q1": "Daidaita bidiyo",
+		"q2": "Tsawon sauti ba a gyara ba (mintuna)",
+		"q3": "Gyaran hannu",
+		"q4": "Gyaran sauti",
+		"q5": "Daidaita lokaci",
+		"q6": "Halittar jituwa",
+		"q7": "murya-kalmomi",
+		"q8": "murya-hq-audo",
+		"q9": "Gyaran Sauti & Rage Surutu",
+		"ra": "Rubuta bayanin kula",
+		"rb": "Ƙara alamun ID3",
+		"rc": "Ƙara intro/outro/ads",
+		"rd": "Live show samarwa",
+		"re": "Rarraba Podcast",
+		"rf": "Tabbatarwa",
+		"rg": "Raba surori",
+		"rh": "Samfurin sauti na siyarwa",
+		"ri": "Rikodin murya",
+		"rj": "Binciken masu sauraro",
+		"rk": "Yawan nau'ikan talla",
+		"rl": "Fayilolin da aka raba",
+		"rm": "Hujja-sauraro",
+		"rn": "Muryar al'ada",
+		"ro": "# na Tags Haɗe",
+		"rp": "Bibiyar rabuwa",
+		"rq": "Tsawon rikodi (a cikin mintuna)",
+		"rr": "Tsarin waƙa na al'ada",
+		"rs": "Lissafin waƙa da aka yi masa alama",
+		"rt": "Yawan tasirin sauti",
+		"ru": "Na al'ada",
+		"rv": "Adadin saiti na synth",
+		"rw": "Midi yayi wasa tare da saiti na synth",
+		"rx": "Adadin sfx",
+		"ry": "Halittar waka",
+		"rz": "An ƙara ƙarar murya",
+		"r0": "Tsarin sauti na samfur",
+		"r1": "Tsawon darasi (a cikin mintuna)",
+		"r2": "Motsa jiki & kayan tallafi",
+		"r3": "Yawan kayan aikin monophonic",
+		"r4": "Yawan kayan aikin polyphonic",
+		"r5": "Hadadden yanki",
+		"r6": "An haɗa waƙoƙi",
+		"r7": "Tsawon zama",
+		"r8": "Ayyuka masu biyo baya",
+		"r9": "Takaitaccen zama"
+	},
+	"categoryExtra": {
+		"aa": "Ƙarin waƙar kayan aiki",
+		"ab": "HQ fayil mai jiwuwa",
+		"ac": "Fayiloli daban",
+		"ad": "Kidan takarda",
+		"ae": "Melody na asali",
+		"af": "Hadawa & Jagoranci",
+		"ag": "Isar da Fayil/Stems Project",
+		"ah": "Yi rikodin Bidiyo",
+		"ai": "Muryar Harmony",
+		"aj": "Muryoyin bin diddigi sau biyu",
+		"ak": "Kundin kida/MIDI",
+		"al": "Karin aya",
+		"am": "Chorus",
+		"an": "Gada",
+		"ao": "Rubutun Melody",
+		"ap": "Rikodin muryoyin",
+		"aq": "Rubutun wakoki",
+		"ar": "Rarrabe waƙoƙi/guru",
+		"as": "Ƙarin waƙa",
+		"at": "Madadin sigar",
+		"au": "Kwarewar fitar da tushe",
+		"av": "Fayil ɗin aikin",
+		"aw": "Ƙarin waƙa",
+		"ax": "Ƙarin waƙar tattaunawa",
+		"ay": "Daidaita bidiyo",
+		"az": "Halittar jituwa",
+		"a0": "Tabbatar da Rubutun",
+		"a1": "Hakkokin kasuwanci",
+		"a2": "Cikakken Hakkokin Watsa Labarai",
+		"a3": "HQ Audio File (tsarin WAV)",
+		"a4": "Daidaitawar Sauti Mai Lokaci (a cikin daƙiƙa 60)",
+		"a5": "Rarraba Fayiloli (har zuwa fayiloli 5)",
+		"a6": "Ƙarin Bita",
+		"a7": "Waƙar Baya (kowace waƙa)",
+		"a8": "Ƙarin Kalmomi,",
+		"a9": "Lokacin Bayarwa",
+		"ba": "Gyaran Sauti & Rage Surutu",
+		"bb": "Rubuta bayanin kula",
+		"bc": "Ƙara alamun ID3",
+		"bd": "Ƙara intro/outro/ads",
+		"be": "Live show samarwa",
+		"bf": "Rarraba Podcast",
+		"bg": "Tabbatarwa",
+		"bh": "Samfurin sauti na siyarwa",
+		"bi": "Rikodin murya",
+		"bj": "Fayilolin da aka raba",
+		"bk": "Hujja-sauraro",
+		"bl": "Ƙarin raguwa",
+		"bm": "Bibiyar rabuwa",
+		"bn": "Ƙarin lokacin haɗuwa",
+		"bo": "Tsarin waƙa na al'ada",
+		"bp": "Lissafin waƙa da aka yi masa alama",
+		"bq": "Na al'ada",
+		"br": "Midi yayi wasa tare da saiti na synth",
+		"bs": "Halittar waka",
+		"bt": "An ƙara ƙarar murya",
+		"bu": "Tsarin sauti na samfur",
+		"bv": "Motsa jiki & kayan tallafi",
+		"bw": "Ƙarin kayan aikin monophonic",
+		"bx": "Ƙarin kayan aikin polyphonic",
+		"by": "An haɗa waƙoƙi",
+		"bz": "Ƙarin hoto akan kowane samfur",
+		"b0": "Samfurin rayuwa",
+		"b1": "Tsarin salon rayuwa",
+		"b2": "Salon Hoto",
+		"b3": "Ra'ayin kai tsaye",
+		"b4": "Bayanan bayanai",
+		"b5": "Ƙarin Hoto",
+		"b6": "Ƙarin girke-girke",
+		"b7": "Hoton mai salo",
+		"b8": "Ƙarin sa'a akan saita",
+		"b9": "Studio hada",
+		"ca": "Gashi & kayan shafa",
+		"cb": "Gyaran hoto",
+		"cc": "Ƙarin wurare",
+		"cd": "Bayanin kamfani",
+		"ce": "Binciken masana'antu & masu fafatawa",
+		"cf": "Binciken SWOT",
+		"cg": "Binciken abokin ciniki",
+		"ch": "Hasashen kudi",
+		"ci": "Jerin masu saka hannun jari",
+		"cj": "Kwafin imel na kai tsaye",
+		"ck": "Fitowar tudu",
+		"cl": "Tsarin tsari",
+		"cm": "Tsarin hawan ma'aikata",
+		"cn": "Daidaiton ma'aikata",
+		"co": "Ra'ayin ma'aikata",
+		"cp": "Babban shawarwarin aikin",
+		"cq": "Ƙayyade burin aikin",
+		"cr": "Ƙayyade isarwa & KPIs",
+		"cs": "Ƙaddamar da jadawali & abubuwan ci gaba",
+		"ct": "Gudanar da haɗari",
+		"cu": "Gudanar da albarkatun",
+		"cv": "Gudanar da kasafin kuɗi",
+		"cw": "Ƙirƙirar rahotannin aikin",
+		"cx": "Ƙirƙirar zane-zane na aikin",
+		"cy": "Ƙarin sa'o'in shawarwari",
+		"cz": "Kima na farko",
+		"c0": "Dabarun shawarwari",
+		"c1": "Daftarin aiwatar da dabarun",
+		"c2": "Deck mai ba da shawara",
+		"c3": "Hanyoyin kasuwa",
+		"c4": "Binciken gasa",
+		"c5": "TAM lissafi ko bincike",
+		"c6": "Lamunin tallace-tallace",
+		"c7": "Horon tallace-tallace na ciki",
+		"c8": "Ƙirƙirar cibiyar taimako da kulawa",
+		"c9": "Ƙirƙirar ilimi da kiyayewa",
+		"da": "Saitin tsarin",
+		"db": "Macros ci gaban",
+		"dc": "Tsarin kula da abokin ciniki da littafin wasan tafiya",
+		"dd": "Horon wakili",
+		"de": "Zaman horo",
+		"df": "Tsare-tsare ta atomatik",
+		"dg": "Tsare-tsare na atomatik & saitin",
+		"dh": "Ƙarin Membobin Ma'aikata",
+		"di": "Ayyukan shawarwari",
+		"dj": "Dabaru",
+		"dk": "Yawan baƙi",
+		"dl": "Tallan taron",
+		"dm": "Ƙirƙirar abun ciki",
+		"dn": "Goyon bayan sana'a",
+		"do": "Goyan bayan taron",
+		"dp": "Ci gaban ra'ayi game",
+		"dq": "Makanikan wasan kwaikwayo",
+		"dr": "Ƙarin matakin",
+		"ds": "Dabarun samun kuɗi",
+		"dt": "Ilimin tattalin arziki",
+		"du": "Ƙirƙirar takaddar ƙirar wasa",
+		"dv": "Shirin aikin / samarwa",
+		"dw": "Ƙarin talla",
+		"dx": "Aika sanarwar manema labarai",
+		"dy": "Tsarin sakin latsawa",
+		"dz": "Ra'ayoyin sakin latsa",
+		"d0": "Binciken mai amfani",
+		"d1": "Tsara daftarin aiki",
+		"d2": "Jagoran salon harshe",
+		"d3": "Maganar lokaci",
+		"d4": "Ƙarin magana",
+		"d5": "Rubutu a zahiri",
+		"d6": "Maida fayil",
+		"d7": "Ƙarin babi",
+		"d8": "Rubutun bidiyo",
+		"d9": "Ƙarin 0nal Technica Illustrations",
+		"ea": "Gyarawa & gyarawa",
+		"eb": "Tsarin jagorar salo",
+		"ec": "Ƙarin abubuwa",
+		"ed": "Ƙarin shafukan da aka haƙa / goge",
+		"ee": "Ƙarin tushen hakar ma'adinai/rasa",
+		"ef": "Zazzage albarkatu",
+		"eg": "Ƙarin mazurari",
+		"eh": "Ƙarin awo",
+		"ei": "Ƙarin sashi",
+		"ej": "Ƙarin yanayin",
+		"ek": "Takaitaccen bayani",
+		"el": "Haɗin tushen bayanai",
+		"em": "Shigar da yanar gizo",
+		"en": "Abubuwan gani masu mu'amala/mai rai",
+		"eo": "Ƙarin jadawali / jadawali",
+		"ep": "Ƙarin bambancin zane/zane",
+		"eq": "Gabatarwa",
+		"er": "Ƙarin tsari",
+		"es": "Ƙarin macro",
+		"et": "Ƙarin maɓalli/form",
+		"eu": "Haɗin kayan aikin",
+		"ev": "Takaddun samfur",
+		"ew": "Ƙarin tambaya",
+		"ex": "Gyara tambayoyin",
+		"ey": "Inganta tambayoyin",
+		"ez": "Jadawalin tambayoyin",
+		"e0": "Yi nazarin tambayoyin",
+		"e1": "Gyaran tsari",
+		"e2": "Gyara layi",
+		"e3": "Sake rubutawa",
+		"e4": "Jawabin",
+		"e5": "Gano AI & gyarawa",
+		"e6": "Daidaiton murya & sautin",
+		"e7": "Sake rubuta sashe",
+		"e8": "Gyaran haɓakawa",
+		"e9": "Takardun salo",
+		"fa": "Tabbatar da karantawa",
+		"fb": "Samfurin gyara layi",
+		"fc": "Rahoton mai karatu",
+		"fd": "Ƙarin kayan aiki / motsa jiki",
+		"fe": "Fayil mai iya daidaitawa",
+		"ff": "Gyara & sake rubutawa",
+		"fg": "Haɓaka bayanin martaba na LinkedIn",
+		"fh": "Harafin murfin",
+		"fi": "Bita & gyara",
+		"fj": "Ƙarin wasiƙar murfin da aka yi niyya",
+		"fk": "Kanun labarai & taƙaitawa",
+		"fl": "Ilimi, takaddun shaida & kyaututtuka",
+		"fm": "Kwarewar sana'a",
+		"fn": "Hashtags / kalmomi masu niyya",
+		"fo": "Ƙwarewa & yarda",
+		"fp": "Ƙarin bayanin aikin",
+		"fq": "Binciken gasa",
+		"fr": "Bayanin bayanin aikin",
+		"fs": "Nauyi da ayyuka",
+		"ft": "Alamar daidaiton murya",
+		"fu": "Maganar manufa & hangen nesa",
+		"fv": "Alamar labari",
+		"fw": "Masu sauraro manufa & matsayi",
+		"fx": "Jagororin murya & sautin",
+		"fy": "Jagororin ƙirar ƙira",
+		"fz": "Sunan kasuwanci & taken",
+		"f0": "Ƙarin sunaye",
+		"f1": "Ƙarin tagline",
+		"f2": "Social media rike",
+		"f3": "Duba alamar kasuwanci",
+		"f4": "Binciken yanki",
+		"f5": "Tambayoyin abokin ciniki",
+		"f6": "Ƙarin lissafin samfur",
+		"f7": "html take",
+		"f8": "Duban fashe",
+		"f9": "Duban X-ray",
+		"ga": "An haɗa yin fim ɗin samfur",
+		"gb": "Ƙarin hoton allo",
+		"gc": "Rikodin allo",
+		"gd": "Subtitle",
+		"ge": "Hotunan hannun jari",
+		"gf": "Zane na thumbnail",
+		"gg": "Rikodin tunani mai jagora",
+		"gh": "Rubutun tunani",
+		"gi": "Ƙarin take",
+		"gj": "Ƙarin magana",
+		"gk": "Binciken Keyword SEO",
+		"gl": "Nassoshi & ambato",
+		"gm": "Taswirar bayanai",
+		"gn": "Duban saɓo",
+		"go": "Binciken gaskiya",
+		"gp": "Gano AI",
+		"gq": "Binciken masu sauraro manufa",
+		"gr": "Kalanda abun ciki",
+		"gs": "Tsarin abun ciki",
+		"gt": "Ƙarin lokacin rikodi",
+		"gu": "Ci gaban labari",
+		"gv": "Bayanin gani",
+		"gw": "Binciken masu gasa",
+		"gx": "Ƙarin bincike",
+		"gy": "Girman fayil da yawa",
+		"gz": "Tsarin bidiyo",
+		"g0": "madauki mara kyau",
+		"g1": "Cikakken launi",
+		"g2": "Addyboard",
+		"g3": "Ƙarin bita",
+		"g4": "Dubing",
+		"g5": "Hoton bangon baya",
+		"g6": "Media Stock Media",
+		"g7": "Ƙirƙiri fayil ɗin vector",
+		"g8": "Haɗa gunki",
+		"g9": "Hada Logo",
+		"ha": "Haɗa hali",
+		"hb": "Haɗa mai saukarwa/jarumin wasan kwaikwayo",
+		"hc": "Haɗa hulɗa",
+		"hd": "IK/FK canza",
+		"he": "An haɗa hoton al'ada",
+		"hf": "Halin motsin rai",
+		"hg": "Bayanin rayarwa",
+		"hh": "Katin mai gefe biyu",
+		"hi": "Ƙarin ranar harbi",
+		"hj": "Muryar da aka haɗa",
+		"hk": "Hazakar kan iska",
+		"hl": "Ƙarin kwanakin harbi",
+		"hm": "Harbin kyamara da yawa",
+		"hn": "Rikodin sauti",
+		"ho": "An haɗa haruffa",
+		"hp": "An haɗa bayanan da aka kwatanta",
+		"hq": "Zane na asali",
+		"hr": "Ƙarin ɗan wasan kwaikwayo",
+		"hs": "Fage",
+		"ht": "Kaya ta al'ada",
+		"hu": "Haɗa taken magana",
+		"hv": "Binciken batutuwa",
+		"hw": "Titles & graphics",
+		"hx": "Model/mai watsa shiri sun haɗa",
+		"hy": "Rahoton dabarun talla",
+		"hz": "Bangaren abokin ciniki",
+		"h0": "Ayyuka masu biyo baya",
+		"h1": "Takaitaccen zama",
+		"h2": "Alamun bin diddigi",
+		"h3": "Ƙarin ingantaccen burin",
+		"h4": "Ƙirƙiri dashboard na nazari",
+		"h5": "Custom GA rahoton",
+		"h6": "Rahoton juyawa",
+		"h7": "Gudanar da talla",
+		"h8": "Bita & Sharhi",
+		"h9": "Yakin talla",
+		"ia": "Rahoton tallan imel",
+		"ib": "Girman launi",
+		"ic": "Tsarin sauti & haɗawa",
+		"id": "Hotunan motsi",
+		"ie": "Subtitles",
+		"if": "An haɗa babban hoto",
+		"ig": "Ƙarin lokacin gudu (daƙiƙa)",
+		"ih": "Gyaran bidiyo",
+		"ii": "Kiɗa & Tasirin Sauti",
+		"ij": "Muryar fiye da rikodi",
+		"ik": "Mai gabatarwa akan kyamara",
+		"il": "Rubutun mai rufi",
+		"im": "Ƙara tambari",
+		"in": "Bayani mai gaskiya",
+		"io": "Tsarin al'ada",
+		"ip": "Tasirin sauti",
+		"iq": "Ƙarin shirye-shiryen bidiyo",
+		"ir": "Ƙirƙirar samfuri",
+		"is": "Samfurin tushen fayil",
+		"it": "Cikakken HD (1080p)",
+		"iu": "Karin mintuna",
+		"iv": "Rubutu",
+		"iw": "Fassara",
+		"ix": "SRT fayil",
+		"iy": "Ƙarin bidiyo",
+		"iz": "Ƙarin sigar",
+		"i0": "Abubuwan da ke ciki",
+		"i1": "Rubutun rubutun",
+		"i2": "An haɗa tasirin musamman",
+		"i3": "An haɗa yin fim",
+		"i4": "An haɗa samfurin kai tsaye",
+		"i5": "An haɗa fassarar fassarar",
+		"i6": "Thumbnail",
+		"i7": "Ƙarin bambancin tsayi",
+		"i8": "Nuna hoton samfur",
+		"i9": "Murya-over",
+		"ja": "Abubuwan zane-zane",
+		"jb": "Ultra HD 4k",
+		"jc": "Babban audio",
+		"jd": "Lakabi",
+		"je": "Haɗa waƙoƙi",
+		"jf": "Tasiri na musamman",
+		"jg": "Adadin hotuna",
+		"jh": "Ƙarin taken",
+		"ji": "Hoton bidiyo",
+		"jj": "Canje-canje masu ƙarfi",
+		"jk": "Ƙarin tambari",
+		"jl": "Tambarin nuna gaskiya",
+		"jm": "Launuka na al'ada",
+		"jn": "Tashin hankali na al'ada",
+		"jo": "Cikakken madauki",
+		"jp": "Tsarin hali",
+		"jq": "Cikakkun motsi",
+		"jr": "Isar da fayil ɗin aikin",
+		"js": "fafatawa a gasa-nazarta",
+		"jt": "yakin neman ci gaba",
+		"ju": "saitin asusu",
+		"jv": "sem-rahoton",
+		"jw": "gudanarwa-lokaci-makonni",
+		"jx": "yaƙin neman zaɓe",
+		"jy": "SEO Audit & Rahoton",
+		"jz": "Tsarin aiki da aka keɓance",
+		"j0": "SEO ingantawa",
+		"j1": "Cire hanyoyin haɗin yanar gizo mara kyau",
+		"j2": "Ƙarin kalmar maɓalli",
+		"j3": "Ƙarin gasa",
+		"j4": "Gabatarwa directory",
+		"j5": "Da'awar Yelp jeri",
+		"j6": "Da'awar jeri na Foursquare",
+		"j7": "Saitin shafi",
+		"j8": "Haɓaka shafi",
+		"j9": "Tsarin tallan da aka keɓance",
+		"ka": "Ƙarin rubutun kafofin watsa labarun",
+		"kb": "Ƙarin kafofin watsa labarun mgmt",
+		"kc": "Ƙarin post",
+		"kd": "Ƙaddamar da haɗin kai da sadarwa",
+		"ke": "Saitin tashar & ingantawa",
+		"kf": "SEO inganta bidiyo",
+		"kg": "Katin ƙarshe na al'ada",
+		"kh": "Tsarin aiki",
+		"ki": "Ci gaban lissafin tuntuɓar",
+		"kj": "Tsaftar lissafin imel",
+		"kk": "Ƙarin gabatarwar post na baƙo",
+		"kl": "Rubutun labarin",
+		"km": "SEO Keywords",
+		"kn": "An haɗa kadarar mai jarida",
+		"ko": "An haɗa Backlink",
+		"kp": "Binciken asusu",
+		"kq": "Saitin kamfen",
+		"kr": "Rahoton nazari na talla",
+		"ks": "Tallafin asusu",
+		"kt": "Ana shigo da lambobin sadarwa",
+		"ku": "Saitin atomatik",
+		"kv": "Rahoton yakin neman zabe",
+		"kw": "Ƙarin matakan tattaunawa",
+		"kx": "Rubutun tattaunawa",
+		"ky": "Zane mai gudana",
+		"kz": "An gwada ƙarin shafuka",
+		"k0": "Ƙarin lokacin rikodin allo",
+		"k1": "Ajiyayyen gidan yanar gizon",
+		"k2": "Hijira na yanar gizo",
+		"k3": "Loda zuwa kantin kayan aiki",
+		"k4": "Zane mai rufi",
+		"k5": "Saitin taɗi",
+		"k6": "Gyara takardu",
+		"k7": "Cikakkun bayanai na lamba",
+		"k8": "ƙaddamar da aikace-aikacen",
+		"k9": "Ƙarin tsarin aiki",
+		"la": "Ikon app",
+		"lb": "Fuskar allo",
+		"lc": "Haɗa lambar tushe",
+		"ld": "Aikace-aikace/Zane Yanar Gizo",
+		"le": "Saita fayil",
+		"lf": "Ƙarin fasali",
+		"lg": "API hadewa",
+		"lh": "Haɗa ƙira",
+		"li": "Minting",
+		"lj": "Haɗin walat",
+		"lk": "Rubuce-rubuce",
+		"ll": "Ƙarin abubuwa",
+		"lm": "Ƙarin Layer",
+		"ln": "Haɗa zane mai tsari",
+		"lo": "An shirya kera",
+		"lp": "Samfura",
+		"lq": "Takaddun bayanai",
+		"lr": "Shigarwa",
+		"ls": "Kanfigareshan",
+		"lt": "Hijira",
+		"lu": "Gyara kurakurai",
+		"lv": "Ajiyayyen",
+		"lw": "Ƙarin Sa'o'i",
+		"lx": "Karin darasi",
+		"ly": "Motsa jiki & kayan tallafi",
+		"lz": "Ƙarin shigarwa na plugin",
+		"l0": "Ayyukan e-kasuwanci",
+		"l1": "Ƙarin samfur",
+		"l2": "Gudanar da biyan kuɗi",
+		"l3": "Fitar-in form",
+		"l4": "Haɗin kai mai amsawa",
+		"l5": "Saurin ingantawa",
+		"l6": "Saitin Hosting",
+		"l7": "Gumakan kafofin watsa labarun",
+		"l8": "Concept & zane shawara",
+		"l9": "Ƙarin zane",
+		"ma": "Binciken samfur",
+		"mb": "Babban matakin cikakkun bayanai",
+		"mc": "Haɓaka hoto",
+		"md": "Haɗa zanen gadon shimfiɗa",
+		"me": "Ƙarin bangarorin",
+		"mf": "Samfurin 3D",
+		"mg": "Ƙarin dandamali",
+		"mh": "Ƙarin ƙira na imel",
+		"mi": "Samfurin Edita",
+		"mj": "Saitin imel",
+		"mk": "Ƙarin bambancin girman",
+		"ml": "Ƙarin salo",
+		"mm": "Zamantakewa",
+		"mn": "Cire bayanan baya",
+		"mo": "Zane ba'a",
+		"mp": "Ƙarin kayan kwalliya",
+		"mq": "Ƙarin shafukan ciki",
+		"mr": "Baya & kashin baya",
+		"ms": "Zane littafi",
+		"mt": "Murfin mai rai",
+		"mu": "Rufe hoton babban hoto",
+		"mv": "Hoton kai",
+		"mw": "3D izgili",
+		"mx": "Cire abu mai wanzuwa",
+		"my": "Canja launi & kayan aiki",
+		"mz": "Shirye-shiryen kasuwanci",
+		"m0": "Haɗa yanayi",
+		"m1": "Hanyar shimfidar wuri",
+		"m2": "Kayan aikin talla",
+		"m3": "Ƙarin zane-zane na 2D",
+		"m4": "Analysis & kwaikwayo",
+		"m5": "Cikakken tsarin ƙirar tsarin",
+		"m6": "Tashin kayan abu",
+		"m7": "Load lissafi",
+		"m8": "Ƙarin ra'ayoyin abu",
+		"m9": "Ƙarin launi",
+		"na": "Ƙayyadaddun ƙira",
+		"nb": "Girman ginshiƙi",
+		"nc": "Bayanin zane-zane & bugu",
+		"nd": "Bill of Materials (BOM)",
+		"ne": "Ƙarin ra'ayi",
+		"nf": "Ƙarin hali",
+		"ng": "Ƙarin kayan haɗi",
+		"nh": "Sprite takardar",
+		"ni": "Ingantattun bayanai",
+		"nj": "Ya haɗa da rayarwa",
+		"nk": "Samfuran 3D",
+		"nl": "Ya haɗa da ƙirar tambari",
+		"nm": "Hoton hoto",
+		"nn": "Yi da kar a yi",
+		"no": "Tsarin littafin Brand",
+		"np": "Ƙarin Kafofin watsa labaru",
+		"nq": "Ƙarin Ra'ayin Zane",
+		"nr": "Mai gefe biyu",
+		"ns": "Sa hannun imel",
+		"nt": "Jirgin ruwa",
+		"nu": "Ƙarin kalmomi",
+		"nv": "Kala-kala",
+		"nw": "Vector fayil",
+		"nx": "Shipping asali",
+		"ny": "Ƙarin adadi",
+		"nz": "Babban ƙuduri",
+		"n0": "Launi",
+		"n1": "Cikakkun jiki",
+		"n2": "Amfanin kasuwanci",
+		"n3": "Ƙarin tsokaci",
+		"n4": "Isar da zane-zane",
+		"n5": "Ƙarin misalai",
+		"n6": "Isarwa da sauri",
+		"n7": "Ƙarin haruffa",
+		"n8": "Fage/ scene",
+		"n9": "Misalin launi",
+		"oa": "Allon labari",
+		"ob": "murfin littafin",
+		"oc": "Ya haɗa da shimfidar littafi",
+		"od": "Buga-shirye",
+		"oe": "Tsarin eBook",
+		"of": "Fayil na asali",
+		"og": "Ƙarin bangarori",
+		"oh": "Ƙarin Bita",
+		"oi": "Haɗa inuwa",
+		"oj": "Ƙarin sake dubawav",
+		"ok": "Bayanin rubutu",
+		"ol": "Ƙarin halaye / kayan haɗi",
+		"om": "Ƙarin bambancin",
+		"on": "Ƙarin aikin fasaha na tushe",
+		"oo": "Metadata",
+		"op": "Ƙirƙirar tarin",
+		"oq": "Karin darussa",
+		"or": "Ƙarin shafuka",
+		"os": "Ƙarin ƙirar kadari na al'ada",
+		"ot": "Samfura",
+		"ou": "Loda abun ciki",
+		"ov": "Canza zuwa HTML/CSS",
+		"ow": "Zane mai amsawa",
+		"ox": "Wireframes",
+		"oy": "Binciken UX mai gasa",
+		"oz": "Binciken mai amfani da mutane",
+		"o0": "Mai amfani yana gudana",
+		"o1": "UI zane",
+		"o2": "Ƙarin sassan",
+		"o3": "Ƙarin gumaka/maɓalli",
+		"o4": "Ikon tashin hankali",
+		"o5": "Ƙarin zane-zane na fasaha",
+		"o6": "Ci gaban ra'ayi",
+		"o7": "Cikakken samfurin ra'ayi",
+		"o8": "Zane don masana'anta",
+		"o9": "Haske",
+		"pa": "Rigingimu",
+		"pb": "Zane tambari",
+		"pc": "Mai rufi na al'ada",
+		"pd": "Facecam",
+		"pe": "Tsarin panel",
+		"pf": "Kit ɗin kafofin watsa labarun",
+		"pg": "Ƙarin faɗakarwa",
+		"ph": "Ƙarin allo",
+		"pi": "Ƙarin emote ko lamba",
+		"pj": "Zane-zane na al'ada",
+		"pk": "Gyaran hoto",
+		"pl": "Zanen kafofin watsa labarun",
+		"pm": "Isarwa da sauri",
+		"pn": "Ƙarin bita",
+		"po": "Zane-zane na al'ada",
+		"pp": "Gyaran hoto",
+		"pq": "Zanen kafofin watsa labarun",
+		"pr": "Fayil na asali",
+		"ps": "Ƙarin Kafofin watsa labaru",
+		"pt": "Tsarin murfin",
+		"pu": "Ƙarin hoto",
+		"pv": "Ƙarin nunin faifai",
+		"pw": "Haɗa kayan gani",
+		"px": "Haɗa zane-zane & zane-zane",
+		"py": "Haɗa bayanan bayanai",
+		"pz": "Haɗa miƙa mulki",
+		"p0": "Haɗa raye-rayen nunin faifai",
+		"p1": "Ƙarin bayanan bayanai",
+		"p2": "Gudanar da bincike",
+		"p3": "Aika zuwa rukunin yanar gizon bayanai",
+		"p4": "Ƙarin shafi",
+		"p5": "Zane na harafin murfin",
+		"p6": "Zane biyu na bene",
+		"p7": "Booth tsare-tsaren",
+		"p8": "Ƙarin hoton nunawa",
+		"p9": "3D tafiya mai motsi",
+		"qa": "Haɗa zane mai hoto",
+		"qb": "Haɗin kai kan wurin"
+	},
+	"countries": {
+		"AF": "Afghanistan",
+		"AL": "Albaniya",
+		"DZ": "Aljeriya",
+		"AS": "Amurka Samoa",
+		"AD": "Andorra",
+		"AO": "Angola",
+		"AI": "Anguilla",
+		"AQ": "Antarctica",
+		"AG": "Antigua da Barbuda",
+		"AR": "Argentina",
+		"AM": "Armeniya",
+		"AW": "Aruba",
+		"AU": "Ostiraliya",
+		"AT": "Austria",
+		"AZ": "Azerbaijan",
+		"BS": "Bahamas",
+		"BH": "Bahrain",
+		"BD": "Bangladesh",
+		"BB": "Barbados",
+		"BE": "Belgium",
+		"BZ": "Belize",
+		"BJ": "Benin",
+		"BM": "Bermuda",
+		"BT": "Bhutan",
+		"BO": "Bolivia",
+		"BA": "Bosnia-Herzegovina",
+		"BW": "Botswana",
+		"BV": "Tsibirin Bouvet",
+		"BR": "Brazil",
+		"IO": "Yankin Tekun Indiya na Burtaniya",
+		"BN": "Brunei Darussalam",
+		"BG": "Bulgaria",
+		"BF": "Burkina Faso",
+		"CV": "Cabo Verde",
+		"KH": "Kambodiya",
+		"CM": "Kamaru",
+		"CA": "Kanada",
+		"KY": "Tsibirin Cayman",
+		"CF": "Jamhuriyar Afirka ta Tsakiya",
+		"TD": "Chadi",
+		"CL": "Chile",
+		"CN": "China",
+		"CX": "Tsibirin Kirsimeti",
+		"CC": "Tsibirin Cocos (Keeling).",
+		"CO": "Colombia",
+		"KM": "Comoros",
+		"CG": "Kongo",
+		"CD": "Kongo, Dem. Jamhuriyar",
+		"CK": "Tsibirin Cook",
+		"CR": "Costa Rica",
+		"HR": "Croatia",
+		"CY": "Cyprus",
+		"CZ": "Czechia",
+		"CI": "Cote d'Ivoire",
+		"DK": "Denmark",
+		"DJ": "Djibouti",
+		"DM": "Dominika",
+		"DO": "Jamhuriyar Dominican",
+		"EG": "Masar",
+		"SV": "El Salvador",
+		"GQ": "Equatorial Guinea",
+		"ER": "Eritrea",
+		"EE": "Estoniya",
+		"SZ": "Eswatini",
+		"ET": "Habasha",
+		"EU": "Tarayyar Turai",
+		"FK": "Tsibirin Falkland (Malvinas)",
+		"FO": "Tsibirin Faroe",
+		"FJ": "Fiji",
+		"FI": "Finland",
+		"FR": "Faransa",
+		"GF": "Faransa Guiana",
+		"PF": "Faransa Polynesia",
+		"TF": "Yankunan Kudancin Faransa",
+		"GA": "Gabon",
+		"GM": "Gambia",
+		"GE": "Jojiya",
+		"DE": "Jamus",
+		"GH": "Ghana",
+		"GI": "Gibraltar",
+		"GR": "Girka",
+		"GL": "Greenland",
+		"GD": "Grenada",
+		"GP": "Guadeloupe (Faransa)",
+		"GU": "Guam (Amurka)",
+		"GG": "Guernsey",
+		"GN": "Gini",
+		"GY": "Guyana",
+		"HT": "Haiti",
+		"VA": "Mai Tsarki See",
+		"HN": "Honduras",
+		"HK": "Hong Kong",
+		"HU": "Hungary",
+		"IS": "Iceland",
+		"IN": "Indiya",
+		"ID": "Indonesia",
+		"IE": "Ireland",
+		"IM": "Isle na Man",
+		"IL": "Isra'ila",
+		"IT": "Italiya",
+		"JM": "Jamaica",
+		"JP": "Japan",
+		"JE": "Jersey",
+		"JO": "Jordan",
+		"KZ": "Kazakhstan",
+		"KE": "Kenya",
+		"KI": "Kiribati",
+		"KR": "Koriya-Kudu",
+		"KW": "Kuwait",
+		"KG": "Kyrgyzstan",
+		"LA": "Laos",
+		"LS": "Lesotho",
+		"LR": "Laberiya",
+		"LI": "Liechtenstein",
+		"LU": "Luxembourg",
+		"MO": "Macau",
+		"MW": "Malawi",
+		"MY": "Malaysia",
+		"MV": "Maldives",
+		"ML": "Mali",
+		"MT": "Malta",
+		"MH": "Tsibirin Marshall",
+		"MQ": "Martinique (Faransa)",
+		"MR": "Mauritania",
+		"MU": "Mauritius",
+		"YT": "Mayotte",
+		"MX": "Mexico",
+		"FM": "Micronesia",
+		"MD": "Moldova",
+		"MC": "Monaco",
+		"MN": "Mongoliya",
+		"ME": "Montenegro",
+		"MS": "Montserrat",
+		"MA": "Maroko",
+		"MZ": "Mozambique",
+		"MM": "Myanmar",
+		"NA": "Namibiya",
+		"NR": "Nauru",
+		"NP": "Nepal",
+		"NL": "Netherlands",
+		"NC": "New Caledonia (Faransa)",
+		"NZ": "New Zealand",
+		"NI": "Nicaragua",
+		"NE": "Nijar",
+		"NG": "Najeriya",
+		"NU": "Niue",
+		"NF": "Tsibirin Norfolk",
+		"MK": "Arewacin Macedonia",
+		"MP": "Arewacin Mariana Islands",
+		"NO": "Norway",
+		"OM": "Oman",
+		"PK": "Pakistan",
+		"PW": "Palau",
+		"PA": "Panama",
+		"PG": "Papua New Guinea",
+		"PY": "Paraguay",
+		"PE": "Peru",
+		"PH": "Philippines",
+		"PN": "Tsibirin Pitcairn",
+		"PL": "Poland",
+		"PT": "Portugal",
+		"PR": "Puerto Rico",
+		"QA": "Qatar",
+		"RE": "Haɗuwa (Faransa)",
+		"RO": "Romania",
+		"RU": "Rasha",
+		"RW": "Rwanda",
+		"SH": "Saint Helena",
+		"KN": "Saint Kitts & Nevis Anguilla",
+		"LC": "Saint Lucia",
+		"PM": "Saint Pierre da Miquelon",
+		"VC": "Saint Vincent & Grenadines",
+		"WS": "Samoa",
+		"SM": "San Marino",
+		"ST": "Sao Tome da Principe",
+		"SA": "Saudi Arabia",
+		"SN": "Senegal",
+		"RS": "Serbia",
+		"SC": "Seychelles",
+		"SL": "Saliyo",
+		"SG": "Singapore",
+		"SK": "Slovakia",
+		"SI": "Slovenia",
+		"SB": "Solomon Islands",
+		"ZA": "Afirka ta Kudu",
+		"ES": "Spain",
+		"LK": "Sri Lanka",
+		"SR": "Suriname",
+		"SJ": "Svalbard da Jan Mayen Islands",
+		"SE": "Sweden",
+		"CH": "Switzerland",
+		"TW": "Taiwan",
+		"TJ": "Tajikistan",
+		"TZ": "Tanzaniya",
+		"TH": "Tailandia",
+		"TG": "Togo",
+		"TK": "Tokelau",
+		"TO": "Tonga",
+		"TT": "Trinidad da Tobago",
+		"TN": "Tunisiya",
+		"TR": "Turkiyya",
+		"TM": "Turkmenistan",
+		"TC": "Turkawa da tsibirin Caicos",
+		"TV": "Tuvalu",
+		"US": "Amurka",
+		"UM": "Amurka Ƙananan Tsibirin Outlying",
+		"UG": "Uganda",
+		"UA": "Ukraine",
+		"AE": "Hadaddiyar Daular Larabawa",
+		"GB": "Ƙasar Ingila",
+		"UY": "Uruguay",
+		"UZ": "Uzbekistan",
+		"VU": "Vanuatu",
+		"VN": "Vietnam",
+		"VG": "Tsibirin Virgin (British)",
+		"VI": "Tsibirin Virgin (Amurka)",
+		"WF": "Wallis da Futuna Islands",
+		"EH": "Yammacin Sahara",
+		"YE": "Yemen",
+		"ZM": "Zambiya",
+		"ZW": "Zimbabwe"
+	},
+	"languages": {
+		"ENG": ["English", "", "United Kingdom"],
+		"TWS": ["Akan", "", "Ghana"],
+		"AMH": ["Amharic", "", "Ethiopia"],
+		"ARZ": ["Arabic", "Egyptian Spoken", "Egypt"],
+		"ARQ": ["Arabic", "Algerian Spoken", "Algeria"],
+		"ARY": ["Arabic", "Moroccan Spoken", "Morocco"],
+		"AEC": ["Arabic", "Saidi Spoken", "Egypt"],
+		"APD": ["Arabic", "Sudanese Spoken", "Sudan"],
+		"APC": ["Arabic", "North Levantine Spoken", "Syria"],
+		"ACM": ["Arabic", "Mesopotamian Spoken", "Iraq"],
+		"ARS": ["Arabic", "Najdi Spoken", "Saudi Arabia"],
+		"AEB": ["Arabic", "Tunisian Spoken", "Tunisia"],
+		"AYN": ["Arabic", "Sanaani Spoken", "Yemen"],
+		"ASM": ["Assamese", "", "India"],
+		"AWD": ["Awadhi", "", "India"],
+		"AZB": ["Azerbaijani", "South", "Iran"],
+		"AZE": ["Azerbaijani", "North", "Azerbaijan"],
+		"RUW": ["Belarusan", "", "Belarus"],
+		"BNG": ["Bengali", "", "Bangladesh"],
+		"BHJ": ["Bhojpuri", "", "India"],
+		"BLG": ["Bulgarian", "", "Bulgaria"],
+		"BMS": ["Burmese", "", "Myanmar"],
+		"CEB": ["Cebuano", "", "Philippines"],
+		"HNE": ["Chhattisgarhi", "", "India"],
+		"CHN": ["Chinese", "Mandarin", "China"],
+		"WUU": ["Chinese", "Wu", "China"],
+		"YUH": ["Chinese", "Yue", "China"],
+		"CFR": ["Chinese", "Min Nan", "China"],
+		"CJY": ["Chinese", "Jinyu", "China"],
+		"HSN": ["Chinese", "Xiang", "China"],
+		"HAK": ["Chinese", "Hakka", "China"],
+		"KNN": ["Chinese", "Gan", "China"],
+		"MNP": ["Chinese", "Min Bei", "China"],
+		"CIT": ["Chittagonian", "", "Bangladesh"],
+		"CZC": ["Czech", "", "Czech Republic"],
+		"DCC": ["Deccan", "", "India"],
+		"DUT": ["Dutch", "", "Netherlands"],
+		"PES": ["Farsi", "Western", "Iran"],
+		"PRS": ["Farsi", "Eastern", "Afghanistan"],
+		"FRN": ["French", "", "France"],
+		"FUV": ["Fulfulde", "Nigerian", "Nigeria"],
+		"GER": ["German", "Standard", "Germany"],
+		"GRK": ["Greek", "", "Greece"],
+		"GJR": ["Gujarati", "", "India"],
+		"HAT": ["Haitian Creole French", "", "Haiti"],
+		"BGC": ["Haryanvi", "", "India"],
+		"HUA": ["Hausa", "", "Nigeria"],
+		"HIL": ["Hiligaynon", "", "Philippines"],
+		"HND": ["Hindi", "", "India"],
+		"HNG": ["Hungarian", "", "Hungary"],
+		"IGR": ["Igbo", "", "Nigeria"],
+		"ILO": ["Ilocano", "", "Philippines"],
+		"INZ": ["Indonesian", "", "Indonesia"],
+		"ITN": ["Italian", "", "Italy"],
+		"JPN": ["Japanese", "", "Japan"],
+		"JAN": ["Javanese", "", "Indonesia, Java, Bali"],
+		"KJV": ["Kannada", "", "India"],
+		"KAZ": ["Kazakh", "", "Kazakhstan"],
+		"KMR": ["Khmer", "Central", "Cambodia"],
+		"KKN": ["Korean", "", "Korea, South"],
+		"KUR": ["Kurmanji", "", "Turkey"],
+		"LMO": ["Lombard", "", "Italy"],
+		"MHJ": ["Madura", "", "Indonesia, Java, Bali"],
+		"MQM": ["Magahi", "", "India"],
+		"MKP": ["Maithili", "", "India"],
+		"MEX": ["Malagasy", "", "Madagascar"],
+		"MLI": ["Malay", "", "Malaysia, Peninsular"],
+		"MJS": ["Malayalam", "", "India"],
+		"MRT": ["Marathi", "", "India"],
+		"MKD": ["Marwari", "", "India"],
+		"NPL": ["Napoletano-Calabrese", "", "Italy"],
+		"NEP": ["Nepali", "", "Nepal"],
+		"ORY": ["Oriya", "", "India"],
+		"GAZ": ["Oromo", "West-Central", "Ethiopia"],
+		"PNB": ["Panjabi", "Western", "Pakistan"],
+		"PNJ": ["Panjabi", "Eastern", "India"],
+		"PBU": ["Pashto", "Northern", "Pakistan"],
+		"PBT": ["Pashto", "Southern", "Afghanistan"],
+		"PQL": ["Polish", "", "Poland"],
+		"POR": ["Portuguese", "", "Portugal"],
+		"RUM": ["Romanian", "", "Romania"],
+		"RUS": ["Russian", "", "Russia"],
+		"RUA": ["Rwanda", "", "Rwanda"],
+		"SKR": ["Saraiki", "", "Pakistan"],
+		"SRC": ["Serbo-Croatian", "", "Yugoslavia"],
+		"SHD": ["Shona", "", "Zimbabwe"],
+		"SND": ["Sindhi", "", "Pakistan"],
+		"SNH": ["Sinhala", "", "Sri Lanka"],
+		"SOM": ["Somali", "", "Somalia"],
+		"SPN": ["Spanish", "", "Spain"],
+		"SUO": ["Sunda", "", "Indonesia"],
+		"SWD": ["Swedish", "", "Sweden"],
+		"TGL": ["Tagalog", "", "Philippines"],
+		"TCV": ["Tamil", "", "India"],
+		"TTR": ["Tatar", "", "Russia"],
+		"TCW": ["Telugu", "", "India"],
+		"THJ": ["Thai", "", "Thailand"],
+		"TTS": ["Thai", "Northeastern", "Thailand"],
+		"TRK": ["Turkish", "", "Turkey"],
+		"UKR": ["Ukrainian", "", "Ukraine"],
+		"URD": ["Urdu", "", "Pakistan"],
+		"UIG": ["Uyghur", "", "China"],
+		"UZB": ["Uzbek", "Northern", "Uzbekistan"],
+		"VIE": ["Vietnamese", "", "Viet Nam"],
+		"YOR": ["Yoruba", "", "Nigeria"],
+		"CCX": ["Zhuang", "Northern", "China"],
+		"ZUU": ["Zulu", "", "South Africa"]
+	},
+	"languageProficiency": [
+		"Elementary",
+		"Limited working",
+		"Professional working",
+		"Full professional",
+		"Native or bilingual"
+	],
+	"monthname": [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
+	"certifications": [
+		"Accredited Tax Advisor (ATA)",
+		"Adobe Certified Expert",
+		"Akka Essentials with Scala | Rock the JVM",
+		"Appcelerator Titanium Certified Application Developer",
+		"Appcelerator Titanium Certified Mobile Developer",
+		"Associate Android Developer",
+		"AWS Certified Advanced Networking - Specialty",
+		"AWS Certified Alexa Skill Builder - Specialty",
+		"AWS Certified Cloud Practitioner",
+		"AWS Certified Data Analytics - Specialty",
+		"AWS Certified Database - Specialty",
+		"AWS Certified Developer - Associate",
+		"AWS Certified DevOps Engineer - Professional",
+		"AWS Certified Machine Learning - Specialty",
+		"AWS Certified Security - Specialty",
+		"AWS Certified Solutions Architect - Associate",
+		"AWS Certified Solutions Architect - Professional",
+		"AWS Certified SysOps Administrator - Associate",
+		"BlackBerry Certified Builder for Native Application Development",
+		"BlackBerry Certified Builder for Web Application Development",
+		"Cambridge English: Advanced (CAE)",
+		"Cambridge English: Business Vantage or Higher",
+		"Cambridge English: First (FCE)",
+		"Cambridge English: Proficiency (CPE)",
+		"Certified Ethical Hacker (CEH)",
+		"Certified Management Consultant (CMC)",
+		"Certified Paralegal (CP)",
+		"Certified Professional in Talent Development (CPTD former CPLP)",
+		"Certified Public Accountant (CPA)",
+		"Certified Translator",
+		"Chartered Financial Analyst (CFA)",
+		"Cisco and NetApp FlexPod Design Specialist",
+		"Cisco and NetApp FlexPod Implementation and Administration Specialist",
+		"Cisco Business Architecture Analyst",
+		"Cisco Business Architecture Practitioner",
+		"Cisco Business Architecture Specialist",
+		"Cisco Certified Architect (CCAr)",
+		"Cisco Certified Design Associate",
+		"Cisco Certified Design Expert (CCDE)",
+		"Cisco Certified Entry Networking Technician",
+		"Cisco Certified Internetwork Expert",
+		"Cisco Certified Internetwork Expert (CCIE) - Enterprise Infrastructure",
+		"Cisco Certified Internetwork Expert (CCIE) - Enterprise Wireless",
+		"Cisco Certified Internetwork Expert (CCIE) - Security",
+		"Cisco Certified Internetwork Expert (CCIE) - Service Provider",
+		"Cisco Certified Network Associate",
+		"Cisco Certified Network Associate Security",
+		"Cisco Certified Network Professional",
+		"Cisco Certified Network Professional (CCNP) - Collaboration",
+		"Cisco Certified Network Professional (CCNP) - Data Center",
+		"Cisco Certified Network Professional (CCNP) - Enterprise",
+		"Cisco Certified Network Professional (CCNP) - Security",
+		"Cisco Certified Network Professional (CCNP) - Service Provider",
+		"Cisco Certified Technician (CCT) - Collaboration",
+		"Cisco Certified Technician (CCT) - Data Center",
+		"Cisco Certified Technician (CCT) - Routing and Switching",
+		"Cisco Customer Success Manager",
+		"Cisco CyberOps Associate",
+		"Cisco DevNet Associate",
+		"Cisco DevNet Professional",
+		"Cisco Industrial Networking Specialist",
+		"Cisco IOS XR Specialist",
+		"Cisco Renewals Manager",
+		"Cisco Service Provider Mobility UMTS to LTE Specialist",
+		"Cisco Unified Contact Center Enterprise Specialist",
+		"CompTIA A+ Certification",
+		"CompTIA Advanced Security Practitioner (CASP+)",
+		"CompTIA Certified Technical Trainer (CTT+)",
+		"CompTIA Cloud+",
+		"CompTIA Cloud Essentials",
+		"CompTIA Cloud Essentials+",
+		"CompTIA Cybersecurity Analyst (CySA+)",
+		"CompTIA IT Fundamentals (ITF+)",
+		"CompTIA Linux+",
+		"CompTIA Network+ Certification",
+		"CompTIA PenTest+",
+		"CompTIA Project+ Certification",
+		"CompTIA Security+ Certification",
+		"CompTIA Server+",
+		"Data Center - Cisco Certified Internetwork Expert (CCIE)",
+		"Developing, Debugging and Analyzing Performance with the QNX Momentics IDE",
+		"Digital Marketing Pro",
+		"Docker Mastery: with Kubernetes+Swarm from a Docker Captain",
+		"Duolingo Proficiency Exam in English",
+		"Google Ads Apps Certification",
+		"Google Ads Display Certification",
+		"Google Ads - Measurement Certification",
+		"Google Ads Search Certification",
+		"Google Ads Video Certification",
+		"Google Analytics Individual Qualification",
+		"Hubspot Agency Partner Certification",
+		"Hubspot Contextual Marketing Certification",
+		"Hubspot Design Certification",
+		"Hubspot Inbound Certification",
+		"Hubspot Inbound Certification (2017 Version)",
+		"HubSpot Marketing Software Certification",
+		"IELTS - English Proficiency Exam",
+		"Linux Professional Institute Certification - Level 1",
+		"Linux Professional Institute Certification - Level 2",
+		"Linux Professional Institute Certification - Level 3",
+		"Magento 1 Certified Developer",
+		"Magento 1 Certified Developer Plus",
+		"Magento 1 Certified Front End Developer",
+		"Magento 1 Certified Solution Specialist",
+		"Magento 2 Certified Associate Developer",
+		"Magento 2 Certified Professional Developer",
+		"Magento 2 Certified Professional Developer Plus",
+		"Magento 2 Certified Professional Front End Developer",
+		"Magento 2 Certified Professional JavaScript Developer",
+		"Magento 2 Certified Solution Specialist",
+		"Microsoft Certified Professional",
+		"MongoDB Certified DBA Associate",
+		"MongoDB Certified Developer, Associate",
+		"Oracle Certified Associate",
+		"Oracle Certified Associate - Java",
+		"Oracle Certified Expert",
+		"Oracle Certified Expert - Java",
+		"Oracle Certified Master",
+		"Oracle Certified Master - Java",
+		"Oracle Certified Professional",
+		"Oracle Certified Professional - Java",
+		"Realtime Programming for the QNX Neutrino RTOS",
+		"Red Hat Certified Engineer",
+		"Red Hat Certified System Administrator",
+		"Salesforce Certified Administrator",
+		"Salesforce Platform App Builder",
+		"Salesforce Platform Developer I",
+		"Salesforce Platform Developer II",
+		"Shopping Ads Certification",
+		"Writing Drivers for the QNX Neutrino RTOS",
+		"Zend Certified Engineer",
+		"Zendesk Certified Explore CX Analyst",
+		"Zendesk Certified Guide Specialist",
+		"Zendesk Certified Support Admin",
+		"Zend Framework Certified Engineer"
+	],
+	"fiats": {
+		"AFN": "Afghanistan Afghani",
+		"ALL": "Albanian Lek",
+		"DZD": "Algerian Dinar",
+		"USD": "US Dollar",
+		"EUR": "Euro",
+		"AOA": "Angolan Kwanza",
+		"XCD": "East Caribbean Dollar",
+		"ARS": "Argentine Peso",
+		"AMD": "Armenian Dram",
+		"AWG": "Aruban Guilder",
+		"AUD": "Australian Dollar",
+		"AZN": "Azerbaijan New Manat",
+		"BSD": "Bahamian Dollar",
+		"BHD": "Bahraini Dinar",
+		"BDT": "Bangladeshi Taka",
+		"BBD": "Barbados Dollar",
+		"BZD": "Belize Dollar",
+		"XOF": "CFA Franc BCEAO",
+		"BMD": "Bermudian Dollar",
+		"BTN": "Bhutan Ngultrum",
+		"BOB": "Boliviano",
+		"BAM": "Marka",
+		"BWP": "Botswana Pula",
+		"NOK": "Norwegian Krone",
+		"BRL": "Brazilian Real",
+		"BND": "Brunei Dollar",
+		"BGN": "Bulgarian Lev",
+		"CVE": "Cape Verde Escudo",
+		"KHR": "Kampuchean Riel",
+		"XAF": "CFA Franc BEAC",
+		"CAD": "Canadian Dollar",
+		"KYD": "Cayman Islands Dollar",
+		"CLP": "Chilean Peso",
+		"CNY": "Yuan Renminbi",
+		"COP": "Colombian Peso",
+		"KMF": "Comoros Franc",
+		"CDF": "Francs",
+		"NZD": "New Zealand Dollar",
+		"CRC": "Costa Rican Colon",
+		"HRK": "Croatian Kuna",
+		"CZK": "Czech Koruna",
+		"DKK": "Danish Krone",
+		"DJF": "Djibouti Franc",
+		"DOP": "Dominican Peso",
+		"EGP": "Egyptian Pound",
+		"SVC": "El Salvador Colon",
+		"ERN": "Eritrean Nakfa",
+		"SZL": "Swaziland Lilangeni",
+		"ETB": "Ethiopian Birr",
+		"FKP": "Falkland Islands Pound",
+		"FJD": "Fiji Dollar",
+		"XPF": "CFP Franc",
+		"GMD": "Gambian Dalasi",
+		"GEL": "Georgian Lari",
+		"GHS": "Ghanaian Cedi",
+		"GIP": "Gibraltar Pound",
+		"GGP": "Pound Sterling",
+		"GNF": "Guinea Franc",
+		"GYD": "Guyana Dollar",
+		"HTG": "Haitian Gourde",
+		"HNL": "Honduran Lempira",
+		"HKD": "Hong Kong Dollar",
+		"HUF": "Hungarian Forint",
+		"ISK": "Iceland Krona",
+		"INR": "Indian Rupee",
+		"IDR": "Indonesian Rupiah",
+		"GBP": "Pound Sterling",
+		"ILS": "Israeli New Shekel",
+		"JMD": "Jamaican Dollar",
+		"JPY": "Japanese Yen",
+		"JOD": "Jordanian Dinar",
+		"KZT": "Kazakhstan Tenge",
+		"KES": "Kenyan Shilling",
+		"KRW": "Korean Won",
+		"KWD": "Kuwaiti Dinar",
+		"KGS": "Som",
+		"LAK": "Lao Kip",
+		"LSL": "Lesotho Loti",
+		"LRD": "Liberian Dollar",
+		"CHF": "Swiss Franc",
+		"MOP": "Macau Pataca",
+		"MWK": "Malawi Kwacha",
+		"MYR": "Malaysian Ringgit",
+		"MVR": "Maldive Rufiyaa",
+		"MRO": "Mauritanian Ouguiya",
+		"MUR": "Mauritius Rupee",
+		"MXN": "Mexican Nuevo Peso",
+		"MDL": "Moldovan Leu",
+		"MNT": "Mongolian Tugrik",
+		"MAD": "Moroccan Dirham",
+		"MZN": "Mozambique Metical",
+		"MMK": "Myanmar Kyat",
+		"NAD": "Namibian Dollar",
+		"NPR": "Nepalese Rupee",
+		"NIO": "Nicaraguan Cordoba Oro",
+		"NGN": "Nigerian Naira",
+		"MKD": "Denar",
+		"OMR": "Omani Rial",
+		"PKR": "Pakistan Rupee",
+		"PAB": "Panamanian Balboa",
+		"PGK": "Papua New Guinea Kina",
+		"PYG": "Paraguay Guarani",
+		"PEN": "Peruvian Nuevo Sol",
+		"PHP": "Philippine Peso",
+		"PLN": "Polish Zloty",
+		"QAR": "Qatari Rial",
+		"RON": "Romanian New Leu",
+		"RUB": "Russian Ruble",
+		"RWF": "Rwanda Franc",
+		"SHP": "St. Helena Pound",
+		"WST": "Samoan Tala",
+		"STD": "Dobra",
+		"SAR": "Saudi Riyal",
+		"RSD": "Dinar",
+		"SCR": "Seychelles Rupee",
+		"SLL": "Sierra Leone Leone",
+		"SGD": "Singapore Dollar",
+		"SBD": "Solomon Islands Dollar",
+		"ZAR": "South African Rand",
+		"LKR": "Sri Lanka Rupee",
+		"SRD": "Surinam Dollar",
+		"SEK": "Swedish Krona",
+		"TWD": "Taiwan Dollar",
+		"TJS": "Tajik Somoni",
+		"TZS": "Tanzanian Shilling",
+		"THB": "Thai Baht",
+		"TOP": "Tongan Pa'anga",
+		"TTD": "Trinidad and Tobago Dollar",
+		"TND": "Tunisian Dollar",
+		"TRY": "Turkish Lira",
+		"TMT": "Manat",
+		"UGX": "Uganda Shilling",
+		"UAH": "Ukraine Hryvnia",
+		"AED": "Arab Emirates Dirham",
+		"UYU": "Uruguayan Peso",
+		"UZS": "Uzbekistan Sum",
+		"VUV": "Vanuatu Vatu",
+		"VND": "Vietnamese Dong",
+		"YER": "Yemeni Rial",
+		"ZMW": "Zambian Kwacha"
+	},
+	"timezones": [
+		["(UTC-12:00) International Date Line West", "Etc/GMT+12", -12],
+		["(UTC-11:00) Coordinated Universal Time-11", "Etc/GMT+11", -11],
+		["(UTC-10:00) Hawaii", "Pacific/Honolulu", -10],
+		["(UTC-09:00) Alaska", "America/Anchorage", -9],
+		["(UTC-08:00) Baja California", "America/Santa_Isabel", -8],
+		["(UTC-08:00) Pacific Time (US and Canada)", "America/Los_Angeles", -8],
+		["(UTC-07:00) Chihuahua, La Paz, Mazatlan", "America/Chihuahua", -7],
+		["(UTC-07:00) Arizona", "America/Phoenix", -7],
+		["(UTC-07:00) Mountain Time (US and Canada)", "America/Denver", -7],
+		["(UTC-06:00) Central America", "America/Guatemala", -6],
+		["(UTC-06:00) Central Time (US and Canada)", "America/Chicago", -6],
+		["(UTC-06:00) Saskatchewan", "America/Regina", -6],
+		["(UTC-06:00) Guadalajara, Mexico City, Monterey", "America/Mexico_City", -6],
+		["(UTC-05:00) Bogota, Lima, Quito", "America/Bogota", -5],
+		["(UTC-05:00) Indiana (East)", "America/Indiana/Indianapolis", -5],
+		["(UTC-05:00) Eastern Time (US and Canada)", "America/New_York", -5],
+		["(UTC-04:30) Caracas", "America/Caracas", -4.5],
+		["(UTC-04:00) Atlantic Time (Canada)", "America/Halifax", -4],
+		["(UTC-04:00) Asuncion", "America/Asuncion", -4],
+		["(UTC-04:00) Georgetown, La Paz, Manaus, San Juan", "America/La_Paz", -4],
+		["(UTC-04:00) Cuiaba", "America/Cuiaba", -4],
+		["(UTC-04:00) Santiago", "America/Santiago", -4],
+		["(UTC-03:30) Newfoundland", "America/St_Johns", -3.5],
+		["(UTC-03:00) Brasilia", "America/Sao_Paulo", -3],
+		["(UTC-03:00) Greenland", "America/Godthab", -3],
+		["(UTC-03:00) Cayenne, Fortaleza", "America/Cayenne", -3],
+		["(UTC-03:00) Buenos Aires", "America/Argentina/Buenos_Aires", -3],
+		["(UTC-03:00) Montevideo", "America/Montevideo", -3],
+		["(UTC-02:00) Coordinated Universal Time-2", "Etc/GMT+2", -2],
+		["(UTC-01:00) Cape Verde", "Atlantic/Cape_Verde", -1],
+		["(UTC-01:00) Azores", "Atlantic/Azores", -1],
+		["(UTC+00:00) Casablanca", "Africa/Casablanca", 0],
+		["(UTC+00:00) Monrovia, Reykjavik", "Atlantic/Reykjavik", 0],
+		["(UTC+00:00) Dublin, Edinburgh, Lisbon, London", "Europe/London", 0],
+		["(UTC+00:00) Coordinated Universal Time", "Etc/GMT", 0],
+		["(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna", "Europe/Berlin", 1],
+		["(UTC+01:00) Brussels, Copenhagen, Madrid, Paris", "Europe/Paris", 1],
+		["(UTC+01:00) West Central Africa", "Africa/Lagos", 1],
+		["(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague", "Europe/Budapest", 1],
+		["(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb", "Europe/Warsaw", 1],
+		["(UTC+01:00) Windhoek", "Africa/Windhoek", 1],
+		["(UTC+02:00) Athens, Bucharest, Istanbul", "Europe/Istanbul", 2],
+		["(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius", "Europe/Kiev", 2],
+		["(UTC+02:00) Cairo", "Africa/Cairo", 2],
+		["(UTC+02:00) Damascus", "Asia/Damascus", 2],
+		["(UTC+02:00) Amman", "Asia/Amman", 2],
+		["(UTC+02:00) Harare, Pretoria", "Africa/Johannesburg", 2],
+		["(UTC+02:00) Jerusalem", "Asia/Jerusalem", 2],
+		["(UTC+02:00) Beirut", "Asia/Beirut", 2],
+		["(UTC+03:00) Baghdad", "Asia/Baghdad", 3],
+		["(UTC+03:00) Minsk", "Europe/Minsk", 3],
+		["(UTC+03:00) Kuwait, Riyadh", "Asia/Riyadh", 3],
+		["(UTC+03:00) Nairobi", "Africa/Nairobi", 3],
+		["(UTC+03:30) Tehran", "Asia/Tehran", 3.5],
+		["(UTC+04:00) Moscow, St. Petersburg, Volgograd", "Europe/Moscow", 4],
+		["(UTC+04:00) Tbilisi", "Asia/Tbilisi", 4],
+		["(UTC+04:00) Yerevan", "Asia/Yerevan", 4],
+		["(UTC+04:00) Abu Dhabi, Muscat", "Asia/Dubai", 4],
+		["(UTC+04:00) Baku", "Asia/Baku", 4],
+		["(UTC+04:00) Port Louis", "Indian/Mauritius", 4],
+		["(UTC+04:30) Kabul", "Asia/Kabul", 4.5],
+		["(UTC+05:00) Tashkent", "Asia/Tashkent", 5],
+		["(UTC+05:00) Islamabad, Karachi", "Asia/Karachi", 5],
+		["(UTC+05:30) Sri Jayewardenepura Kotte", "Asia/Colombo", 5.5],
+		["(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi", "Asia/Kolkata", 5.5],
+		["(UTC+05:45) Kathmandu", "Asia/Kathmandu", 5.75],
+		["(UTC+06:00) Astana", "Asia/Almaty", 6],
+		["(UTC+06:00) Dhaka", "Asia/Dhaka", 6],
+		["(UTC+06:00) Yekaterinburg", "Asia/Yekaterinburg", 6],
+		["(UTC+06:30) Yangon", "Asia/Yangon", 6.5],
+		["(UTC+07:00) Bangkok, Hanoi, Jakarta", "Asia/Bangkok", 7],
+		["(UTC+07:00) Novosibirsk", "Asia/Novosibirsk", 7],
+		["(UTC+08:00) Krasnoyarsk", "Asia/Krasnoyarsk", 8],
+		["(UTC+08:00) Ulaanbaatar", "Asia/Ulaanbaatar", 8],
+		["(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi", "Asia/Shanghai", 8],
+		["(UTC+08:00) Perth", "Australia/Perth", 8],
+		["(UTC+08:00) Kuala Lumpur, Singapore", "Asia/Singapore", 8],
+		["(UTC+08:00) Taipei", "Asia/Taipei", 8],
+		["(UTC+09:00) Irkutsk", "Asia/Irkutsk", 9],
+		["(UTC+09:00) Seoul", "Asia/Seoul", 9],
+		["(UTC+09:00) Osaka, Sapporo, Tokyo", "Asia/Tokyo", 9],
+		["(UTC+09:30) Darwin", "Australia/Darwin", 9.5],
+		["(UTC+09:30) Adelaide", "Australia/Adelaide", 9.5],
+		["(UTC+10:00) Hobart", "Australia/Hobart", 10],
+		["(UTC+10:00) Yakutsk", "Asia/Yakutsk", 10],
+		["(UTC+10:00) Brisbane", "Australia/Brisbane", 10],
+		["(UTC+10:00) Guam, Port Moresby", "Pacific/Port_Moresby", 10],
+		["(UTC+10:00) Canberra, Melbourne, Sydney", "Australia/Sydney", 10],
+		["(UTC+11:00) Vladivostok", "Asia/Vladivostok", 11],
+		["(UTC+11:00) Solomon Islands, New Caledonia", "Pacific/Guadalcanal", 11],
+		["(UTC+12:00) Coordinated Universal Time+12", "Etc/GMT-12", 12],
+		["(UTC+12:00) Fiji, Marshall Islands", "Pacific/Fiji", 12],
+		["(UTC+12:00) Magadan", "Asia/Magadan", 12],
+		["(UTC+12:00) Auckland, Wellington", "Pacific/Auckland", 12],
+		["(UTC+13:00) Nuku'alofa", "Pacific/Tongatapu", 13],
+		["(UTC+13:00) Samoa", "Pacific/Apia, 13"]
+	],
+	"error": {
+		"10000": "internal error",
+		"10001": "The client has lost connection with the server.",
+		
+		"20000": "We have detected that you have been trying to perform the same action repeatedly. Please wait 10 minutes before trying again.",
+		"20001": "The email address you entered already is being used by FWork account. Please try another one.",
+		"20002": "The email address you entered is not in the correct format",
+		
+		"20005": "Password must be at least 8 characters long",
+		"20006": "Password must be less than 32 characters.",
+		"20007": "Please confirm the new password you entered.",
+		
+		"20008": "You may have accidentally clicked the \"cancel\" button while trying to log in",
+		
+		"20010": "Please try again to solve the captcha.",
+
+		"20011": "The registration link is not valid.",
+		"20012": "The registration link has expired.",
+		"20013": "The registration link is no longer active.",
+		"20015": "You may have entered an incorrect username or password",
+		"20016": "The account you entered does not exist.",
+		"20017": "The account exist already.",
+		"20018": "Your login attempt was denied. Please contact the system administrator for assistance.",
+		"20019": "It looks like you created your account using social login. To log in using your password, please sign in with your social media account and set up your password.",
+		"20020": "The authenticator code you entered is incorrect.",
+		
+		"20030": "It looks like you already have a freelancer profile created.",
+		
+		
+
+
+		"30000": "Please log in to continue",
+		"32000": "Reserved for implementation-defined server-errors.",
+		"32600": "The JSON sent is not a valid Request object.",
+		"32601": "The method does not exist / is not available.",
+		"32602": "Invalid method parameter(s).",
+		"32603": "Internal JSON-RPC error."
+	}
+}

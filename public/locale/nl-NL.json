@@ -1,0 +1,5574 @@
+{
+	"meta": {
+		"home-title": "Vind het beste wereldwijde talent.",
+		"home-desc": "Huur freelancers in en vind freelance banen online |Dienst",
+		"aboutus-title": "Ons verhaal onthullen |FWork - Innovators, medewerkers en visionairs",
+		"aboutus-desc": "Ontdek de boeiende reis en ethos achter Fwork.",
+		"login-title": "Werk - Toegang tot uw account en vind uw droombaan, talenten",
+		"login-desc": "Log in om freelancers in te huren en werk te vinden |Freelancer",
+		"register-title": "Word lid van FWork |Maak uw werkzoekende account aan",
+		"register-desc": "Registreer je voor een gratis account op fWork en krijg toegang tot een enorme selectie van vacatures",
+		"uploadresume-title": "Upload uw CV |Verbeter uw zoektocht naar een baan op FWork",
+		"uploadresume-desc": "Verhoog uw zoektocht naar werk op FWork door uw cv te uploaden",
+		"updatepassword-title": "Update uw wachtwoord |Beveilig uw account op Fwork",
+		"updatepassword-desc": "Handhaaf de beveiliging van uw FWork -account door uw wachtwoord bij te werken",
+		"blog-list-title": "Nieuwste inzichten en artikelen |FWork Jobsite Blog |Fwork",
+		"blog-list-desc": "Blijf up-to-date met de nieuwste trends in de branche, loopbaanadvies en inzichten in de arbeidsmarkt op de FWork Jobsite Site-blog.",
+		"blog-detail-title": "Blog verkennen |FWork Jobsite Blog",
+		"blog-detail-desc": "Duik in blog op de FWork -banensite blog",
+		"contactus-title": "Neem contact op met Fwork vacaturesite |Neem contact op met ons team",
+		"contactus-desc": "Neem contact op met het toegewijde team van FWork -vacaturesite voor eventuele vragen, feedback of hulp",
+		"employer-detail-title": "Ontdek werkgeversgegevens |FWork -vacaturesite",
+		"employer-detail-desc": "Ontdek uitgebreide details over de werkgever op FWork -vacaturesite, inclusief bedrijfsinformatie, vacatures en organisatorische inzichten.",
+		"freelancer-list-title": "Vind ervaren freelancers |FWork -vacaturesite",
+		"freelancer-list-desc": "Blader en huren getalenteerde freelancers in op Fwork vacaturesite.",
+		"freelancer-detail-title": "Ervaren freelancer |FWork -vacaturesite",
+		"freelancer-detail-desc": "Ontdek het profiel, een ervaren freelancer",
+		"influencer-title": "FWork Influencer Program |Verander uw invloed in inkomsten",
+		"influencer-desc": "Word lid van de rangen van beïnvloeders die commissies verdienen door de grootste marktplaats van digitale diensten ter wereld te promoten.",
+		"invitefriend-title": "Vind het beste wereldwijde talent.",
+		"invitefriend-desc": "Word beloond met het FWork -verwijzingsprogramma",
+		"job-list-title": "Vind Jobs |Job vacatures |FWork -vacaturesite",
+		"job-list-desc": "Ontdek een breed scala aan vacatures in verschillende industrieën en rollen op FWork -vacaturesite.",
+		"job-detail-title": "Werk baan",
+		"job-detail-desc": "Ontdek de gedetailleerde functiebeschrijving op FWork -vacaturesite",
+		"learn-list-title": "Ontdek loopbaanbronnen en inzichten |FWork -vacaturesite",
+		"learn-list-desc": "Breid uw carrièregealte uit en krijg waardevolle inzichten met werkplichtsites.",
+		"learn-detail-title": "Tips voor het zoeken naar werk, loopbaanbegeleiding en professionele ontwikkeling |FWork -vacaturesite",
+		"learn-detail-desc": "Werkopdrachtsites leren sectie biedt onschatbare tips voor het zoeken naar werk, loopbaanbegeleiding en bronnen voor professionele ontwikkeling om u te helpen slagen.",
+		"order-checkout-title": "Veilige en handige bestelafslag |FWork -vacaturesite",
+		"order-checkout-desc": "Voltooi uw aankoop met gemak en vertrouwen op werksites Secure en Handige bestelafcheckpagina.",
+		"order-payment-title": "Veilige betalingsverwerking |FWork -vacaturesite",
+		"order-payment-desc": "Ervaar naadloze en beveiligde betalingsverwerking op de bestellingspagina van FWork -vacaturesites",
+		"project-list-title": "Ontdek spannende baanprojecten |FWork -vacaturesite",
+		"project-list-desc": "Ontdek een divers scala aan boeiende functieprojecten op de projectlijstpagina van FWork Jobsite.",
+		"project-detail-title": "Gedetailleerd projectoverzicht |FWork -vacaturesite",
+		"project-detail-desc": "Verkrijg uitgebreide inzichten in de verleidelijke projectgegevens die beschikbaar zijn op de projectdetailpagina van FWork Jobsite",
+		"search-service-title": "Zoekresultaten van service - Fwork",
+		"search-service-desc": "Vind de beste aanbiedingen van freelancers.FWork Professional Services",
+		"service-category-title": "Ontdek diverse servicecategorieën |FWork -vacaturesite",
+		"service-category-desc": "Ontdek een reeks gespecialiseerde servicecategorieën op de pagina Servicecategorie van FWork Jobsite.",
+		"service-detail-title": "Professionele diensten |FWork -vacaturesite",
+		"service-detail-desc": "Ervaar uitzonderlijke services op de Fwork -vacaturesite.",
+		"service-list-title": "Ontdek diverse servicecategorieën op FWork -vacaturesite |Vind de perfecte oplossing",
+		"service-list-desc": "Vind de beste aanbiedingen van freelancers.FWork Professional Services",
+		"top-service-title": "Ontdek de beste diensten op FWork -vacaturesite |Vertrouwde dienstverleners |Fwork",
+		"top-service-desc": "Ontdek de best beoordeelde services op FWork-vacaturesite en maak contact met betrouwbare dienstverleners in verschillende industrieën.",
+		"notfound-title": "404 - pagina niet gevonden |Fwork",
+		"notfound-desc": "De gevraagde URL is niet gevonden |Fwork",
+		"userpage-title": "Profielpagina |FWork -vacaturesite",
+		"userpage-desc": "Maak uw profiel en sluit zich aan bij een bloeiende gemeenschap van freelancers en bedrijven die willen samenwerken."
+	},
+	"header": {
+		"messages": "Berichten",
+		"nomessage": "Geen berichten",
+		"pending-message": "in afwachting van berichten",
+		"pending-order": "openstaande bestellingen",
+		"clearall": "Wis alles",
+		"viewall": "Bekijk alles",
+		"no-data": "Geen gegevens"
+	},
+	"ui": {
+		"email-placeholder": "Vul alstublieft uw e-mailadres in.",
+		"subscribe": "Abonneren",
+		"submit": "Indienen"
+	},
+	"app": {
+		"page-title": "FWork - Marktplaats voor freelancediensten",
+		"page-desc": "Vind het beste wereldwijde talent en vind jouw droombaan. Eén marktplaats, miljoenen professionele diensten",
+		"menu-service": "Dienst kopen",
+		"menu-freelancer": "Huur talent in",
+		"menu-work": "Vind Project",
+		"menu-job": "Een baan zoeken",
+		"menu-blog": "Bloggen",
+		"menu-about": "Over ons",
+		"menu-login": "Log in",
+		"menu-register": "Register",
+		"menu-notifications": "Meldingen",
+		"menu-messages": "Berichten",
+		"menu-orders": "Bestellingen",
+		"menu-information": "Informatie",
+		"menu-security": "Beveiliging",
+		"menu-finance": "Financiën",
+		"menu-freelancer-Profile": "Freelancer profiel",
+		"menu-client-Profile": "Cliëntprofiel",
+		"menu-proposals": "Voorstellen",
+		"menu-log-out": "Uitloggen",
+		"menu-language": "Taal",
+		"menu-light-mode": "Licht",
+		"menu-dark-mode": "Donker",
+		"construction": [
+			"Momenteel in ontwikkeling",
+			"Sommige gegevens zijn alleen beschikbaar voor een beperkt aantal gebruikers."
+		],
+		"welcome-title": "Welcome!",
+		"welcome-desc": [
+			"Welkom op onze website! We zijn blij dat u hier bent en houden u graag op de hoogte van ons laatste nieuws, producten en promoties.",
+			"Door u te abonneren op onze nieuwsbrief, bent u als eerste op de hoogte van onze exclusieve aanbiedingen en spannende updates.",
+			"Om u te abonneren, voert u hieronder uw e-mailadres in en klikt u op \"Abonneren\". Maak je geen zorgen, we zullen je niet spammen en je gegevens niet met iemand anders delen. Bedankt dat je lid bent geworden van onze gemeenschap!"
+		]
+	},
+	"footer": {
+		"fwork-with-location": "FWork LLC, Wyoming, Verenigde Staten",
+		"address": "1603 Capitol Avenue, Suite 413, 4200 \n Cheyenne, Wyoming 82001, VS",
+		"clients": "Voor klanten",
+		"how-to-hire": "Hoe te huren",
+		"project-catalog": "Projectcatalogus",
+		"freelancers": "Voor freelancers",
+		"how-to-find-work": "Hoe werk u te vinden",
+		"find-freelancer-job": "Vind Freelancer -baan",
+		"direct-contracts": "Directe contracten",
+		"Resources": "Bronnen",
+		"learn": "Leren",
+		"invite-friends": "Nodig vrienden uit",
+		"influencers": "Beïnvloeders",
+		"affiliate": "Affiliate-programma",
+		"company": "Bedrijf",
+		"about-us": "Over ons",
+		"contact-us": "Neem contact met ons op"
+	},
+	"home": {
+		"heading": "Kom moeiteloos in contact\nmet ervaren freelancers\niet op onze vacaturesite",
+		"heading-desc": "Uw droomfreelancer wacht op u - Vind vandaag nog uw perfecte match.",
+		"search-hint": "Probeer 'social media-ontwerp'",
+		"search": "Zoekopdracht",
+		"search-ex": "Populaire zoekopdracht",
+		"banner-text": "DIENST",
+		"pro-service": "Geverifieerde professionele services",
+		"pro-service-desc": "Met de hand gescreend talent voor al uw professionele behoeften.",
+		"browse-more": "Blader door meer diensten",
+		"desire-category": "Kies uw wenscategorie",
+		"jobs-by-categories": "Vacatures per categorie",
+		"job-count": "{count} Vacatures gevonden",
+		"all-categories": "Alle categorieën",
+		"sponsored-services": "Gesponsorde diensten",
+		"sponsored-services-desc": "Verkrijg een concurrentievoordeel bij werving met onze gesponsorde services, waarmee u uitstekende zichtbaarheid biedt aan topkandidaten.",
+		"resume-title": "Zorg ervoor dat je gevonden wordt, plaats je CV onder de aandacht van geweldige werkgevers",
+		"resume-desc": "Het primaire doel van het beschrijven van uw rol en verantwoordelijkheden tegenover potentiële werkgevers is om hen voorbeelden te geven van wat u op uw werk hebt bereikt en hoe u in het algemeen hebt bijgedragen aan het bedrijf.",
+		"resume-upload": "upload je CV",
+		"candidate": "Hooggekwalificeerde kandidaten",
+		"candidate-desc": "Ontgrendel het potentieel van hooggekwalificeerde kandidaten die klaar zijn om uit te blinken in uw organisatie, zorgvuldig gescreend en afgestemd op uw specifieke functievereisten.",
+		"latest-jobs": "Laatste vacatures",
+		"latest-news": "Laatste updates en nieuws",
+		"latest-news-desc": "Blijf op de hoogte van de nieuwste trends in de sector, inzichten op de arbeidsmarkt en relevant nieuws via ons uitgebreide platform, zodat u altijd op de hoogte bent voor een weloverwogen besluitvorming.",
+		"subscribe": "Abonneer nu!",
+		"subscribe-desc": "Schrijf u nu in en krijg exclusieve toegang tot een schat aan vacatures, carrièrebronnen en gepersonaliseerde updates die zijn afgestemd op uw professionele interesses."
+		,
+		"why-choose-us": "Waarom voor ons kiezen?",
+		"why-choose-us-1": "1️⃣ Verified Skills: Our blockchain-powered platform ensures seamless verification of freelancers' skills, offering a transparent assessment without traditional KYC process.",
+		"why-choose-us-2": "2️⃣ Trust & Security: We prioritize trust by leveraging blockchain's immutability, ensuring the integrity of freelancers' profiles and work history.",
+		"why-choose-us-3": "3️⃣ Privacy Protection: Our platform encrypts and decentralizes sensitive data, safeguarding freelancers' privacy and reducing the risk of unauthorized access.",
+		"why-choose-us-4": "4️⃣ Easy Payments: Enjoy hassle-free payment withdrawals, allowing freelancers to securely receive their earnings without KYC.",
+		"why-choose-us-5": "5️⃣ Global Reach: Connect with freelancers and employers worldwide, tapping into a diverse talent pool for unparalleled collaboration.",
+		"why-choose-us-6": "6️⃣ Innovation: Stay at the forefront of the freelance industry with our dedication to adopting cutting-edge blockchain technology.",
+		"why-choose-us-7": "Join us for a secure, verified, and boundaryless freelance marketplace! 💪"
+	},
+	
+	"welcome": {
+		"note-1": "Email Subscribed Successfully! 🎉",
+		"note-2": "Congratulations on successfully subscribing to our email list!",
+		"note-3": "Thank you for choosing to stay connected with us!🥳"
+	},
+	"bonus": {
+		"title": "🎁 Wekelijkse bonus weggeefactie - $ 100 voor 5 gelukkige leden!🎁",
+		"desc-1": "Opwindend nieuws!We houden een wekelijkse bonus weggeefactie waar we elk $ 100 zullen toekennen aan vijf gelukkige leden die uitblinken in verwijzingen, vacatures, volgt en verschillende acties!🌟",
+		"desc-2": "Hier is hoe u kunt deelnemen en uw kansen om te winnen te vergroten:",
+		"desc-3": "1️⃣ Verwijzingen: verspreid het woord over ons platform, producten of diensten naar uw vrienden, collega's of verbindingen.Hoe meer mensen je verwijst, hoe hoger je kansen om te winnen!",
+		"desc-4": "2️⃣ Vacatures: deel waardevolle vacatures, stages of carrière-gerelateerde informatie binnen onze gemeenschap.Uw bijdragen zullen niet alleen anderen helpen, maar ook meetellen voor uw inzending in de weggeefactie.",
+		"desc-5": "3️⃣ volgt: blijf verbonden met ons door onze officiële kanalen te volgen.U ontvangt updates, waardevolle inhoud en komt in aanmerking voor de weggeefactie.",
+		"desc-6": "4️⃣ Acties: actief betrokken zijn bij de gemeenschap door deel te nemen aan discussies, nuttig advies te geven en medeleden te ondersteunen.Uw impactvolle acties zullen in aanmerking worden genomen voor de weggeefactie.",
+		"desc-7": "Aan het einde van elke week selecteren we willekeurig vijf gelukkige winnaars die elk een bonus van $ 100 zullen ontvangen als een teken van onze waardering!Het is onze manier om u te bedanken voor uw waardevolle bijdragen en ondersteuning.💵🙌🎁",
+		"desc-8": "Vergeet niet om onze aankondigingen en updates in de gaten te houden, evenals actief deel te nemen aan verwijzingen, vacatures, volgt en zinvolle acties.Samen kunnen we onze gemeenschap nog levendiger en succesvoller maken!🌈🚀🌟",
+		"desc-9": "Veel succes aan iedereen die deelneemt aan de wekelijkse bonus weggeefactie!Laten we er een ongelooflijke week van overwinningen van maken!💼💰🎉"
+	},
+	"learn": {
+		"title": "Meer informatie, verdien meer.",
+		"desc": "Volg cursussen van 's werelds beste experts en verdien badges om meer klanten te bereiken.",
+		"popular": "Populair:",
+		"search": "Zoekopdracht",
+		"placeholder": "Wat wil je leren?"
+	},
+	"auth": {
+		"signin": "Sign In",
+		"or": "Or",
+		"signin-button": "Login",
+		"email-placeholder": "Email",
+		"password-placeholder": "Password",
+		"forgot-password": "Forgot password?",
+		"signin-register": "Don't have an account? <b>Register</b>",
+		"signin-welcome1": "Welkom bij het fwork!Meld u aan om toegang te krijgen tot uw account en het systeem gemakkelijk te beheren.",
+		"signin-welcome2": "Welkom bij de FWork -aanmeldingspagina!Toegang tot uw account om verschillende aspecten van het systeem te beheren en te beheersen.Voer hieronder uw inloggegevens in om aan de slag te gaan.",
+		"signup": "Aanmelden",
+		"password-rule": "Zorg ervoor dat u minimaal 8 en max 32 tekens invoert, inclusief één hoofdletter, een symbool en een nummer.",
+		"signup-button": "Maak mijn account",
+		"newpasswd-placeholder": "Wachtwoord (8 of meer tekens)",
+		"signup-login": "Heb je een account?<b> Login </b>",
+		"signup-welcome1": "Maak een account aan voor toegang tot uw account!Krijg exclusieve privileges en beheer verschillende functies met uw nieuwe referenties.",
+		"signup-welcome2": "Maak een account aan om toegang te krijgen tot uw account.Vul het onderstaande formulier in om uw account aan te maken en begin met het benutten van de kracht van onze uitgebreide tools."
+	},
+	"service": {
+		"search": "Zoekopdracht",
+		"popula-category": "populaire categorieën",
+		"create-service": "Service maken",
+		"most-popular-in-programming": "Meest populaire diensten in programmeren",
+		"new-services": "Nieuwe diensten",
+		"summary": "Samenvatting",
+		"compare-package": "Vergelijk pakketten",
+		"package": "Pakket",
+		"revisions": "Herzieningen",
+		"delivery": "Aflevertijd",
+		"days": "Dagen",
+		"select": "Uitkiezen",
+		"faq": "faq",
+		"similar-service": "Vergelijkbare diensten",
+		"about-seller": "Over de verkoper",
+		"seller-service": "Services van de verkoper",
+		"reviews": "Beoordelingen",
+		"hot-service": "hotServices",
+		"best-seller": "Bestsellers",
+		"project-rate": "Projecttarieven",
+		"custom-work": "Aangepast werk",
+		"request-order": "Verzoek om bestelling",
+		"search-service": "Zoekservice",
+		"notfound": "Geen gegevens",
+		"services": "Diensten",
+		"found": "Voorwerpen gevonden",
+		"top-rated": "Top beoordeeld",
+		"order-queue": "Bestellingen in wachtrij",
+		"seller-detail": "maakt deel uit van de FWork Pro-catalogus en is met de hand gekozen door een toegewijd FWork Pro-team voor hun vaardigheden en expertise.",
+		"customize-project": "Pas dit project aan",
+		"customize-project-detail": "Als u hier niet precies ziet wat u nodig hebt, stuur Attinder Pal een aangepast verzoek.U kunt praten over de prijs en tijdlijn om een gepersonaliseerd project te maken.",
+		"message": "Bericht"
+	},
+	"order": {
+		"selected-package": "Geselecteerd pakket",
+		"package-type": "Pakkettype",
+		"days-delivery": "Dagen levering",
+		"target": "Gerichte sollicitatiebrief",
+		"payment-breakdown": "Betalingsafbraak",
+		"order-cost": "Bestelkosten",
+		"process-fee": "Verwerkingskosten",
+		"total-payment": "Totale betaling",
+		"delivery-time": "Aflevertijd",
+		"days": "Dagen",
+		"select-payment": "Selecteer Betalingsoptie",
+		"pay-full": "Betaal volledig bedrag",
+		"pay-partial": "Betaal een gedeeltelijk bedrag",
+		"payment": "Ga verder met het betalen van betaling",
+		"select-payment-mode": "Selecteer Betalingsmodus",
+		"copy-address": "Kopieer en stort naar dit adres",
+		"crypto": "crypto",
+		"card": "Creditcard / betaalkaart",
+		"paypal": "paypal",
+		"summary": "Samenvatting",
+		"view-package": "Bekijk pakketdetails",
+		"hide-package": "Verberg pakketdetails",
+		"project-cost": "Projectkosten",
+		"continue": "Doorgaan",
+		"card-number": "Kaartnummer",
+		"card-expiry": "Aflopen",
+		"card-cvc": "cvc"
+	},
+	"freelancer": {
+		"filters": "filters",
+		"clear-all": "Wis alles",
+		"keywords": "Trefwoorden",
+		"location": "Plaats",
+		"skills": "Vaardigheden",
+		"search-button": "Zoekopdracht",
+		"recommend": "{n} freelancers aanbevolen voor u",
+		"skill-placeholder": "Druk op Enter om nieuwe vaardigheden toe te voegen.",
+		"sort-newest": "Nieuwste",
+		"sort-latest": "Laatste",
+		"sort-lowest": "Laagst",
+		"sort-highest": "Hoogst",
+		"notfound": "Geen gegevens",
+		"edit-profile": "Bewerk profiel",
+		"reviews": "Beoordelingen",
+		"joined": "Samengevoegd",
+		"aboutme": "Over mij",
+		"services": "Diensten",
+		"experience": "Werkervaring",
+		"education": "Onderwijs en training",
+		"ongoing": "Lopend project",
+		"completed": "Voltooide project",
+		"service-queue": "Service in wachtrij",
+		"completed-service": "Voltooide diensten",
+		"general": "Algemeen",
+		"salary": "Huidig ​​salaris",
+		"language": "Talen"
+	},
+	"project": {
+		"filters": "filters",
+		"clear-all": "Wis alles",
+		"keywords": "Trefwoorden",
+		"category": "Categorie",
+		"skills": "Vaardigheden",
+		"search-button": "Zoekopdracht",
+		"recommend": "{n} projecten aanbevolen voor u",
+		"skill-placeholder": "Druk op Enter om nieuwe vaardigheden toe te voegen.",
+		"sort-newest": "Nieuwste",
+		"sort-latest": "Laatste",
+		"sort-lowest": "Laagst",
+		"sort-highest": "Hoogst",
+		"post-job": "Plaats een baan",
+		"notfound": "Geen gegevens",
+		"viewwork": "Bekijk werk",
+		"hourly": "Uur",
+		"fixed": "Vast",
+		"bids": "Biedingen",
+		"delete-project": "Verwijder project",
+		"delete-project-desc": "Weet u zeker dat u dit project wilt verwijderen?",
+		"title": "Titel",
+		"cancel": "Annuleren",
+		"ok": "ok",
+		"send-proposal": "Stuur een voorstel",
+		"urgent": "Dringend",
+		"remote": "Op afstand",
+		"job-summary": "Samenvatting",
+		"attachment": "Bijlage",
+		"projectid": "Project -ID",
+		"share": "Deel de baan",
+		"bid-desc": "Freelancers bieden gemiddeld",
+		"login": "Log in",
+		"your-price": "Jouw prijs",
+		"days-complete": "Dagen om te voltooien",
+		"day": "Dag",
+		"cover-letter": "Voorblad",
+		"bid-applied": "Uw bod is al van toepassing",
+		"project-bids": "Projectbiedingen",
+		"reviews": "Beoordelingen",
+		"message": "Bericht",
+		"award": "Prijs",
+		"accept": "Aanvaarden",
+		"about-client": "Over de klant",
+		"member-since": "Lid sinds",
+		"project-info": "Projectinformatie",
+		"duration": "Duur",
+		"status": "Toestand",
+		"language": "Taal",
+		"available-proposal": "Beschikbare voorstellen"
+	},
+	"job": {
+		"filters": "filters",
+		"clear-all": "Wis alles",
+		"keywords": "Trefwoorden",
+		"location": "Plaats",
+		"workplace": "Werkplek",
+		"job-type": "Soort baan",
+		"skills": "Vaardigheden",
+		"search-button": "Zoekopdracht",
+		"recommend": "{n} taken aanbevolen voor u",
+		"skill-placeholder": "Druk op Enter om nieuwe vaardigheden toe te voegen.",
+		"sort-newest": "Nieuwste",
+		"sort-latest": "Laatste",
+		"sort-lowest": "Laagst",
+		"sort-highest": "Hoogst",
+		"post-job": "Plaats een baan",
+		"onsite": "Ter plekke",
+		"hybrid": "Hybride",
+		"remote": "Op afstand",
+		"fulltime": "Full time",
+		"parttime": "parttime",
+		"contract": "contract",
+		"intership": "Stage",
+		"temporary": "Tijdelijk",
+		"other": "Ander",
+		"notfound": "Geen gegevens",
+		"yearly": "Jaarlijks",
+		"urgent": "Dringend",
+		"apply": "Nu toepassen",
+		"applications": "Toepassingen",
+		"apply-job": "Solliciteer een baan",
+		"applied": "Toegepaste taak",
+		"summary": "Samenvatting",
+		"share": "Deel de baan",
+		"matching": "Bijpassende banen",
+		"viewmore": "Bekijk meer",
+		"worktype": "Werk type",
+		"postdate": "Post-datum",
+		"applyto": "Solliciteer op {n}"
+	},
+	"blog": {
+		"latest": "Laatste",
+		"popular": "Populair",
+		"comments": "Opmerkingen",
+		"search": "Zoekopdracht",
+		"notfound": "Geen gegevens",
+		"recent-post": "Recente post",
+		"by": "Door",
+		"post-comment": "Plaats een reactie",
+		"share": "Deel",
+		"submit": "Bevestig nu"
+	},
+	"aboutus": {
+		"mission": "Onze missie: revolutionering van de arbeidsmarkt met blockchain-aangedreven oplossingen!🚀",
+		"mission-detail": "Bij FWork is het onze missie om het landschap van het zoeken en werving van werk en werving te hervormen door het enorme potentieel van blockchain -technologie te benutten.Wij zijn ervan overtuigd dat de toekomst van het werk moet worden gebouwd op vertrouwen, transparantie en gelijke kansen.💪",
+		"start-now": "Begin nu",
+		"welcome": "Welkom bij Fwork",
+		"welcome-title": "Laten we een kort verhaal over FWork -vacatureservice.",
+		"welcome-desc": "Bij FWork zijn we een revolutie teweeggebracht in de manier waarop professionals verbinding maken, hun vaardigheden presenteren en banen ontgrendelen.Ons innovatieve platform maakt gebruik van de kracht van blockchain -technologie om transparantie, beveiliging en efficiëntie naar de arbeidsmarkt te brengen.",
+		"welcome-desc-1": "Ontgrendel uw potentieel zonder ID -verificatie",
+		"welcome-desc-2": "Uw vaardigheden, uw profiel, uw succesverhaal",
+		"welcome-desc-3": "Naadloze samenwerking en netwerken",
+		"welcome-desc-4": "Word vandaag lid van FWork en omarm de toekomst",
+		"learnmore": "Kom meer te weten",
+		"brand": "Power Succes voor merk",
+		"brand-desc": "Door gebruik te maken van blockchain -technologie, biedt FWork een veilige, gedecentraliseerde marktplaats waar werkgevers contact kunnen maken met toptalent en werkzoekenden kunnen opwindende carrièremogelijkheden ontdekken.Ons platform biedt een robuust ecosysteem dat naadloze en sabotagebestendige transacties mogelijk maakt, zodat elke interactie eerlijk, betrouwbaar en verifieerbaar is.",
+		"listing": "Lijst geplaatst",
+		"followers": "Volgers",
+		"total-member": "Totaal freelancers",
+		"total-jobs": "Banen",
+		"needlogin": "Log in om door te gaan met deze actie.",
+		"team-title": "Ons professionele team",
+		"team-desc-1": "Hoi!We werken onvermoeibaar om een gebruikersvriendelijk platform te maken dat gemakkelijk te navigeren is en een naadloze taakzoekende ervaring biedt.",
+		"team-desc-2": "Ons team richt zich op het minimaliseren van complexiteiten, het stroomlijnen van processen en ervoor zorgen dat onze website en functies eenvoudig en intuïtief zijn om te gebruiken.",
+		"team-desc-3": "Met het doel om een probleemloze zoeken naar een baan te bieden, streeft het ontwikkelingsteam van FWork-banen om ons platform continu te verbeteren om aan uw behoeften te voldoen en u te helpen uw droombaan moeiteloos te vinden.🚀",
+		"feedback-title": "Wat mensen zeggen",
+		"feedback-desc-1": "Ontdek het gedeelte 'Wat mensen zeggen' van FWork -vacaturesite voor waardevolle inzichten, ervaringen uit de eerste hand, getuigenissen en feedback van onze gemeenschap.",
+		"feedback-desc-2": "Raak geïnspireerd door echte verhalen en leer van de perspectieven van werkzoekenden, werkgevers en gebruikers die ons platform hebben gebruikt.",
+		"feedback-desc-3": "Ontdek succesverhalen, constructieve kritiek en een beter begrip van de impact van FWork op carrières en kansen.",
+		"feedback-desc-4": "Doe mee met het gesprek in dit levendige en boeiende gedeelte.🌟"
+	},
+	"import-resume": {
+		"title": "Hoe zou je ons over jezelf willen vertellen?",
+		"desc": "We moeten een idee krijgen van uw opleiding, ervaring en vaardigheden.Het is het snelst om uw informatie te importeren - u kunt deze bewerken voordat uw profiel live gaat.",
+		"upload-btn": "Upload cv (*.pdf minder dan 500 kb)",
+		"resume-error": "Kan uw CV -bestand niet verwerken.",
+		"back": "Rug",
+		"next": "Volgende",
+		"submit": "Indienen",
+		"cancel": "Annuleren",
+		"add-title-1": "Voeg een titel toe om de wereld te vertellen wat je doet.",
+		"add-title-2": "Het is het allereerste wat klanten zien, dus laat het tellen.Krijg je op door je expertise in je eigen woorden te beschrijven.",
+		"role": "Uw professionele rol",
+		"experience-title": "Als u een relevante werkervaring heeft, voegt u deze hier toe.",
+		"experience-desc": "Freelancers die hun ervaring toevoegen, hebben twee keer zoveel kans om werk te winnen.Maar als je net begint, kun je nog steeds een geweldig profiel maken.Ga gewoon naar de volgende pagina.",
+		"notitle": "Geen titel",
+		"add-position-name": "Voeg uw positienaam toe",
+		"add-company": "Bedrijfsnaam toevoegen",
+		"add-date": "Startdatum toevoegen om uw werkervaring beter te begrijpen",
+		"add-desc": "Beschrijving toevoegen om uw werkervaring beter te begrijpen.",
+		"education-title": "Klanten willen graag weten wat u weet - voeg hier uw opleiding toe.",
+		"education-desc": "Je hoeft geen diploma te hebben.Het toevoegen van relevant onderwijs helpt uw profiel beter zichtbaar te maken.",
+		"add-education": "ONDERWIJS VOEGEN",
+		"add-university": "Voeg datum van uw universitaire toelating toe.",
+		"add-university-loca": "Voeg een locatie van je universiteit toe.",
+		"language-title": "Ziet er goed uit.Vertel ons vervolgens welke talen u spreekt.",
+		"language-desc": "Werk is wereldwijd, dus klanten zijn vaak geïnteresseerd om te weten welke talen u spreekt.Engels is een must, maar spreekt u nog andere talen?",
+		"add-language": "Taal toevoegen",
+		"skill-title": "Bijna daar!Welk werk moet u hier doen?",
+		"skill-desc": "Uw vaardigheden laten klanten zien wat u kunt bieden en helpen ons te kiezen welke banen u u aanbevelen.Voeg of verwijder de die we hebben voorgesteld, of begin met typen om meer te kiezen.Het is aan jou.",
+		"overview-title": "Geweldig!Schrijf nu een bio om de wereld over jezelf te vertellen.",
+		"overview-desc": "Help mensen u in één oogopslag te leren kennen.In welk werk ben je het beste?Vertel ze duidelijk, met behulp van paragrafen of opsommingstekens.Je kunt altijd later bewerken - zorg ervoor dat je nu proeflezen!",
+		"overview": "Uw overzicht",
+		"hourly": "Uurtarief",
+		"weekly": "Wekelijkse werktijd",
+		"info-title": "Een paar laatste details, dan kunt u uw profiel controleren en publiceren.",
+		"info-desc": "Een professionele foto helpt u om vertrouwen op te bouwen bij uw klanten.Om dingen veilig en eenvoudig te houden, zullen ze u door ons betalen - daarom hebben we uw persoonlijke informatie nodig.",
+		"remove": "Verwijderen",
+		"take-photo": "Neem je foto",
+		"email": "E -mail",
+		"firstname": "Voornaam",
+		"lastname": "Achternaam",
+		"street": "Straatadres * (zal niet worden weergegeven op profiel)",
+		"city": "Stad",
+		"state": "Staat/provincie",
+		"country": "Land",
+		"zipcode": "Zip/postcode",
+		"preview-title": "Uw Freelancer Profile Preview",
+		"preview-confirm": "Weet u zeker dat alle register correct en legaal is?",
+		"uploading": "Het uploaden",
+		"select-banner": "Selecteer Banner -afbeelding",
+		"add-experience": "Voeg ervaring toe",
+		"label-title": "Titel",
+		"label-company": "Bedrijf",
+		"label-country": "Land",
+		"label-zipcode": "Postcode (optioneel)",
+		"label-city": "Stad (optioneel)",
+		"label-state": "Staat of provincie (optioneel)",
+		"label-startdate": "Begin datum",
+		"label-enddate": "Einddatum",
+		"label-desc": "Beschrijving"
+	},
+	"create-profile": {
+		"welcome-title": "Laten we uw freelancer -profiel maken.",
+		"welcome-desc": "Het duurt slechts 5-10 minuten en u kunt het later bewerken.We sparen op als u gaat.",
+		"create": "Maak een profiel aan",
+		"resume-title": "Hoe zou je ons over jezelf willen vertellen?",
+		"resume-desc": "We moeten een idee krijgen van uw opleiding, ervaring en vaardigheden.Het is het snelst om uw informatie te importeren - u kunt deze bewerken voordat uw profiel live gaat.",
+		"upload-desc": "Upload cv (*.pdf minder dan 500 kb)",
+		"fill": "Vul handmatig in",
+		"resume-error": "Kan uw CV -bestand niet verwerken.",
+		"submit": "Indienen",
+		"cancel": "Annuleren",
+		"next": "Volgende",
+		"back": "Rug",
+		"role-title": "Voeg een titel toe om de wereld te vertellen wat je doet.",
+		"role-desc": "Het is het allereerste wat klanten zien, dus laat het tellen.Krijg je op door je expertise in je eigen woorden te beschrijven.",
+		"role-input": "Uw professionele rol",
+		"experience-title": "Als u een relevante werkervaring heeft, voegt u deze hier toe.",
+		"experience-desc": "Freelancers die hun ervaring toevoegen, hebben twee keer zoveel kans om werk te winnen.Maar als je net begint, kun je nog steeds een geweldig profiel maken.Ga gewoon naar de volgende pagina.",
+		"education-title": "Klanten willen graag weten wat u weet - voeg hier uw opleiding toe.",
+		"education-desc": "Je hoeft geen diploma te hebben.Het toevoegen van relevant onderwijs helpt uw profiel beter zichtbaar te maken.",
+		"certification-title": "Als u certificering hebt, voegt u dit hier toe.",
+		"certification-desc": "Het opsommen van uw certificeringen kan helpen om uw specifieke kennis of vaardigheden te bewijzen. U kunt ze handmatig toevoegen of van geloof importeren.",
+		"showcredential": "Toon referentie",
+		"language-title": "Ziet er goed uit.Vertel ons vervolgens welke talen u spreekt.",
+		"language-desc":"FWork is global, so clients are often interested to know what languages you speak. English is a must, but do you speak any other languages?",
+		"skill-title": "Bijna daar!Welk werk moet u hier doen?",
+		"skill-desc": "Uw vaardigheden laten klanten zien wat u kunt bieden en helpen ons te kiezen welke banen u u aanbevelen.Voeg of verwijder de die we hebben voorgesteld, of begin met typen om meer te kiezen.Het is aan jou.",
+		"overview-title": "Geweldig!Schrijf nu een bio om de wereld over jezelf te vertellen.",
+		"overview-desc": "Help mensen u in één oogopslag te leren kennen.In welk werk ben je het beste?Vertel ze duidelijk, met behulp van paragrafen of opsommingstekens.Je kunt altijd later bewerken - zorg ervoor dat je nu proeflezen!",
+		"overview": "Uw overzicht",
+		"hourly":"Hourly Rate",
+		"weekly": "Wekelijkse werktijd",
+		"info-title":"A few last details, then you can check and publish your profile.",
+		"info-desc":"A professional photo helps you build trust with your clients. To keep things safe and simple, they’ll pay you through us - which is why we need your personal information.",
+		"remove": "Verwijderen",
+		"photo": "Neem je foto",
+		"firstname": "Voornaam",
+		"lastname": "Achternaam",
+		"country": "Land",
+		"street": "Straatadres * (zal niet worden weergegeven op profiel)",
+		"district": "Wijk",
+		"city":"City",
+		"state": "Staat/provincie",
+		"zipcode": "Zip/postcode",
+		"preview-title": "Uw Freelancer Profile Preview",
+		"preview-desc": "Weet u zeker dat alle register correct en legaal is?",
+		"uploading": "Het uploaden",
+		"add-language": "Taal toevoegen",
+		"language": "Taal",
+		"proficiency": "Bekwaamheid",
+		"save": "Redden",
+		"add-education": "ONDERWIJS VOEGEN",
+		"school": "school",
+		"field": "Studierichting",
+		"accreditation": "Accreditatie",
+		"startdate": "Begin datum",
+		"enddate": "Einddatum",
+		"description": "Beschrijving",
+		"add-certificate": "Certificaat toevoegen",
+		"name-certificate": "Naam van het certificaat",
+		"issuing-org": "Uitgavende organisatie",
+		"issue-date": "Uitgegeven datum",
+		"expire-date": "Houdbaarheidsdatum",
+		"credential-id": "Referentie -ID",
+		"credential-link": "Referentie -link"
+	},
+
+	"account": {
+		"editname": "Bewerk uw naam",
+		"firstname": "Voornaam",
+		"lastname": "Achternaam",
+		"save": "Redden",
+		"editlocation": "Bewerk uw locatie",
+		"country": "Land",
+		"district": "Wijk",
+		"city":"City",
+		"state": "Staat/provincie",
+		"zipcode": "Zip/postcode",
+		"edittimezone": "Tijdzone bewerken",
+		"email": "E -mail",
+		"closeaccount": "Account sluiten",
+		"close-desc": "Vertel ons waarom u misschien uw account wilt sluiten:",
+		"other": "Ander",
+		"close-reason-1": "Ik gebruik de website niet langer.",
+		"close-reason-2": "Ik maak me zorgen over mijn privacy.",
+		"close-reason-3": "De website heeft zijn beleid gewijzigd.",
+		"close-reason-4": "Ik ga over naar een andere service.",
+		"close-reason-5": "Ik verhuis naar een ander land.",
+		"close-reason-6": "Ik ben niet langer lid van de doelgroep.",
+		"close-reason-7": "Deze website is niet langer betrouwbaar.",
+		"close-reason-8": "Ik ben het slachtoffer geweest van fraude.",
+		"update-role": "Werk uw professionele rol bij",
+		"edit-overview": "Overzicht bewerken",
+		"information": "Informatie",
+		"security": "Beveiliging",
+		"finance": "Financiën",
+		"profile": "Freelancer -profiel",
+		"client-profile": "Cliëntprofiel",
+		"contacts": "Contacten",
+		"notification": "Meldingen",
+		"proposals": "Voorstellen",
+		"orders": "Bevelen",
+		"services": "Diensten",
+		"projects": "Projecten",
+		"jobs": "Banen",
+		"promotion": "Promotie",
+		"account-info": "Account Informatie",
+		"online": "online",
+		"location": "Plaats",
+		"nosetup": "Geen opstelling",
+		"timezone": "Tijdzone",
+		"connected-service": "Verbonden diensten",
+		"connect": "Aansluiten",
+		"disconnect": "Loskoppelen",
+		"password-set": "Wachtwoord is ingesteld",
+		"password-noset": "Er is geen wachtwoord ingesteld.",
+		"password": "Wachtwoord",
+		"login-log": "U gebruikt momenteel {n} aanmelding om in te loggen.",
+		"create-password": "Maak een wachtwoord",
+		"change-password": "Verander wachtwoord",
+		"oldpassword": "Oud Wachtwoord",
+		"newpassword": "nieuw paswoord",
+		"confirmpassword": "bevestig wachtwoord",
+		"cancel": "Annuleren",
+		"2fa-title": "Twee-factor authenticatie (2FA)",
+		"2fa-desc-1": "Uw account heeft geen tweefactor-authenticatie ingeschakeld.",
+		"2fa-desc-2": "Two-factor authenticatie (2FA) voegt een extra beveiligingslaag toe aan uw account door te eisen dat u een code van uw authenticator-app moet invoeren naast uw wachtwoord.Deze code verandert elke 60 seconden, dus het is erg moeilijk voor iemand om te raden of te stelen.",
+		"setup-auth": "Hoe Google Authenticator in te stellen?",
+		"turn-2fa": "Schakel twee-factor authenticatie in",
+		"2fa-complete": "Uw account is beveiligd met tweefactor-authenticatie.",
+		"turnoff": "Uitschakelen",
+		"connected-device": "Verbonden apparaten",
+		"signout": "Afmelden",
+		"this-device": "Dit apparaat",
+		"last-activity": "Laatste Activiteit",
+		"balance": "Werkbalans",
+		"withdraw": "Verzoek terugtrekking",
+		"pending-balance": "In afwachting van balans",
+		"view-detail": "Bekijk details",
+		"credit": "FWork Credit",
+		"withdraw-method": "Terugtrekkingsmethoden",
+		"paypal-card": "PayPal -betaalkaart",
+		"payoneer-card": "Payoneer -betaalkaart",
+		"address": "Adres",
+		"pending-withdraw": "In afwachting Intrekking",
+		"last-withdraw": "Laatste terugtrekking",
+		"last-deposit": "Laatste storting",
+		"reviewing": "Herziening",
+		"completed": "Voltooid",
+		"rejected": "Afgewezen",
+		"send": "Versturen",
+		"write-message": "Voer het bericht in",
+		"all": "Alle",
+		"activity": "Activiteiten",
+		"listing": "Nieuwe aanbiedingen",
+		"system-alert": "Systeemmeldingen",
+		"edit-company": "Bewerkingsbedrijf bewerken",
+		"create-compaign": "Campagne maken",
+		"back": "Rug",
+		"next": "Volgende",
+		"create-service-title": "Servicetitel",
+		"create-service-desc": "Als uw service -winkel is uw titel de belangrijkste plek om zoekwoorden op te nemen die kopers waarschijnlijk zouden gebruiken om een service zoals die van u te zoeken.",
+		"iwill": "Ik zal",
+		"create-service-image": "Afbeeldingen (maximaal 3)",
+		"create-service-image-2": "Word opgemerkt door de juiste kopers met visuele voorbeelden van uw diensten.",
+		"description": "Beschrijving",
+		"browse-photo": "Selecteer een foto of blader door",
+		"primary": "Primair",
+		"browse-video": "Video (alleen één)",
+		"browse-video-desc": "Kies een video korter dan 75 seconden en kleiner dan 50 MB",
+		"review-trust": "Onder beoordeeld door ons Trust & Safety Team",
+		"browse-document": "Documenten (slechts één)",
+		"browse-document-2": "Toon enkele van de beste werk die u in een document hebt gemaakt (alleen PDFS).",
+		"browse-document-3": "Selecteer een document of blader door",
+		"create-service-tags-1": "Zoektags (optioneel)",
+		"create-service-tags-2": "Tag uw service met buzzwoorden die relevant zijn voor de services die u aanbiedt.Gebruik alle 5 tags om te worden gevonden.",
+		"tags-maximum": "5 tags maximaal.Gebruik alleen letters en cijfers.",
+		"category-title": "Categorie",
+		"category-desc": "Selecteer een categorie, dus het is gemakkelijk voor klanten om uw project te vinden.",
+		"service-type": "Dienst Type",
+		"service-meta": "Servicemetadata",
+		"faq-title": "Veel Gestelde Vragen",
+		"add-faq": "+ Voeg veelgestelde vragen toe",
+		"faq-desc": "Voeg vragen en antwoorden toe voor uw kopers.",
+		"char": "tekens",
+		"update": "update",
+		"delete": "Verwijderen",
+		"scope-title": "Prijs en reikwijdte",
+		"scope-title-1": "Creëer prijslagen",
+		"scope-desc": "Pas uw project aan met 1 of 3 prijsniveau",
+		"starter": "Beginner",
+		"standard": "Standaard",
+		"advanced": "Geavanceerd",
+		"custom-title": "Aangepaste titel",
+		"custom-desc": "Aangepaste beschrijving",
+		"delivery-day": "Bezorgdagen",
+		"revision": "Aantal herzieningen",
+		"project-price": "Projectprijs",
+		"choose-add": "Kies add-ons",
+		"for-extra": "Voor een extra",
+		"additional": "en extra",
+		"ques-title": "Jouw vraag",
+		"add-ques": "Voeg nieuwe vraag toe",
+		"add-ques-desc": "Hier kunt u de gegevens aanvragen die nodig zijn om uw bestelling te voltooien.",
+		"ques-type": "Haal het in een vorm van:",
+		"add": "Toevoegen",
+		"finalize": "Afronden",
+		"copyright": "Copyright melding",
+		"copyright-desc": "Door uw project in te dienen, verklaart u dat u het geposte materiaal bezit of recht hebt en dat het plaatsen van deze materialen geen inbreuk maakt op de rechten van derden.U erkent ook dat u begrijpt dat uw project wordt beoordeeld en geëvalueerd door FWork om ervoor te zorgen dat het aan de vereisten van FWork voldoet.",
+		"terms": "Servicevoorwaarden",
+		"terms-desc": "Ik begrijp en ga akkoord met de fWork -servicevoorwaarden, inclusief de gebruikersovereenkomst en het privacybeleid.",
+		"privacy": "Privacyverklaring",
+		"privacy-desc": "Door dit project in te dienen en het te activeren, begrijp ik dat het in FWork -zoekresultaten zichtbaar zal zijn voor het grote publiek en verschijnt in de resultaten van zoekmachines, zelfs als mijn profiel zichtbaarheid is ingesteld op alleen privé- of fWork -gebruikers.",
+		"submit": "Indienen",
+		"post-project-title": "Laten we beginnen met een sterke titel.",
+		"post-project-desc": "Dit helpt uw vacature op te vallen bij de juiste kandidaten.Het is het eerste wat ze zullen zien, dus laat het tellen!",
+		"project-title": "Titel",
+		"project-desc": "Beschrijving",
+		"attachment": "Bijlage (optioneel)",
+		"browse-file": "Selecteer een bestand of blader door",
+		"project-skill": "Wat zijn de belangrijkste vaardigheden die nodig zijn voor uw werk?",
+		"add-skill": "Vaardigheden toevoegen",
+		"skill-max": "5 tags maximaal.Gebruik alleen letters en cijfers.",
+		"project-budget-title": "Vertel ons over uw budget.",
+		"project-budget-desc": "Dit zal ons helpen u te matchen met talent binnen uw bereik",
+		"currency": "Munteenheid",
+		"hourlyrate": "Uurtarief",
+		"project-budget": "Project budget",
+		"from": "Van",
+		"to": "Naar",
+		"budget-note": "Professionals hebben de neiging om $ 25 - $ 50 /uur (USD) in rekening te brengen voor grafische ontwerpprojecten zoals die van u.",
+		"budget-max": "Maximale projectbudget (USD)",
+		"budget-note-2": "U hebt de optie om mijlpalen te maken die uw project in beheersbare fasen verdelen.",
+		"job-detail": "Details van de baan",
+		"budget": "Begroting",
+		"hourly": "Uur",
+		"fixed": "Vast",
+		"post": "Na",
+		"edit-project-title": "Projecttitel bewerken",
+		"edit-project-desc": "Projectbeschrijving bewerken",
+		"edit-project-scope": "Project Scope bewerken",
+		"edit-project-category": "Projectcategorie bewerken",
+		"edit-project-skill": "Bewerk projectvaardigheid",
+		"edit-project-budget": "Projectbudget bewerken",
+		"job-post-title": "Plaats nu een baan",
+		"job-post-desc": "Plaats uw baan op het grote professionele netwerk ter wereld en gebruik eenvoudige tools om prioriteit te geven aan de meest gekwalificeerde kandidaten - zodat u de mensen die u wilt interviewen, sneller kunt vinden.",
+		"job-title": "Functietitel",
+		"job-company": "Bedrijf",
+		"job-logo": "Bedrijfslogo",
+		"job-select-logo": "Selecteer een logo",
+		"job-desc": "Beschrijving",
+		"job-workplace": "Werkplektype",
+		"job-location": "werklocatie",
+		"job-type": "Soort baan",
+		"job-skill": "Baan vaardigheden",
+		"job-skill-max": "5 tags maximaal.Gebruik alleen letters en cijfers.",
+		"job-currency": "Munteenheid",
+		"annually": "jaarlijks",
+		"job-question": "Vragen",
+		"job-add-ques": "+ Vraag toevoegen",
+		"answer-type": "Antwoordtype",
+		"post-job": "postJob"
+	},
+	"affiliate": {
+		"title": "Affiliate-programma",
+		"desc": "Word lid van FWork Partner -programma om meer verwijzingscommissie te verdienen",
+		"longterm": "Langdurige commissies",
+		"addition": "Aanvullend",
+		"addition-desc": "over het inkomen van sub-aangesloten",
+		"income-desc": "over het inkomen van sub-aangesloten",
+		"upto": "Tot",
+		"start-earn": "Begin met verdienen",
+		"section-desc": "Ons commissietarief is meer dan twee keer hoger dan de industriële normen",
+		"partners": "partners",
+		"coverage": "Wereldwijde dekking",
+		"total-paid": "Totale commissie betaald",
+		"you-can-earn": "U kunt verdienen",
+		"earn-desc": "Verdien elke maand passief inkomsten voor elke handelaar die u verwijst",
+		"earn-desc-2": "over de handelskosten van uw verwijzingen.",
+		"earn-desc-3": "over wat uw sub-gelieerde onderdaan verdient",
+		"section2-title": "Affiliate voordelen en diensten",
+		"section2-desc": "Tot 60% commissie en extra 10% sub-aangesloten korting",
+		"section2-desc-2": "Langetermijncommissies, pijplijnopbrengsten",
+		"section2-desc-3": "Één-op-één professionele accountmanager",
+		"section2-desc-4": "Basisalaris tot $ 600/maand",
+		"section5-title": "Solliciteer om een FWork -filiaal te worden en begin nu uw commissie te verdienen!",
+		"section5-desc": "Contact: affiliate@Fwork.io",
+		"joinnow": "Doe nu mee",
+		"join-us": "Doe met ons mee",
+		"your-uid": "Uw Fwork uid",
+		"social": "Sociale media",
+		"telegram-id": "Telegram -ID",
+		"email-id": "Jouw email",
+		"submission": "Bevestig indiening",
+		"register-title": "Affiliate-programma",
+		"register-desc": "Word lid van het FWork -affiliate -programma",
+		"register-desc-2": "Op zoek naar een zij drukte?Word lid van het gelieerde systeem van FWork en begin vandaag nog extra geld te verdienen!Promoot onze vacaturesite op uw netwerk en verdien een commissie over elke succesvolle verwijzing.Geen ervaring vereist - Meld u gewoon aan, deel uw unieke verwijzingsverbinding en zie uw inkomsten groeien.Mis deze kans niet om geld te verdienen vanuit het comfort van uw eigen huis.Word nu lid van het gelieerde programma van FWork!",
+		"apply-desc": "Bedankt voor het solliciteren",
+		"register-detail": "Meer details hier"
+	},
+	"influencer": {
+		"title": "Influencer -programma",
+		"desc": "Nodig je vrienden uit om lid te worden van FWork en verdien geweldige beloningen!",
+		"desc-2": "Geniet van $ 50 een nieuwe gebruikersbonus",
+		"join-now": "Doe nu mee",
+		"desc-3": "5-50 USDT Cash Bonus voor elke geldige nieuwe gebruiker uitgenodigd.",
+		"desc-4": "Word lid van het Referral Officer -programma en geniet van een commissie van 40% Spot.",
+		"desc-5": "Geniet van de mogelijkheid om een beperkt aantal fWork -perifere prijzen te winnen.",
+		"desc-6": "Agenten die twee opeenvolgende maanden goudverwijzingsofficier bereiken, kunnen worden opgewaardeerd naar fWork -agenten",
+		"benefit-title": "FWork Influencer Voordelen",
+		"benefit-desc": "We zijn op zoek naar belangrijke opinieleiders (KOL's) en contentmakers die onze missie en waarden delen om ons handelsplatform te promoten.",
+		"partners": "partners",
+		"partners-desc": "Partner met 's werelds meest betrouwbare crypto -uitwisseling.",
+		"transparency": "Transparantie",
+		"transparency-desc": "Ontvang een gedetailleerd rapport van uw promotie -effectiviteit.",
+		"compensation": "Een vergoeding",
+		"compensation-desc": "Word betaald in uw favoriete cryptocurrency.",
+		"note": "Opmerking:",
+		"note-desc": "Neem contact op met vragen: voor vragen over evenementen en zakelijke samenwerking, neem dan contact op met: influencer@Fwork.io.",
+		"note-desc-2": "Kwalificaties van participatie: deze activiteit is beperkt tot die welke momenteel al betrokken zijn bij een plan -agent (officier) -plan.De nieuwe verwijzingsfunctionaris moet het maandelijkse effectieve nieuwe gebruikersbedrag en de totale maandelijkse vergoeding tegelijkertijd voltooien voordat hij de voordelen ontvangt.",
+		"note-desc-3": "Houd er rekening mee dat bewoners uit België beperkt zijn van deelname aan het Influencer -programma.Beloningsregels: na sollicitatie om een FWork.com-verwijzingsfunctionaris te worden, kan elke geldige nieuwe gebruiker die u uitnodigt een geldbeloning van 5-10 USD krijgen, zonder bovengrens; deelnemende valutaparen: alle handelsparen op: Fwork.com USDT-Gemarge eeuwige contracten, Fwork.com USDT-gemargined spot (behalve BTC/USDT Spot Trading Pair) Zero-fee-handelsparen worden niet geteld als geldige transacties, nul fee-handelspaar",
+		"note-desc-4": "Beloningsdistributie: realtime statistieken en distributie van kortingshandel korting, statistieken en distributie in contanten eenmaal per week, direct verspreid over de FWork.com-account van de uitnodiger.",
+		"note-desc-5": "Checing -gedrag: nieuwe gebruikers maken slechts één transactie in de eerste maand na registratie, frequent veeggedrag met hetzelfde transactiebedrag en ander handelsveeggedrag wordt beschouwd als vals spelen.De prijs wordt uitgesteld.Als de omstandigheden ernstig zijn, wordt de prijs geannuleerd en wordt de voorgestelde officierstatus ook in het proces geannuleerd.",
+		"reward-title": "Win tot $ 100 aan welkome beloningen",
+		"reward-desc": "Voltooi beginnerstaken & win geweldige prijs",
+		"join-us": "Doe met ons mee",
+		"uid": "Uw Fwork uid",
+		"social": "Sociale media",
+		"telegram": "Telegram -ID",
+		"email": "Jouw email",
+		"confirm": "Bevestig indiening"
+	},
+	"referral": {
+		"title": "Raadpleeg vrienden en krijg tot 40% commissie",
+		"desc": "Nodig je vrienden uit om lid te worden van FWork, en zowel jij als je verwezen vrienden kunnen genieten van exclusieve voordelen en bonussen!",
+		"code": "Verwijzingscode",
+		"link": "referentie link",
+		"invite-friend": "Nodig vrienden uit",
+		"commission-ratio": "Commissie kortingratio",
+		"commission-desc": "De kortingsratio van de commissie is alleen van toepassing op nieuwe verwijzingen, het is niet van toepassing op bestaande.",
+		"your-share": "Jij deelt:",
+		"invited-share": "Mensen die je hebt uitgenodigd delen:",
+		"my-referral": "Mijn verwijzing",
+		"earned": "Verdiend",
+		"total-refer": "Totale scheidsrechters",
+		"persons": "Personen",
+		"referred-user": "Verwezen gebruikers",
+		"referee-registed": "Scheidsrechter geregistreerd op",
+		"referee-uid": "Scheidsrechter uid",
+		"no-record": "Geen record",
+		"rebate-detail": "Mijn kortingsdetails",
+		"rebate-at": "Commissie heeft gerebat op",
+		"type": "type",
+		"commission-amount": "Commissiebedrag",
+		"top-earners": "FWork Top 20 commissie -verdieners",
+		"account": "Rekening",
+		"how-work": "Hoe verwijzing werkt",
+		"how-work-detail": "Verhoog uw inkomsten met vrienden!",
+		"how-work-detail-2": "Pas de verwijzingscommissie aan om uw vrienden royaal te belonen!",
+		"refer-friends": "Raadpleeg vrienden en verdien beloningen!",
+		"refer-friends-desc": "Ontgrendel spannende beloningen door uw unieke verwijzingslink of QR -code te delen met uw vrienden en op uw favoriete sociale mediaplatforms.",
+		"start-earn": "Begin vandaag met het verdienen van crypto!",
+		"start-earn-desc": "Ontgrendel tot 40% commissie wanneer uw vrienden lid worden van de handelsgemeenschap.",
+		"program-rule": "Verwijzingsprogramma regels:",
+		"rule-desc": "Er is geen limiet aan het aantal accounts dat een verwijzer kan uitnodigen.De verwijzer komt in aanmerking om een commissie te ontvangen van de handelskosten van de scheidsrechter gedurende een duur van 12 maanden.",
+		"rule-desc-2": "Als een scheidsrechter een handel op de spotmarkt uitvoert, wordt een bepaald percentage van de gegenereerde handelskosten als commissie beloond.",
+		"rule-desc-3": "Om de verwijzing als geldig te beschouwen, mogen de scheidsrechter en verwijzer niet hetzelfde IP -adres delen en moet het account van de verwijzing ten minste 1 dag oud zijn.",
+		"rule-desc-4": "FWork zal alle verwijzingsvoordelen diskwalificeren en annuleren als een gebruiker wordt gevonden dat hij vals speelt door meerdere registraties te maken.",
+		"rule-desc-5": "Houd er rekening mee dat bewoners uit België niet mogen deelnemen aan het verwijzingsprogramma.",
+		"rule-desc-6": "FWork behoudt zich het recht voor om de regels van het verwijzingsprogramma te interpreteren en indien nodig wijzigingen aan te brengen.",
+		"register-now": "Registreer nu.Verdien samen crypto.",
+		"referral-id": "Verwijzing ID"
+	},
+	"contactus": {
+		"title": "Neem contact met ons op",
+		"touch": "Neem contact op.",
+		"touch-desc": "Neem contact op via telegram, e -mail, bel en direct adres.",
+		"reach": "Bereik ons:",
+		"contact-title": "Schrijf een paar woorden over uw vraag en we zullen uw vraag binnen 24 uur voorbereiden en binnenkort contact met u opnemen.",
+		"name": "Uw naam",
+		"company": "Bedrijf",
+		"email": "E -mail",
+		"phone": "Telefoonnummer",
+		"query": "Uw vraag",
+		"submit": "Zoekopdracht indienen"
+	},
+	"category": {
+		"graphics-and-design": {
+			"label": [
+				"Grafisch design",
+				"Ontwerpen waarmee u opvalt."
+			],
+			"items": {
+				"logo-design": [
+					"Logo ontwerp",
+					"Onderscheid u van de massa met een logo dat past bij uw merkpersoonlijkheid."
+				],
+				"brand-style-guides": [
+					"Merkstijlgidsen",
+					"Ga verder dan het logo om de identiteit, kleuren en lettertypen van uw merk vast te stellen"
+				],
+				"business-cards-and-stationery": [
+					"Visitekaartjes en briefpapier",
+					"Verpletter de eerste indruk met op maat gemaakte ontwerpen voor visitekaartjes en briefpapier"
+				],
+				"fonts-and-typography": [
+					"Lettertypen & Typografie",
+					"Maak nieuwe lettertypen, typografie, handlettering en kalligrafieontwerpen."
+				],
+				"illustration": [
+					"Illustratie",
+					"Schilder een beeld voor uw publiek met digitale en handgetekende illustraties."
+				],
+				"ai-artists": [
+					"AI-artiesten",
+					"Verken de grenzen van kunst en technologie met de AI-artiesten van Fiverr"
+				],
+				"childrens-book-illustration": [
+					"Kinderboekillustratie",
+					"Breng uw kinderboeken tot leven met boeiende illustraties."
+				],
+				"portraits-and-caricatures": [
+					"Portretten en karikaturen",
+					"Zet je beste beentje voor met een portret of karikatuur die indruk maakt"
+				],
+				"cartoons-and-comics": [
+					"Tekenfilms en strips",
+					"Breng een speels tintje aan uw volgende project met cartoon- of stripontwerp"
+				],
+				"pattern-design": [
+					"Patroonontwerp",
+					"Ontvang prachtige patroonontwerpen voor uw interieur, briefpapier, textiel en meer."
+				],
+				"tattoo-design": [
+					"Tatoeage-ontwerp",
+					"Laat je persoonlijkheid zien met een prachtig tattoo-ontwerp waar je altijd van zult houden"
+				],
+				"storyboards": [
+					"Storyboards",
+					"Breng uw visie tot leven met storyboards voor games, video's, presentaties en meer"
+				],
+				"nft-art": [
+					"NFT-kunst",
+					"Maak NFT-illustraties die het waard zijn om te verzamelen."
+				],
+				"design-advice": [
+					"Ontwerpadvies",
+					"Kom in contact met specialisten voor begeleiding, mentorschap en ontwikkeling van vaardigheden."
+				],
+				"website-design": [
+					"Website ontwerp",
+					"Krijg een prachtig website-ontwerp waar mensen graag mee bezig zijn."
+				],
+				"app-design": [
+					"App-ontwerp",
+					"Onderscheid uw app met een mooi app-ontwerp."
+				],
+				"ux-design": [
+					"UX-ontwerp",
+					"Geef je bezoeker een vlotte online ervaring met een gedegen UX design."
+				],
+				"landing-page-design": [
+					"Ontwerp van bestemmingspagina",
+					"Betrek uw publiek met een schitterend ontwerp van de landingspagina."
+				],
+				"icon-design": [
+					"Pictogramontwerp",
+					"Maak uw project uniek met een aangepast pictogramontwerp."
+				],
+				"industrial-and-product-design": [
+					"Industrieel en productontwerp",
+					"Ontwerp en creëer elk soort product, van concept tot 3D-ontwerp tot productie."
+				],
+				"character-modeling": [
+					"Karaktermodellering",
+					"Modelpersonages en wezens voor 3D-printen of voor je volgende grote videogame"
+				],
+				"game-art": [
+					"Spelkunst",
+					"Ontwerp je volgende grote game met graphics en ontwerpmiddelen voor elk spelelement."
+				],
+				"graphics-for-streamers": [
+					"Grafiek voor streamers",
+					"Betrek uw gamekijkers met aangepaste overlays, emotes en meer."
+				],
+				"flyer-design": [
+					"Flyerontwerp",
+					"Promoot uw bedrijf met gedrukt marketingmateriaal dat u overal en altijd kunt plaatsen"
+				],
+				"brochure-design": [
+					"Brochure ontwerp",
+					"Breng uw hoofdboodschap over met informatieve brochures en folders"
+				],
+				"poster-design": [
+					"Posterontwerp",
+					"Maak posters die je muren promoten, engageren en flair toevoegen"
+				],
+				"catalog-design": [
+					"Catalogusontwerp",
+					"Pronk met uw producten met een inspirerend catalogusontwerp"
+				],
+				"menu-design": [
+					"Menuontwerp",
+					"Verleidelijke menu's en prijslijsten voor uw restaurant, speciale gebeurtenis en meer!"
+				],
+				"invitation-design": [
+					"Menuontwerp",
+					"Verleidelijke menu's en prijslijsten voor uw restaurant, speciale gebeurtenis en meer!"
+				],
+				"image-editing": [
+					"Foto bewerken",
+					"Zorg dat uw visuals worden geperfectioneerd, van producten tot portretten."
+				],
+				"presentation-design": [
+					"Presentatieontwerp",
+					"Verbaas uw publiek met een krachtige, op maat ontworpen presentatie."
+				],
+				"infographic-design": [
+					"Infografisch ontwerp",
+					"Geef data de uitstraling die ze verdienen met de hulp van freelance infographic-ontwerpers"
+				],
+				"vector-tracing": [
+					"Vectortracering",
+					"Welkom bij het eindeloze ontwerppotentieel met beeldconversie en vectortracering"
+				],
+				"resume-design": [
+					"Ontwerp hervatten",
+					"Laat uw profiel opvallen met een perfect CV-ontwerp"
+				],
+				"social-media-design": [
+					"Social media-ontwerp",
+					"Doe sociale media beter dan de rest met op maat ontworpen skins, avatars en meer"
+				],
+				"social-posts-and-banners": [
+					"Sociale berichten en banners",
+					"Ontvang posts en banners op sociale media die op maat zijn ontworpen voor alle populaire platforms."
+				],
+				"email-design": [
+					"E-mailontwerp",
+					"Ontwerp prachtige e-mails die uw publiek engageren."
+				],
+				"web-banners": [
+					"Webbanners",
+					"Extreem snelle groei met banneradvertenties waarop klanten niet anders kunnen dan klikken"
+				],
+				"signage-design": [
+					"Bewegwijzeringontwerp",
+					"Richt de aandacht op uw boodschap en merk met goed ontworpen buitenborden."
+				],
+				"packaging-and-label-design": [
+					"Verpakkings- en etiketontwerp",
+					"Laat shoppers twee keer kijken met creatieve verpakkingen en etiketontwerpen."
+				],
+				"book-design": [
+					"Boekontwerp",
+					"Laat uw creativiteit de vrije loop met een boeiend boekontwerp."
+				],
+				"book-covers": [
+					"Boeken kaften",
+					"Trek de aandacht van uw lezers met een prachtig boekomslagontwerp"
+				],
+				"album-cover-design": [
+					"Ontwerp van albumhoes",
+					"Laat uw album er net zo goed uitzien als het klinkt met Album Cover Design"
+				],
+				"architecture-and-interior-design": [
+					"Architectuur en interieurontwerp",
+					"Breng uw project van de grond met gedetailleerde plannen, 3D-modellen en meer."
+				],
+				"landscape-design": [
+					"Landschapsontwerp",
+					"Ontwerp, plan en visualiseer uw open ruimtes"
+				],
+				"building-engineering": [
+					"Bouwkunde",
+					"Alle technische diensten die u nodig heeft om het goed te bouwen."
+				],
+				"tshirts-and-merchandise": [
+					"T-shirts en merchandise",
+					"Koop T-shirts en merchandise voor je bedrijf of als uniek cadeau."
+				],
+				"fashion-design": [
+					"Modeontwerp",
+					"Laat een professioneel ontwerp van op maat gemaakte kledingstukken voor u maken, van begin tot eind."
+				],
+				"jewelry-design": [
+					"Sieradenontwerp",
+					"Maak prachtige sieraden met de hulp van professionele kunstenaars."
+				],
+				"3d-architecture": [
+					"3D-architectuur",
+					"Visualiseer uw ideeën met realistische 3D Architectural Rendering & Modeling."
+				],
+				"3d-industrial-design": [
+					"3D Industrieel Ontwerp",
+					"Visualiseer uw project met een realistisch 3D-model"
+				],
+				"3d-fashion-and-garment": [
+					"3D-mode en kleding",
+					"Breng uw kledingstuk tot leven met een levensechte 3D-visualisatie."
+				],
+				"3d-printing-characters": [
+					"3D-printtekens",
+					"Vind de beste 3D-printkarakterservices die u nodig heeft om u te helpen uw projectplanningsdoelen en deadline succesvol te behalen"
+				],
+				"3d-landscape": [
+					"3D Landschap",
+					"Visualiseer uw landschap met 3D-modellering en rendering"
+				],
+				"3d-game-art": [
+					"3D-spelkunst",
+					"Vind de beste 3D-gamekunstdiensten die u nodig heeft om u te helpen uw projectplanningsdoelen en deadline succesvol te behalen"
+				],
+				"3d-jewelry-design": [
+					"3D-sieradenontwerp",
+					"Breng uw sieradenvisie tot leven met 3D-modellen en renderings."
+				]
+			}
+		},
+		"programming-and-tech": {
+			"label": [
+				"Programmering en techniek",
+				"Jij denkt het. Een programmeur ontwikkelt het."
+			],
+			"items": {
+				"website-development": [
+					"Website ontwikkeling",
+					"Vind de beste website-ontwikkelingsdiensten die u nodig heeft om u te helpen uw projectplanningsdoelen en deadline succesvol te behalen."
+				],
+				"website-maintenance": [
+					"Website onderhoud",
+					"Verhelp bugs op websites met de hulp van freelance webprogrammeerexperts"
+				],
+				"game-development": [
+					"Spelontwikkeling",
+					"Bouw geweldige videogames met de hulp van freelance game-ontwikkelaars."
+				],
+				"software-development": [
+					"software ontwikkeling",
+					"Bouw uw aangepaste applicatie helemaal opnieuw met de hulp van ervaren freelance programmeurs."
+				],
+				"mobile-app-development": [
+					"Mobiele app-ontwikkeling",
+					"Maak mobiele apps met de hulp van freelance ontwikkelaars."
+				],
+				"ai-development": [
+					"AI-ontwikkeling",
+					"Bouw en integreer AI-motoren in uw applicatie of website."
+				],
+				"blockchain-and-cryptocurrency": [
+					"Blockchain en cryptovaluta",
+					"Werk met gespecialiseerde diensten aan uw blockchain- en cryptocurrency-projecten."
+				],
+				"nft-development": [
+					"NFT-ontwikkeling",
+					"Krijg de hulp van een freelancer om een website te bouwen waar u uw NFT's kunt droppen, minten en verkopen."
+				],
+				"electronics-engineering": [
+					"Elektronische techniek",
+					"Vraag een ingenieur om u te helpen bij het plannen, ontwerpen en ontwikkelen van uw elektronische producten."
+				],
+				"devops-and-cloud": [
+					"Devops & Cloud",
+					"Bouw, schaal en beheer cloud computing-omgevingen en ontwikkelingsactiviteiten."
+				],
+				"support-and-it": [
+					"Ondersteun het",
+					"Zeg hallo tegen IT-ondersteuningsdiensten en vaarwel tegen serviceonderbrekingen."
+				],
+				"online-coding-lessons": [
+					"Online programmeerlessen",
+					"Leer coderen met professionele programmeurs"
+				],
+				"chatbot-development": [
+					"Chatbot-ontwikkeling",
+					"Automatiseer uw online aanwezigheid met chatbotontwikkelingsdiensten van ervaren freelancers."
+				],
+				"convert-files": [
+					"Bestanden omzetten",
+					"Bevrijd uzelf van langzame processen met snelle, eenvoudige bestandsconversies."
+				],
+				"user-testing": [
+					"Gebruikerstesten",
+					"Ben je dol op je product? Ontdek of anderen dat ook vinden dankzij de gebruikerstestdiensten."
+				],
+				"qa-and-review": [
+					"Veelgestelde vragen en beoordeling",
+					"Neem deel aan een live-sessie voor codebeoordeling en mentorschap met een deskundige ontwikkelaar."
+				],
+				"other": [
+					"Ander",
+					""
+				]
+			}
+		},
+		"digital-marketing": {
+			"label": [
+				"Digitale marketing",
+				"Bouw uw merk. Laat uw bedrijf groeien."
+			],
+			"items": {
+				"search-engine-optimization-seo": [
+					"Zoekmachineoptimalisatie (SEO)",
+					" Scoor hoog in zoekmachines en krijg meer bezoekers met SEO."
+				],
+				"search-engine-marketing-sem": [
+					"Zoekmachinemarketing (SEM)",
+					"Geef uw campagnes de upgrade die ze nodig hebben met SEM- en PPC-services"
+				],
+				"local-seo": [
+					"Lokale SEO",
+					"Laat u in de schijnwerpers staan met kwaliteit, lokale SEO en diensten voor bedrijfsvermeldingen"
+				],
+				"social-media-marketing": [
+					"Sociale media marketing",
+					"Vergroot uw online aanwezigheid met boeiende sociale media-inhoud."
+				],
+				"influencer-marketing": [
+					"Influencer-marketing",
+					"Laat uw merk groeien met de hulp van onze influencers en marketingexperts."
+				],
+				"community-management": [
+					"Gemeenschap beheer",
+					"Betrek uw volgers en verras ze met communitybeheerdiensten."
+				],
+				"video-marketing": [
+					"Videomarketing",
+					"Verhoog uw video's met SEO-videodiensten."
+				],
+				"ecommerce-marketing": [
+					"E-commercemarketing",
+					"Laat uw producten ontdekken door uw winkelpuien en vermeldingen te verbeteren met SEO-services voor e-commerce."
+				],
+				"email-marketing": [
+					"Email reclame",
+					"Vermijd de map met ongewenste e-mail met freelance e-mailmarketingdiensten"
+				],
+				"guest-posting": [
+					"Gastpost",
+					"Ontvang geweldige inhoud die voor u is gemaakt en gepubliceerd met onze gastpostservices."
+				],
+				"affiliate-marketing": [
+					"affiliatiemarketing",
+					"Vergroot uw bereik naar meer klanten met affiliate marketing."
+				],
+				"display-advertising": [
+					"Display-advertenties",
+					"Creëer, lanceer en onderhoud uw display-advertentiecampagnes met advertentieservices"
+				],
+				"text-message-marketing": [
+					"Tekstberichtmarketing",
+					"Betrek uw publiek bij sms-marketingdiensten"
+				],
+				"marketing-strategy": [
+					"Marketingstrategie",
+					"Vind marketingstrategie-freelancers die u begeleiden bij de how-to's voor succes"
+				],
+				"marketing-advice": [
+					"Marketingadvies",
+					"Kom in contact met specialisten voor marketingbegeleiding en professionele relaties."
+				],
+				"web-analytics": [
+					"Web analyses",
+					"Krijg de feiten over uw verkeer met webanalyses en zie hoe de prestaties verbeteren"
+				],
+				"music-promotion": [
+					"Muziekpromotie",
+					"Muziek in de oren. Ontvang in een oogwenk wereldwijde muziekpromotie en viraliteit"
+				],
+				"podcast-marketing": [
+					"Podcastmarketing",
+					"Breid uw publiek uit met podcast-promotiediensten"
+				],
+				"book-and-ebook-marketing": [
+					"Boek- en e-boekmarketing",
+					"Vind de juiste kanalen om jouw boek of e-boek te promoten"
+				],
+				"mobile-app-marketing": [
+					"Mobiele app-marketing",
+					"Bereik miljoenen met app store-optimalisatie (ASO), app-marketing en mobiele advertentiecampagnediensten."
+				],
+				"crowdfunding": [
+					"Crowdfunding",
+					"Vind de beste crowdfundingdiensten waarmee u uw crowdfundingcampagne kunt lanceren, optimaliseren en promoten."
+				],
+				"digital-marketing-other": [
+					"Ander",
+					"Meer geweldige vooruitzichten - vergroot uw zichtbaarheid met meer digitale marketingdiensten"
+				]
+			}
+		},
+		"video-and-animation": {
+			"label": [
+				"Video en animatie",
+				"Breng je verhaal tot leven met creatieve video's."
+			],
+			"items": {
+				"video-editing": [
+					"Video bewerking",
+					"Maak of verbeter uw video's met videobewerkings- en postproductiediensten."
+				],
+				"visual-effects": [
+					"Visuele effecten",
+					"Dit is waar de magie gebeurt, van rotoscoping tot digitale compositing! Wij staan voor u klaar"
+				],
+				"video-art": [
+					"Videokunst",
+					"Laat jouw visie zien via unieke, originele videokunst voor elk medium."
+				],
+				"intro-and-outro-videos": [
+					"Intro- en outro-video's",
+					"Betrek uw publiek voor en na het bekijken van uw video's met aangepaste intro's en outro's."
+				],
+				"video-templates-editing": [
+					"Videosjablonen bewerken",
+					"Maak en bewerk sjablonen en voorinstellingen voor videosoftware."
+				],
+				"subtitles-and-captions": [
+					"Ondertiteling en bijschriften",
+					"Maak uw video toegankelijk met ondertitels of bijschriften in elke taal"
+				],
+				"video-ads-and-commercials": [
+					"Videoadvertenties en reclamespots",
+					"Zet uw bedrijf of product in de schijnwerpers met online videoadvertenties en commercials."
+				],
+				"social-media-videos": [
+					"Sociale media-video's",
+					"Maak boeiende organische video-inhoud voor al uw sociale media-behoeften."
+				],
+				"ugc-videos": [
+					"UGC-video's",
+					"Laat een product of winkel zien met UGC-video's van professionele makers van inhoud."
+				],
+				"music-videos": [
+					"Muziek video's",
+					"Vind de popster in jezelf. Maak MTV-waardige songteksten en muziekvideo's."
+				],
+				"slideshow-videos": [
+					"Diavoorstellingvideo's",
+					"Verander uw foto's en presentaties in videodiavoorstellingen voor persoonlijk of zakelijk gebruik"
+				],
+				"logo-animation": [
+					"Logo-animatie",
+					"Breng uw logo tot leven met prachtige, opvallende animaties"
+				],
+				"character-animation": [
+					"Karakteranimatie",
+					"Breng je personages in beweging voor je games, video's en meer"
+				],
+				"animated-gifs": [
+					"Geanimeerde GIF's",
+					"Vergroot de betrokkenheid van uw publiek met aangepaste GIF's voor sociale media, e-mails en meer."
+				],
+				"animation-for-kids": [
+					"Animatie voor kinderen",
+					"Maak boeiende inhoud voor de kleintjes, van kinderliedjes tot educatieve animatie."
+				],
+				"animation-for-streamers": [
+					"Animatie voor streamers",
+					"Versterk je streams met prachtige geanimeerde assets"
+				],
+				"lottie-and-web-animation": [
+					"Lottie & Webanimatie",
+					"Vergroot de indruk van gebruikers met interactieve animaties voor een website, app of UI."
+				],
+				"rigging": [
+					"Tuigage",
+					"Geef karakters en ontwerpen de botstructuren waardoor het model kan bewegen."
+				],
+				"nft-animation": [
+					"NFT-animatie",
+					"Maak verzamelbare NFT-animaties, collecties, ruilkaarten in beweging en meer."
+				],
+				"videographers": [
+					"Videografen",
+					"Ontvang op bestelling gemaakt filmmateriaal voor commerciële doeleinden, evenementen, livestreams en meer."
+				],
+				"filmed-video-production": [
+					"Gefilmde videoproductie",
+					"Produceer op maat gemaakte video's voor commerciële doeleinden, evenementen en meer, waar dan ook."
+				],
+				"animated-explainers": [
+					"Geanimeerde uitleggers",
+					"Help uw publiek uw verhaal te begrijpen met geanimeerde uitlegvideo's."
+				],
+				"live-action-explainers": [
+					"Live-action uitleggers",
+					"Betrek en overtuig uw publiek met productvideo's en live action-uitleggers"
+				],
+				"spokesperson-videos": [
+					"Woordvoerdervideo's",
+					"Camera verlegen? Gebruik een professionele woordvoerdervideo om uw merk te hype"
+				],
+				"screencasting-videos": [
+					"Video's screenen",
+					"Demonstreer uw app, website of software via een professionele screencastingvideo"
+				],
+				"elearning-video-production": [
+					"eLearning-videoproductie",
+					"Maak boeiende videocursussen voor eLearning-platforms"
+				],
+				"crowdfunding-videos": [
+					"Crowdfunding-video's",
+					"Financier uw project met boeiende crowdfundingvideo's."
+				],
+				"3d-product-animation": [
+					"3D-productanimatie",
+					"Toon en leg uw product uit in een gedetailleerde 3D-animatievideo"
+				],
+				"ecommerce-product-videos": [
+					"E-commerce productvideo's",
+					"Produceer krachtige en converterende productvideo's voor uw e-commercevermeldingen."
+				],
+				"corporate-videos": [
+					"Bedrijfsvideo's",
+					"Presenteer uw bedrijf met boeiende bedrijfsvideo's."
+				],
+				"app-and-website-previews": [
+					"App- en websitevoorbeelden",
+					"Toon een voorbeeld van uw app of website met aantrekkelijke schermafbeeldingen en bijschriften"
+				],
+				"game-trailers": [
+					"Speltrailers",
+					"Stimuleer opwinding voor je game met boeiende gametrailers"
+				],
+				"meditation-videos": [
+					"Meditatievideo's",
+					"Ontspan terwijl wij uw meditatievideo's maken."
+				],
+				"real-estate-promos": [
+					"Onroerendgoedpromoties",
+					"Plaats uw vastgoedadvertenties en advertenties van makelaars op een boeiende en informatieve manier"
+				],
+				"book-trailers": [
+					"Boektrailers",
+					"Maak van je kijkers lezers met boeiende boektrailers"
+				],
+				"video-advice": [
+					"Video-advies",
+					"Kom in contact met specialisten voor begeleiding, vaardigheden en professionele relaties."
+				]
+			}
+		},
+		"writing-and-translation": {
+			"label": [
+				"Schrijven en vertalen",
+				"Breng uw woorden over, in welke taal dan ook."
+			],
+			"items": {
+				"articles-and-blog-posts": [
+					"Artikelen en blogberichten",
+					"Houd uw lezers betrokken met nieuwe inhoud."
+				],
+				"content-strategy": [
+					"Contentstrategie",
+					"Ontwikkel de perfecte contentstrategie voor jouw merk"
+				],
+				"website-content": [
+					"Website inhoud",
+					"Krijg diensten voor het schrijven van inhoud van topkwaliteit om een website met veel inhoud te bouwen waar Google dol op zal zijn"
+				],
+				"scriptwriting": [
+					"Script schrijven",
+					"Scriptschrijven en scenariofeedback voor uw volgende video, audioadvertentie of groot verhaal"
+				],
+				"creative-writing": [
+					"Creatief schrijven",
+					"Laat jezelf of je merk zien met creatief schrijven, van gedichten tot songteksten"
+				],
+				"podcast-writing": [
+					"Podcast-schrijven",
+					"Vind podcastexperts om een meeslepend verhaal te schrijven of om uw publiek te betrekken met shownotities"
+				],
+				"speechwriting": [
+					"Spraakschrijven",
+					"Geef uw volgende spreekbeurt met deskundige speechschrijvers voor elke gelegenheid"
+				],
+				"research-and-summaries": [
+					"Onderzoek & Samenvattingen",
+					"Krijg het onderzoek dat u nodig heeft om uw geweldige zakelijke ideeën te onderbouwen"
+				],
+				"custom-writing-prompts": [
+					"Aangepaste schrijfprompts",
+					"Inspiratie binnen handbereik: snel schrijven voor onbeperkte creativiteit"
+				],
+				"proofreading-and-editing": [
+					"Proeflezen en redigeren",
+					"Laat een proeflezer of redacteur uw woorden tot in de perfectie aanpassen."
+				],
+				"book-editing": [
+					"Boek redigeren",
+					"Verhoog uw manuscript met topredacteuren."
+				],
+				"beta-reading": [
+					"Bèta-lezen",
+					"Laat uw boekmanuscript schitteren met feedback van ervaren bètalezers"
+				],
+				"writing-advice": [
+					"Schrijfadvies",
+					"Kom in contact met specialisten voor schrijf- en vertaalbegeleiding en professionele relaties."
+				],
+				"resume-writing": [
+					"Hervat schrijven",
+					"Laat uw professionele ervaring zien met een vakkundig geschreven CV"
+				],
+				"cover-letters": [
+					" Sollicitatiebrieven ",
+					"Sneller aangenomen worden met een professionele sollicitatiebrief"
+				],
+				"linkedin-profiles": [
+					"LinkedIn-profielen",
+					"Laat uw ervaring zien en laat uw netwerk groeien met een volledig geoptimaliseerd LinkedIn-profiel"
+				],
+				"job-descriptions": [
+					"Werk omschrijving",
+					"Vind superstertalent met een professionele functieomschrijving."
+				],
+				"brand-voice-and-tone": [
+					"Merkstem en toon",
+					"Definieer en vestig uw merkstem met professionele merkrichtlijnen"
+				],
+				"business-names-and-slogans": [
+					"Bedrijfsnamen en slogans",
+					"Krijg een boeiende en gemakkelijk te onthouden bedrijfsnaam en slogan om meer klanten te trekken"
+				],
+				"case-studies": [
+					"Casestudies",
+					"Verdien vertrouwen en bouw geloofwaardigheid op met effectieve casestudies en succesverhalen."
+				],
+				"white-papers": [
+					"Witte papieren",
+					"Bevestig uw autoriteit met informatieve, overtuigende whitepapers"
+				],
+				"product-descriptions": [
+					"Productbeschrijvingen",
+					"Ontvang diensten voor het schrijven van productbeschrijvingen die zijn aangepast aan al uw producten en trek de aandacht van uw lezers"
+				],
+				"ad-copy": [
+					"Advertentiekopie",
+					"Verhoog uw conversiepercentage met creatieve en gerichte advertentieteksten."
+				],
+				"sales-copy": [
+					"Verkoopkopie",
+					"Krijg een overtuigend verkoopexemplaar waarmee u meer verkoopt door twijfelaars in kopers te veranderen"
+				],
+				"email-copy": [
+					"E-mail kopiëren",
+					"Krijg een overtuigende e-mailkopie die werkt voor zowel uw marketing- als persoonlijke e-mailcorrespondentie"
+				],
+				"social-media-copy": [
+					"Socialemediakopie",
+					"Maak boeiende, klikwaardige posts op sociale media om uw publiek te betrekken"
+				],
+				"press-releases": [
+					"Persberichten",
+					"Breng de aandacht met professionele persberichten en nieuwsdiensten"
+				],
+				"ux-writing": [
+					"UX-schrijven",
+					"Leid uw gebruikers door uw product met duidelijk, toegankelijk UX-schrijven en microcopy"
+				],
+				"translation": [
+					"Vertaling",
+					"Bereik een groter publiek met contentvertalingen in vele talencombinaties."
+				],
+				"localization": [
+					"Lokalisatie",
+					"Doorbreek taalbarrières en breid uit naar nieuwe markten met deskundige lokalisatieoplossingen"
+				],
+				"transcription": [
+					"Transcriptie",
+					"Bespaar tijd (en gezond verstand) met freelance transcriptiediensten"
+				],
+				"elearning-content-development": [
+					"Ontwikkeling van eLearning-inhoud",
+					"Verras uw publiek met boeiende online cursusinhoud."
+				],
+				"technical-writing": [
+					"Technisch schrijven",
+					"Verkrijg technisch schrijven voor uw handleidingen, routebeschrijvingen en andere complexe inhoudsbehoeften"
+				],
+				"grant-writing": [
+					"Grant Schrijven",
+					"Krijg sneller financiering met professionele subsidieschrijvers"
+				],
+				"writing-and-translation-other": [
+					"Ander",
+					"Nog meer geweldigs in het verschiet - ontdek meer digitale diensten van freelance schrijvers"
+				]
+			}
+		},
+		"music-and-audio": {
+			"label": [
+				"Muziek en audio",
+				"Mis geen enkele beat. Breng uw geluid tot leven."
+			],
+			"items": {
+				"producers-and-composers": [
+					"Producenten en componisten",
+					"Wilt u van uw demo een hit maken? Bij ons bent u aan het juiste adres"
+				],
+				"singers-and-vocalists": [
+					"Zangers en vocalisten",
+					"Kun je niet zingen? We hebben zangers en vocalisten die het voor je kunnen doen"
+				],
+				"session-musicians": [
+					"Sessiemuzikanten",
+					"Maak lieve muziek met getalenteerde sessiemuzikanten. Elk instrument, je vindt het hier"
+				],
+				"songwriters": [
+					"Songschrijvers",
+					"Laat een songwriter je volgende hit schrijven en componeren"
+				],
+				"beat-making": [
+					"Beatmaking",
+					"Heb je een beat nodig die precies de sfeer heeft waar je naar op zoek bent? Zoek niet verder."
+				],
+				"jingles-and-intros": [
+					"Jingles en intro's",
+					"Verrijk je podcasts, commercials en radioprogramma's met pakkende jingles en intro's"
+				],
+				"mixing-and-mastering": [
+					"Mixen en masteren",
+					"Verhoog uw geluid met de beste mix- en masteringingenieurs."
+				],
+				"audio-editing": [
+					"Audiobewerking",
+					"Laat uw audio perfect klinken, waar deze ook is opgenomen."
+				],
+				"vocal-tuning": [
+					"Vocale afstemming",
+					"Poets de vocale nummers van je nummer op en zorg ervoor dat ze perfect en zuiver zijn"
+				],
+				"voice-over": [
+					"Voice over",
+					"Vind de perfecte stem voor uw audio of video in elke stijl, taal of accent."
+				],
+				"podcast-production": [
+					"Podcastproductie",
+					"Breng je podcast naar een hoger niveau met deskundige podcastproducenten en -redacteuren."
+				],
+				"audiobook-production": [
+					"Audioboekproductie",
+					"Maak uw audioboek van A tot Z met audio-editors en producers"
+				],
+				"audio-ads-production": [
+					"Productie van audioadvertenties",
+					"Bereik een breder publiek met volledig geproduceerde audioadvertenties"
+				],
+				"voice-synthesis-and-ai": [
+					"Stemsynthese & AI",
+					"Maak gebruik van geavanceerde AI voor spraaksynthese en AI-diensten"
+				],
+				"dj-drops-and-tags": [
+					"DJ-drops & tags",
+					"Ontvang aangepaste DJ-drops en tags voor je tracks, advertenties en meer"
+				],
+				"dj-mixing": [
+					"DJ-mixen",
+					"Laat het feest beginnen met een gepersonaliseerde DJ Mix."
+				],
+				"remixing-and-mashups": [
+					"Remixen en mashups",
+					"Geef je nummer een unieke twist met een remix of mashup."
+				],
+				"sound-design": [
+					"Geluid design",
+					"Betrek de oren van uw publiek met een op maat gemaakt geluidsontwerp."
+				],
+				"synth-presets": [
+					"Synth-voorinstellingen",
+					"Moet je dat gekke synthgeluid opnieuw creëren? Laat het hier klinken."
+				],
+				"meditation-music": [
+					"Meditatiemuziek",
+					"Ga op pad met op maat gemaakte muziek die perfect bij je meditatie past."
+				],
+				"audio-logo-and-sonic-branding": [
+					"Audiologo en Sonic-branding",
+					"Vertegenwoordig uw merk in de wereld van audio."
+				],
+				"online-music-lessons": [
+					"Online Muzieklessen",
+					"Leer een nieuw instrument, software of vaardigheid onder de knie met professionele muziek- en audio-instructeurs."
+				],
+				"music-transcription": [
+					"Muziektranscriptie",
+					"Verander uw liedjes in bladmuziek. Elk instrument, elk genre - wij staan voor u klaar."
+				],
+				"music-and-audio-advice": [
+					"Muziek- en audioadvies",
+					"Neem contact op met een muziekexpert om uw project goed te laten klinken."
+				]
+			}
+		},
+		"business": {
+			"label": [
+				"Bedrijf",
+				"Mis geen enkele beat. Breng uw geluid tot leven."
+			],
+			"items": {
+				"business-plans": [
+					"Bedrijfsplannen",
+					"Leg een basis voor succes met een professioneel businessplan"
+				],
+				"legal-consulting": [
+					"Juridisch advies",
+					"Bescherm waar je voor gewerkt hebt met juridisch onderzoek en online advies"
+				],
+				"virtual-assistant": [
+					"Virtuele assistent",
+					"Krijg virtuele hulp om tijd te besparen en u gefocust te houden op uw passie"
+				],
+				"ecommerce-management": [
+					"E-commercebeheer",
+					"Alles wat u nodig heeft om uw e-commercebedrijf te beheren"
+				],
+				"hr-consulting": [
+					"HR-advies",
+					"Krijg HR-adviesdiensten om het beste team voor uw bedrijf in te huren."
+				],
+				"project-management": [
+					"Project management",
+					"Krijg uw project van begin tot eind gedaan met deskundige projectmanagementdiensten."
+				],
+				"supply-chain-management": [
+					"Voorraadketenbeheer",
+					"Houd uw gehele supply chain-proces onder controle."
+				],
+				"business-consulting": [
+					"Bedrijfsconsulting",
+					"Krijg deskundig advies om uw bedrijf te laten groeien, van strategie tot marketing tot management en meer."
+				],
+				"market-research": [
+					"Marktonderzoek",
+					"Ondersteun die grote ideeën met gegevens van deskundige marktonderzoeksanalisten"
+				],
+				"sales": [
+					"Verkoop",
+					"Verhoog uw omzet met de hulp van een professional."
+				],
+				"customer-care": [
+					"Klantenservice",
+					"Breng uw bedrijf naar een hoger niveau met een sterke klantenservice."
+				],
+				"crm-management": [
+					"CRM-beheer",
+					"Krijg hulp bij het beheren van uw Customer Relationship Management (CRM)-software."
+				],
+				"financial-consulting": [
+					"Financieel advies",
+					"Deze freelance financiële adviseurs doen de moeilijke dingen. De rest doe jij"
+				],
+				"erp-management": [
+					"ERP-beheer",
+					"Krijg hulp bij het beheren van uw Enterprise Resource Planning (ERP)-software."
+				],
+				"fact-checking": [
+					"Feiten controleren",
+					"Krijg hulp bij het controleren en valideren van feiten uit websites, artikelen of andere teksten."
+				],
+				"event-management": [
+					"Evenementmanagement",
+					"Diensten voor evenementenbeheer en evenementenplanning."
+				],
+				"game-concept-design": [
+					"Spelconceptontwerp",
+					"Huur een expert in voor het ontwerp van uw gameconcept, zodat u zich kunt concentreren op wat belangrijk is"
+				],
+				"business-other": [
+					"Ander",
+					"Nog meer geweldige avonturen - vind meer optredens van freelance experts op het gebied van bedrijfsontwikkeling"
+				]
+			}
+		},
+		"data": {
+			"label": [
+				"Gegevens",
+				"Analyseer en groei met datagestuurde inzichten."
+			],
+			"items": {
+				"data-entry": [
+					"Gegevensinvoer",
+					"Krijg hulp bij typen en nog veel meer diensten voor gegevensinvoer."
+				],
+				"data-formatting-and-cleaning": [
+					"Gegevensformatteren en opschonen",
+					"Krijg hulp bij alle soorten gegevensopmaak- of gegevensopschoningsprojecten."
+				],
+				"data-mining-and-scraping": [
+					"Datamining en schrapen",
+					"Laat datamining en webscraping uitvoeren om u tijd en geld te besparen."
+				],
+				"data-analytics": [
+					"Gegevensanalyse",
+					"Gebruik data-analyse om inzichten te ontdekken en de juiste beslissingen te nemen."
+				],
+				"data-visualization": [
+					"Data visualisatie",
+					"Laat uw gegevens opvallen met deze visualisatiediensten."
+				],
+				"data-processing": [
+					"Gegevensverwerking",
+					"Gegevens sorteren en ordenen op de beste manier."
+				],
+				"data-engineering": [
+					"Data-engineering",
+					"Werk samen met een ingenieur om uw gegevensbronnen op te bouwen en te onderhouden."
+				],
+				"data-governance-and-protection": [
+					"Gegevensbeheer en -bescherming",
+					"Zorg voor data governance en compliance om u tijd en geld te besparen."
+				],
+				"databases": [
+					"Databases",
+					"Vind services waarmee u uw database kunt bouwen, beheren en optimaliseren."
+				]
+			}
+		},
+		"photography": {
+			"label": [
+				"Fotografie",
+				"Maak de foto die je nodig hebt. Elke keer."
+			],
+			"items": {
+				"product-photographers": [
+					"Productfotografen",
+					"Verfijn de uitstraling van uw merk en verbeter de geloofwaardigheid met onze professionele productfotografen."
+				],
+				"food-photographers": [
+					"Voedselfotografen",
+					"Van gebak tot internationale gerechten en creatieve cocktails: als je het verkoopt, kunnen onze professionele foodfotografen het fotograferen."
+				],
+				"lifestyle-and-fashion-photographers": [
+					"Lifestyle- en modefotografen",
+					"Krijg prachtige lifestyle-, mode- en beautyfoto's op maat voor jouw merk"
+				],
+				"portrait-photographers": [
+					"Portretfotografen",
+					"Vraag een professionele fotograaf om de perfecte familiefoto, de mooiste portretfoto of welk ander portret dan ook dat je nodig hebt."
+				],
+				"event-photographers": [
+					"Evenementenfotografen",
+					"Leg de mooiste momenten van uw bruiloft, feest of zakelijk evenement vast met een van onze topfotografen."
+				],
+				"real-estate-photographers": [
+					"Onroerendgoedfotografen",
+					"Presenteer uw eigendom aan de wereld met prachtige interieur- en architectuurfotografen."
+				],
+				"scenic-photographers": [
+					"Landschapsfotografen",
+					"Leg alles vast, van een prachtige skyline van de stad tot een natuurlijk landschap."
+				]
+			}
+		}
+	},
+	"categoryMeta": {
+		"aa": [
+			"speltype",
+			"Selecteer de dimensie van het spel dat je ontwikkelt (als je in beide typen ontwikkelt, maak dan voor elk dimensietype een ander optreden)*"
+		],
+		"ab": [
+			"game-engine",
+			"Selecteer de game-engine die u gebruikt om de game te plannen en te coderen.*"
+		],
+		"ac": [
+			"platformtype",
+			"Selecteer maximaal 3 platforms waarvoor je games bouwt.*"
+		],
+		"ad": [
+			"stemtaal",
+			"Selecteer uw gesproken taal*"
+		],
+		"ae": [
+			"genre",
+			"Selecteer het genre van de games die je ontwikkelt."
+		],
+		"af": [
+			"stem-geslacht",
+			"Kies je geslacht:*"
+		],
+		"ag": [
+			"stemdoel",
+			"Selecteer het type voice-over dat je levert*"
+		],
+		"ah": [
+			"stem-leeftijdsbereik",
+			"Selecteer uw leeftijd:*"
+		],
+		"ai": [
+			"stem klank",
+			"Selecteer maximaal 5 stemtonen die je in deze gig laat horen*"
+		],
+		"aj": [
+			"plug-ins",
+			"Selecteer de plug-ins die u ondersteunt"
+		],
+		"ak": [
+			"software",
+			"Welke livestreamsoftware gaat u gebruiken om uw streamingdiensten in te stellen?*"
+		],
+		"al": [
+			"platform",
+			"Selecteer de platforms waarvoor u diensten levert."
+		],
+		"am": [
+			"doel",
+			"In welk livestreamgenre ben je gespecialiseerd. Je kunt er meer dan één selecteren."
+		],
+		"an": [
+			"programmeertaal",
+			"Selecteer de taal waarvoor u diensten levert*"
+		],
+		"ao": [
+			"frontend-framework",
+			"Selecteer maximaal vijf frontend-frameworks waarin jij een expert bent"
+		],
+		"ap": [
+			"backend-framework",
+			"Selecteer maximaal vijf backend-frameworks waarin u een expert bent"
+		],
+		"aq": [
+			"expertise",
+			"Selecteer maximaal vijf gebieden waarin u een expert bent"
+		],
+		"ar": [
+			"platform*",
+			"Selecteer het mobiele platform waarvoor u diensten levert. Als uw dienst zowel een iOS- als een Android-app bevat, kiest u de optie 'iOS & Android (Dual)'*"
+		],
+		"as": [
+			"app-type*",
+			"Selecteer het technologietype van de app*"
+		],
+		"at": [
+			"ontwikkelingstechnologie*",
+			"Selecteer maximaal drie soorten technologieën die u gebruikt om apps te ontwikkelen. U kunt meer optredens creëren om aanvullende technologieën te ondersteunen*"
+		],
+		"au": [
+			"doel*",
+			"In welk app-doel bent u gespecialiseerd? U kunt maximaal 10 doeleinden selecteren*"
+		],
+		"av": [
+			"expertise*",
+			"Selecteer maximaal 6 gebieden waarin u een expert bent*"
+		],
+		"aw": [
+			"ai-motor*",
+			"Kies met welke AI-engine(s) u ervaring heeft met het werken:*"
+		],
+		"ax": [
+			"leveringstype*",
+			"Selecteer het bezorgtype*"
+		],
+		"ay": [
+			"data type*",
+			"Het type gegevens waarmee u werkt"
+		],
+		"az": [
+			"programmeertaal*",
+			"De programmeertaal waarin je werkt*"
+		],
+		"a0": [
+			"apparaat",
+			"Selecteer het apparaat waarvoor u diensten levert"
+		],
+		"a1": [
+			"besturingssysteem",
+			"Selecteer het besturingssysteem waarvoor u services levert"
+		],
+		"a2": [
+			"ook leveren",
+			"Zijn een van deze services inbegrepen in je basisoptreden of extra's?"
+		],
+		"a3": [
+			"lesdoel",
+			"Selecteer het type les dat u aanbiedt*"
+		],
+		"a4": [
+			"studentenleeftijd",
+			"Selecteer de leeftijdsgroep van de studenten waaraan u lesgeeft*"
+		],
+		"a5": [
+			"ontwikkelingstechnologie",
+			"Selecteer de programmeertaal of technologie waarin u lesgeeft*"
+		],
+		"a6": [
+			"bottype",
+			"Selecteer maximaal drie verschillende doeleinden waarvoor u chatbots ontwikkelt"
+		],
+		"a7": [
+			"bottype",
+			"Selecteer het berichtenplatform waarvoor u chatbots ontwikkelt*"
+		],
+		"a8": [
+			"ontwikkelingstechnologie",
+			"Selecteer maximaal drie soorten platforms die u gebruikt om chatbots te ontwikkelen"
+		],
+		"a9": [
+			"conversie van",
+			"Selecteer het bestandsformaat waaruit u wilt converteren*"
+		],
+		"ba": [
+			"omzetten naar",
+			"Selecteer het bestandsformaat waarnaar u wilt converteren*"
+		],
+		"bb": [
+			"leeftijdscategorie",
+			"Selecteer uw leeftijdsgroep"
+		],
+		"bc": [
+			"onderwijs",
+			"Selecteer uw opleidingsniveau"
+		],
+		"bd": [
+			"testplatform",
+			"Selecteer het platform waarvoor u diensten levert"
+		],
+		"be": [
+			"gebruikersapparaat",
+			"Selecteer het apparaat dat zal worden gebruikt voor het testen"
+		],
+		"bf": [
+			"taal",
+			"In welke taal schrijf je?"
+		],
+		"bg": [
+			"testplatform",
+			"Selecteer het platform waarvoor u diensten levert*"
+		],
+		"bh": [
+			"qa-apparaat",
+			"Selecteer het apparaat dat zal worden gebruikt voor het testen*"
+		],
+		"bi": [
+			"ruilplatform",
+			"Selecteer het handelsplatform waarvoor u handelsbots kunt ontwikkelen"
+		],
+		"bj": [
+			"ruilplatform",
+			"Selecteer het handelsplatform waarvoor u handelsbots kunt ontwikkelen"
+		],
+		"bk": [
+			"invoertype",
+			"Selecteer het type gegevensinvoerservice dat u aanbiedt*"
+		],
+		"bl": [
+			"instaphulpmiddel",
+			"Selecteer de tool die u in uw dienst gebruikt*"
+		],
+		"bm": [
+			"gegevensformatteringstechnologie",
+			"Selecteer de technologie die u gebruikt*"
+		],
+		"bn": [
+			"data-opmaak-industrie",
+			"Selecteer de sectoren waarin u een expert bent*"
+		],
+		"bo": [
+			"gegevensformatteringstype",
+			"Selecteer de gegevenstypen die u ondersteunt*"
+		],
+		"bp": [
+			"datamining-technologie",
+			"Selecteer maximaal 5 technologieën die u gebruikt om gegevens te minen of te schrapen*"
+		],
+		"bq": [
+			"data-informatie-type",
+			"Selecteer maximaal vijf informatietypen die u ondersteunt*"
+		],
+		"br": [
+			"data-techniek",
+			"Kies de techniek die u gebruikt om gegevens te minen of te schrapen*"
+		],
+		"bs": [
+			"data-expertise",
+			"Selecteer de gebieden waarin u expert bent*"
+		],
+		"bt": [
+			"engineering-technologie",
+			"Selecteer de tool of software waarin u diensten levert*"
+		],
+		"bu": [
+			"governance-expertise",
+			"Kies maximaal drie domeinen waarin u een expert bent*"
+		],
+		"bv": [
+			"projectfocus",
+			"Selecteer maximaal vier projecttypen*"
+		],
+		"bw": [
+			"databasetype",
+			"Selecteer het type databases waarvoor u diensten levert*"
+		],
+		"bx": [
+			"cloud-platform",
+			"Selecteer de cloudplatforms waarop u diensten levert*"
+		],
+		"by": [
+			"database-expertise",
+			"Selecteer maximaal 4 gebieden waarin u een expert bent*"
+		],
+		"bz": [
+			"database-expertise",
+			"Selecteer de databaseplatforms waarop u diensten levert*"
+		],
+		"b0": [
+			"industrie-expertise",
+			"Selecteer de sectoren waarop u zich richt: *"
+		],
+		"b1": [
+			"zoektaal",
+			".Selecteer de taal waarin u uw service levert. *"
+		],
+		"b2": [
+			"zoekmachine",
+			"Selecteer maximaal twee zoekmachines die u ondersteunt:*"
+		],
+		"b3": [
+			"zoekindustrie",
+			"Selecteer maximaal twee zoekmachines die u ondersteunt:*"
+		],
+		"b4": [
+			"seo-platform-type",
+			"Kies het primaire platform waarmee u kopers helpt:*"
+		],
+		"b5": [
+			"seo-industrie",
+			"Selecteer de sectoren waarop u zich richt:"
+		],
+		"b6": [
+			"sociaal-platform-type",
+			"Selecteer de primaire platforms die u ondersteunt:*"
+		],
+		"b7": [
+			"doelgroep",
+			"Selecteer de twee groepen die het beste uw volgers/publiek vertegenwoordigen*"
+		],
+		"b8": [
+			"marketingplatformtype",
+			"Selecteer het primaire platform waarop u uw publiek/volgers aanspreekt*"
+		],
+		"b9": [
+			"gemeenschapsindustrie",
+			"Kies maximaal 5 sectoren waarin u gespecialiseerd bent.*"
+		],
+		"ca": [
+			"aanwezigheid in de gemeenschap",
+			"Kies het type community waarin u zich specialiseert.*"
+		],
+		"cb": [
+			"digitaal platform",
+			"Voor online communities: kies het digitale platform waarin u gespecialiseerd bent."
+		],
+		"cc": [
+			"e-mailplatform",
+			"Selecteer de primaire platforms waarop u actief bent:"
+		],
+		"cd": [
+			"gastindustrie",
+			"Selecteer de sectoren waarop u zich richt: *"
+		],
+		"ce": [
+			"gasttype",
+			"Selecteer het servicetype dat dit optreden het beste beschrijft:*"
+		],
+		"cf": [
+			"affiliate-industrie",
+			"Selecteer maximaal 5 sectoren waarin u gespecialiseerd bent:"
+		],
+		"cg": [
+			"advertentienetwerk",
+			"Selecteer de advertentienetwerken waarmee u werkt: *"
+		],
+		"ch": [
+			"plaatsing",
+			"Selecteer de plaatsingen die u aanbiedt: *"
+		],
+		"ci": [
+			"advertentieformaat",
+			"Selecteer het advertentieformaat waarmee u werkt:*"
+		],
+		"cj": [
+			"display-industrie",
+			"Selecteer de sectoren waarop u zich richt:*"
+		],
+		"ck": [
+			"tekstplatform",
+			"Selecteer de primaire platforms waarop u actief bent:*"
+		],
+		"cl": [
+			"teksttaal",
+			"Selecteer de talen die u ondersteunt:*"
+		],
+		"cm": [
+			"berichttype",
+			"Selecteer het type berichten dat u ondersteunt: *"
+		],
+		"cn": [
+			"analyse-industrie",
+			"Kies maximaal 5 sectoren waarin u gespecialiseerd bent:"
+		],
+		"co": [
+			"strategie-doel",
+			"Selecteer het doel van het marketingplan:*"
+		],
+		"cp": [
+			"bedrijfsfase",
+			"Selecteer de bedrijfstypen die u wilt bedienen:*"
+		],
+		"cq": [
+			"Soort bedrijf",
+			"Selecteer de bedrijfstypen die u wilt bedienen:*"
+		],
+		"cr": [
+			"advies-onderwerp",
+			"Selecteer de onderwerpen van uw expertise: *"
+		],
+		"cs": [
+			"muziekplatform",
+			"Selecteer de primaire muziekplatforms die u ondersteunt *"
+		],
+		"ct": [
+			"industrie-muzikaal-genre",
+			"Selecteer de muziekgenres die u ondersteunt.*"
+		],
+		"cu": [
+			"doelland",
+			"Selecteer de landen waarin u zich specialiseert (of selecteer 'wereldwijd'). *"
+		],
+		"cv": [
+			"industrie-platform-type",
+			"Selecteer het type media waarmee u werkt. *"
+		],
+		"cw": [
+			"kanaal",
+			"Selecteer maximaal 2 kanalen die u voor uw promotie wilt gebruiken.*"
+		],
+		"cx": [
+			"podcast-taal",
+			"Selecteer één taal"
+		],
+		"cy": [
+			"podcast-categorie",
+			"Selecteer maximaal drie podcastcategorieën"
+		],
+		"cz": [
+			"podcast-aggregator",
+			"Selecteer maximaal drie podcast-aggregators"
+		],
+		"c0": [
+			"applicatiewinkel",
+			"Selecteer de mobiele applicatiestores waarmee u werkt:*"
+		],
+		"c1": [
+			"mobiele industrie",
+			"Selecteer de sectoren waarin u gespecialiseerd bent:"
+		],
+		"c2": [
+			"crowdfunding-platform-type",
+			"Selecteer de primaire crowdfundingplatforms die u ondersteunt"
+		],
+		"c3": [
+			"videotype",
+			"Selecteer het primaire type video's dat je bewerkt*"
+		],
+		"c4": [
+			"intro/outro-type",
+			"Selecteer het type dienst dat u levert:"
+		],
+		"c5": [
+			"videobestandsformaat",
+			"Wat zijn de videobestandsformaten die u gaat aanbieden?"
+		],
+		"c6": [
+			"videosoftware",
+			"Selecteer de applicatie waarmee uw sjablonen compatibel zijn: *"
+		],
+		"c7": [
+			"ondertitelingstaal",
+			"Selecteer de talen van de ondertitels die u kunt maken*"
+		],
+		"c8": [
+			"videoplatform",
+			"Selecteer uw expertiseplatform*"
+		],
+		"c9": [
+			"social-video-type",
+			"Selecteer het videotype dat u maakt"
+		],
+		"da": [
+			"video-oriëntatie",
+			"Selecteer maximaal 3 opties"
+		],
+		"db": [
+			"social-media-platform",
+			"Selecteer uw sociale mediaplatform van expertise:*"
+		],
+		"dc": [
+			"sociale videostijl",
+			"Selecteer de videostijl die je maakt*"
+		],
+		"dd": [
+			"inhoudstype",
+			"Selecteer alle video-inhoudstypen die u in uw service aanbiedt: *"
+		],
+		"de": [
+			"muziekvideo-stijl",
+			"Selecteer de canvasstijl die u aanbiedt. *"
+		],
+		"df": [
+			"diavoorstelling-type",
+			"Kies het type videodiavoorstellingen dat u wilt leveren*"
+		],
+		"dg": [
+			"logo-animatietype",
+			"Selecteer het type animatie dat u aanbiedt"
+		],
+		"dh": [
+			"logo-animatie-bestandsformaat",
+			"Selecteer de bestandsformaten die u verstrekt"
+		],
+		"di": [
+			"karakter-animatie-type",
+			"Selecteer het animatietype dat u opgeeft*"
+		],
+		"dj": [
+			"karakterstijl",
+			"Selecteer de stijl van de personages die je animeert*"
+		],
+		"dk": [
+			"karakterdoel",
+			"Selecteer het hoofddoel voor de animaties die u maakt*"
+		],
+		"dl": [
+			"karakter-software",
+			"Selecteer de software die u met expertise gebruikt om karakters te animeren.*"
+		],
+		"dm": [
+			"gif-doel",
+			"Selecteer het type GIF's dat je maakt*"
+		],
+		"dn": [
+			"gifs-animatiestijl",
+			"Kies de stijl van GIF's die je maakt*"
+		],
+		"do": [
+			"gifs-bestandsformaat",
+			"Selecteer de bestandsformaten die u kunt aanleveren"
+		],
+		"dp": [
+			"kinderanimatiestijl",
+			"Selecteer het type animatie dat u aanbiedt"
+		],
+		"dq": [
+			"kindervideo-type",
+			"Selecteer het type video dat je aanbiedt"
+		],
+		"dr": [
+			"animatie-streaming-platform",
+			"Selecteer het streamingplatform waarvoor je animeert"
+		],
+		"ds": [
+			"activatype",
+			"Selecteer het primaire type item dat u animeert"
+		],
+		"dt": [
+			"webbestandsformaat",
+			"Selecteer de bestandsformaten die u verstrekt *"
+		],
+		"du": [
+			"nft-animatie-dimensie",
+			"Selecteer de dimensie waarin u animaties maakt:*"
+		],
+		"dv": [
+			"nft-stijl",
+			"Selecteer uw illustratiestijl:*"
+		],
+		"dw": [
+			"nft-servicetype",
+			"Selecteer het type dienst dat u levert:*"
+		],
+		"dx": [
+			"stad",
+			"Selecteer de stad waar u videografiediensten levert:*"
+		],
+		"dy": [
+			"videografie-type",
+			"Selecteer de soorten videografie waarin u zich specialiseert:*"
+		],
+		"dz": [
+			"speciale benodigheden",
+			"Selecteer eventuele speciale apparatuur die u tegen een meerprijs kunt gebruiken; we raden u aan om dienovereenkomstig ook aangepaste extra's toe te voegen."
+		],
+		"d0": [
+			"gefilmd inhoudstype",
+			"Selecteer de inhoudstypen die u aanbiedt*"
+		],
+		"d1": [
+			"gefilmde stad",
+			"Selecteer de stad waar u voornamelijk videoproductiediensten levert:*"
+		],
+		"d2": [
+			"gefilmde speciale apparatuur",
+			"Selecteer eventuele speciale apparatuur die u tegen een meerprijs kunt gebruiken; we raden u aan om dienovereenkomstig ook aangepaste extra's toe te voegen."
+		],
+		"d3": [
+			"presentator",
+			"Selecteer de videodeelnemers*"
+		],
+		"d4": [
+			"videotaal",
+			"Selecteer uw talen:*"
+		],
+		"d5": [
+			"accent",
+			"Selecteer je accenten:"
+		],
+		"d6": [
+			"video's-leeftijdscategorie",
+			"Selecteer uw leeftijd:*"
+		],
+		"d7": [
+			"achtergrond/omgeving",
+			"Selecteer de video-achtergrond die u opgeeft:"
+		],
+		"d8": [
+			"bestandsformaat",
+			"Selecteer de bestandsformaten die u opgeeft in uw basisgig of extra's"
+		],
+		"d9": [
+			"video-apparaat",
+			"Selecteer het type apparaat waarvoor u de screencast gaat doen*"
+		],
+		"ea": [
+			"cursustype",
+			"Selecteer het type cursus dat je aanbiedt in deze gig*"
+		],
+		"eb": [
+			"crowdfunding-video-type",
+			"Selecteer het videotype dat u maakt*"
+		],
+		"ec": [
+			"video-industrie-expertise",
+			"Selecteer de sectoren waarvoor u een expert bent in het maken van video's.*"
+		],
+		"ed": [
+			"3D-industrie",
+			"Selecteer een branche voor je gig"
+		],
+		"ee": [
+			"omgeving",
+			"Selecteer het type omgeving dat je in deze gig kunt bieden"
+		],
+		"ef": [
+			"3D-bestandsformaat",
+			"Selecteer de bestandsformaten waarin u aanlevert"
+		],
+		"eg": [
+			"marktplaats-expertise",
+			"Selecteer de marktplaatsen waarvoor jij een expert bent in het maken van video's:*"
+		],
+		"eh": [
+			"e-commerce-videotype",
+			"Selecteer het primaire type video dat je gaat maken:*"
+		],
+		"ei": [
+			"product type",
+			"Selecteer de producttypen waarvan u video's maakt:*"
+		],
+		"ej": [
+			"corporate video-stijl",
+			"Selecteer de stijl van de video die je maakt*"
+		],
+		"ek": [
+			"bedrijfsvideo-type",
+			"Selecteer de videotypen die u maakt*"
+		],
+		"el": [
+			"corporate-industrie-expertise",
+			"Selecteer de sectoren waarvoor u een expert bent in het maken van video's.*"
+		],
+		"em": [
+			"app-producttype",
+			"Kies het type product waarvoor u de preview wilt maken*"
+		],
+		"en": [
+			"trailer-stijl",
+			"Selecteer het type gametrailers dat je maakt"
+		],
+		"eo": [
+			"meditatie-video-type",
+			"Kies het type meditatievideo dat je aanbiedt:*"
+		],
+		"ep": [
+			"echt gepromoveerd onderwerp",
+			"Selecteer het onderwerp van de promotievideo*"
+		],
+		"eq": [
+			"boektype",
+			"Selecteer het type boektrailer dat u gaat maken*"
+		],
+		"er": [
+			"video-onderwerp",
+			"Selecteer de onderwerpen van uw expertise:*"
+		],
+		"es": [
+			"blog-taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"et": [
+			"blogonderwerp",
+			"Selecteer maximaal 2 artikelonderwerpen*"
+		],
+		"eu": [
+			"blog-toon",
+			"Selecteer de tone of voice voor uw artikel*"
+		],
+		"ev": [
+			"artikeltype",
+			"Selecteer het soort artikel dat u schrijft *"
+		],
+		"ew": [
+			"content-strategie-type",
+			"Selecteer het type inhoud dat u wilt opnemen *"
+		],
+		"ex": [
+			"strategie-taal",
+			"Selecteer talen:*"
+		],
+		"ey": [
+			"strategie-industrie-expertise",
+			"Selecteer uw branche-expertise (indien aanwezig)"
+		],
+		"ez": [
+			"website-taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"e0": [
+			"website-inhoud-type",
+			"Selecteer het type inhoud dat u gaat maken.*"
+		],
+		"e1": [
+			"scriptschrijftaal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"e2": [
+			"geschreven taal",
+			"In welke taal schrijf je?*"
+		],
+		"e3": [
+			"podcast-schrijfcategorie",
+			"Selecteer maximaal 3 categorieën waarvoor u podcastinhoud gaat schrijven *"
+		],
+		"e4": [
+			"podcast-schrijven",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"e5": [
+			"spraaktype",
+			"Selecteer het type toespraak dat u schrijft:*"
+		],
+		"e6": [
+			"Spreektaal",
+			"Selecteer de taal/talen waarin u schrijft."
+		],
+		"e7": [
+			"onderzoeksdiensttype",
+			"Wat voor soort dienst biedt u aan?*"
+		],
+		"e8": [
+			"onderzoeksdiensttype",
+			"Wat voor soort dienst biedt u aan?*"
+		],
+		"e9": [
+			"bewerkingstaal",
+			"Selecteer de relevante taal voor proeflezen of redigeren*"
+		],
+		"fa": [
+			"bewerkingsinhoud-type",
+			"Selecteer het type inhoud dat u wilt proeflezen of bewerken*"
+		],
+		"fb": [
+			"boekbewerkingsgenre",
+			"Selecteer uw expertise op het gebied van boekgenres:*"
+		],
+		"fc": [
+			"boekentaal",
+			"Selecteer de taal waarin u schrijft.*"
+		],
+		"fd": [
+			"bèta-genre",
+			"Selecteer uw expertise op het gebied van boekgenres"
+		],
+		"fe": [
+			"bètataal",
+			"Selecteer de relevante taal/talen).*"
+		],
+		"ff": [
+			"schrijfonderwerp",
+			"Selecteer de onderwerpen van uw expertise:*"
+		],
+		"fg": [
+			"schrijfindustrie",
+			"Markeer de sectoren waarop u zich richt:"
+		],
+		"fh": [
+			"cv-taal",
+			"In welke taal schrijf je?*"
+		],
+		"fi": [
+			"schrijfonderwerp",
+			"Selecteer uw vakgebied *"
+		],
+		"fj": [
+			"cover-industrie",
+			"Selecteer uw vakgebied *"
+		],
+		"fk": [
+			"cover-taal",
+			"Selecteer de taal/talen waarin u schrijft*"
+		],
+		"fl": [
+			"Dienst Type",
+			"Selecteer het type service dat u tijdens deze gig levert*"
+		],
+		"fm": [
+			"linkedin-taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"fn": [
+			"jobtaal",
+			"Selecteer de taal/talen waarin u de functiebeschrijving schrijft*"
+		],
+		"fo": [
+			"soort baan",
+			"Selecteer het type functie waarvoor u de functiebeschrijving wilt schrijven.*"
+		],
+		"fp": [
+			"toonindustrie",
+			"Selecteer uw vakgebied*"
+		],
+		"fq": [
+			"toontaal",
+			"Selecteer uw vakgebied*"
+		],
+		"fr": [
+			"naamservice",
+			"Selecteer de service die u een naam wilt geven*"
+		],
+		"fs": [
+			"zakentaal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"ft": [
+			"case-industrie",
+			"Selecteer uw vakgebied*"
+		],
+		"fu": [
+			"case-taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"fv": [
+			"wit doel",
+			"Selecteer het doel van de whitepaper die u gaat schrijven*"
+		],
+		"fw": [
+			"wit-onderwerp",
+			"Selecteer het onderwerp van uw whitepaper*"
+		],
+		"fx": [
+			"witte taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"fy": [
+			"producttaal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"fz": [
+			"productplatform",
+			"Selecteer het type platform waarvoor u productbeschrijvingen schrijft.*"
+		],
+		"f0": [
+			"advertentietaal",
+			"Selecteer de taal waarin u schrijft.*"
+		],
+		"f1": [
+			"advertentiemedium",
+			"Selecteer het/de relevante advertentiemedium(len).*"
+		],
+		"f2": [
+			"verkooptaal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"f3": [
+			"e-mailtaal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"f4": [
+			"e-mail-kopie-type",
+			"Selecteer het type e-mail dat u gaat schrijven.*"
+		],
+		"f5": [
+			"sociaal doel",
+			"Selecteer het doel van de sociale kopie*"
+		],
+		"f6": [
+			"sociaal kopieerplatform",
+			"Selecteer het sociale kanaal waarvoor je de tekst gaat schrijven*"
+		],
+		"f7": [
+			"sociale taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"f8": [
+			"perstaal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"f9": [
+			"ux-platform",
+			"Selecteer de platform(en) waarvoor u schrijft: *"
+		],
+		"ga": [
+			"ux-taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"gb": [
+			"vertaaltaal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"gc": [
+			"type document",
+			"Selecteer documenttype"
+		],
+		"gd": [
+			"Vertaalindustrie-expertise",
+			"Selecteer uw branche-expertise (indien aanwezig)"
+		],
+		"ge": [
+			"lokalisatie-inhoudstype",
+			"Selecteer het type inhoud dat u wilt lokaliseren*"
+		],
+		"gf": [
+			"lokalisatie-taal",
+			"Selecteer talen:*"
+		],
+		"gg": [
+			"lokalisatie-industrie-expertise",
+			"Selecteer uw branche-expertise (indien aanwezig)"
+		],
+		"gh": [
+			"transcriptietaal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"gi": [
+			"cursusniveau",
+			"Selecteer het niveau van de cursus.*"
+		],
+		"gj": [
+			"elearning-taal",
+			"Selecteer de taal waarin u de cursusinhoud gaat maken.*"
+		],
+		"gk": [
+			"cursusonderwerp",
+			"Selecteer het onderwerp van de cursus.*"
+		],
+		"gl": [
+			"technisch documenttype",
+			"Selecteer het type technische documenten dat u schrijft*"
+		],
+		"gm": [
+			"technische industrie",
+			"Selecteer uw branche-expertise"
+		],
+		"gn": [
+			"technische taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"go": [
+			"subsidie-industrie",
+			"Selecteer uw vakgebied*"
+		],
+		"gp": [
+			"subsidie-taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"gq": [
+			"andere taal",
+			"Selecteer de taal/talen waarin u schrijft.*"
+		],
+		"gr": [
+			"fotografen-producttype",
+			"Selecteer de producttypen waarvan u foto's maakt*"
+		],
+		"gs": [
+			"fotografen-foto-instelling",
+			"Selecteer de primaire instelling waarin u foto's maakt (u kunt er meer toevoegen bij de stap Prijzen)*"
+		],
+		"gt": [
+			"fotografen-doel",
+			"Kies het doel expertise*"
+		],
+		"gu": [
+			"fotografen-stad",
+			"Selecteer de stad waarop je kunt schieten*"
+		],
+		"gv": [
+			"voedseltype",
+			"Selecteer de soorten voedsel waarvan je foto's maakt*"
+		],
+		"gw": [
+			"voedselfoto-instelling",
+			"Selecteer de primaire instelling waarin u voedselfoto's maakt (u kunt er meer toevoegen bij de stap Prijzen)*"
+		],
+		"gx": [
+			"voedselstad",
+			"Selecteer de stad waarop je kunt schieten*"
+		],
+		"gy": [
+			"voedseldoel",
+			"Kies het doel expertise*"
+		],
+		"gz": [
+			"modieus",
+			"Selecteer jouw fotografie-expertise*"
+		],
+		"g0": [
+			"mode-foto-instelling",
+			"Selecteer de primaire instelling waarin u foto's maakt (u kunt er meer toevoegen bij de stap Prijzen)*"
+		],
+		"g1": [
+			"modestad",
+			"Selecteer de stad waarop je kunt schieten*"
+		],
+		"g2": [
+			"modieus doel",
+			"Kies het doel expertise*"
+		],
+		"g3": [
+			"portret-stad",
+			"Selecteer de stad waarop je kunt schieten*"
+		],
+		"g4": [
+			"portret-onderwerp",
+			"Selecteer de soorten portretten waarin u gespecialiseerd bent*"
+		],
+		"g5": [
+			"foto-instelling",
+			"Selecteer de primaire instelling waarin u foto's maakt (u kunt er meer toevoegen bij de stap Prijzen)*"
+		],
+		"g6": [
+			"portret-camera",
+			"Selecteer het type camera dat je gebruikt*"
+		],
+		"g7": [
+			"gebeurtenistype",
+			"Selecteer jouw expertise op het gebied van evenementenfotografie*"
+		],
+		"g8": [
+			"evenementenstad",
+			"Selecteer de stad waarop je kunt schieten*"
+		],
+		"g9": [
+			"echt type",
+			"Selecteer jouw fotografie-expertise*"
+		],
+		"ha": [
+			"onroerend goed",
+			"Selecteer de woningtypes waarvan u foto's maakt*"
+		],
+		"hb": [
+			"echte stad",
+			"Selecteer de stad waarop je kunt schieten*"
+		],
+		"hc": [
+			"landschappelijke omgeving",
+			"Kies de omgeving waarin u gespecialiseerd bent: *"
+		],
+		"hd": [
+			"plannen-taal",
+			"Selecteer de talen die u kunt ondersteunen*"
+		],
+		"he": [
+			"plannen-bedrijfstype",
+			"Selecteer de bedrijfstypen die u wilt bedienen:"
+		],
+		"hf": [
+			"plan-formaat",
+			"Selecteer het formaat dat u naar uw klant verzendt:"
+		],
+		"hg": [
+			"plan-doel",
+			"Selecteer het doel van het plan:"
+		],
+		"hh": [
+			"rechtsgebied",
+			"Welk rechtsgebied ondersteunt u*"
+		],
+		"hi": [
+			"legaal doelland",
+			"Welk rechtsgebied ondersteunt u*"
+		],
+		"hj": [
+			"juridische taal",
+			"Welke talen ondersteunt u*"
+		],
+		"hk": [
+			"virtueel doel",
+			"Selecteer een doel*"
+		],
+		"hl": [
+			"virtuele industrie",
+			"Selecteer een branche"
+		],
+		"hm": [
+			"virtuele taal",
+			"Selecteer een taal *"
+		],
+		"hn": [
+			"management-industrie",
+			"Selecteer de sectoren waarin u gespecialiseerd bent."
+		],
+		"ho": [
+			"managementplatform",
+			"Selecteer maximaal 3 platforms*"
+		],
+		"hp": [
+			"managementtaal",
+			"Selecteer de taal waarin u werkt.*"
+		],
+		"hq": [
+			"hr-industrie",
+			"beschrijving*"
+		],
+		"hr": [
+			"hr-doelland",
+			"Welke landen steunt u*"
+		],
+		"hs": [
+			"project-doelland",
+			"Welke landen zijn uw doelgroep"
+		],
+		"ht": [
+			"aanboddoelland",
+			"Welk land steunt u"
+		],
+		"hu": [
+			"adviesindustrie",
+			"In welke sectoren bent u gespecialiseerd?*"
+		],
+		"hv": [
+			"adviesdoeleinden",
+			"Selecteer het adviesdoel*"
+		],
+		"hw": [
+			"adviestaal",
+			"Selecteer de taal waarin u uw dienst levert.*"
+		],
+		"hx": [
+			"markttaal",
+			"Talen die u ondersteunt voor marktonderzoek*"
+		],
+		"hy": [
+			"onderzoeksmethode",
+			"Welke onderzoeksmethoden biedt u aan"
+		],
+		"hz": [
+			"crm-software",
+			"Selecteer met welke software u werkt"
+		],
+		"h0": [
+			"crm-industrie",
+			"Selecteer in welke branche u werkt"
+		],
+		"h1": [
+			"financiële industrie",
+			"Welke industrieën ondersteunt u"
+		],
+		"h2": [
+			"financieel doelland",
+			"Selecteer het land dat u ondersteunt"
+		],
+		"h3": [
+			"erp-software",
+			"Selecteer met welke software u werkt"
+		],
+		"h4": [
+			"erp-inudstry",
+			"Selecteer in welke branche u werkt"
+		],
+		"h5": [
+			"feitentaal",
+			"Selecteer de taal/talen waarin u uw diensten aanbiedt.*"
+		],
+		"h6": [
+			"feitenindustrie",
+			"Selecteer de branche(s) waarin u uw diensten aanbiedt*"
+		],
+		"h7": [
+			"feit-inhoud-type",
+			"Selecteer het type inhoud dat u op feiten wilt controleren:*"
+		],
+		"h8": [
+			"evenementbeheertype",
+			"Selecteer het type evenement:*"
+		],
+		"h9": [
+			"gelegenheid",
+			"Selecteer de gelegenheid van het evenement:*"
+		],
+		"ia": [
+			"gebeurtenisinhoudstype",
+			"Als u met virtuele evenementen werkt, selecteert u of uw virtuele evenement live of opgenomen zal zijn:"
+		],
+		"ib": [
+			"evenementenplatform",
+			"Als je met virtuele of hybride evenementen werkt, selecteer dan het platform waarop jouw evenement zal plaatsvinden:"
+		],
+		"ic": [
+			"prijs model",
+			"Selecteer het prijsmodel van de evenementen waarmee u werkt:"
+		],
+		"id": [
+			"spelgenre",
+			"Selecteer het genre van de games die je ontwikkelt."
+		],
+		"ie": [
+			"spelconcept-type",
+			"Selecteer het speltype *"
+		],
+		"if": [
+			"game-platform-type",
+			"Selecteer maximaal 3 platforms waarvoor je games bouwt."
+		],
+		"ig": [
+			"verdienmodel",
+			"Selecteer het model voor het genereren van inkomsten"
+		],
+		"ih": [
+			"speldoel",
+			"Selecteer het speldoel"
+		],
+		"ii": [
+			"componisten-genre",
+			"Kies drie genres die het beste bij je passen*"
+		],
+		"ij": [
+			"componisten-doel",
+			"Selecteer het doel waarvoor je muziek produceert/componeert"
+		],
+		"ik": [
+			"componisten-software",
+			"Kies in welke software/DAW(s) je kunt werken. Het kan zijn dat een koper met iemand in dezelfde DAW wil samenwerken. *"
+		],
+		"il": [
+			"geslacht",
+			"Selecteer het geslacht waarmee u zich identificeert*"
+		],
+		"im": [
+			"zangers-genre",
+			"Kies twee genres die het beste bij je passen*"
+		],
+		"in": [
+			"zangerstaal",
+			"Selecteer de taal of talen waarin u kunt zingen.*"
+		],
+		"io": [
+			"sessie-instrument",
+			"Welk type instrument speel je?*"
+		],
+		"ip": [
+			"sessie-genre",
+			"Kies maximaal twee genres die het beste bij uw vaardigheden passen*"
+		],
+		"iq": [
+			"songwriters-genre",
+			"Kies maximaal 3 genres die het beste uw songwritingvaardigheden weerspiegelen*"
+		],
+		"ir": [
+			"jingles-doel",
+			"Selecteer het primaire doel waarvoor u jingles/intro's maakt:*"
+		],
+		"is": [
+			"jingles-stijl",
+			"Selecteer de stijl die u levert*"
+		],
+		"it": [
+			"mixgenre",
+			"Kies drie genres die het beste bij jouw dienst passen.*"
+		],
+		"iu": [
+			"type audiobewerking",
+			"Welke soorten audiobewerkingsdiensten bieden jullie aan?*"
+		],
+		"iv": [
+			"vocale taal",
+			"Selecteer uw gesproken taal*"
+		],
+		"iw": [
+			"vocaal geslacht",
+			"Kies je geslacht:*"
+		],
+		"ix": [
+			"vocaal doel",
+			"Selecteer het type voice-over dat je levert*"
+		],
+		"iy": [
+			"vocale leeftijdscategorie",
+			"Selecteer uw leeftijd:*"
+		],
+		"iz": [
+			"toon",
+			"Selecteer maximaal 5 stemtonen die je in deze gig laat horen*"
+		],
+		"i0": [
+			"audioboek-taal",
+			"Selecteer de taal of talen waarin u audioboeken kunt produceren.*"
+		],
+		"i1": [
+			"audio-taal",
+			"Selecteer de taal van uw dienst*"
+		],
+		"i2": [
+			"audiotoon",
+			"Selecteer de tone of voice die u kunt overbrengen*"
+		],
+		"i3": [
+			"dj-taal",
+			"Selecteer de taal van uw dienst*"
+		],
+		"i4": [
+			"dj-geslacht",
+			"Selecteer het geslacht waarmee u zich identificeert*"
+		],
+		"i5": [
+			"dj-genre",
+			"Selecteer maximaal 2 genres voor uw dienst*"
+		],
+		"i6": [
+			"dj-toon",
+			"Selecteer maximaal 3 tonen die u kunt leveren*"
+		],
+		"i7": [
+			"dj-mixgenre",
+			"Selecteer het genre dat het beste bij jouw DJ-stijl past. *"
+		],
+		"i8": [
+			"geluidsdoel",
+			"Selecteer het doel waarvoor je sounddesign maakt*"
+		],
+		"i9": [
+			"mengtype",
+			"Selecteer het type menging dat u aanbiedt*"
+		],
+		"ja": [
+			"synth-genre",
+			"Kies de genres die het beste bij jouw geluiden passen.*"
+		],
+		"jb": [
+			"synthesizer-type",
+			"Biedt u geluidsontwerp aan voor een virtuele soft-synth of een hard-synth?*"
+		],
+		"jc": [
+			"vst-synthesizer-type",
+			"Met welke VST-softsynth maak je je presets?"
+		],
+		"jd": [
+			"mixstijl",
+			"Kies de unieke mengstijlen die u aanbiedt. *"
+		],
+		"je": [
+			"logo-doel",
+			"Kies waar het audiologo gebruikt mag worden. *"
+		],
+		"jf": [
+			"instrumenten",
+			"Selecteer de instrumenten die u transcribeert*"
+		],
+		"jg": [
+			"muziekbestandsformaat",
+			"Selecteer de bestandsformaten die u verstrekt*"
+		],
+		"jh": [
+			"logostijl",
+			"Selecteer uw logostijl:*"
+		],
+		"ji": [
+			"logotype",
+			"Selecteer uw logotypes:*"
+		],
+		"jj": [
+			"bestandsformaat",
+			"Selecteer de bestandsformaten die u opgeeft in uw basisgig of extra's"
+		],
+		"jk": [
+			"stijl",
+			"Selecteer de stijl van het logo dat u ontwerpt:*"
+		],
+		"jl": [
+			"hoofdtype",
+			"Wat voor soort product ontwerp je?*"
+		],
+		"jm": [
+			"websitetype",
+			"Selecteer de websitetypen die u ontwerpt.*"
+		],
+		"jn": [
+			"platform & hulpmiddel",
+			"Kies de platforms of ontwerptools die u voor deze dienst gebruikt:*"
+		],
+		"jo": [
+			"app-type",
+			"Selecteer de soorten toepassingen waarin u gespecialiseerd bent:*"
+		],
+		"jp": [
+			"ontwerptool",
+			"Selecteer de ontwerptools die u in uw dienst levert of Extra's:*"
+		],
+		"jq": [
+			"apparaat",
+			"Voor welk apparaat ontwerp je?*"
+		],
+		"jr": [
+			"expertise",
+			"Selecteer jouw vakgebied"
+		],
+		"js": [
+			"game-art-dimensie",
+			"Selecteer de dimensie waarin je games ontwerpt."
+		],
+		"jt": [
+			"kunststijl",
+			"Selecteer de spelstijl die je ontwerpt:"
+		],
+		"ju": [
+			"game-bestandsformaat",
+			"Selecteer de bestandsformaten waarin u aanlevert:"
+		],
+		"jv": [
+			"ontwerpsoftware",
+			"Selecteer de software waarmee u werkt*"
+		],
+		"jw": [
+			"taal",
+			"Selecteer de relevante taal/talen voor het CV-ontwerp.*"
+		],
+		"jx": [
+			"industrie",
+			"Selecteer de sectoren waarin u zich specialiseert*"
+		],
+		"jy": [
+			"bestandstype",
+			"Selecteer het type bestand dat u wilt aanleveren.*"
+		],
+		"jz": [
+			"social-media-ontwerpplatform",
+			"Selecteer de sociale mediaplatformen waarvoor u ontwerpt:*"
+		],
+		"j0": [
+			"afbeeldingsbestandsformaat",
+			"Selecteer de bestandsformaten die u opgeeft in uw basisoptreden of extra's:"
+		],
+		"j1": [
+			"online-instrumenten",
+			"Selecteer het instrument waarin u lesgeeft in dit optreden.*"
+		],
+		"j2": [
+			"stijl",
+			"Selecteer uw illustratiestijl:*"
+		],
+		"j3": [
+			"ARTISTIEKE TECHNIEK",
+			"Selecteer de artistieke techniek waarin u gespecialiseerd bent:*"
+		],
+		"j4": [
+			"thema",
+			"Selecteer uw illustratiethema:*"
+		],
+		"j5": [
+			"onderwerp",
+			"Selecteer het onderwerp van uw illustratie:*"
+		],
+		"j6": [
+			"ARTISTIEKE TECHNIEK",
+			"Selecteer de artistieke techniek waarin u gespecialiseerd bent:*"
+		],
+		"j7": [
+			"Leeftijd",
+			"Selecteer een leeftijdscategorie*"
+		],
+		"j8": [
+			"landschapsontwerp-bestandsformaat",
+			"Selecteer de bestandsformaten die u in uw optreden opgeeft:"
+		],
+		"j9": [
+			"landschapsontwerpsoftware",
+			"Selecteer de software waarmee u werkt:"
+		],
+		"ka": [
+			"Genre",
+			"Selecteer het kinderboekengenre*"
+		],
+		"kb": [
+			"AI-MOTOR",
+			"Selecteer de belangrijkste AI-engine die u gebruikt.*"
+		],
+		"kc": [
+			"KUNSTDIMENSIE",
+			"Selecteer de dimensie waarin u kunst maakt.*"
+		],
+		"kd": [
+			"ontwerpstijl",
+			"Selecteer de ontwerpstijl van het patroon*"
+		],
+		"ke": [
+			"ontwerptechniek",
+			"Selecteer de ontwerptechniek waarin u gespecialiseerd bent*"
+		],
+		"kf": [
+			"DOEL",
+			"Selecteer het doel van het patroon *"
+		],
+		"kg": [
+			"PATROONTHEMA",
+			"Selecteer het thema van het patroon.*"
+		],
+		"kh": [
+			"DOEL",
+			"Selecteer het doel van de posters die je ontwerpt"
+		],
+		"ki": [
+			"DOEL",
+			"Selecteer het doel van de brochures die u ontwerpt"
+		],
+		"kj": [
+			"FORMAATTYPE",
+			"Wat voor soort product ontwerp je?*"
+		],
+		"kk": [
+			"BEELDBESTANDSFORMAAT",
+			"Selecteer de bestandsformaten die u opgeeft in uw basisoptreden of extra's:"
+		],
+		"kl": [
+			"ONTWERPSTIJL",
+			"Selecteer uw ontwerpstijl.*"
+		],
+		"km": [
+			"GENRE",
+			"Selecteer uw boekgenre*"
+		],
+		"kn": [
+			"BESTANDSFORMAAT",
+			"Selecteer de bestandsformaten die u opgeeft in uw basisgig of extra's"
+		],
+		"ko": [
+			"ONTWERPSTIJL",
+			"Selecteer uw ontwerpstijl voor albumhoezen.*"
+		],
+		"kp": [
+			"MUZIKAAL GENRE",
+			"Selecteer uw muziekgenre.*"
+		],
+		"kq": [
+			"ALBUMTYPE",
+			"Selecteer uw albumtype.*"
+		],
+		"kr": [
+			"PODCAST COVERSTIJL",
+			"Selecteer de stijl van je podcastomslag:*"
+		],
+		"ks": [
+			"PRODUCT TYPE",
+			"Welk type verpakking of etiketontwerp biedt u aan?*"
+		],
+		"kt": [
+			"BESTANDSFORMAAT",
+			"Selecteer de bestandsformaten die u in uw service aanbiedt"
+		],
+		"ku": [
+			"DOEL",
+			"Selecteer het doel van de storyboards die u maakt."
+		],
+		"kv": [
+			"platform",
+			"Selecteer de sociale mediaplatformen waarvoor u ontwerpt:*"
+		],
+		"kw": [
+			"FORMAATTYPE",
+			"Selecteer het type catalogus dat u ontwerpt"
+		],
+		"kx": [
+			"doel",
+			"Selecteer het doel van de menu's die u ontwerpt"
+		],
+		"ky": [
+			"HOOFDTYPE",
+			"Wat voor soort uitnodigingen ontwerp je?"
+		],
+		"kz": [
+			"ILLUSTRATIETYPE",
+			"Selecteer het type illustratie dat u doorgaans aanlevert*"
+		],
+		"k0": [
+			"ILLUSTRATIE stijl",
+			"Selecteer uw illustratiestijlen*"
+		],
+		"k1": [
+			"hoofdtype",
+			"Selecteer het type tekenfilms dat u aanbiedt:*"
+		],
+		"k2": [
+			"ILLUSTRATIE stijl",
+			"Selecteer de stijl van de tekenfilms die u aanbiedt:"
+		],
+		"k3": [
+			"TATTOOSTIJL",
+			"Selecteer uw tattoo-ontwerpstijl:"
+		],
+		"k4": [
+			"Kleurtype",
+			"Selecteer of je tattoo-ontwerpen in kleur of zwart-wit aanbiedt:"
+		],
+		"k5": [
+			"SIGNAGETYPE",
+			"Selecteer het type bewegwijzering dat u ontwerpt"
+		],
+		"k6": [
+			"HOOFDTYPE",
+			"Selecteer de soorten banners die u ontwerpt:"
+		],
+		"k7": [
+			"BEWERKINGSTYPE",
+			"Selecteer de bewerkingsservices die u levert:"
+		],
+		"k8": [
+			"PROJECTSCHAAL",
+			"Selecteer de projectschaal waarnaar u verwijst in uw service:"
+		],
+		"k9": [
+			"TYPE GEBOUW",
+			"Selecteer het betreffende gebouwtype:"
+		],
+		"la": [
+			"BEELDBESTANDSFORMAAT",
+			"Selecteer de bestandsformaten die u aanbiedt in uw basisdienst of Extra's:"
+		],
+		"lb": [
+			"BESTANDSFORMAAT",
+			"Selecteer de bestandsformaten die u in uw service aanbiedt:"
+		],
+		"lc": [
+			"SOFTWARE",
+			"Selecteer de software waarmee u werkt:"
+		],
+		"ld": [
+			"DOEL",
+			"Selecteer het doel van de 3D-modellen die u maakt."
+		],
+		"le": [
+			"STIJL",
+			"Selecteer de ontwerpstijl van uw model."
+		],
+		"lf": [
+			"BESTANDSFORMAAT",
+			"Selecteer de bestandsformaten waarin u aanlevert."
+		],
+		"lg": [
+			"EXPERTISE",
+			"Selecteer jouw vakgebied."
+		],
+		"lh": [
+			"ONTWERPSOFTWARE",
+			"Selecteer de software waarmee u werkt*"
+		],
+		"li": [
+			"speldimensie",
+			"Selecteer de dimensie waarin je games ontwerpt."
+		],
+		"lj": [
+			"stijl",
+			"Selecteer de spelstijl die je ontwerpt:"
+		],
+		"lk": [
+			"bestandsformaat",
+			"Selecteer de bestandsformaten waarin u aanlevert:"
+		],
+		"ll": [
+			"activatype *",
+			"Selecteer de grafische middelen die u ontwerpt:*"
+		],
+		"lm": [
+			"streamingplatform *",
+			"Selecteer de platforms waarvoor u ontwerpt:*"
+		],
+		"ln": [
+			"STANDSTYPE",
+			"Selecteer het type stand dat bij uw optreden is inbegrepen:*"
+		],
+		"lo": [
+			"BOOTH-INDELING",
+			"Selecteer het standontwerp waarin u gespecialiseerd bent:*"
+		],
+		"lp": [
+			"Industrie",
+			"Selecteer de sectoren waarin u gespecialiseerd bent:"
+		],
+		"lq": [
+			"MERCHTYPE",
+			"Selecteer het type merchandise dat u aanbiedt*"
+		],
+		"lr": [
+			"DIENST TYPE",
+			"Selecteer het servicetype dat u in uw service aanbiedt:"
+		],
+		"ls": [
+			"DOEL",
+			"Selecteer het doel waarvoor u presentatieontwerp aanbiedt:"
+		],
+		"lt": [
+			"SOFTWARE",
+			"Selecteer de software waarin u ontwerpt"
+		],
+		"lu": [
+			"BESTANDSFORMAAT",
+			"Selecteer de bestandsformaten die u verstrekt"
+		],
+		"lv": [
+			"E-mailtype",
+			"Selecteer de e-mailtypen die u ontwerpt"
+		],
+		"lw": [
+			"PLATFORM & GEREEDSCHAP",
+			"Kies de platforms waarin u gespecialiseerd bent of uw ontwerptools"
+		],
+		"lx": [
+			"Stijl",
+			"Selecteer uw pictogramstijl"
+		],
+		"ly": [
+			"DOEL",
+			"Selecteer het doel van uw pictogram"
+		],
+		"lz": [
+			"BESTANDSFORMAAT",
+			"Selecteer de bestandsformaten die u verstrekt"
+		],
+		"l0": [
+			"VOERTUIGTYPE",
+			"Selecteer het voertuig waarvoor u gaat ontwerpen"
+		],
+		"l1": [
+			"ONDERWERP",
+			"Selecteer de onderwerpen van uw expertise"
+		],
+		"l2": [
+			"LESTYPE",
+			"Selecteer het type lessen dat u aanbiedt"
+		],
+		"l3": [
+			"websitetype",
+			"Selecteer het websitetype dat u ondersteunt"
+		],
+		"l4": [
+			"WEBSITEFUNCTIES",
+			"Selecteer de functies die u ondersteunt"
+		],
+		"l5": [
+			"WEBSITEFUNCTIES",
+			"Selecteer de functies die u ondersteunt"
+		],
+		"l6": [
+			"strategie-industrie-expertise",
+			"Selecteer uw branche-expertise (indien aanwezig)"
+		],
+		"l7": [
+			"PLUG-INS",
+			"Selecteer de plug-ins die u ondersteunt"
+		],
+		"l8": [
+			"PLUG-INS",
+			"Selecteer de plug-ins die u ondersteunt"
+		]
+	},
+	"categoryScope": {
+		"aa": "Aantal concepten inbegrepen",
+		"ab": "Transparantie van logo's",
+		"ac": "Vectorbestand",
+		"ad": "Afdrukbaar bestand",
+		"ae": "3D-mockup",
+		"af": "Briefpapier ontwerpen",
+		"ag": "Kit voor sociale media",
+		"ah": "Richtlijnen voor logogebruik",
+		"ai": "Kleurenpalet",
+		"aj": "Richtlijnen voor typografie",
+		"ak": "Iconografie",
+		"al": "Wat te doen en wat niet te doen",
+		"am": "Merkboekontwerp",
+		"an": "Ontwerpconcepten",
+		"ao": "Printklaar",
+		"ap": "Dubbelzijdig",
+		"aq": "Email handtekening",
+		"ar": "Verzenden",
+		"as": "Handgemaakt",
+		"at": "Veelkleurig",
+		"au": "Verzending origineel",
+		"av": "Figuren",
+		"aw": "Hoge resolutie",
+		"ax": "Achtergrond/scène",
+		"ay": "Kleur",
+		"az": "Volledige lichaam",
+		"a0": "Commercieel gebruik",
+		"a1": "# prompts",
+		"a2": "Snelle creatie",
+		"a3": "Onmidelijke levering",
+		"a4": "Voeg voorbeeldafbeeldingen toe",
+		"a5": "Instructies inbegrepen",
+		"a6": "Levering van kunstwerken",
+		"a7": "Revisies",
+		"a8": "Karakters",
+		"a9": "Kleur illustratie",
+		"ba": "Storyboard",
+		"bb": "Boekomslag",
+		"bc": "Inclusief boekopmaak",
+		"bd": "eBook-opmaak",
+		"be": "Aantal patronen",
+		"bf": "Aantal elementen",
+		"bg": "Prijs",
+		"bh": "woorden-inbegrepen-per-product",
+		"bi": "Grootte (inch)",
+		"bj": "Voeg kleur toe",
+		"bk": "Inclusief schaduw",
+		"bl": "Tattoo-flitsblad",
+		"bm": "Aantal frames inbegrepen",
+		"bn": "Beschrijvende tekst",
+		"bo": "Aantal basiskunstwerken",
+		"bp": "Aantal eigenschappen/accessoires",
+		"bq": "Aantal variaties",
+		"br": "Metagegevens",
+		"bs": "Verzameling generatie",
+		"bt": "Lesduur (minuten)",
+		"bu": "Aantal lessen",
+		"bv": "Aantal pagina's of schermen",
+		"bw": "Aangepast activaontwerp",
+		"bx": "Reagerend ontwerp",
+		"by": "Prototype",
+		"bz": "Inhoud uploaden",
+		"b0": "Converteren naar HTML/CSS",
+		"b1": "Draadframes",
+		"b2": "Concurrerende UX-analyse",
+		"b3": "Gebruikersonderzoek en persona's",
+		"b4": "Gebruikersstromen",
+		"b5": "UI-ontwerp",
+		"b6": "Aantal ontworpen secties",
+		"b7": "Aantal iconen",
+		"b8": "Pictogram animatie",
+		"b9": "3D-modellering",
+		"ca": "Volledig concept-prototype",
+		"cb": "Ontwerp voor productie",
+		"cc": "Technische tekeningen",
+		"cd": "Aantal initiële concepten inbegrepen",
+		"ce": "Verlichting",
+		"cf": "Tuigage",
+		"cg": "Aantal initiële concepten inbegrepen",
+		"ch": "Logo ontwerp",
+		"ci": "Aangepaste overlay",
+		"cj": "Facecam",
+		"ck": "Paneelontwerp",
+		"cl": "Aantal waarschuwingen",
+		"cm": "Aantal schermen",
+		"cn": "Aantal emotes of badges",
+		"co": "Inclusief animatie",
+		"cp": "Aangepaste afbeeldingen",
+		"cq": "fotobewerking",
+		"cr": "Ontwerp voor sociale media",
+		"cs": "Aantal panelen/pagina's",
+		"ct": "Omslag ontwerp",
+		"cu": "Aantal pagina's",
+		"cv": "Aantal afbeeldingen",
+		"cw": "Inclusief dia's",
+		"cx": "Inclusief beeldmateriaal",
+		"cy": "Inclusief diagrammen en grafieken",
+		"cz": "Inclusief infographics",
+		"c0": "Inclusief dia-overgang",
+		"c1": "Voeg dia-animatie toe",
+		"c2": "Inclusief datapunten",
+		"c3": "Onderzoek doen",
+		"c4": "Plaats berichten op infographic-sites",
+		"c5": "Ontwerp van een sollicitatiebrief",
+		"c6": "Zichtbare zijkanten van de cabine",
+		"c7": "Aantal ontwerpconcepten",
+		"c8": "Dubbeldeks cabineontwerp",
+		"c9": "Standplannen",
+		"da": "3D-renderingafbeeldingen",
+		"db": "3D walkthrough-animatie",
+		"dc": "Inclusief grafisch ontwerp",
+		"dd": "Coördinatie op locatie",
+		"de": "Aantal zijden",
+		"df": "3d model",
+		"dg": "Aantal platforms",
+		"dh": "Bewerkbare sjabloon",
+		"di": "E-mail instellen",
+		"dj": "Aantal maatvariaties",
+		"dk": "Aantal stijlen",
+		"dl": "Sociaal",
+		"dm": "aantal versies",
+		"dn": "Achtergrond verwijderen",
+		"do": "Ontwerpmodel",
+		"dp": "video-lengte-minuten",
+		"dq": "Klikbare inhoudsopgave (ToC)",
+		"dr": "Rug & wervelkolom",
+		"ds": "Boekje ontwerp",
+		"dt": "Geanimeerde omslag",
+		"du": "Afmetingen (pixels)",
+		"dv": "Miniatuur omslagafbeelding",
+		"dw": "Kopafbeelding",
+		"dx": "Verwijdering van bestaand object",
+		"dy": "Verander kleur en materialen",
+		"dz": "Commerciële enscenering",
+		"d0": "Inclusief omgeving",
+		"d1": "Weergaven",
+		"d2": "Hoge resolutie (pixels)",
+		"d3": "Landschapswandeling",
+		"d4": "Marketinginstrumenten",
+		"d5": "Verbeterde details",
+		"d6": "2D-tekeningen",
+		"d7": "Analyse & simulatie",
+		"d8": "Gedetailleerd systeemontwerp",
+		"d9": "Materiële start",
+		"ea": "Berekeningen laden",
+		"eb": "Aantal itemweergaven",
+		"ec": "Aantal kleurstellingen",
+		"ed": "Ontwerp specificaties",
+		"ee": "Maattabel",
+		"ef": "Illustraties en printdetails",
+		"eg": "Stuklijst (BOM)",
+		"eh": "Aantal schetsen",
+		"ei": "In kleur",
+		"ej": "Concept- en ontwerpvoorstel",
+		"ek": "Aantal productconcepten inbegrepen",
+		"el": "Visualisatieconcept",
+		"em": "Schetsen",
+		"en": "Hoog detailniveau",
+		"eo": "Projectgrootte (m²)",
+		"ep": "Grafische verbeteringen",
+		"eq": "Inclusief lay-outbladen",
+		"er": "Rug- en wervelkolomontwerpen",
+		"es": "Jashoes",
+		"et": "Bronbestand opnemen",
+		"eu": "Omslag van audioboek (ACX)",
+		"ev": "Aantal stuks",
+		"ew": "Installatie van plug-ins/extensies",
+		"ex": "E-commerce functionaliteit",
+		"ey": "Aantal producten",
+		"ez": "Verwerking van betalingen",
+		"e0": "Aanmeldingsformulier",
+		"e1": "Integratie van autoresponders",
+		"e2": "Snelheidsoptimalisatie",
+		"e3": "Hosting-opstelling",
+		"e4": "Sociale media iconen",
+		"e5": "Website-migratie",
+		"e6": "Uploaden naar appstore",
+		"e7": "Venster vastleggen",
+		"e8": "Overlay-integratie",
+		"e9": "Overlay-ontwerp",
+		"fa": "Chat-opstelling",
+		"fb": "Aantal plug-ins",
+		"fc": "Documentatie repareren",
+		"fd": "Gedetailleerde codeopmerkingen",
+		"fe": "Mobiele besturingssystemen",
+		"ff": "App-pictogram",
+		"fg": "panelen",
+		"fh": "Splash-scherm",
+		"fi": "Integratie van advertentienetwerk",
+		"fj": "Inclusief broncode",
+		"fk": "Functionele app/website",
+		"fl": "Applicatie/website ontwerp",
+		"fm": "Installatiebestand",
+		"fn": "API-integratie",
+		"fo": "Besturingssystemen",
+		"fp": "Inclusief ontwerp",
+		"fq": "Munten",
+		"fr": "Wallet-integratie",
+		"fs": "Witte lijst",
+		"ft": "Aantal componenten",
+		"fu": "Voeg een schematisch diagram toe",
+		"fv": "Fabricage klaar",
+		"fw": "Prototyping",
+		"fx": "Functionele omgeving",
+		"fy": "Installatie",
+		"fz": "Configuratie",
+		"f0": "Migratie",
+		"f1": "Foutopsporing",
+		"f2": "Back-up",
+		"f3": "Prestatie",
+		"f4": "Oefeningen en ondersteunend materiaal",
+		"f5": "Gespreksstappen",
+		"f6": "Gespreksscript",
+		"f7": "Stroomontwerp",
+		"f8": "Testscenario",
+		"f9": "Samenvattingsverslag",
+		"ga": "Schermopnametijd (min.)",
+		"gb": "Bureaublad testen",
+		"gc": "Mobiel testen",
+		"gd": "Geannoteerde schermafbeeldingen",
+		"ge": "Schermopname",
+		"gf": "Responsiviteitstest",
+		"gg": "Kwetsbaarheidstest",
+		"gh": "Functionaliteitstest",
+		"gi": "Bruikbaarheidstest",
+		"gj": "Browsercompatibiliteitstest",
+		"gk": "Prestatie-/belastingstest",
+		"gl": "Concurrenten geanalyseerd",
+		"gm": "Campagne ontwikkeling",
+		"gn": "Instellen van een account",
+		"go": "SEM-rapport",
+		"gp": "Beheerduur (weken)",
+		"gq": "Campagne-optimalisatie",
+		"gr": "SEO-audit en -rapport",
+		"gs": "Actieplan op maat",
+		"gt": "SEO-optimalisatie",
+		"gu": "Verwijdering van slechte links",
+		"gv": "Zoekwoorden onderzocht en geanalyseerd",
+		"gw": "Directory-inzending",
+		"gx": "Claim een Yelp-vermelding",
+		"gy": "Claim Foursquare-vermelding",
+		"gz": "Pagina instellingen",
+		"g0": "Pagina-optimalisatie",
+		"g1": "Marketingplan op maat",
+		"g2": "Berichten op sociale media",
+		"g3": "Inhoud artikelen",
+		"g4": "Hashtag-onderzoeksrapport",
+		"g5": "Actieplan",
+		"g6": "Partnerschap en samenwerkingsbereik",
+		"g7": "Communitypromotie en growth hacking",
+		"g8": "Gemeenschapsbeheer en betrokkenheid",
+		"g9": "SEO-video-optimalisatie",
+		"ha": "Zoekwoord- en hashtagonderzoek",
+		"hb": "Aangepaste eindkaart",
+		"hc": "Ontwikkeling van contactlijsten",
+		"hd": "Segmentatie van het publiek",
+		"he": "Aantal contacten",
+		"hf": "Hygiëne van e-maillijsten",
+		"hg": "Onderwerp onderzoek",
+		"hh": "Artikel schrijven",
+		"hi": "SEO-trefwoorden",
+		"hj": "Media-item inbegrepen",
+		"hk": "Backlink inbegrepen",
+		"hl": "Beheersduur",
+		"hm": "Analytisch rapport voor advertenties",
+		"hn": "Contacten importeren",
+		"ho": "Kopieer variaties",
+		"hp": "Campagne-opstelling",
+		"hq": "Automatisering instellen",
+		"hr": "Campagnes verzonden",
+		"hs": "Campagnerapport",
+		"ht": "Marketingstrategierapport",
+		"hu": "Klantsegmentatie",
+		"hv": "Promotie campagne",
+		"hw": "Sessie lengte",
+		"hx": "Vervolgopdrachten",
+		"hy": "Samenvatting van de sessie",
+		"hz": "Tracking-tags",
+		"h0": "Aantal geconfigureerde doelen",
+		"h1": "Analysedashboard maken",
+		"h2": "Aangepast GA-rapport",
+		"h3": "Conversierapport",
+		"h4": "Advertentiebeheer",
+		"h5": "Beoordeling en kritiek",
+		"h6": "E-mailmarketingrapport",
+		"h7": "Titeloptimalisatie",
+		"h8": "Classificatie van de marktplaats",
+		"h9": "Icoon beoordeling",
+		"ia": "Appstore-upload",
+		"ib": "Beoordeling van verkoopexemplaren",
+		"ic": "Looptijd (in minuten)",
+		"id": "Kleurindeling",
+		"ie": "Geluidsontwerp en mixen",
+		"if": "Bewegende graphics",
+		"ig": "Ondertitels",
+		"ih": "Miniatuur inbegrepen",
+		"ii": "Video bewerking",
+		"ij": "Conceptontwikkeling",
+		"ik": "Muziek en geluidseffecten",
+		"il": "Voice-over opname",
+		"im": "Presentator op camera",
+		"in": "Gebruikersonderzoek",
+		"io": "Aantal pagina's/schermen",
+		"ip": "Logo toevoegen",
+		"iq": "Transparante achtergrond",
+		"ir": "Aangepast ontwerp",
+		"is": "Geluidseffecten",
+		"it": "Sjabloonaanpassing",
+		"iu": "Sjabloon creatie",
+		"iv": "Aantal sjablonen",
+		"iw": "Sjabloonbronbestand",
+		"ix": "Volledig HD (1080p)",
+		"iy": "Ondertitels insluiten",
+		"iz": "Transcriptie",
+		"i0": "Vertaling",
+		"i1": "SRT-bestand",
+		"i2": "Inhoudsidee",
+		"i3": "Script schrijven",
+		"i4": "Speciale effecten inbegrepen",
+		"i5": "Filmen inbegrepen",
+		"i6": "Levend model inbegrepen",
+		"i7": "Ondertiteling inbegrepen",
+		"i8": "Miniatuur",
+		"i9": "Looptijd (seconden)",
+		"ja": "Aantal lengtevariaties",
+		"jb": "Aantal oriëntaties",
+		"jc": "Toon productafbeeldingen",
+		"jd": "Voice over",
+		"je": "Gastheer op camera",
+		"jf": "Product demonstratie",
+		"jg": "Productpakket tonen",
+		"jh": "Grafische elementen",
+		"ji": "Woorden inbegrepen",
+		"jj": "UltraHD 4k",
+		"jk": "Master-audio",
+		"jl": "Titels",
+		"jm": "Voeg songteksten toe",
+		"jn": "Speciale effecten",
+		"jo": "Aantal onderschriften",
+		"jp": "Videobeelden",
+		"jq": "Dynamische overgangen",
+		"jr": "Aangepaste kleuren",
+		"js": "Overlay-tekst",
+		"jt": "Aangepaste animatie",
+		"ju": "Perfecte lus",
+		"jv": "Bron bestand",
+		"jw": "Personage ontwerp",
+		"jx": "Gedetailleerde bewegingen",
+		"jy": "Aantal tekens",
+		"jz": "Levering van projectbestanden",
+		"j0": "Meerdere bestandsgroottes",
+		"j1": "Duur (in seconden)",
+		"j2": "Video formaat",
+		"j3": "Naadloze lus",
+		"j4": "Gebaseerd op afbeelding/video",
+		"j5": "Volle kleur",
+		"j6": "Nasynchronisatie",
+		"j7": "Achtergrondafbeeldingen",
+		"j8": "Lengte (in seconden)",
+		"j9": "Maak een vectorbestand",
+		"ka": "Inclusief pictogram",
+		"kb": "Inclusief logo",
+		"kc": "Inclusief karakter",
+		"kd": "Inclusief landings-/heldenanimatie",
+		"ke": "Inclusief interacties",
+		"kf": "Half lichaam",
+		"kg": "Gezichtstuig",
+		"kh": "Vinger tuig",
+		"ki": "IK/FK-schakelaar",
+		"kj": "Origineel ontwerp",
+		"kk": "Aangepaste illustratie inbegrepen",
+		"kl": "Karakter animatie",
+		"km": "Achtergrondanimatie",
+		"kn": "Dubbelzijdige kaart",
+		"ko": "Aantal opnamedagen",
+		"kp": "Versies inbegrepen",
+		"kq": "Inclusief voice-over",
+		"kr": "Talent uit de lucht",
+		"ks": "Opname met meerdere camera's",
+		"kt": "Geluidsopname",
+		"ku": "Personages inbegrepen",
+		"kv": "Geïllustreerde achtergrond inbegrepen",
+		"kw": "Aantal acteurs",
+		"kx": "Achtergrond",
+		"ky": "Aangepaste outfit",
+		"kz": "Voeg bijschriften toe",
+		"k0": "Effecten benadrukken",
+		"k1": "Minuten inbegrepen",
+		"k2": "Titels en afbeeldingen",
+		"k3": "Model/host inbegrepen",
+		"k4": "3D-animatie",
+		"k5": "Geëxplodeerde weergave",
+		"k6": "Röntgenfoto",
+		"k7": "Productfilming inbegrepen",
+		"k8": "Aantal schermafbeeldingen",
+		"k9": "Ondertiteling",
+		"la": "Stockbeeldmateriaal",
+		"lb": "Stockbeelden",
+		"lc": "Optimalisatie op meerdere platforms",
+		"ld": "Miniatuurontwerp",
+		"le": "Begeleide meditatie-opname",
+		"lf": "Meditatiescript schrijven",
+		"lg": "Aantal citaten en bijschriften",
+		"lh": "SEO-zoekwoordonderzoek",
+		"li": "Referenties & citaten",
+		"lj": "Gegevensgrafiek",
+		"lk": "Plagiaatcontrole",
+		"ll": "Feiten controleren",
+		"lm": "AI-detectie",
+		"ln": "Doelgroeponderzoek",
+		"lo": "Inhoudscontrole",
+		"lp": "Inhoud kalender",
+		"lq": "Inhoudskader",
+		"lr": "Verhaal ontwikkeling",
+		"ls": "Visuele beschrijving",
+		"lt": "Productonderzoek",
+		"lu": "Onderzoek van concurrenten",
+		"lv": "Spraaklengte (minuten)",
+		"lw": "Aanvullend onderzoek",
+		"lx": "Structurele bewerking",
+		"ly": "Lijn bewerken",
+		"lz": "Herschrijven",
+		"l0": "Feedback",
+		"l1": "Proeflezen",
+		"l2": "AI-detectie en -bewerking",
+		"l3": "Stem- en toonconsistentie",
+		"l4": "Herschrijven van secties",
+		"l5": "Ontwikkelingsbewerking",
+		"l6": "Stijlblad",
+		"l7": "Voorbeeldregel bewerken",
+		"l8": "Lezersrapport",
+		"l9": "Aanvullende materialen / oefenoefeningen",
+		"ma": "Bewerkbaar bestand",
+		"mb": "Bewerken en herschrijven",
+		"mc": "Optimaliseer LinkedIn-profiel",
+		"md": "Voorblad",
+		"me": "Gerichte sollicitatiebrieven",
+		"mf": "Opleiding, certificeringen en prijzen",
+		"mg": "Professionele ervaring",
+		"mh": "Gerichte hashtags/trefwoorden",
+		"mi": "Vaardigheden en onderschrijvingen",
+		"mj": "Competitief onderzoek",
+		"mk": "Overzicht functieomschrijving",
+		"ml": "Verantwoordelijkheden en Plichten",
+		"mm": "Kwalificaties",
+		"mn": "Consistentie van merkstem",
+		"mo": "Merkverhaal",
+		"mp": "Doelgroep & positionering",
+		"mq": "Stem- en toonrichtlijnen",
+		"mr": "Richtlijnen voor merkontwerp",
+		"ms": "Bedrijfsnaam en slogan",
+		"mt": "Bedrijfs-/productnamen",
+		"mu": "Slogans inbegrepen",
+		"mv": "Handvatten voor sociale media",
+		"mw": "Merkcontrole",
+		"mx": "Domeinonderzoek",
+		"my": "Interviews met klanten",
+		"mz": "Titels inbegrepen (per product)",
+		"m0": "Bulletpoint inbegrepen (per product)",
+		"m1": "html-titel",
+		"m2": "Versies van advertentieteksten",
+		"m3": "Beoordelen en bewerken",
+		"m4": "Onderwerpregels inbegrepen",
+		"m5": "E-mails geschreven",
+		"m6": "Persbericht indienen",
+		"m7": "Format persbericht",
+		"m8": "Ideeën voor persberichten",
+		"m9": "Documentopmaak",
+		"na": "Taalstijlgids",
+		"nb": "Tijdreferentie",
+		"nc": "Aantal sprekers",
+		"nd": "Woordelijke transcriptie",
+		"ne": "Bestand converteren",
+		"nf": "Aantal hoofdstukken",
+		"ng": "Aantal woorden per hoofdstuk",
+		"nh": "Opdrachten & oplossingen",
+		"ni": "Videoscript schrijven",
+		"nj": "Beoordeel bestaande inhoud",
+		"nk": "Lijst met bronnen",
+		"nl": "Proeflezen en redigeren",
+		"nm": "Stijlgids opgemaakt",
+		"nn": "Technische illustratie",
+		"no": "Pagina's gedolven/geschraapt",
+		"np": "Bronnen downloaden",
+		"nq": "Formatteren en opruimen",
+		"nr": "Aantal statistieken",
+		"ns": "Aantal segmenten",
+		"nt": "Scenario's",
+		"nu": "Evaluatie van sitetracking",
+		"nv": "Managementsamenvatting",
+		"nw": "Ideeën voor conversieoptimalisatie",
+		"nx": "Web-insluiting",
+		"ny": "Interactieve/geanimeerde beelden",
+		"nz": "Grafieken/diagrammen",
+		"n0": "Grafiek/diagramvariaties",
+		"n1": "Presentatie",
+		"n2": "Aantal macro's",
+		"n3": "Knoppen & formulieren",
+		"n4": "Connectiviteit van gegevensbronnen",
+		"n5": "Toolbar-integratie",
+		"n6": "Modeldocumentatie",
+		"n7": "Foutopsporingsquery's",
+		"n8": "Optimaliseer zoekopdrachten",
+		"n9": "Vragen plannen",
+		"oa": "Analyseer zoekopdrachten",
+		"ob": "Levend model",
+		"oc": "Levensstijl enscenering",
+		"od": "Fotoshoot Styling",
+		"oe": "Gekoppelde liveweergave",
+		"of": "Retoucheren van foto's",
+		"og": "Infografieken",
+		"oh": "Aantal recepten",
+		"oi": "Voedselbereiding",
+		"oj": "Serviesgoed",
+		"ok": "# foto's",
+		"ol": "Fotoshoot stylist",
+		"om": "Studio inbegrepen",
+		"on": "Haar & make-up",
+		"oo": "Bedrijfsomschrijving",
+		"op": "Analyse van de industrie en concurrenten",
+		"oq": "SWOT-analyse",
+		"or": "Klantanalyse",
+		"os": "Financiële prognose",
+		"ot": "Beleggers lijst",
+		"ou": "Outreach-e-mailkopie",
+		"ov": "Pitch-dek",
+		"ow": "Onboardingproces van medewerkers",
+		"ox": "Nivellering van medewerkers",
+		"oy": "Feedback van medewerkers",
+		"oz": "Definieer projectdoelen",
+		"o0": "Definieer leveringen en KPI's",
+		"o1": "Stel een planning en mijlpalen op",
+		"o2": "Risicomanagement",
+		"o3": "Beheer van hulpbronnen",
+		"o4": "Budgetbeheer",
+		"o5": "Projectrapporten genereren",
+		"o6": "Projectdiagrammen genereren",
+		"o7": "Spreekuren",
+		"o8": "Initiële beoordeling",
+		"o9": "Strategische aanbevelingen",
+		"pa": "Strategie-implementatiedocument",
+		"pb": "Raadgevend dek",
+		"pc": "Concurrentieanalyse",
+		"pd": "TAM-berekening of analyse",
+		"pe": "Enquête schrijven",
+		"pf": "Trechter ontwikkeling",
+		"pg": "Kanaalontwikkeling",
+		"ph": "Verkooponderpand",
+		"pi": "Interne verkooptraining",
+		"pj": "Kennisbank creëren en onderhouden",
+		"pk": "Systeemopstelling",
+		"pl": "Ontwikkeling van macro's",
+		"pm": "Speelboek voor klantzorgprocessen en -trajecten",
+		"pn": "Agentenopleiding",
+		"po": "Trainingssessie",
+		"pp": "Accountbeheer",
+		"pq": "Automatiseringsplanning",
+		"pr": "Data-analyse en rapport",
+		"ps": "Automatiseringsplanning en -installatie",
+		"pt": "Data-analyse & rapporten",
+		"pu": "Feiten gecontroleerd",
+		"pv": "Tekst bewerken",
+		"pw": "Planning",
+		"px": "Logistiek",
+		"py": "Aantal gasten",
+		"pz": "Promotie van evenementen",
+		"p0": "Content creatie",
+		"p1": "Medewerkers inbegrepen",
+		"p2": "Gastheer/facilitator",
+		"p3": "Technische hulp",
+		"p4": "Ondersteuning na het evenement",
+		"p5": "Gameplay-mechanica",
+		"p6": "Aantal niveaus",
+		"p7": "Strategie voor het genereren van inkomsten",
+		"p8": "Speleconomie",
+		"p9": "Creatie van spelontwerpdocumenten",
+		"qa": "Project-/productieplan",
+		"qb": "Opnamelengte (in seconden)",
+		"qc": "Aantal instrumenten",
+		"qd": "HQ-audiobestand",
+		"qe": "Aparte bestanden",
+		"qf": "Bladmuziek",
+		"qg": "Originele melodie",
+		"qh": "Mixen en masteren",
+		"qi": "Levering van projectbestanden/stammen",
+		"qj": "Video opnemen",
+		"qk": "Vocale harmonie",
+		"ql": "Dubbele trackingzang",
+		"qm": "Aantal nummers",
+		"qn": "Bladmuziek/MIDI",
+		"qo": "Refrein",
+		"qp": "Brug",
+		"qq": "Melodie schrijven",
+		"qr": "Zang opname",
+		"qs": "Teksten schrijven",
+		"qt": "Gescheiden sporen/stelen",
+		"qu": "Projectbestand",
+		"qv": "Beheersen",
+		"qw": "Aantal sporen/stelen",
+		"qx": "Alternatieve versie",
+		"qy": "Beheerste stengelexport",
+		"qz": "Analoge uitrusting",
+		"q0": "Inclusief liedjes",
+		"q1": "Videosynchronisatie",
+		"q2": "Onbewerkte audiolengte (minuten)",
+		"q3": "Handmatig afstemmen",
+		"q4": "Audiobewerking",
+		"q5": "Tijd uitlijning",
+		"q6": "Harmonie creatie",
+		"q7": "stem-woorden",
+		"q8": "voice-hq-audo",
+		"q9": "Audiobewerking en ruisonderdrukking",
+		"ra": "Schrijf shownotities",
+		"rb": "Voeg ID3-tags toe",
+		"rc": "Voeg intro/outro/advertenties toe",
+		"rd": "Productie van liveshows",
+		"re": "Podcastdistributie",
+		"rf": "Proefdrukken",
+		"rg": "Hoofdstukken splitsen",
+		"rh": "Audiovoorbeeld in de detailhandel",
+		"ri": "Stem opname",
+		"rj": "Publieksonderzoek",
+		"rk": "Aantal advertentieversies",
+		"rl": "Gescheiden bestanden",
+		"rm": "Bewijs luisteren",
+		"rn": "Aangepaste stem",
+		"ro": "Aantal tags inbegrepen",
+		"rp": "Scheiding van sporen",
+		"rq": "Opnameduur (in minuten)",
+		"rr": "Aangepaste nummervolgorde",
+		"rs": "Tracklijst met tijdstempel",
+		"rt": "Aantal geluidseffecten",
+		"ru": "Speciaal gemaakt",
+		"rv": "Aantal synth-presets",
+		"rw": "Midi gespeeld met synth-preset",
+		"rx": "Aantal sfx",
+		"ry": "Lied creatie",
+		"rz": "Voice-over toegevoegd",
+		"r0": "Productgeluidsontwerp",
+		"r1": "Lesduur (in minuten)",
+		"r2": "Oefeningen & ondersteunend materiaal",
+		"r3": "Aantal monofone instrumenten",
+		"r4": "Aantal polyfone instrumenten",
+		"r5": "Complex stuk",
+		"r6": "Songteksten inbegrepen",
+		"r7": "Sessie lengte",
+		"r8": "Vervolgopdrachten",
+		"r9": "Samenvatting van de sessie"
+	},
+	"categoryExtra": {
+		"aa": "Extra instrumentspoor",
+		"ab": "HQ-audiobestand",
+		"ac": "Aparte bestanden",
+		"ad": "Bladmuziek",
+		"ae": "Originele melodie",
+		"af": "Mixen en masteren",
+		"ag": "Levering van projectbestanden/stammen",
+		"ah": "Video opnemen",
+		"ai": "Vocale harmonie",
+		"aj": "Dubbele trackingzang",
+		"ak": "Bladmuziek/MIDI",
+		"al": "Extra vers",
+		"am": "Refrein",
+		"an": "Brug",
+		"ao": "Melodie schrijven",
+		"ap": "Zang opname",
+		"aq": "Teksten schrijven",
+		"ar": "Gescheiden sporen/stelen",
+		"as": "Extra spoor",
+		"at": "Alternatieve versie",
+		"au": "Beheerste stengelexport",
+		"av": "Projectbestand",
+		"aw": "Extra liedje",
+		"ax": "Extra dialoogtrack",
+		"ay": "Videosynchronisatie",
+		"az": "Harmonie creatie",
+		"a0": "Script proeflezen",
+		"a1": "Commerciële rechten",
+		"a2": "Volledige uitzendrechten",
+		"a3": "HQ-audiobestand (WAV-formaat)",
+		"a4": "Getimede audiosynchronisatie (per 60 seconden)",
+		"a5": "Bestanden splitsen (maximaal 5 bestanden)",
+		"a6": "Aanvullende herzieningen",
+		"a7": "Achtergrondmuziek (per elk nummer)",
+		"a8": "Aanvullende woorden,",
+		"a9": "Aflevertijd",
+		"ba": "Audiobewerking en ruisonderdrukking",
+		"bb": "Schrijf shownotities",
+		"bc": "Voeg ID3-tags toe",
+		"bd": "Voeg intro/outro/advertenties toe",
+		"be": "Productie van liveshows",
+		"bf": "Podcastdistributie",
+		"bg": "Proefdrukken",
+		"bh": "Audiovoorbeeld in de detailhandel",
+		"bi": "Stem opname",
+		"bj": "Gescheiden bestanden",
+		"bk": "Bewijs luisteren",
+		"bl": "Extra druppels",
+		"bm": "Scheiding van sporen",
+		"bn": "Extra mengtijd",
+		"bo": "Aangepaste nummervolgorde",
+		"bp": "Tracklijst met tijdstempel",
+		"bq": "Speciaal gemaakt",
+		"br": "Midi gespeeld met synth-preset",
+		"bs": "Lied creatie",
+		"bt": "Voice-over toegevoegd",
+		"bu": "Productgeluidsontwerp",
+		"bv": "Oefeningen & ondersteunend materiaal",
+		"bw": "Extra monofoon instrument",
+		"bx": "Extra polyfoon instrument",
+		"by": "Songteksten inbegrepen",
+		"bz": "Extra foto per product",
+		"b0": "Levend model",
+		"b1": "Levensstijl enscenering",
+		"b2": "Fotoshoot Styling",
+		"b3": "Gekoppelde liveweergave",
+		"b4": "Infografieken",
+		"b5": "Extra foto",
+		"b6": "Extra recept",
+		"b7": "Fotoshoot stylist",
+		"b8": "Extra uur op de set",
+		"b9": "Studio inbegrepen",
+		"ca": "Haar & make-up",
+		"cb": "Retoucheren van foto's",
+		"cc": "Extra locaties",
+		"cd": "Bedrijfsomschrijving",
+		"ce": "Analyse van de industrie en concurrenten",
+		"cf": "SWOT-analyse",
+		"cg": "Klantanalyse",
+		"ch": "Financiële prognose",
+		"ci": "Beleggers lijst",
+		"cj": "Outreach-e-mailkopie",
+		"ck": "Pitch-dek",
+		"cl": "Organisatiestructuur",
+		"cm": "Onboardingproces van medewerkers",
+		"cn": "Nivellering van medewerkers",
+		"co": "Feedback van medewerkers",
+		"cp": "Algemeen projectadvies",
+		"cq": "Definieer projectdoelen",
+		"cr": "Definieer leveringen en KPI's",
+		"cs": "Stel een planning en mijlpalen op",
+		"ct": "Risicomanagement",
+		"cu": "Beheer van hulpbronnen",
+		"cv": "Budgetbeheer",
+		"cw": "Projectrapporten genereren",
+		"cx": "Projectdiagrammen genereren",
+		"cy": "Extra spreekuren",
+		"cz": "Initiële beoordeling",
+		"c0": "Strategische aanbevelingen",
+		"c1": "Strategie-implementatiedocument",
+		"c2": "Raadgevend dek",
+		"c3": "Markt trends",
+		"c4": "Concurrentieanalyse",
+		"c5": "TAM-berekening of analyse",
+		"c6": "Verkooponderpand",
+		"c7": "Interne verkooptraining",
+		"c8": "Creëren en onderhouden van een Helpcentrum",
+		"c9": "Kennisbank creëren en onderhouden",
+		"da": "Systeemopstelling",
+		"db": "Ontwikkeling van macro's",
+		"dc": "Speelboek voor klantzorgprocessen en -trajecten",
+		"dd": "Agentenopleiding",
+		"de": "Trainingssessie",
+		"df": "Automatiseringsplanning",
+		"dg": "Automatiseringsplanning en -installatie",
+		"dh": "Extra medewerkers",
+		"di": "Adviesdiensten",
+		"dj": "Logistiek",
+		"dk": "Aantal gasten",
+		"dl": "Promotie van evenementen",
+		"dm": "Content creatie",
+		"dn": "Technische hulp",
+		"do": "Ondersteuning na het evenement",
+		"dp": "Ontwikkeling van spelconcepten",
+		"dq": "Gameplay-mechanica",
+		"dr": "Extra niveau",
+		"ds": "Strategie voor het genereren van inkomsten",
+		"dt": "Speleconomie",
+		"du": "Creatie van spelontwerpdocumenten",
+		"dv": "Project-/productieplan",
+		"dw": "Extra advertentie",
+		"dx": "Persbericht indienen",
+		"dy": "Format persbericht",
+		"dz": "Ideeën voor persberichten",
+		"d0": "Gebruikersonderzoek",
+		"d1": "Documentopmaak",
+		"d2": "Taalstijlgids",
+		"d3": "Tijdreferentie",
+		"d4": "Extra luidspreker",
+		"d5": "Woordelijke transcriptie",
+		"d6": "Bestand converteren",
+		"d7": "Extra hoofdstuk",
+		"d8": "Videoscript schrijven",
+		"d9": "Aanvullende technische illustraties",
+		"ea": "Proeflezen en redigeren",
+		"eb": "Stijlgids opgemaakt",
+		"ec": "Extra artikelen",
+		"ed": "Extra pagina's gedolven/geschraapt",
+		"ee": "Extra bron gedolven/scarped",
+		"ef": "Bronnen downloaden",
+		"eg": "Extra trechter",
+		"eh": "Aanvullende statistiek",
+		"ei": "Extra segment",
+		"ej": "Aanvullend scenario",
+		"ek": "Managementsamenvatting",
+		"el": "Connectiviteit van gegevensbronnen",
+		"em": "Web-insluiting",
+		"en": "Interactieve/geanimeerde beelden",
+		"eo": "Extra grafiek/grafiek",
+		"ep": "Extra grafiek-/grafiekvariatie",
+		"eq": "Presentatie",
+		"er": "Aanvullende formule",
+		"es": "Extra macro",
+		"et": "Extra knop/formulier",
+		"eu": "Toolbar-integratie",
+		"ev": "Modeldocumentatie",
+		"ew": "Aanvullende vraag",
+		"ex": "Foutopsporingsquery's",
+		"ey": "Optimaliseer zoekopdrachten",
+		"ez": "Vragen plannen",
+		"e0": "Analyseer zoekopdrachten",
+		"e1": "Structurele bewerking",
+		"e2": "Lijn bewerken",
+		"e3": "Herschrijven",
+		"e4": "Feedback",
+		"e5": "AI-detectie en -bewerking",
+		"e6": "Stem- en toonconsistentie",
+		"e7": "Herschrijven van secties",
+		"e8": "Ontwikkelingsbewerking",
+		"e9": "Stijlblad",
+		"fa": "Proeflezen",
+		"fb": "Voorbeeldregel bewerken",
+		"fc": "Lezersrapport",
+		"fd": "Aanvullende materialen / oefenoefeningen",
+		"fe": "Bewerkbaar bestand",
+		"ff": "Bewerken en herschrijven",
+		"fg": "Optimaliseer LinkedIn-profiel",
+		"fh": "Voorblad",
+		"fi": "Beoordelen en bewerken",
+		"fj": "Aanvullende gerichte sollicitatiebrief",
+		"fk": "Kop en samenvatting",
+		"fl": "Opleiding, certificeringen en prijzen",
+		"fm": "Professionele ervaring",
+		"fn": "Gerichte hashtags/trefwoorden",
+		"fo": "Vaardigheden en onderschrijvingen",
+		"fp": "Aanvullende functieomschrijving",
+		"fq": "Competitief onderzoek",
+		"fr": "Overzicht functieomschrijving",
+		"fs": "Verantwoordelijkheden en Plichten",
+		"ft": "Consistentie van merkstem",
+		"fu": "Missie & visieverklaring",
+		"fv": "Merkverhaal",
+		"fw": "Doelgroep & positionering",
+		"fx": "Stem- en toonrichtlijnen",
+		"fy": "Richtlijnen voor merkontwerp",
+		"fz": "Bedrijfsnaam en slogan",
+		"f0": "Extra namen",
+		"f1": "Extra slogan",
+		"f2": "Handvatten voor sociale media",
+		"f3": "Merkcontrole",
+		"f4": "Domeinonderzoek",
+		"f5": "Interviews met klanten",
+		"f6": "Extra productvermelding",
+		"f7": "html-titel",
+		"f8": "Geëxplodeerde weergave",
+		"f9": "Röntgenfoto",
+		"ga": "Productfilming inbegrepen",
+		"gb": "Extra schermafdruk",
+		"gc": "Schermopname",
+		"gd": "Ondertiteling",
+		"ge": "Stockbeeldmateriaal",
+		"gf": "Miniatuurontwerp",
+		"gg": "Begeleide meditatie-opname",
+		"gh": "Meditatiescript schrijven",
+		"gi": "Extra titel",
+		"gj": "Extra citaat/bijschrift",
+		"gk": "SEO-zoekwoordonderzoek",
+		"gl": "Referenties & citaten",
+		"gm": "Gegevensgrafiek",
+		"gn": "Plagiaatcontrole",
+		"go": "Feiten controleren",
+		"gp": "AI-detectie",
+		"gq": "Doelgroeponderzoek",
+		"gr": "Inhoud kalender",
+		"gs": "Inhoudskader",
+		"gt": "Extra opnametijd",
+		"gu": "Verhaal ontwikkeling",
+		"gv": "Visuele beschrijving",
+		"gw": "Onderzoek van concurrenten",
+		"gx": "Aanvullend onderzoek",
+		"gy": "Meerdere bestandsgroottes",
+		"gz": "Video formaat",
+		"g0": "Naadloze lus",
+		"g1": "Volle kleur",
+		"g2": "Addybord",
+		"g3": "Aanvullende herziening",
+		"g4": "Nasynchronisatie",
+		"g5": "Achtergrondafbeeldingen",
+		"g6": "Stortional-voorraadmedia",
+		"g7": "Maak een vectorbestand",
+		"g8": "Inclusief pictogram",
+		"g9": "Inclusief logo",
+		"ha": "Inclusief karakter",
+		"hb": "Inclusief landings-/heldenanimatie",
+		"hc": "Inclusief interacties",
+		"hd": "IK/FK-schakelaar",
+		"he": "Aangepaste illustratie inbegrepen",
+		"hf": "Karakter animatie",
+		"hg": "Achtergrondanimatie",
+		"hh": "Dubbelzijdige kaart",
+		"hi": "Extra opnamedag(en).",
+		"hj": "Inclusief voice-over",
+		"hk": "Talent uit de lucht",
+		"hl": "Extra opnamedagen",
+		"hm": "Opname met meerdere camera's",
+		"hn": "Geluidsopname",
+		"ho": "Personages inbegrepen",
+		"hp": "Geïllustreerde achtergrond inbegrepen",
+		"hq": "Origineel ontwerp",
+		"hr": "Extra acteur",
+		"hs": "Achtergrond",
+		"ht": "Aangepaste outfit",
+		"hu": "Voeg bijschriften toe",
+		"hv": "Onderwerp onderzoek",
+		"hw": "Titels en afbeeldingen",
+		"hx": "Model/host inbegrepen",
+		"hy": "Marketingstrategierapport",
+		"hz": "Klantsegmentatie",
+		"h0": "Vervolgopdrachten",
+		"h1": "Samenvatting van de sessie",
+		"h2": "Tracking-tags",
+		"h3": "Extra geconfigureerd doel",
+		"h4": "Analysedashboard maken",
+		"h5": "Aangepast GA-rapport",
+		"h6": "Conversierapport",
+		"h7": "Advertentiebeheer",
+		"h8": "Beoordeling en kritiek",
+		"h9": "Promotie campagne",
+		"ia": "E-mailmarketingrapport",
+		"ib": "Kleurindeling",
+		"ic": "Geluidsontwerp en mixen",
+		"id": "Bewegende graphics",
+		"ie": "Ondertitels",
+		"if": "Miniatuur inbegrepen",
+		"ig": "Extra looptijd (seconden)",
+		"ih": "Video bewerking",
+		"ii": "Muziek en geluidseffecten",
+		"ij": "Voice-over opname",
+		"ik": "Presentator op camera",
+		"il": "Overlay-tekst",
+		"im": "Logo toevoegen",
+		"in": "Transparante achtergrond",
+		"io": "Aangepast ontwerp",
+		"ip": "Geluidseffecten",
+		"iq": "Extra clips",
+		"ir": "Sjabloon creatie",
+		"is": "Sjabloonbronbestand",
+		"it": "Volledig HD (1080p)",
+		"iu": "Extra minuten",
+		"iv": "Transcriptie",
+		"iw": "Vertaling",
+		"ix": "SRT-bestand",
+		"iy": "Extra filmpje",
+		"iz": "Extra versie",
+		"i0": "Inhoudsidee",
+		"i1": "Script schrijven",
+		"i2": "Speciale effecten inbegrepen",
+		"i3": "Filmen inbegrepen",
+		"i4": "Levend model inbegrepen",
+		"i5": "Ondertiteling inbegrepen",
+		"i6": "Miniatuur",
+		"i7": "Extra lengtevariatie",
+		"i8": "Toon productafbeeldingen",
+		"i9": "Voice over",
+		"ja": "Grafische elementen",
+		"jb": "UltraHD 4k",
+		"jc": "Master-audio",
+		"jd": "Titels",
+		"je": "Voeg songteksten toe",
+		"jf": "Speciale effecten",
+		"jg": "Aantal afbeeldingen",
+		"jh": "Extra bijschrift",
+		"ji": "Videobeelden",
+		"jj": "Dynamische overgangen",
+		"jk": "Extra logo",
+		"jl": "Transparantie van logo's",
+		"jm": "Aangepaste kleuren",
+		"jn": "Aangepaste animatie",
+		"jo": "Perfecte lus",
+		"jp": "Personage ontwerp",
+		"jq": "Gedetailleerde bewegingen",
+		"jr": "Levering van projectbestanden",
+		"js": "concurrenten geanalyseerd",
+		"jt": "campagne-ontwikkeling",
+		"ju": "instellen van een account",
+		"jv": "semi-rapport",
+		"jw": "management-duur-weken",
+		"jx": "campagne-optimalisatie",
+		"jy": "SEO-audit en -rapport",
+		"jz": "Actieplan op maat",
+		"j0": "SEO-optimalisatie",
+		"j1": "Verwijdering van slechte links",
+		"j2": "Extra trefwoord",
+		"j3": "Extra concurrent",
+		"j4": "Directory-inzending",
+		"j5": "Claim een Yelp-vermelding",
+		"j6": "Claim Foursquare-vermelding",
+		"j7": "Pagina instellingen",
+		"j8": "Pagina-optimalisatie",
+		"j9": "Marketingplan op maat",
+		"ka": "Extra post op sociale media",
+		"kb": "Extra sociale mediabeheer",
+		"kc": "Extra bericht",
+		"kd": "Partnerschap en samenwerkingsbereik",
+		"ke": "Kanaalconfiguratie en -optimalisatie",
+		"kf": "SEO-video-optimalisatie",
+		"kg": "Aangepaste eindkaart",
+		"kh": "Actieplan",
+		"ki": "Ontwikkeling van contactlijsten",
+		"kj": "Hygiëne van e-maillijsten",
+		"kk": "Extra inzendingen van gastposts",
+		"kl": "Artikel schrijven",
+		"km": "SEO-trefwoorden",
+		"kn": "Media-item inbegrepen",
+		"ko": "Backlink inbegrepen",
+		"kp": "Accountcontrole",
+		"kq": "Campagne-opstelling",
+		"kr": "Analytisch rapport voor advertenties",
+		"ks": "Accountondersteuning",
+		"kt": "Contacten importeren",
+		"ku": "Automatisering instellen",
+		"kv": "Campagnerapport",
+		"kw": "Extra gespreksstappen",
+		"kx": "Gespreksscript",
+		"ky": "Stroomontwerp",
+		"kz": "Extra pagina's getest",
+		"k0": "Extra schermopnametijd",
+		"k1": "Back-up van website",
+		"k2": "Website-migratie",
+		"k3": "Uploaden naar appstore",
+		"k4": "Overlay-ontwerp",
+		"k5": "Chat-opstelling",
+		"k6": "Documentatie repareren",
+		"k7": "Gedetailleerde codeopmerkingen",
+		"k8": "App-inzending",
+		"k9": "Extra besturingssysteem",
+		"la": "App-pictogram",
+		"lb": "Splash-scherm",
+		"lc": "Inclusief broncode",
+		"ld": "Applicatie/website ontwerp",
+		"le": "Installatiebestand",
+		"lf": "Extra functie",
+		"lg": "API-integratie",
+		"lh": "Inclusief ontwerp",
+		"li": "Munten",
+		"lj": "Wallet-integratie",
+		"lk": "Witte lijst",
+		"ll": "Extra componenten",
+		"lm": "Extra laag",
+		"ln": "Voeg een schematisch diagram toe",
+		"lo": "Fabricage klaar",
+		"lp": "Prototyping",
+		"lq": "Documentatie",
+		"lr": "Installatie",
+		"ls": "Configuratie",
+		"lt": "Migratie",
+		"lu": "Foutopsporing",
+		"lv": "Back-up",
+		"lw": "Extra uren",
+		"lx": "Extra les",
+		"ly": "Oefeningen en ondersteunend materiaal",
+		"lz": "Extra installatie van plug-ins",
+		"l0": "E-commerce functionaliteit",
+		"l1": "Extra product",
+		"l2": "Verwerking van betalingen",
+		"l3": "Aanmeldingsformulier",
+		"l4": "Integratie van autoresponders",
+		"l5": "Snelheidsoptimalisatie",
+		"l6": "Hosting-opstelling",
+		"l7": "Sociale media iconen",
+		"l8": "Concept- en ontwerpvoorstel",
+		"l9": "Aanvullende schets",
+		"ma": "Productonderzoek",
+		"mb": "Hoog detailniveau",
+		"mc": "Grafische verbeteringen",
+		"md": "Inclusief lay-outbladen",
+		"me": "Extra zijkanten",
+		"mf": "3d model",
+		"mg": "Extra platforms",
+		"mh": "Extra ontworpen e-mails",
+		"mi": "Bewerkbare sjabloon",
+		"mj": "E-mail instellen",
+		"mk": "Extra maatvariaties",
+		"ml": "Extra stijl",
+		"mm": "Sociaal",
+		"mn": "Achtergrond verwijderen",
+		"mo": "Ontwerpmodel",
+		"mp": "Extra modeartikelen",
+		"mq": "Extra interieurpagina's",
+		"mr": "Rug & wervelkolom",
+		"ms": "Boekje ontwerp",
+		"mt": "Geanimeerde omslag",
+		"mu": "Miniatuur omslagafbeelding",
+		"mv": "Kopafbeelding",
+		"mw": "3D-mockup",
+		"mx": "Verwijdering van bestaand object",
+		"my": "Verander kleur en materialen",
+		"mz": "Commerciële enscenering",
+		"m0": "Inclusief omgeving",
+		"m1": "Landschapswandeling",
+		"m2": "Marketinginstrumenten",
+		"m3": "Aanvullende 2D-tekeningen",
+		"m4": "Analyse & simulatie",
+		"m5": "Gedetailleerd systeemontwerp",
+		"m6": "Materiële start",
+		"m7": "Berekeningen laden",
+		"m8": "Extra itemweergaven",
+		"m9": "Extra kleurstelling",
+		"na": "Ontwerp specificaties",
+		"nb": "Maattabel",
+		"nc": "Illustraties en printdetails",
+		"nd": "Stuklijst (BOM)",
+		"ne": "Aanvullend concept",
+		"nf": "Extra karakter",
+		"ng": "Extra accessoire",
+		"nh": "Sprite-blad",
+		"ni": "Verbeterde details",
+		"nj": "Inclusief animatie",
+		"nk": "3D-modellering",
+		"nl": "Inclusief logo-ontwerp",
+		"nm": "Iconografie",
+		"nn": "Wat te doen en wat niet te doen",
+		"no": "Merkboekontwerp",
+		"np": "Extra voorraadmedia",
+		"nq": "Aanvullend ontwerpconcept",
+		"nr": "Dubbelzijdig",
+		"ns": "Email handtekening",
+		"nt": "Verzenden",
+		"nu": "Aanvullende woorden",
+		"nv": "Veelkleurig",
+		"nw": "Vectorbestand",
+		"nx": "Verzending origineel",
+		"ny": "Aanvullende cijfers",
+		"nz": "Hoge resolutie",
+		"n0": "Kleur",
+		"n1": "Volledige lichaam",
+		"n2": "Commercieel gebruik",
+		"n3": "Aanvullende aanwijzingen",
+		"n4": "Levering van kunstwerken",
+		"n5": "Extra illustraties",
+		"n6": "Extra snelle levering",
+		"n7": "Extra karakters",
+		"n8": "Achtergrond/scène",
+		"n9": "Kleur illustratie",
+		"oa": "Storyboard",
+		"ob": "Boekomslag",
+		"oc": "Inclusief boekopmaak",
+		"od": "Printklaar",
+		"oe": "eBook-opmaak",
+		"of": "Bron bestand",
+		"og": "Extra panelen",
+		"oh": "Aanvullende herziening",
+		"oi": "Inclusief schaduw",
+		"oj": "Aanvullende revisiev",
+		"ok": "Beschrijvende tekst",
+		"ol": "Extra eigenschappen/accessoires",
+		"om": "Extra variaties",
+		"on": "Extra basisillustraties",
+		"oo": "Metagegevens",
+		"op": "Verzameling generatie",
+		"oq": "Extra lessen",
+		"or": "Extra Pagina's",
+		"os": "Extra aangepast itemontwerp",
+		"ot": "Prototype",
+		"ou": "Inhoud uploaden",
+		"ov": "Converteren naar HTML/CSS",
+		"ow": "Reagerend ontwerp",
+		"ox": "Draadframes",
+		"oy": "Concurrerende UX-analyse",
+		"oz": "Gebruikersonderzoek en persona's",
+		"o0": "Gebruikersstromen",
+		"o1": "UI-ontwerp",
+		"o2": "Extra secties",
+		"o3": "Extra pictogrammen/knoppen",
+		"o4": "Pictogram animatie",
+		"o5": "Aanvullende technische tekeningen",
+		"o6": "Conceptontwikkeling",
+		"o7": "Volledig concept-prototype",
+		"o8": "Ontwerp voor productie",
+		"o9": "Verlichting",
+		"pa": "Tuigage",
+		"pb": "Logo ontwerp",
+		"pc": "Aangepaste overlay",
+		"pd": "Facecam",
+		"pe": "Paneelontwerp",
+		"pf": "Kit voor sociale media",
+		"pg": "Extra waarschuwing",
+		"ph": "Extra scherm",
+		"pi": "Extra emote of badge",
+		"pj": "Aangepaste afbeeldingen",
+		"pk": "fotobewerking",
+		"pl": "Ontwerp voor sociale media",
+		"pm": "Extra snelle levering",
+		"pn": "Aanvullende revisie",
+		"po": "Aangepaste afbeeldingen",
+		"pp": "fotobewerking",
+		"pq": "Ontwerp voor sociale media",
+		"pr": "Bron bestand",
+		"ps": "Extra voorraadmedia",
+		"pt": "Omslag ontwerp",
+		"pu": "Extra afbeelding",
+		"pv": "Extra dia's",
+		"pw": "Inclusief beeldmateriaal",
+		"px": "Inclusief diagrammen en grafieken",
+		"py": "Inclusief infographics",
+		"pz": "Inclusief dia-overgang",
+		"p0": "Voeg dia-animatie toe",
+		"p1": "Extra gegevenspunten",
+		"p2": "Onderzoek doen",
+		"p3": "Plaats berichten op infographic-sites",
+		"p4": "Extra pagina",
+		"p5": "Ontwerp van een sollicitatiebrief",
+		"p6": "Dubbeldeks cabineontwerp",
+		"p7": "Standplannen",
+		"p8": "Extra weergaveafbeelding",
+		"p9": "3D walkthrough-animatie",
+		"qa": "Inclusief grafisch ontwerp",
+		"qb": "Coördinatie op locatie"
+	},
+	"countries": {
+		"AF": "Afghanistan",
+		"AL": "Albanië",
+		"DZ": "Algerije",
+		"AS": "Amerikaans Samoa",
+		"AD": "Andorra",
+		"AO": "Angola",
+		"AI": "Anguilla",
+		"AQ": "Antarctica",
+		"AG": "Antigua en Barbuda",
+		"AR": "Argentinië",
+		"AM": "Armenië",
+		"AW": "Aruba",
+		"AU": "Australië",
+		"AT": "Oostenrijk",
+		"AZ": "Azerbeidzjan",
+		"BS": "Bahamas",
+		"BH": "Bahrein",
+		"BD": "Bangladesh",
+		"BB": "Barbados",
+		"BE": "België",
+		"BZ": "Belize",
+		"BJ": "Benin",
+		"BM": "Bermuda",
+		"BT": "Bhutan",
+		"BO": "Bolivia",
+		"BA": "Bosnië-Herzegovina",
+		"BW": "Botswana",
+		"BV": "Bouvet-eiland",
+		"BR": "Brazilië",
+		"IO": "Brits-Indisch oceaan gebied",
+		"BN": "Brunei Darussalam",
+		"BG": "Bulgarije",
+		"BF": "Burkina Faso",
+		"CV": "Kaapverdië",
+		"KH": "Cambodja",
+		"CM": "Kameroen",
+		"CA": "Canada",
+		"KY": "Kaaiman Eilanden",
+		"CF": "Centraal Afrikaanse Republiek",
+		"TD": "Tsjaad",
+		"CL": "Chili",
+		"CN": "China",
+		"CX": "Kersteiland",
+		"CC": "Cocoseilanden (Keeling).",
+		"CO": "Colombia",
+		"KM": "Comoren",
+		"CG": "Congo",
+		"CD": "Congo, dem. Republiek",
+		"CK": "Cook Eilanden",
+		"CR": "Costa Rica",
+		"HR": "Kroatië",
+		"CY": "Cyprus",
+		"CZ": "Tsjechië",
+		"CI": "Ivoorkust",
+		"DK": "Denemarken",
+		"DJ": "Djibouti",
+		"DM": "Dominica",
+		"DO": "Dominicaanse Republiek",
+		"EG": "Egypte",
+		"SV": "El Salvador",
+		"GQ": "Equatoriaal-Guinea",
+		"ER": "Eritrea",
+		"EE": "Estland",
+		"SZ": "Swaziland",
+		"ET": "Ethiopië",
+		"EU": "Europeese Unie",
+		"FK": "Falklandeilanden (Malvinas)",
+		"FO": "Faeröer eilanden",
+		"FJ": "Fiji",
+		"FI": "Finland",
+		"FR": "Frankrijk",
+		"GF": "Frans-Guyana",
+		"PF": "Frans-Polynesië",
+		"TF": "Franse zuidelijke gebieden",
+		"GA": "Gabon",
+		"GM": "Gambia",
+		"GE": "Georgië",
+		"DE": "Duitsland",
+		"GH": "Ghana",
+		"GI": "Gibraltar",
+		"GR": "Griekenland",
+		"GL": "Groenland",
+		"GD": "Grenada",
+		"GP": "Guadeloupe (Frans)",
+		"GU": "Guam (VS)",
+		"GG": "Guernsey",
+		"GN": "Guinea",
+		"GY": "Guyana",
+		"HT": "Haïti",
+		"VA": "Heilige Stoel",
+		"HN": "Honduras",
+		"HK": "Hongkong",
+		"HU": "Hongarije",
+		"IS": "IJsland",
+		"IN": "Indië",
+		"ID": "Indonesië",
+		"IE": "Ierland",
+		"IM": "Eiland Man",
+		"IL": "Israël",
+		"IT": "Italië",
+		"JM": "Jamaica",
+		"JP": "Japan",
+		"JE": "Jersey",
+		"JO": "Jordanië",
+		"KZ": "Kazachstan",
+		"KE": "Kenia",
+		"KI": "Kiribati",
+		"KR": "Zuid Korea",
+		"KW": "Koeweit",
+		"KG": "Kirgizië",
+		"LA": "Laos",
+		"LS": "Lesotho",
+		"LR": "Liberia",
+		"LI": "Liechtenstein",
+		"LU": "Luxemburg",
+		"MO": "Macau",
+		"MW": "Malawi",
+		"MY": "Maleisië",
+		"MV": "Maldiven",
+		"ML": "Mali",
+		"MT": "Malta",
+		"MH": "Marshall eilanden",
+		"MQ": "Martinique (Frans)",
+		"MR": "Mauritanië",
+		"MU": "Mauritius",
+		"YT": "Mayotte",
+		"MX": "Mexico",
+		"FM": "Micronesië",
+		"MD": "Moldavië",
+		"MC": "Monaco",
+		"MN": "Mongolië",
+		"ME": "Montenegro",
+		"MS": "Montserrat",
+		"MA": "Marokko",
+		"MZ": "Mozambique",
+		"MM": "Myanmar",
+		"NA": "Namibië",
+		"NR": "Nauru",
+		"NP": "Nepal",
+		"NL": "Nederland",
+		"NC": "Nieuw-Caledonië (Frans)",
+		"NZ": "Nieuw-Zeeland",
+		"NI": "Nicaragua",
+		"NE": "Niger",
+		"NG": "Nigeria",
+		"NU": "Niue",
+		"NF": "Norfolkeiland",
+		"MK": "Noord-Macedonië",
+		"MP": "noordelijke Mariana eilanden",
+		"NO": "Noorwegen",
+		"OM": "Oman",
+		"PK": "Pakistan",
+		"PW": "Palau",
+		"PA": "Panama",
+		"PG": "Papoea-Nieuw-Guinea",
+		"PY": "Paraguay",
+		"PE": "Peru",
+		"PH": "Filippijnen",
+		"PN": "Pitcairn-eiland",
+		"PL": "Polen",
+		"PT": "Portugal",
+		"PR": "Puerto Rico",
+		"QA": "Katar",
+		"RE": "Reünie (Frans)",
+		"RO": "Roemenië",
+		"RU": "Rusland",
+		"RW": "Rwanda",
+		"SH": "Sint-Helena",
+		"KN": "Saint Kitts en Nevis Anguilla",
+		"LC": "Sint Lucia",
+		"PM": "Saint-Pierre en Miquelon",
+		"VC": "Saint Vincent en de Grenadines",
+		"WS": "Samoa",
+		"SM": "San Marino",
+		"ST": "Sao Tomé en Principe",
+		"SA": "Saoedi-Arabië",
+		"SN": "Senegal",
+		"RS": "Servië",
+		"SC": "Seychellen",
+		"SL": "Sierra Leone",
+		"SG": "Singapore",
+		"SK": "Slowakije",
+		"SI": "Slovenië",
+		"SB": "Solomon eilanden",
+		"ZA": "Zuid-Afrika",
+		"ES": "Spanje",
+		"LK": "Sri Lanka",
+		"SR": "Suriname",
+		"SJ": "Svalbard- en Jan Mayen-eilanden",
+		"SE": "Zweden",
+		"CH": "Zwitserland",
+		"TW": "Taiwan",
+		"TJ": "Tadzjikistan",
+		"TZ": "Tanzania",
+		"TH": "Thailand",
+		"TG": "Gaan",
+		"TK": "Tokelau",
+		"TO": "Tonga",
+		"TT": "Trinidad en Tobago",
+		"TN": "Tunesië",
+		"TR": "Kalkoen",
+		"TM": "Turkmenistan",
+		"TC": "Turks- en Caicoseilanden",
+		"TV": "Tuvalu",
+		"US": "VS",
+		"UM": "Kleine afgelegen eilanden van de VS",
+		"UG": "Oeganda",
+		"UA": "Oekraïne",
+		"AE": "Verenigde Arabische Emiraten",
+		"GB": "Verenigd Koninkrijk",
+		"UY": "Uruguay",
+		"UZ": "Oezbekistan",
+		"VU": "Vanuatu",
+		"VN": "Vietnam",
+		"VG": "Maagdeneilanden (Brits)",
+		"VI": "Maagdeneilanden (VS)",
+		"WF": "Wallis- en Futuna-eilanden",
+		"EH": "Westelijke Sahara",
+		"YE": "Jemen",
+		"ZM": "Zambia",
+		"ZW": "Zimbabwe"
+	},
+	"languages": {
+		"ENG": ["English", "", "United Kingdom"],
+		"TWS": ["Akan", "", "Ghana"],
+		"AMH": ["Amharic", "", "Ethiopia"],
+		"ARZ": ["Arabic", "Egyptian Spoken", "Egypt"],
+		"ARQ": ["Arabic", "Algerian Spoken", "Algeria"],
+		"ARY": ["Arabic", "Moroccan Spoken", "Morocco"],
+		"AEC": ["Arabic", "Saidi Spoken", "Egypt"],
+		"APD": ["Arabic", "Sudanese Spoken", "Sudan"],
+		"APC": ["Arabic", "North Levantine Spoken", "Syria"],
+		"ACM": ["Arabic", "Mesopotamian Spoken", "Iraq"],
+		"ARS": ["Arabic", "Najdi Spoken", "Saudi Arabia"],
+		"AEB": ["Arabic", "Tunisian Spoken", "Tunisia"],
+		"AYN": ["Arabic", "Sanaani Spoken", "Yemen"],
+		"ASM": ["Assamese", "", "India"],
+		"AWD": ["Awadhi", "", "India"],
+		"AZB": ["Azerbaijani", "South", "Iran"],
+		"AZE": ["Azerbaijani", "North", "Azerbaijan"],
+		"RUW": ["Belarusan", "", "Belarus"],
+		"BNG": ["Bengali", "", "Bangladesh"],
+		"BHJ": ["Bhojpuri", "", "India"],
+		"BLG": ["Bulgarian", "", "Bulgaria"],
+		"BMS": ["Burmese", "", "Myanmar"],
+		"CEB": ["Cebuano", "", "Philippines"],
+		"HNE": ["Chhattisgarhi", "", "India"],
+		"CHN": ["Chinese", "Mandarin", "China"],
+		"WUU": ["Chinese", "Wu", "China"],
+		"YUH": ["Chinese", "Yue", "China"],
+		"CFR": ["Chinese", "Min Nan", "China"],
+		"CJY": ["Chinese", "Jinyu", "China"],
+		"HSN": ["Chinese", "Xiang", "China"],
+		"HAK": ["Chinese", "Hakka", "China"],
+		"KNN": ["Chinese", "Gan", "China"],
+		"MNP": ["Chinese", "Min Bei", "China"],
+		"CIT": ["Chittagonian", "", "Bangladesh"],
+		"CZC": ["Czech", "", "Czech Republic"],
+		"DCC": ["Deccan", "", "India"],
+		"DUT": ["Dutch", "", "Netherlands"],
+		"PES": ["Farsi", "Western", "Iran"],
+		"PRS": ["Farsi", "Eastern", "Afghanistan"],
+		"FRN": ["French", "", "France"],
+		"FUV": ["Fulfulde", "Nigerian", "Nigeria"],
+		"GER": ["German", "Standard", "Germany"],
+		"GRK": ["Greek", "", "Greece"],
+		"GJR": ["Gujarati", "", "India"],
+		"HAT": ["Haitian Creole French", "", "Haiti"],
+		"BGC": ["Haryanvi", "", "India"],
+		"HUA": ["Hausa", "", "Nigeria"],
+		"HIL": ["Hiligaynon", "", "Philippines"],
+		"HND": ["Hindi", "", "India"],
+		"HNG": ["Hungarian", "", "Hungary"],
+		"IGR": ["Igbo", "", "Nigeria"],
+		"ILO": ["Ilocano", "", "Philippines"],
+		"INZ": ["Indonesian", "", "Indonesia"],
+		"ITN": ["Italian", "", "Italy"],
+		"JPN": ["Japanese", "", "Japan"],
+		"JAN": ["Javanese", "", "Indonesia, Java, Bali"],
+		"KJV": ["Kannada", "", "India"],
+		"KAZ": ["Kazakh", "", "Kazakhstan"],
+		"KMR": ["Khmer", "Central", "Cambodia"],
+		"KKN": ["Korean", "", "Korea, South"],
+		"KUR": ["Kurmanji", "", "Turkey"],
+		"LMO": ["Lombard", "", "Italy"],
+		"MHJ": ["Madura", "", "Indonesia, Java, Bali"],
+		"MQM": ["Magahi", "", "India"],
+		"MKP": ["Maithili", "", "India"],
+		"MEX": ["Malagasy", "", "Madagascar"],
+		"MLI": ["Malay", "", "Malaysia, Peninsular"],
+		"MJS": ["Malayalam", "", "India"],
+		"MRT": ["Marathi", "", "India"],
+		"MKD": ["Marwari", "", "India"],
+		"NPL": ["Napoletano-Calabrese", "", "Italy"],
+		"NEP": ["Nepali", "", "Nepal"],
+		"ORY": ["Oriya", "", "India"],
+		"GAZ": ["Oromo", "West-Central", "Ethiopia"],
+		"PNB": ["Panjabi", "Western", "Pakistan"],
+		"PNJ": ["Panjabi", "Eastern", "India"],
+		"PBU": ["Pashto", "Northern", "Pakistan"],
+		"PBT": ["Pashto", "Southern", "Afghanistan"],
+		"PQL": ["Polish", "", "Poland"],
+		"POR": ["Portuguese", "", "Portugal"],
+		"RUM": ["Romanian", "", "Romania"],
+		"RUS": ["Russian", "", "Russia"],
+		"RUA": ["Rwanda", "", "Rwanda"],
+		"SKR": ["Saraiki", "", "Pakistan"],
+		"SRC": ["Serbo-Croatian", "", "Yugoslavia"],
+		"SHD": ["Shona", "", "Zimbabwe"],
+		"SND": ["Sindhi", "", "Pakistan"],
+		"SNH": ["Sinhala", "", "Sri Lanka"],
+		"SOM": ["Somali", "", "Somalia"],
+		"SPN": ["Spanish", "", "Spain"],
+		"SUO": ["Sunda", "", "Indonesia"],
+		"SWD": ["Swedish", "", "Sweden"],
+		"TGL": ["Tagalog", "", "Philippines"],
+		"TCV": ["Tamil", "", "India"],
+		"TTR": ["Tatar", "", "Russia"],
+		"TCW": ["Telugu", "", "India"],
+		"THJ": ["Thai", "", "Thailand"],
+		"TTS": ["Thai", "Northeastern", "Thailand"],
+		"TRK": ["Turkish", "", "Turkey"],
+		"UKR": ["Ukrainian", "", "Ukraine"],
+		"URD": ["Urdu", "", "Pakistan"],
+		"UIG": ["Uyghur", "", "China"],
+		"UZB": ["Uzbek", "Northern", "Uzbekistan"],
+		"VIE": ["Vietnamese", "", "Viet Nam"],
+		"YOR": ["Yoruba", "", "Nigeria"],
+		"CCX": ["Zhuang", "Northern", "China"],
+		"ZUU": ["Zulu", "", "South Africa"]
+	},
+	"languageProficiency": [
+		"Elementary",
+		"Limited working",
+		"Professional working",
+		"Full professional",
+		"Native or bilingual"
+	],
+	"monthname": [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
+	"certifications": [
+		"Accredited Tax Advisor (ATA)",
+		"Adobe Certified Expert",
+		"Akka Essentials with Scala | Rock the JVM",
+		"Appcelerator Titanium Certified Application Developer",
+		"Appcelerator Titanium Certified Mobile Developer",
+		"Associate Android Developer",
+		"AWS Certified Advanced Networking - Specialty",
+		"AWS Certified Alexa Skill Builder - Specialty",
+		"AWS Certified Cloud Practitioner",
+		"AWS Certified Data Analytics - Specialty",
+		"AWS Certified Database - Specialty",
+		"AWS Certified Developer - Associate",
+		"AWS Certified DevOps Engineer - Professional",
+		"AWS Certified Machine Learning - Specialty",
+		"AWS Certified Security - Specialty",
+		"AWS Certified Solutions Architect - Associate",
+		"AWS Certified Solutions Architect - Professional",
+		"AWS Certified SysOps Administrator - Associate",
+		"BlackBerry Certified Builder for Native Application Development",
+		"BlackBerry Certified Builder for Web Application Development",
+		"Cambridge English: Advanced (CAE)",
+		"Cambridge English: Business Vantage or Higher",
+		"Cambridge English: First (FCE)",
+		"Cambridge English: Proficiency (CPE)",
+		"Certified Ethical Hacker (CEH)",
+		"Certified Management Consultant (CMC)",
+		"Certified Paralegal (CP)",
+		"Certified Professional in Talent Development (CPTD former CPLP)",
+		"Certified Public Accountant (CPA)",
+		"Certified Translator",
+		"Chartered Financial Analyst (CFA)",
+		"Cisco and NetApp FlexPod Design Specialist",
+		"Cisco and NetApp FlexPod Implementation and Administration Specialist",
+		"Cisco Business Architecture Analyst",
+		"Cisco Business Architecture Practitioner",
+		"Cisco Business Architecture Specialist",
+		"Cisco Certified Architect (CCAr)",
+		"Cisco Certified Design Associate",
+		"Cisco Certified Design Expert (CCDE)",
+		"Cisco Certified Entry Networking Technician",
+		"Cisco Certified Internetwork Expert",
+		"Cisco Certified Internetwork Expert (CCIE) - Enterprise Infrastructure",
+		"Cisco Certified Internetwork Expert (CCIE) - Enterprise Wireless",
+		"Cisco Certified Internetwork Expert (CCIE) - Security",
+		"Cisco Certified Internetwork Expert (CCIE) - Service Provider",
+		"Cisco Certified Network Associate",
+		"Cisco Certified Network Associate Security",
+		"Cisco Certified Network Professional",
+		"Cisco Certified Network Professional (CCNP) - Collaboration",
+		"Cisco Certified Network Professional (CCNP) - Data Center",
+		"Cisco Certified Network Professional (CCNP) - Enterprise",
+		"Cisco Certified Network Professional (CCNP) - Security",
+		"Cisco Certified Network Professional (CCNP) - Service Provider",
+		"Cisco Certified Technician (CCT) - Collaboration",
+		"Cisco Certified Technician (CCT) - Data Center",
+		"Cisco Certified Technician (CCT) - Routing and Switching",
+		"Cisco Customer Success Manager",
+		"Cisco CyberOps Associate",
+		"Cisco DevNet Associate",
+		"Cisco DevNet Professional",
+		"Cisco Industrial Networking Specialist",
+		"Cisco IOS XR Specialist",
+		"Cisco Renewals Manager",
+		"Cisco Service Provider Mobility UMTS to LTE Specialist",
+		"Cisco Unified Contact Center Enterprise Specialist",
+		"CompTIA A+ Certification",
+		"CompTIA Advanced Security Practitioner (CASP+)",
+		"CompTIA Certified Technical Trainer (CTT+)",
+		"CompTIA Cloud+",
+		"CompTIA Cloud Essentials",
+		"CompTIA Cloud Essentials+",
+		"CompTIA Cybersecurity Analyst (CySA+)",
+		"CompTIA IT Fundamentals (ITF+)",
+		"CompTIA Linux+",
+		"CompTIA Network+ Certification",
+		"CompTIA PenTest+",
+		"CompTIA Project+ Certification",
+		"CompTIA Security+ Certification",
+		"CompTIA Server+",
+		"Data Center - Cisco Certified Internetwork Expert (CCIE)",
+		"Developing, Debugging and Analyzing Performance with the QNX Momentics IDE",
+		"Digital Marketing Pro",
+		"Docker Mastery: with Kubernetes+Swarm from a Docker Captain",
+		"Duolingo Proficiency Exam in English",
+		"Google Ads Apps Certification",
+		"Google Ads Display Certification",
+		"Google Ads - Measurement Certification",
+		"Google Ads Search Certification",
+		"Google Ads Video Certification",
+		"Google Analytics Individual Qualification",
+		"Hubspot Agency Partner Certification",
+		"Hubspot Contextual Marketing Certification",
+		"Hubspot Design Certification",
+		"Hubspot Inbound Certification",
+		"Hubspot Inbound Certification (2017 Version)",
+		"HubSpot Marketing Software Certification",
+		"IELTS - English Proficiency Exam",
+		"Linux Professional Institute Certification - Level 1",
+		"Linux Professional Institute Certification - Level 2",
+		"Linux Professional Institute Certification - Level 3",
+		"Magento 1 Certified Developer",
+		"Magento 1 Certified Developer Plus",
+		"Magento 1 Certified Front End Developer",
+		"Magento 1 Certified Solution Specialist",
+		"Magento 2 Certified Associate Developer",
+		"Magento 2 Certified Professional Developer",
+		"Magento 2 Certified Professional Developer Plus",
+		"Magento 2 Certified Professional Front End Developer",
+		"Magento 2 Certified Professional JavaScript Developer",
+		"Magento 2 Certified Solution Specialist",
+		"Microsoft Certified Professional",
+		"MongoDB Certified DBA Associate",
+		"MongoDB Certified Developer, Associate",
+		"Oracle Certified Associate",
+		"Oracle Certified Associate - Java",
+		"Oracle Certified Expert",
+		"Oracle Certified Expert - Java",
+		"Oracle Certified Master",
+		"Oracle Certified Master - Java",
+		"Oracle Certified Professional",
+		"Oracle Certified Professional - Java",
+		"Realtime Programming for the QNX Neutrino RTOS",
+		"Red Hat Certified Engineer",
+		"Red Hat Certified System Administrator",
+		"Salesforce Certified Administrator",
+		"Salesforce Platform App Builder",
+		"Salesforce Platform Developer I",
+		"Salesforce Platform Developer II",
+		"Shopping Ads Certification",
+		"Writing Drivers for the QNX Neutrino RTOS",
+		"Zend Certified Engineer",
+		"Zendesk Certified Explore CX Analyst",
+		"Zendesk Certified Guide Specialist",
+		"Zendesk Certified Support Admin",
+		"Zend Framework Certified Engineer"
+	],
+	"fiats": {
+		"AFN": "Afghanistan Afghani",
+		"ALL": "Albanian Lek",
+		"DZD": "Algerian Dinar",
+		"USD": "US Dollar",
+		"EUR": "Euro",
+		"AOA": "Angolan Kwanza",
+		"XCD": "East Caribbean Dollar",
+		"ARS": "Argentine Peso",
+		"AMD": "Armenian Dram",
+		"AWG": "Aruban Guilder",
+		"AUD": "Australian Dollar",
+		"AZN": "Azerbaijan New Manat",
+		"BSD": "Bahamian Dollar",
+		"BHD": "Bahraini Dinar",
+		"BDT": "Bangladeshi Taka",
+		"BBD": "Barbados Dollar",
+		"BZD": "Belize Dollar",
+		"XOF": "CFA Franc BCEAO",
+		"BMD": "Bermudian Dollar",
+		"BTN": "Bhutan Ngultrum",
+		"BOB": "Boliviano",
+		"BAM": "Marka",
+		"BWP": "Botswana Pula",
+		"NOK": "Norwegian Krone",
+		"BRL": "Brazilian Real",
+		"BND": "Brunei Dollar",
+		"BGN": "Bulgarian Lev",
+		"CVE": "Cape Verde Escudo",
+		"KHR": "Kampuchean Riel",
+		"XAF": "CFA Franc BEAC",
+		"CAD": "Canadian Dollar",
+		"KYD": "Cayman Islands Dollar",
+		"CLP": "Chilean Peso",
+		"CNY": "Yuan Renminbi",
+		"COP": "Colombian Peso",
+		"KMF": "Comoros Franc",
+		"CDF": "Francs",
+		"NZD": "New Zealand Dollar",
+		"CRC": "Costa Rican Colon",
+		"HRK": "Croatian Kuna",
+		"CZK": "Czech Koruna",
+		"DKK": "Danish Krone",
+		"DJF": "Djibouti Franc",
+		"DOP": "Dominican Peso",
+		"EGP": "Egyptian Pound",
+		"SVC": "El Salvador Colon",
+		"ERN": "Eritrean Nakfa",
+		"SZL": "Swaziland Lilangeni",
+		"ETB": "Ethiopian Birr",
+		"FKP": "Falkland Islands Pound",
+		"FJD": "Fiji Dollar",
+		"XPF": "CFP Franc",
+		"GMD": "Gambian Dalasi",
+		"GEL": "Georgian Lari",
+		"GHS": "Ghanaian Cedi",
+		"GIP": "Gibraltar Pound",
+		"GGP": "Pound Sterling",
+		"GNF": "Guinea Franc",
+		"GYD": "Guyana Dollar",
+		"HTG": "Haitian Gourde",
+		"HNL": "Honduran Lempira",
+		"HKD": "Hong Kong Dollar",
+		"HUF": "Hungarian Forint",
+		"ISK": "Iceland Krona",
+		"INR": "Indian Rupee",
+		"IDR": "Indonesian Rupiah",
+		"GBP": "Pound Sterling",
+		"ILS": "Israeli New Shekel",
+		"JMD": "Jamaican Dollar",
+		"JPY": "Japanese Yen",
+		"JOD": "Jordanian Dinar",
+		"KZT": "Kazakhstan Tenge",
+		"KES": "Kenyan Shilling",
+		"KRW": "Korean Won",
+		"KWD": "Kuwaiti Dinar",
+		"KGS": "Som",
+		"LAK": "Lao Kip",
+		"LSL": "Lesotho Loti",
+		"LRD": "Liberian Dollar",
+		"CHF": "Swiss Franc",
+		"MOP": "Macau Pataca",
+		"MWK": "Malawi Kwacha",
+		"MYR": "Malaysian Ringgit",
+		"MVR": "Maldive Rufiyaa",
+		"MRO": "Mauritanian Ouguiya",
+		"MUR": "Mauritius Rupee",
+		"MXN": "Mexican Nuevo Peso",
+		"MDL": "Moldovan Leu",
+		"MNT": "Mongolian Tugrik",
+		"MAD": "Moroccan Dirham",
+		"MZN": "Mozambique Metical",
+		"MMK": "Myanmar Kyat",
+		"NAD": "Namibian Dollar",
+		"NPR": "Nepalese Rupee",
+		"NIO": "Nicaraguan Cordoba Oro",
+		"NGN": "Nigerian Naira",
+		"MKD": "Denar",
+		"OMR": "Omani Rial",
+		"PKR": "Pakistan Rupee",
+		"PAB": "Panamanian Balboa",
+		"PGK": "Papua New Guinea Kina",
+		"PYG": "Paraguay Guarani",
+		"PEN": "Peruvian Nuevo Sol",
+		"PHP": "Philippine Peso",
+		"PLN": "Polish Zloty",
+		"QAR": "Qatari Rial",
+		"RON": "Romanian New Leu",
+		"RUB": "Russian Ruble",
+		"RWF": "Rwanda Franc",
+		"SHP": "St. Helena Pound",
+		"WST": "Samoan Tala",
+		"STD": "Dobra",
+		"SAR": "Saudi Riyal",
+		"RSD": "Dinar",
+		"SCR": "Seychelles Rupee",
+		"SLL": "Sierra Leone Leone",
+		"SGD": "Singapore Dollar",
+		"SBD": "Solomon Islands Dollar",
+		"ZAR": "South African Rand",
+		"LKR": "Sri Lanka Rupee",
+		"SRD": "Surinam Dollar",
+		"SEK": "Swedish Krona",
+		"TWD": "Taiwan Dollar",
+		"TJS": "Tajik Somoni",
+		"TZS": "Tanzanian Shilling",
+		"THB": "Thai Baht",
+		"TOP": "Tongan Pa'anga",
+		"TTD": "Trinidad and Tobago Dollar",
+		"TND": "Tunisian Dollar",
+		"TRY": "Turkish Lira",
+		"TMT": "Manat",
+		"UGX": "Uganda Shilling",
+		"UAH": "Ukraine Hryvnia",
+		"AED": "Arab Emirates Dirham",
+		"UYU": "Uruguayan Peso",
+		"UZS": "Uzbekistan Sum",
+		"VUV": "Vanuatu Vatu",
+		"VND": "Vietnamese Dong",
+		"YER": "Yemeni Rial",
+		"ZMW": "Zambian Kwacha"
+	},
+	"timezones": [
+		["(UTC-12:00) International Date Line West", "Etc/GMT+12", -12],
+		["(UTC-11:00) Coordinated Universal Time-11", "Etc/GMT+11", -11],
+		["(UTC-10:00) Hawaii", "Pacific/Honolulu", -10],
+		["(UTC-09:00) Alaska", "America/Anchorage", -9],
+		["(UTC-08:00) Baja California", "America/Santa_Isabel", -8],
+		["(UTC-08:00) Pacific Time (US and Canada)", "America/Los_Angeles", -8],
+		["(UTC-07:00) Chihuahua, La Paz, Mazatlan", "America/Chihuahua", -7],
+		["(UTC-07:00) Arizona", "America/Phoenix", -7],
+		["(UTC-07:00) Mountain Time (US and Canada)", "America/Denver", -7],
+		["(UTC-06:00) Central America", "America/Guatemala", -6],
+		["(UTC-06:00) Central Time (US and Canada)", "America/Chicago", -6],
+		["(UTC-06:00) Saskatchewan", "America/Regina", -6],
+		["(UTC-06:00) Guadalajara, Mexico City, Monterey", "America/Mexico_City", -6],
+		["(UTC-05:00) Bogota, Lima, Quito", "America/Bogota", -5],
+		["(UTC-05:00) Indiana (East)", "America/Indiana/Indianapolis", -5],
+		["(UTC-05:00) Eastern Time (US and Canada)", "America/New_York", -5],
+		["(UTC-04:30) Caracas", "America/Caracas", -4.5],
+		["(UTC-04:00) Atlantic Time (Canada)", "America/Halifax", -4],
+		["(UTC-04:00) Asuncion", "America/Asuncion", -4],
+		["(UTC-04:00) Georgetown, La Paz, Manaus, San Juan", "America/La_Paz", -4],
+		["(UTC-04:00) Cuiaba", "America/Cuiaba", -4],
+		["(UTC-04:00) Santiago", "America/Santiago", -4],
+		["(UTC-03:30) Newfoundland", "America/St_Johns", -3.5],
+		["(UTC-03:00) Brasilia", "America/Sao_Paulo", -3],
+		["(UTC-03:00) Greenland", "America/Godthab", -3],
+		["(UTC-03:00) Cayenne, Fortaleza", "America/Cayenne", -3],
+		["(UTC-03:00) Buenos Aires", "America/Argentina/Buenos_Aires", -3],
+		["(UTC-03:00) Montevideo", "America/Montevideo", -3],
+		["(UTC-02:00) Coordinated Universal Time-2", "Etc/GMT+2", -2],
+		["(UTC-01:00) Cape Verde", "Atlantic/Cape_Verde", -1],
+		["(UTC-01:00) Azores", "Atlantic/Azores", -1],
+		["(UTC+00:00) Casablanca", "Africa/Casablanca", 0],
+		["(UTC+00:00) Monrovia, Reykjavik", "Atlantic/Reykjavik", 0],
+		["(UTC+00:00) Dublin, Edinburgh, Lisbon, London", "Europe/London", 0],
+		["(UTC+00:00) Coordinated Universal Time", "Etc/GMT", 0],
+		["(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna", "Europe/Berlin", 1],
+		["(UTC+01:00) Brussels, Copenhagen, Madrid, Paris", "Europe/Paris", 1],
+		["(UTC+01:00) West Central Africa", "Africa/Lagos", 1],
+		["(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague", "Europe/Budapest", 1],
+		["(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb", "Europe/Warsaw", 1],
+		["(UTC+01:00) Windhoek", "Africa/Windhoek", 1],
+		["(UTC+02:00) Athens, Bucharest, Istanbul", "Europe/Istanbul", 2],
+		["(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius", "Europe/Kiev", 2],
+		["(UTC+02:00) Cairo", "Africa/Cairo", 2],
+		["(UTC+02:00) Damascus", "Asia/Damascus", 2],
+		["(UTC+02:00) Amman", "Asia/Amman", 2],
+		["(UTC+02:00) Harare, Pretoria", "Africa/Johannesburg", 2],
+		["(UTC+02:00) Jerusalem", "Asia/Jerusalem", 2],
+		["(UTC+02:00) Beirut", "Asia/Beirut", 2],
+		["(UTC+03:00) Baghdad", "Asia/Baghdad", 3],
+		["(UTC+03:00) Minsk", "Europe/Minsk", 3],
+		["(UTC+03:00) Kuwait, Riyadh", "Asia/Riyadh", 3],
+		["(UTC+03:00) Nairobi", "Africa/Nairobi", 3],
+		["(UTC+03:30) Tehran", "Asia/Tehran", 3.5],
+		["(UTC+04:00) Moscow, St. Petersburg, Volgograd", "Europe/Moscow", 4],
+		["(UTC+04:00) Tbilisi", "Asia/Tbilisi", 4],
+		["(UTC+04:00) Yerevan", "Asia/Yerevan", 4],
+		["(UTC+04:00) Abu Dhabi, Muscat", "Asia/Dubai", 4],
+		["(UTC+04:00) Baku", "Asia/Baku", 4],
+		["(UTC+04:00) Port Louis", "Indian/Mauritius", 4],
+		["(UTC+04:30) Kabul", "Asia/Kabul", 4.5],
+		["(UTC+05:00) Tashkent", "Asia/Tashkent", 5],
+		["(UTC+05:00) Islamabad, Karachi", "Asia/Karachi", 5],
+		["(UTC+05:30) Sri Jayewardenepura Kotte", "Asia/Colombo", 5.5],
+		["(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi", "Asia/Kolkata", 5.5],
+		["(UTC+05:45) Kathmandu", "Asia/Kathmandu", 5.75],
+		["(UTC+06:00) Astana", "Asia/Almaty", 6],
+		["(UTC+06:00) Dhaka", "Asia/Dhaka", 6],
+		["(UTC+06:00) Yekaterinburg", "Asia/Yekaterinburg", 6],
+		["(UTC+06:30) Yangon", "Asia/Yangon", 6.5],
+		["(UTC+07:00) Bangkok, Hanoi, Jakarta", "Asia/Bangkok", 7],
+		["(UTC+07:00) Novosibirsk", "Asia/Novosibirsk", 7],
+		["(UTC+08:00) Krasnoyarsk", "Asia/Krasnoyarsk", 8],
+		["(UTC+08:00) Ulaanbaatar", "Asia/Ulaanbaatar", 8],
+		["(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi", "Asia/Shanghai", 8],
+		["(UTC+08:00) Perth", "Australia/Perth", 8],
+		["(UTC+08:00) Kuala Lumpur, Singapore", "Asia/Singapore", 8],
+		["(UTC+08:00) Taipei", "Asia/Taipei", 8],
+		["(UTC+09:00) Irkutsk", "Asia/Irkutsk", 9],
+		["(UTC+09:00) Seoul", "Asia/Seoul", 9],
+		["(UTC+09:00) Osaka, Sapporo, Tokyo", "Asia/Tokyo", 9],
+		["(UTC+09:30) Darwin", "Australia/Darwin", 9.5],
+		["(UTC+09:30) Adelaide", "Australia/Adelaide", 9.5],
+		["(UTC+10:00) Hobart", "Australia/Hobart", 10],
+		["(UTC+10:00) Yakutsk", "Asia/Yakutsk", 10],
+		["(UTC+10:00) Brisbane", "Australia/Brisbane", 10],
+		["(UTC+10:00) Guam, Port Moresby", "Pacific/Port_Moresby", 10],
+		["(UTC+10:00) Canberra, Melbourne, Sydney", "Australia/Sydney", 10],
+		["(UTC+11:00) Vladivostok", "Asia/Vladivostok", 11],
+		["(UTC+11:00) Solomon Islands, New Caledonia", "Pacific/Guadalcanal", 11],
+		["(UTC+12:00) Coordinated Universal Time+12", "Etc/GMT-12", 12],
+		["(UTC+12:00) Fiji, Marshall Islands", "Pacific/Fiji", 12],
+		["(UTC+12:00) Magadan", "Asia/Magadan", 12],
+		["(UTC+12:00) Auckland, Wellington", "Pacific/Auckland", 12],
+		["(UTC+13:00) Nuku'alofa", "Pacific/Tongatapu", 13],
+		["(UTC+13:00) Samoa", "Pacific/Apia, 13"]
+	],
+	"error": {
+		"10000": "internal error",
+		"10001": "The client has lost connection with the server.",
+		
+		"20000": "We have detected that you have been trying to perform the same action repeatedly. Please wait 10 minutes before trying again.",
+		"20001": "The email address you entered already is being used by FWork account. Please try another one.",
+		"20002": "The email address you entered is not in the correct format",
+		
+		"20005": "Password must be at least 8 characters long",
+		"20006": "Password must be less than 32 characters.",
+		"20007": "Please confirm the new password you entered.",
+		
+		"20008": "You may have accidentally clicked the \"cancel\" button while trying to log in",
+		
+		"20010": "Please try again to solve the captcha.",
+
+		"20011": "The registration link is not valid.",
+		"20012": "The registration link has expired.",
+		"20013": "The registration link is no longer active.",
+		"20015": "You may have entered an incorrect username or password",
+		"20016": "The account you entered does not exist.",
+		"20017": "The account exist already.",
+		"20018": "Your login attempt was denied. Please contact the system administrator for assistance.",
+		"20019": "It looks like you created your account using social login. To log in using your password, please sign in with your social media account and set up your password.",
+		"20020": "The authenticator code you entered is incorrect.",
+		
+		"20030": "It looks like you already have a freelancer profile created.",
+		
+		
+
+
+		"30000": "Please log in to continue",
+		"32000": "Reserved for implementation-defined server-errors.",
+		"32600": "The JSON sent is not a valid Request object.",
+		"32601": "The method does not exist / is not available.",
+		"32602": "Invalid method parameter(s).",
+		"32603": "Internal JSON-RPC error."
+	}
+}

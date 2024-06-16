@@ -1,0 +1,48 @@
+{
+	"debug": true,
+	"appId": "fwork-230729",
+	"api": "wss://fwork.io/api",
+	"domain": "fwork.io",
+	"construction": false,
+	"showCountry": false,
+	"legal": {
+		"url": "https://raw.githubusercontent.com/fwork-io/fwork-legal-docs/main",
+		"docs": [
+			"privacy-policy",
+			"profile-policies",
+			"slow-to-pay-countries",
+			"terms-and-condition",
+			"terms-of-website-use",
+			"use-of-cookies"
+		]
+	},
+	"deamtestCaptcha": {
+        "appId": 1,
+        "apiKey": "deamtest_vWvBEaAXn5hB24khS5jdKbeLLbaISNOFMNlIoVAHLSM"
+    },
+	"auth": {
+		"google": {
+			"clientId": "556968627417-v7buok2hf7di7pqqe1mv9pfasfr1ce6j.apps.googleusercontent.com"
+		},
+		"github": {
+			"clientId": "da48e12870e61cbc8aa3"
+		},
+		"linkedin": {
+			"clientId": "86wrrpubcte54g"
+		},
+		"twitter": {
+			"clientId": "eDlfdkZpYTdtM2VDSnBfVmN0Ui06MTpjaQ"
+		},
+		"facebook": {
+			"clientId": "1008190143864732"
+		}
+	},
+	"links": {
+		"twitter": "https://twitter.com/fwork_io",
+		"facebook": "https://facebook.com/fwork",
+		"linkedin": "https://linkedin.com/company/fwork-io",
+		"youtube": "https://youtube.com/@fwork_io",
+		"telegram": "https://t.me/fwork_io",
+		"discord": "https://discord.com/fwork_io"
+	}
+}
