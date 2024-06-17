@@ -75,8 +75,8 @@ export default function AuthLayout() {
         item xs={12} md={6} lg={6} xl={6}
         sx={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', height: '100vh'}}
       >
-        <Box sx={{maxWidth: 450, width: '100%'}}>
-						<Outlet />
+        <Box sx={{maxWidth: 450, width: '100%', padding: '10px'}}>
+					<Outlet />
         </Box>
       </Grid>
     </Grid>
