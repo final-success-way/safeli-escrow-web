@@ -12,4 +12,4 @@ export const transactions = [...Array(24)].map((_, index) => ({
   date: faker.date.anytime(),
   rate: faker.number.float({min: 0.1, max: 1.0}),
   status: sample(['sent', 'canceled', 'pending']),
-}));
+})) as TransactionType[];

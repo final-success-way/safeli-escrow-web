@@ -46,7 +46,7 @@ export const info = {
 
 export const success = {
   lighter: '#C8FAD6',
-  light: '#5BE49B',
+  light: '#54ba4a',
   main: '#00A76F',
   dark: '#007867',
   darker: '#004B50',
@@ -113,6 +113,7 @@ export function palette() {
     background: {
       paper: '#FFFFFF',
       primary: '#2b2929',
+      gray: '#f7f9fb',
       default: grey[100],
       neutral: grey[200],
     },

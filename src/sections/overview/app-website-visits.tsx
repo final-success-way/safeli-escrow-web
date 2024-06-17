@@ -5,11 +5,18 @@ import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
 
 import Chart, { useChart } from '@/components/chart';
+import { MenuItem, Select, Stack, Typography } from '@mui/material';
+import { useState } from 'react';
 
 // ----------------------------------------------------------------------
 
 export default function AppWebsiteVisits({ title, subheader, chart, ...other }: any) {
   const { labels, colors, series, options } = chart;
+
+  const [status, setStatus] = useState({
+    selectedSortType: 'milestone-completed',
+    selectedDuration: '1-year'
+  })
 
   const chartOptions = useChart({
     colors,
@@ -31,7 +38,7 @@ export default function AppWebsiteVisits({ title, subheader, chart, ...other }: 
       y: {
         formatter: (value: any) => {
           if (typeof value !== 'undefined') {
-            return `${value.toFixed(0)} visits`;
+            return `$${value.toFixed(0)}`;
           }
           return value;
         },
@@ -42,7 +49,23 @@ export default function AppWebsiteVisits({ title, subheader, chart, ...other }: 
 
   return (
     <Card {...other}>
-      <CardHeader title={title} subheader={subheader} />
+      <Stack direction="row" alignItems="center" justifyContent="space-between" flexWrap='wrap' gap={1} sx={{padding: '24px 24px 0px'}}>
+        <Typography variant='h6'>{title}</Typography>
+        <Stack direction="row" alignItems="center" gap={1} flexWrap='wrap'>
+          <Select
+            value={status.selectedSortType}
+            onChange={e => setStatus({...status, selectedSortType: e.target.value})}
+          >
+            <MenuItem value={'milestone-completed'}>Sort by: <b>Milestones Completed</b></MenuItem>
+          </Select>
+          <Select
+            value={status.selectedDuration}
+            onChange={e => setStatus({...status, selectedDuration: e.target.value})}
+          >
+            <MenuItem value={'1-year'}>This year</MenuItem>
+          </Select>
+        </Stack>
+      </Stack>
 
       <Box sx={{ p: 3, pb: 1 }}>
         <Chart

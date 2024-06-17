@@ -77,12 +77,12 @@ export default function TxTableRow({
           <Typography color='text.secondary' fontSize='0.9rem'>{date?.toDateString() || ''}</Typography>
         </TableCell>
 
-        <TableCell>
+        <TableCell sx={{width: '10rem'}}>
           <Typography color="text.primary" fontSize='0.9rem' textAlign='center'>{Math.round(rate * 1e2)}%</Typography>
           <BorderLinearProgress variant="determinate" value={rate * 1e2} />
         </TableCell>
 
-        <TableCell>
+        <TableCell align='right'>
           <Label color={(status === 'sent' ? 'success' : (status === 'pending' ? 'primary' : 'error'))}>{status}</Label>
         </TableCell>
       </TableRow>

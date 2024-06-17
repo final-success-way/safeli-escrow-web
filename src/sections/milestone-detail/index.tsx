@@ -1,0 +1,1 @@
+export { default as MilestoneDetailView } from './milestone-detail-view';

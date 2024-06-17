@@ -6,7 +6,6 @@ import Stack from '@mui/material/Stack';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
 import LoadingButton from '@mui/lab/LoadingButton';
-import { useTheme } from '@mui/material/styles';
 import InputAdornment from '@mui/material/InputAdornment';
 
 import { useRouter } from '@/routes/hooks/index';
@@ -15,8 +14,6 @@ import Iconify from '@/components/iconify';
 // ----------------------------------------------------------------------
 
 export default function ForgotPasswordView() {
-  const theme = useTheme();
-
   const router = useRouter();
 
   const [status, setStatus] = useState({
@@ -24,7 +21,7 @@ export default function ForgotPasswordView() {
   })
 
   const handleClick = () => {
-    router.push('/dashboard');
+    router.push('/');
   };
 
   return (
@@ -34,7 +31,7 @@ export default function ForgotPasswordView() {
       <Stack spacing={3} sx={{mt: '40px'}}>
         <TextField
           name="email"
-          label="Email"
+          placeholder="Email"
           value={status.email}
           onChange={e => setStatus({...status, email: e.target.value})}
           InputProps={{

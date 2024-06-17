@@ -23,6 +23,7 @@ export default function Header({ onOpenNav }: { onOpenNav: () => void }) {
   const theme = useTheme();
 
   const lgUp = useResponsive('up', 'lg');
+  const mdUp = useResponsive('up', 'md');
 
   const renderContent = (
     <>
@@ -33,12 +34,12 @@ export default function Header({ onOpenNav }: { onOpenNav: () => void }) {
       )}
 
       <Stack direction="row" spacing={lgUp ? 3 : 1} alignItems="center">
-        <img src="/assets/light-logo.svg" alt="logo" style={{width: lgUp ? 60 : 42, height: lgUp ? 60 : 42, marginLeft: '5px', marginRight: `${lgUp ? '30px' : '0px'}`}} />
+        <img src="/assets/light-logo.svg" alt="logo" style={{width: lgUp ? 55 : 42, height: lgUp ? 55 : 42, marginLeft: '3px'}} />
       </Stack>
       <Box sx={{ flexGrow: 1 }} />
 
-      <Stack direction="row" alignItems="center" spacing={lgUp ? 3 : 1}>
-        {lgUp && (
+      <Stack direction="row" alignItems="center" spacing={mdUp ? 3 : 1}>
+        {mdUp && (
           <>
             <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
               <IconButton color={'default'} sx={{padding: '5px'}}>

@@ -14,7 +14,7 @@ import { useState } from 'react';
 export default function TxTableToolbar({ numSelected }: any) {
 
   const [status, setStatus] = useState({
-    selectedSortType: ''
+    selectedSortType: 'recent'
   })
 
   return (
@@ -46,19 +46,15 @@ export default function TxTableToolbar({ numSelected }: any) {
           </IconButton>
         </Tooltip>
       ) : (
-        <FormControl sx={{minWidth: 180}}>
-          <InputLabel id="sort-type">Sort Type</InputLabel>
-          <Select
-            labelId="sort-type"
-            id="sort-type"
-            value={status.selectedSortType}
-            label="Sort Type"
-            onChange={e => setStatus({...status, selectedSortType: e.target.value})}
-          >
-            <MenuItem value={'recent'}>Sort by: <b>Recent</b></MenuItem>
-            <MenuItem value={'toppest'}>Sort by: <b>Toppest</b></MenuItem>
-          </Select>
-        </FormControl>
+        <Select
+          labelId="sort-type"
+          id="sort-type"
+          value={status.selectedSortType}
+          onChange={e => setStatus({...status, selectedSortType: e.target.value})}
+        >
+          <MenuItem value={'recent'}>Sort by: <b>Recent</b></MenuItem>
+          <MenuItem value={'toppest'}>Sort by: <b>Toppest</b></MenuItem>
+        </Select>
       )}
     </Toolbar>
   );

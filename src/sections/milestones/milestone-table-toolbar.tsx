@@ -4,8 +4,6 @@ import Tooltip from '@mui/material/Tooltip';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
-import OutlinedInput from '@mui/material/OutlinedInput';
-import InputAdornment from '@mui/material/InputAdornment';
 
 import Iconify from '@/components/iconify';
 
@@ -30,19 +28,6 @@ export default function MilestoneTableToolbar({ numSelected, filterName, onFilte
           {numSelected} selected
         </Typography>
       ) : (
-        // <OutlinedInput
-        //   value={filterName}
-        //   onChange={onFilterName}
-        //   placeholder="Search user..."
-        //   startAdornment={
-        //     <InputAdornment position="start">
-        //       <Iconify
-        //         icon="eva:search-fill"
-        //         sx={{ color: 'text.disabled', width: 20, height: 20 }}
-        //       />
-        //     </InputAdornment>
-        //   }
-        // />
         <Typography variant='h6'>Transaction history</Typography>
       )}
 

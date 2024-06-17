@@ -13,7 +13,7 @@ export const milestones = [...Array(24)].map((_, index) => ({
   date: faker.date.anytime(),
   rate: faker.number.float({min: 0.1, max: 1.0}),
   method: sample(['mastercard', 'visa', 'paypal']),
-  milestone: sample(['Request']),
+  milestone: sample(['request']),
   isUnreadMessage: ((faker.number.int({min: 100, max: 2000}) % 2) === 0),
   status: sample(['awaiting', 'complete', 'canceled']),
-}));
+})) as MilestoneType[];

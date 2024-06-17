@@ -25,6 +25,7 @@ import Scrollbar from '@/components/scrollbar';
 import Stack from '@mui/material/Stack';
 import { HEADER } from '../config-layout';
 import { useResponsive } from '@/hooks/use-responsive';
+import Label from '@/components/label';
 
 // ----------------------------------------------------------------------
 
@@ -72,7 +73,7 @@ const NOTIFICATIONS = [
 ];
 
 export default function NotificationsPopover() {
-  const lgUp = useResponsive('up', 'lg');
+  const mdUp = useResponsive('up', 'md');
   
   const [notifications, setNotifications] = useState(NOTIFICATIONS);
 
@@ -96,7 +97,7 @@ export default function NotificationsPopover() {
             <img src="/assets/icons/ic_notification.svg" alt="ic_notification" style={{width: 26, height: 26}} />
           </Badge>
         </IconButton>
-        {lgUp && (
+        {mdUp && (
           <Typography fontSize='0.8rem' color='text.primary'>Notification</Typography>
         )}
       </Box>
@@ -128,15 +129,20 @@ export default function NotificationsPopover() {
 
         <Divider sx={{ borderStyle: 'solid' }} />
 
-        <Box>
-          
-        </Box>
+        <Stack direction="row" alignItems="center" gap={1} sx={{pt: 2, pb: 0.5, px: 2.5}}>
+          <Label color='info' sx={{padding: '5px 12px', height: 'auto', borderRadius: '30px', cursor: 'pointer'}} onClick={() => {}}>
+            <Typography fontSize='0.9rem'>All Notification</Typography>
+          </Label>
+          <Label sx={{padding: '5px 12px', height: 'auto', borderRadius: '30px', cursor: 'pointer'}} onClick={() => {}}>
+            <Typography fontSize='0.9rem'>Unread</Typography>
+          </Label>
+        </Stack>
 
         <Scrollbar sx={{ height: { xs: 340, sm: 'auto' } }}>
           <List
             disablePadding
             subheader={
-              <ListSubheader disableSticky sx={{ py: 2, px: 2.5, typography: 'overline' }}>
+              <ListSubheader disableSticky sx={{ pt: 2, pb: 1, px: 2.5, typography: 'overline' }}>
                 TODAY
               </ListSubheader>
             }

@@ -9,12 +9,11 @@ import { StyledLabel } from './styles';
 // ----------------------------------------------------------------------
 
 const Label = forwardRef(
-  ({ children, color = 'default', variant = 'soft', startIcon, endIcon, sx, ...other }: any, ref) => {
+  ({ children, color = 'default', variant = 'soft', startIcon, endIcon, iconSize, sx, ...other }: any, ref) => {
     const theme = useTheme();
 
     const iconStyles = {
-      width: 16,
-      height: 16,
+      width: iconSize,
       '& svg, img': { width: 1, height: 1, objectFit: 'cover' },
     };
 
@@ -31,11 +30,11 @@ const Label = forwardRef(
         theme={theme}
         {...other}
       >
-        {startIcon && <Box sx={{ mr: 0.75, ...iconStyles }}> {startIcon} </Box>}
+        {startIcon && <Box sx={{ flexShrink: 0, ...iconStyles }}> {startIcon} </Box>}
 
         {children}
 
-        {endIcon && <Box sx={{ ml: 0.75, ...iconStyles }}> {endIcon} </Box>}
+        {endIcon && <Box sx={{ flexShrink: 0, ...iconStyles }}> {endIcon} </Box>}
       </StyledLabel>
     );
   }

@@ -11,6 +11,8 @@ import Label from '@/components/label';
 
 import LinearProgress, { linearProgressClasses } from '@mui/material/LinearProgress';
 import { Badge, Box, IconButton, styled } from '@mui/material';
+import Iconify from '@/components/iconify';
+import Progress from '@/components/progress';
 
 const BorderLinearProgress = styled(LinearProgress)(({ theme }) => ({
   height: 10,
@@ -55,7 +57,7 @@ export default function MilestoneTableRow({
         </TableCell>
 
         <TableCell sx={{minWidth: '10rem'}}>
-          <Typography color='text.secondary' fontSize='0.9rem'>{date?.toDateString() || ''}</Typography>
+          <Typography color='text.secondary' fontSize='0.9rem'>{date.toDateString() || ''}</Typography>
         </TableCell>
 
         <TableCell align="left">
@@ -73,18 +75,23 @@ export default function MilestoneTableRow({
         </TableCell>
 
         <TableCell align="left">
-          <Box sx={{backgroundColor: '#64748b', padding: '5px 12px', borderRadius: '10px', display: 'inline-block'}}>
-            <Typography color='white' fontSize='0.9rem'>{milestone}</Typography>
+          <Box sx={{backgroundColor: '#64748b', padding: '4px 10px', borderRadius: '10px', display: 'inline-block'}}>
+            <Typography color='white' fontSize='0.9rem' sx={{textTransform: 'capitalize'}}>{milestone}</Typography>
           </Box>
         </TableCell>
 
         <TableCell>
-          <Typography color="text.primary" fontSize='0.9rem' textAlign='center'>{Math.round(rate * 1e2)}%</Typography>
-          <BorderLinearProgress variant="determinate" value={rate * 1e2} />
+          <Progress value={rate * 100} />
         </TableCell>
 
         <TableCell>
-          <Label color={(status === 'complete' ? 'success' : (status === 'awaiting' ? 'warning' : 'error'))}>{status}</Label>
+          <Label
+            color={(status === 'complete' ? 'success' : (status === 'awaiting' ? 'warning' : 'error'))}
+            startIcon={<Iconify icon="mdi:dot" width={20} />}
+            iconSize={20}
+          >
+            {status}
+          </Label>
         </TableCell>
 
         <TableCell>

@@ -27,16 +27,6 @@ export const navConfig = [
     path: '/contacts',
     icon: icon('ic_contact'),
   },
-  // {
-  //   title: 'support',
-  //   path: '/support',
-  //   icon: icon('ic_support'),
-  // },
-  // {
-  //   title: 'settings',
-  //   path: '/settings',
-  //   icon: icon('ic_settings'),
-  // },
 ];
 
 export const navBottomConfig = [

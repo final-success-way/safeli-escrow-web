@@ -54,7 +54,7 @@ export default function AuthLayout() {
               keyBoardControl={true}
               customTransition="all 0.5s"
               transitionDuration={500}
-              removeArrowOnDeviceType={["tablet", "mobile", "desktop"]}
+              removeArrowOnDeviceType={["tablet", "mobile", "desktop", "superLargeDesktop"]}
             >
               {Array(3).fill(0).map((i, k) => (
                 <Stack key={k} direction="column" justifyContent="center" alignItems="center" mb="50px">

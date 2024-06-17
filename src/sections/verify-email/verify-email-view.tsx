@@ -30,14 +30,11 @@ export default function VerifyEmailView() {
   const router = useRouter();
 
   const [status, setStatus] = useState({
-    email: '',
-    password: '',
-    passwordMsg: '',
-    showPassword: false
+    
   })
 
   const handleClick = () => {
-    router.push('/dashboard');
+    router.push('/');
   };
 
   const handleResend = () => {
@@ -52,10 +49,10 @@ export default function VerifyEmailView() {
         Not the correct email? <Link href="/register" underline='none' color="text.primary"><b>Change email address</b></Link>
       </Typography>
       <Stack direction="row" justifyContent="center" spacing={3} sx={{mt: '40px'}}>
-        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem'}} />
-        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem'}} />
-        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem'}} />
-        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem'}} />
+        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem', textAlign: 'center'}} />
+        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem', textAlign: 'center'}} />
+        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem', textAlign: 'center'}} />
+        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem', textAlign: 'center'}} />
       </Stack>
       <LoadingButton
         fullWidth

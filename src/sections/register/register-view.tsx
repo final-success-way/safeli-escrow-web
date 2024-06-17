@@ -37,7 +37,7 @@ export default function RegisterView() {
   })
 
   const handleClick = () => {
-    router.push('/dashboard');
+    router.push('/');
   };
 
   return (
@@ -46,7 +46,7 @@ export default function RegisterView() {
       <Stack spacing={3} sx={{mt: '40px'}}>
         <TextField
           name="username"
-          label="Username"
+          placeholder='Username'
           value={status.username}
           onChange={e => setStatus({...status, username: e.target.value})}
           InputProps={{
@@ -59,7 +59,7 @@ export default function RegisterView() {
         />
         <TextField
           name="email"
-          label="Email"
+          placeholder="Email"
           value={status.email}
           onChange={e => setStatus({...status, email: e.target.value})}
           InputProps={{
@@ -73,7 +73,7 @@ export default function RegisterView() {
         <TextField
           error={status.passwordMsg !== ""}
           name="password"
-          label="Password"
+          placeholder="Password"
           type={status.showPassword ? 'text' : 'password'}
           value={status.password}
           onChange={e => setStatus({...status, password: e.target.value, passwordMsg: ''})}

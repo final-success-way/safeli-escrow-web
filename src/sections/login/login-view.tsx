@@ -36,7 +36,7 @@ export default function LoginView() {
   })
 
   const handleClick = () => {
-    router.push('/dashboard');
+    router.push('/');
   };
 
   return (
@@ -46,7 +46,7 @@ export default function LoginView() {
       <Stack spacing={3} sx={{mt: '40px'}}>
         <TextField
           name="email"
-          label="Email"
+          placeholder="Email"
           value={status.email}
           onChange={e => setStatus({...status, email: e.target.value})}
           InputProps={{
@@ -60,7 +60,7 @@ export default function LoginView() {
         <TextField
           error={status.passwordMsg !== ""}
           name="password"
-          label="Password"
+          placeholder="Password"
           type={status.showPassword ? 'text' : 'password'}
           value={status.password}
           onChange={e => setStatus({...status, password: e.target.value, passwordMsg: ''})}

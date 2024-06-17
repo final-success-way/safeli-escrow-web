@@ -1,15 +1,12 @@
 import { useState } from 'react';
 
 import Box from '@mui/material/Box';
-import Avatar from '@mui/material/Avatar';
 import Divider from '@mui/material/Divider';
 import Popover from '@mui/material/Popover';
-import { alpha } from '@mui/material/styles';
 import MenuItem from '@mui/material/MenuItem';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
 
-import { account } from '@/_mock/account';
 import { useResponsive } from '@/hooks/use-responsive';
 
 // ----------------------------------------------------------------------
@@ -32,7 +29,7 @@ const MENU_OPTIONS = [
 // ----------------------------------------------------------------------
 
 export default function AccountPopover() {
-  const lgUp = useResponsive('up', 'lg');
+  const mdUp = useResponsive('up', 'md');
   
   const [open, setOpen] = useState(null);
 
@@ -47,10 +44,10 @@ export default function AccountPopover() {
   return (
     <>
       <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
-        <IconButton color={'default'} onClick={e => !lgUp && handleOpen(e)} sx={{padding: '5px'}}>
+        <IconButton color={'default'} onClick={e => !mdUp && handleOpen(e)} sx={{padding: '5px'}}>
           <img src="/assets/icons/ic_profile.svg" alt="ic_profile" style={{width: 26, height: 26}} />
         </IconButton>
-        {lgUp && (
+        {mdUp && (
           <Typography fontSize='0.8rem' color='text.primary'>Profile</Typography>
         )}
       </Box>

@@ -1,1 +1,1 @@
-export { default as MileStonesView } from './milestones';
+export { default as MileStonesView } from './milestones-view';

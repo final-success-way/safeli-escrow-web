@@ -10,8 +10,8 @@ import SpartChart from '@/components/spark-chart';
 import { useResponsive } from '@/hooks/use-responsive';
 import Scrollbar from '@/components/scrollbar';
 import TablePagination from '@mui/material/TablePagination';
-import { useState } from 'react';
-import { applyFilter, emptyRows, getComparator } from '../utils';
+import { useEffect, useState } from 'react';
+import { emptyRows } from '../utils';
 import { transactions } from '@/_mock/transaction';
 import { Table, TableBody, TableContainer, useTheme } from '@mui/material';
 import TableEmptyRows from '../table-empty-rows';
@@ -20,21 +20,34 @@ import TxTableRow from '../tx-table-row';
 import TxTableHead from '../tx-table-head';
 import TxTableToolbar from '../tx-table-toolbar';
 import AppWebsiteVisits from '../app-website-visits';
+import { useRouter } from '@/routes/hooks';
 // ----------------------------------------------------------------------
 
 export default function AppView() {
-  const theme = useTheme();
+  const theme = useTheme() as any;
   const lgDown = useResponsive('down', 'lg');
+  const router = useRouter();
 
   const [page, setPage] = useState(0);
-
   const [selected, setSelected] = useState<any[]>([]);
-
   const [rowsPerPage, setRowsPerPage] = useState(5);
+  const [data, setData] = useState<{
+    txData: TransactionType[],
+    txVolume: {
+      labels: string[]
+      data: number[]
+    }
+  }>({
+    txData: [],
+    txVolume: {
+      labels: [],
+      data: []
+    }
+  })
 
   const handleSelectAllClick = (event: any) => {
     if (event.target.checked) {
-      const newSelecteds = transactions.map((n: any) => n.name);
+      const newSelecteds = data.txData.map((n: any) => n.name);
       setSelected(newSelecteds as any);
       return;
     }
@@ -68,6 +81,24 @@ export default function AppView() {
     setRowsPerPage(parseInt(event.target.value, 10));
   };
 
+  const getData = () => {
+		try {
+      const _labels = ['01/01/2003','02/01/2003','03/01/2003','04/01/2003','05/01/2003','06/01/2003','07/01/2003','08/01/2003','09/01/2003','10/01/2003','11/01/2003'];
+      const _data= [44, 55, 41, 67, 22, 43, 21, 41, 56, 27, 43];
+			setData({
+        ...data,
+        txData: transactions,
+        txVolume: {labels: _labels, data: _data}
+      });
+		} catch (error) {
+			console.log('getData error: ', error)
+		}
+	}
+
+	useEffect(() => {
+		getData();
+	}, [])
+
   return (
     <Container maxWidth="xl">
       <Grid container spacing={3}>
@@ -80,8 +111,8 @@ export default function AppView() {
               <Typography fontSize='1.5rem' color='white' fontWeight='400' textAlign='center' zIndex={10}>Engage with confidence, secure payments for Hassle-free transactions and dispute resolution.</Typography>
               <Stack direction="row" justifyContent="center" zIndex={10}>
                 <Button
-                  variant="contained"
                   sx={{gap: '10px', padding: '10px 20px', maxWidth: '300px', color: 'text.primary', background: 'white !important'}}
+                  onClick={() => router.push('/milestones/create')}
                 >
                   <Iconify icon="mdi:add-circle-outline" />
                   <Typography><b>Create Milestone</b></Typography>
@@ -97,10 +128,10 @@ export default function AppView() {
               <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <img src="/assets/icons/ic_pending.svg" alt="pending" style={{width: 50, height: 50}} />
                 <Box>
-                    <Typography fontSize='0.9rem'>Milestones Pending <b>84</b></Typography>
+                    <Typography fontSize='0.9rem'>Milestones Pending <b>{'84'}</b></Typography>
                     <Stack direction="row" alignItems="center" spacing={1}>
-                      <Typography variant="h5">$1,234.00</Typography>
-                      <Typography color="success.main"><b>+12%</b></Typography>
+                      <Typography variant="h5">${'1,234.00'}</Typography>
+                      <Typography color="success.main"><b>{'+12'}%</b></Typography>
                     </Stack>
                 </Box>
               </Card>
@@ -109,10 +140,10 @@ export default function AppView() {
               <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <img src="/assets/icons/ic_completed.svg" alt="completed" style={{width: 50, height: 50}} />
                 <Box>
-                    <Typography fontSize='0.9rem'>Milestones Completed <b>205</b></Typography>
+                    <Typography fontSize='0.9rem'>Milestones Completed <b>{'205'}</b></Typography>
                     <Stack direction="row" alignItems="center" spacing={1}>
-                      <Typography variant="h5">$10,566.01</Typography>
-                      <Typography color="success.main"><b>+35%</b></Typography>
+                      <Typography variant="h5">${'10,566.01'}</Typography>
+                      <Typography color="success.main"><b>{'+35'}%</b></Typography>
                     </Stack>
                 </Box>
               </Card>
@@ -121,8 +152,8 @@ export default function AppView() {
               <Card component={Stack} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <Typography fontSize='0.9rem'>Total Receivable</Typography>
                 <Stack direction="row" alignItems="center" spacing={1}>
-                  <Typography variant="h5">$1,234.00</Typography>
-                  <Typography color="success.main"><b>+12%</b></Typography>
+                  <Typography variant="h5">${'1,234.00'}</Typography>
+                  <Typography color="success.main"><b>{'+12'}%</b></Typography>
                 </Stack>
                 <SpartChart data = {[ 5, 20, 5, 18,22, 3, 12, 42, 12, 14, 10]} bgcolor='#54ba4a' width = {200} height = {40}/>
               </Card>
@@ -131,10 +162,10 @@ export default function AppView() {
               <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <img src="/assets/icons/ic_canceled.svg" alt="canceled" style={{width: 50, height: 50}} />
                 <Box>
-                    <Typography fontSize='0.9rem'>Milestones Canceled <b>25</b></Typography>
+                    <Typography fontSize='0.9rem'>Milestones Canceled <b>{'25'}</b></Typography>
                     <Stack direction="row" alignItems="center" spacing={1}>
-                      <Typography variant="h5">$956.00</Typography>
-                      <Typography color="error.main"><b>-5%</b></Typography>
+                      <Typography variant="h5">${'956.00'}</Typography>
+                      <Typography color="error.main"><b>{'-5'}%</b></Typography>
                     </Stack>
                 </Box>
               </Card>
@@ -143,10 +174,10 @@ export default function AppView() {
               <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <img src="/assets/icons/ic_created.svg" alt="created" style={{width: 50, height: 50}} />
                 <Box>
-                    <Typography fontSize='0.9rem'>Milestones Created <b>314</b></Typography>
+                    <Typography fontSize='0.9rem'>Milestones Created <b>{'314'}</b></Typography>
                     <Stack direction="row" alignItems="center" spacing={1}>
-                      <Typography variant="h5">$5,566.01</Typography>
-                      <Typography color="success.main"><b>+15%</b></Typography>
+                      <Typography variant="h5">${'5,566.01'}</Typography>
+                      <Typography color="success.main"><b>{'+15'}%</b></Typography>
                     </Stack>
                 </Box>
               </Card>
@@ -155,8 +186,8 @@ export default function AppView() {
               <Card component={Stack} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <Typography fontSize='0.9rem'>Total Receivable</Typography>
                 <Stack direction="row" alignItems="center" spacing={1}>
-                  <Typography variant="h5">$1,234.00</Typography>
-                  <Typography color="success.main"><b>+12%</b></Typography>
+                  <Typography variant="h5">${'1,234.00'}</Typography>
+                  <Typography color="success.main"><b>{'+12'}%</b></Typography>
                 </Stack>
                 <SpartChart data = {[ 5, 20, 5, 18,22, 3, 12, 42, 12, 14, 10]} bgcolor='#ee59a3' width = {200} height = {40}/>
               </Card>
@@ -169,26 +200,8 @@ export default function AppView() {
             title="Transaction Volume"
             subheader=""
             chart={{
-              labels: [
-                '01/01/2003',
-                '02/01/2003',
-                '03/01/2003',
-                '04/01/2003',
-                '05/01/2003',
-                '06/01/2003',
-                '07/01/2003',
-                '08/01/2003',
-                '09/01/2003',
-                '10/01/2003',
-                '11/01/2003',
-              ],
-              series: [
-                {
-                  type: 'area',
-                  fill: 'gradient',
-                  data: [44, 55, 41, 67, 22, 43, 21, 41, 56, 27, 43],
-                }
-              ],
+              labels: data.txVolume.labels,
+              series: [{type: 'area', fill: 'gradient', name: 'Volume', data: data.txVolume.data}],
             }}
           />
         </Grid>
@@ -203,7 +216,7 @@ export default function AppView() {
                 <TableContainer sx={{ overflow: 'unset' }}>
                   <Table sx={{ minWidth: 800 }}>
                     <TxTableHead
-                      rowCount={transactions.length}
+                      rowCount={data.txData.length}
                       numSelected={selected.length}
                       onSelectAllClick={handleSelectAllClick}
                       headLabel={[
@@ -211,11 +224,11 @@ export default function AppView() {
                         { id: 'amount', label: 'Amount', align: 'center' },
                         { id: 'date', label: 'Date Sent' },
                         { id: 'rate', label: 'Progress Rate' },
-                        { id: 'status', label: 'Status' },
+                        { id: 'status', label: 'Status', align: 'right' },
                       ]}
                     />
                     <TableBody>
-                      {transactions
+                      {data.txData
                         .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
                         .map((row: any) => (
                           <TxTableRow
@@ -234,19 +247,18 @@ export default function AppView() {
 
                       <TableEmptyRows
                         height={77}
-                        emptyRows={emptyRows(page, rowsPerPage, transactions.length)}
+                        emptyRows={emptyRows(page, rowsPerPage, data.txData.length)}
                       />
 
-                      {!transactions.length && <TableNoData query={""} />}
+                      {!data.txData.length && <TableNoData query={""} />}
                     </TableBody>
                   </Table>
                 </TableContainer>
               </Scrollbar>
-
               <TablePagination
                 page={page}
                 component="div"
-                count={transactions.length}
+                count={data.txData.length}
                 rowsPerPage={rowsPerPage}
                 onPageChange={handleChangePage}
                 rowsPerPageOptions={[5, 10, 25]}

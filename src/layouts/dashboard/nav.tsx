@@ -76,6 +76,7 @@ export default function Nav({ openNav, onCloseNav }: { openNav: boolean, onClose
         width: { lg: NAV.WIDTH },
         paddingTop: `${HEADER.H_DESKTOP - 25}px`,
         backgroundColor: 'white',
+        zIndex: 100
       }}
     >
       {upLg ? (
@@ -116,7 +117,7 @@ Nav.propTypes = {
 function NavItem({ item }: { item: any }) {
   const pathname = usePathname();
 
-  const active = item.path === pathname;
+  const active = item.path === '/' ? (pathname === item.path) : (pathname.indexOf(item.path) === 0);
 
   return (
     <StyledListItem>
