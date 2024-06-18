@@ -8,6 +8,7 @@ import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
 
 import { useResponsive } from '@/hooks/use-responsive';
+import { useTheme } from '@mui/material';
 
 // ----------------------------------------------------------------------
 
@@ -30,6 +31,7 @@ const MENU_OPTIONS = [
 
 export default function AccountPopover() {
   const mdUp = useResponsive('up', 'md');
+  const theme = useTheme() as any;
   
   const [open, setOpen] = useState(null);
 
@@ -48,7 +50,7 @@ export default function AccountPopover() {
           <img src="/assets/icons/ic_profile.svg" alt="ic_profile" style={{width: 26, height: 26}} />
         </IconButton>
         {mdUp && (
-          <Typography fontSize='0.8rem' color='text.primary'>Profile</Typography>
+          <Typography fontSize='0.8rem' color={theme.palette.text.secondary}>Profile</Typography>
         )}
       </Box>
 

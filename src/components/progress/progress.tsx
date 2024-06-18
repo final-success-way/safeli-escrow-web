@@ -36,7 +36,7 @@ export default function Progress(
 					sx={{
 						color: `${getStepColor((k+1) * 20)}`,
 						padding: '2px 7px',
-						borderRadius: `${k === 0 ? '10px 0 0 10px' : (k === 4 ? '0 10px 10px 0' : '0px')}`,
+						borderRadius: `${k === 0 ? '8px 0 0 8px' : (k === 4 ? '0 8px 8px 0' : '0px')}`,
 						backgroundColor: `${getStepBackgroundColor((k+1) * 20)}`
 					}}
 				>

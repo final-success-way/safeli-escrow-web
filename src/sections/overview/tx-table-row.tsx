@@ -15,6 +15,7 @@ import Iconify from '@/components/iconify';
 
 import LinearProgress, { linearProgressClasses } from '@mui/material/LinearProgress';
 import { Box, styled } from '@mui/material';
+import styledComponent from 'styled-components';
 
 const BorderLinearProgress = styled(LinearProgress)(({ theme }) => ({
   height: 10,
@@ -42,26 +43,19 @@ export default function TxTableRow({
   status,
   handleClick,
 }: any) {
-  const [open, setOpen] = useState(null);
-
-  const handleOpenMenu = (event: any) => {
-    setOpen(event.currentTarget);
-  };
-
-  const handleCloseMenu = () => {
-    setOpen(null);
-  };
 
   return (
     <>
       <TableRow hover tabIndex={-1} role="checkbox" selected={selected}>
         <TableCell padding="checkbox">
-          <Checkbox disableRipple checked={selected} onChange={handleClick} />
+          <StyledCheckBox>
+            <Checkbox disableRipple checked={selected} onChange={handleClick} />
+          </StyledCheckBox>
         </TableCell>
 
         <TableCell component="th" scope="row" padding="none">
           <Stack direction="row" alignItems="center" spacing={2}>
-            <Avatar alt={name} src={avatarUrl} />
+            <img src={avatarUrl} alt={name} style={{width: 32, height: 32, borderRadius: '6px'}} />
             <Box>
               <Typography variant="subtitle2" noWrap>{name}</Typography>
               <Typography fontSize='0.9rem' noWrap>{project}</Typography>
@@ -78,35 +72,16 @@ export default function TxTableRow({
         </TableCell>
 
         <TableCell sx={{width: '10rem'}}>
-          <Typography color="text.primary" fontSize='0.9rem' textAlign='center'>{Math.round(rate * 1e2)}%</Typography>
+          <Typography color="text.secondary" fontSize='0.9rem' textAlign='center'><b>{Math.round(rate * 1e2)}</b>%</Typography>
           <BorderLinearProgress variant="determinate" value={rate * 1e2} />
         </TableCell>
 
         <TableCell align='right'>
-          <Label color={(status === 'sent' ? 'success' : (status === 'pending' ? 'primary' : 'error'))}>{status}</Label>
+          <Label color={(status === 'sent' ? 'success' : (status === 'pending' ? 'warning' : 'error'))}>
+            <Typography fontSize='0.9rem'>{status}</Typography>
+          </Label>
         </TableCell>
       </TableRow>
-
-      <Popover
-        open={!!open}
-        anchorEl={open}
-        onClose={handleCloseMenu}
-        anchorOrigin={{ vertical: 'top', horizontal: 'left' }}
-        transformOrigin={{ vertical: 'top', horizontal: 'right' }}
-        PaperProps={{
-          sx: { width: 140 },
-        }}
-      >
-        <MenuItem onClick={handleCloseMenu}>
-          <Iconify icon="eva:edit-fill" sx={{ mr: 2 }} />
-          Edit
-        </MenuItem>
-
-        <MenuItem onClick={handleCloseMenu} sx={{ color: 'error.main' }}>
-          <Iconify icon="eva:trash-2-outline" sx={{ mr: 2 }} />
-          Delete
-        </MenuItem>
-      </Popover>
     </>
   );
 }
@@ -122,3 +97,14 @@ TxTableRow.propTypes = {
   selected: PropTypes.any,
   status: PropTypes.string,
 };
+
+const StyledCheckBox = styledComponent.div`
+  .Mui-checked {
+    .MuiSvgIcon-root {
+      color: #2b2929 !important;
+    }
+  }
+  .MuiSvgIcon-root {
+    color: #e2e8f0;
+  }
+`

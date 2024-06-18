@@ -2,17 +2,17 @@ import PropTypes from 'prop-types';
 
 import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
-import CardHeader from '@mui/material/CardHeader';
-
 import Chart, { useChart } from '@/components/chart';
-import { MenuItem, Select, Stack, Typography } from '@mui/material';
+import { MenuItem, Select, Stack, Typography, useTheme } from '@mui/material';
 import { useState } from 'react';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import styled from 'styled-components';
 
 // ----------------------------------------------------------------------
 
-export default function AppWebsiteVisits({ title, subheader, chart, ...other }: any) {
+export default function TxVolume({ title, subheader, chart, ...other }: any) {
   const { labels, colors, series, options } = chart;
-
+  const theme = useTheme() as any;
   const [status, setStatus] = useState({
     selectedSortType: 'milestone-completed',
     selectedDuration: '1-year'
@@ -48,22 +48,28 @@ export default function AppWebsiteVisits({ title, subheader, chart, ...other }: 
   });
 
   return (
-    <Card {...other}>
+    <Card {...other} sx={{boxShadow: theme.shadows[20]}}>
       <Stack direction="row" alignItems="center" justifyContent="space-between" flexWrap='wrap' gap={1} sx={{padding: '24px 24px 0px'}}>
         <Typography variant='h6'>{title}</Typography>
         <Stack direction="row" alignItems="center" gap={1} flexWrap='wrap'>
-          <Select
-            value={status.selectedSortType}
-            onChange={e => setStatus({...status, selectedSortType: e.target.value})}
-          >
-            <MenuItem value={'milestone-completed'}>Sort by: <b>Milestones Completed</b></MenuItem>
-          </Select>
-          <Select
-            value={status.selectedDuration}
-            onChange={e => setStatus({...status, selectedDuration: e.target.value})}
-          >
-            <MenuItem value={'1-year'}>This year</MenuItem>
-          </Select>
+          <StyledSelect>
+            <Select
+              value={status.selectedSortType}
+              onChange={e => setStatus({...status, selectedSortType: e.target.value})}
+              IconComponent={ExpandMoreIcon}
+            >
+              <MenuItem value={'milestone-completed'}>Sort by: <b>Milestones Completed</b></MenuItem>
+            </Select>
+          </StyledSelect>
+          <StyledSelect>
+            <Select
+              value={status.selectedDuration}
+              onChange={e => setStatus({...status, selectedDuration: e.target.value})}
+              IconComponent={ExpandMoreIcon}
+            >
+              <MenuItem value={'1-year'}>This year</MenuItem>
+            </Select>
+          </StyledSelect>
         </Stack>
       </Stack>
 
@@ -81,8 +87,17 @@ export default function AppWebsiteVisits({ title, subheader, chart, ...other }: 
   );
 }
 
-AppWebsiteVisits.propTypes = {
+TxVolume.propTypes = {
   chart: PropTypes.object,
   subheader: PropTypes.string,
   title: PropTypes.string,
 };
+
+
+const StyledSelect = styled.div`
+  > div {
+    > div {
+      padding: 10px 15px;
+    }
+  }
+`

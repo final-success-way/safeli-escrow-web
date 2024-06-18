@@ -14,22 +14,34 @@ const Chart = styled(ApexChart)(({ theme }: { theme: any }) => ({
       ...bgBlur({
         color: theme.palette.background.default,
       }),
-      color: theme.palette.text.primary,
+      backgroundColor: 'rgba(43, 41, 41, 0.7)',
+      color: 'white',
+      padding: '10px 20px',
+      alignItems: 'flex-start',
       boxShadow: theme.customShadows.dropdown,
-      borderRadius: theme.shape.borderRadius * 1.25,
+      borderRadius: '12px',
       '&.apexcharts-theme-light': {
         borderColor: 'transparent',
         ...bgBlur({
           color: theme.palette.background.default,
         }),
       },
+      '.apexcharts-tooltip-text': {
+        fontSize: '1.3rem !important',
+        fontWeight: '600',
+        lineHeight: '1'
+      },
+      '.apexcharts-tooltip-marker': {
+        display: 'none !important',
+        width: 0
+      }
     },
     '& .apexcharts-xaxistooltip': {
       ...bgBlur({
         color: theme.palette.background.default,
       }),
       borderColor: 'transparent',
-      color: theme.palette.text.primary,
+      color: 'black',
       boxShadow: theme.customShadows.dropdown,
       borderRadius: theme.shape.borderRadius * 1.25,
       '&:before': {
@@ -41,9 +53,17 @@ const Chart = styled(ApexChart)(({ theme }: { theme: any }) => ({
     },
     '& .apexcharts-tooltip-title': {
       textAlign: 'center',
-      fontWeight: theme.typography.fontWeightBold,
-      backgroundColor: alpha(theme.palette.grey[500], 0.08),
-      color: theme.palette.text[theme.palette.mode === 'light' ? 'secondary' : 'primary'],
+      fontWeight: 500,
+      backgroundColor: 'transparent', //alpha(theme.palette.grey[500], 0.08),
+      color: '#e2e8f0',
+      order: 2,
+      fontSize: '0.85rem !important',
+      padding: '0px',
+      paddingLeft: '6px'
+    },
+    '& .apexcharts-tooltip-series-group': {
+      order: 1,
+      padding: '0px'
     },
 
     // LEGEND

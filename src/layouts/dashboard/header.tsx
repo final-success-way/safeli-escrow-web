@@ -20,7 +20,7 @@ import { Typography } from '@mui/material';
 // ----------------------------------------------------------------------
 
 export default function Header({ onOpenNav }: { onOpenNav: () => void }) {
-  const theme = useTheme();
+  const theme = useTheme() as any;
 
   const lgUp = useResponsive('up', 'lg');
   const mdUp = useResponsive('up', 'md');
@@ -45,19 +45,19 @@ export default function Header({ onOpenNav }: { onOpenNav: () => void }) {
               <IconButton color={'default'} sx={{padding: '5px'}}>
                 <img src="/assets/icons/ic_ticket.svg" alt="ic_ticket" style={{width: 25, height: 25}} />
               </IconButton>
-              <Typography fontSize='0.8rem' color='text.primary'>Ticket</Typography>
+              <Typography fontSize='0.8rem' color={theme.palette.text.secondary}>Ticket</Typography>
             </Box>
             <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
               <IconButton color={'default'} sx={{padding: '5px'}}>
                 <img src="/assets/icons/ic_api.svg" alt="ic_api" style={{width: 25, height: 25}} />
               </IconButton>
-              <Typography fontSize='0.8rem' color='text.primary'>APIs</Typography>
+              <Typography fontSize='0.8rem' color={theme.palette.text.secondary}>APIs</Typography>
             </Box>
             <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
               <IconButton color={'default'} sx={{padding: '5px'}}>
                 <img src="/assets/icons/ic_settings.svg" alt="ic_settings" style={{width: 25, height: 25}} />
               </IconButton>
-              <Typography fontSize='0.8rem' color='text.primary'>Settings</Typography>
+              <Typography fontSize='0.8rem' color={theme.palette.text.secondary}>Settings</Typography>
             </Box>
           </>
         )}
@@ -73,9 +73,10 @@ export default function Header({ onOpenNav }: { onOpenNav: () => void }) {
         boxShadow: theme.shadows[5],
         height: HEADER.H_MOBILE,
         zIndex: theme.zIndex.appBar + 1,
-        ...bgBlur({
-          color: theme.palette.background.default,
-        }),
+        padding: '0px !important',
+        // ...bgBlur({
+        //   color: theme.palette.background.default,
+        // }),
         backgroundColor: theme.palette.background.paper,
         transition: theme.transitions.create(['height'], {
           duration: theme.transitions.duration.shorter,

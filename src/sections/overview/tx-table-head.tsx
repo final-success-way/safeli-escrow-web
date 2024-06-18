@@ -4,6 +4,7 @@ import TableRow from '@mui/material/TableRow';
 import Checkbox from '@mui/material/Checkbox';
 import TableHead from '@mui/material/TableHead';
 import TableCell from '@mui/material/TableCell';
+import styled from 'styled-components';
 
 // ----------------------------------------------------------------------
 
@@ -15,14 +16,16 @@ export default function TxTableHead({
 }: any) {
 
   return (
-    <TableHead>
+    <TableHead className='table-head'>
       <TableRow>
         <TableCell padding="checkbox">
-          <Checkbox
-            indeterminate={numSelected > 0 && numSelected < rowCount}
-            checked={rowCount > 0 && numSelected === rowCount}
-            onChange={onSelectAllClick}
-          />
+          <StyledCheckBox>
+            <Checkbox
+              indeterminate={numSelected > 0 && numSelected < rowCount}
+              checked={rowCount > 0 && numSelected === rowCount}
+              onChange={onSelectAllClick}
+            />
+          </StyledCheckBox>
         </TableCell>
 
         {headLabel.map((headCell: any) => (
@@ -45,3 +48,14 @@ TxTableHead.propTypes = {
   numSelected: PropTypes.number,
   onSelectAllClick: PropTypes.func,
 };
+
+const StyledCheckBox = styled.div`
+  .Mui-checked, .MuiCheckbox-indeterminate {
+    .MuiSvgIcon-root {
+      color: #2b2929 !important;
+    }
+  }
+  .MuiSvgIcon-root {
+    color: #e2e8f0;
+  }
+`

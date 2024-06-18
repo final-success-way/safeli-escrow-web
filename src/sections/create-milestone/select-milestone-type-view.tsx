@@ -45,7 +45,7 @@ export const BpCheckedIcon = styled(BpIcon)({
 
 export default function SelectMilestoneTypeView(props: any) {
   const { update } = useSocket();
-  const theme = useTheme();
+  const theme = useTheme() as any;
 
   const [status, setStatus] = useState({
     selectedType: ''
@@ -61,7 +61,7 @@ export default function SelectMilestoneTypeView(props: any) {
       <Stack direction="column" alignItems="center" spacing={3} maxWidth={500} margin='0 auto'>
         <Stack direction='column' alignItems='center' spacing={0.5}>
           <Typography variant='h4'>Create New Milestone</Typography>
-          <Typography color='text.secondary'>Select an appropriate milestone type to begin with</Typography>
+          <Typography color='text.secondary' fontWeight='600'>Select an appropriate milestone type to begin with</Typography>
         </Stack>
         <StyledRadioBtn className={`${status.selectedType === 'fixed' ? 'active' : ''}`} onClick={() => setStatus({...status, selectedType: 'fixed'})}>
           <Stack direction="row" spacing={0.5} flexShrink={0}>
@@ -104,7 +104,7 @@ export default function SelectMilestoneTypeView(props: any) {
             <Button
               variant="contained"
               sx={{
-                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`
+                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`, borderRadius: '12px'
               }}
               onClick={onNext}
             >

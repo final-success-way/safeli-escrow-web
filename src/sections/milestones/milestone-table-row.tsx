@@ -8,24 +8,11 @@ import TableCell from '@mui/material/TableCell';
 import Typography from '@mui/material/Typography';
 
 import Label from '@/components/label';
-
-import LinearProgress, { linearProgressClasses } from '@mui/material/LinearProgress';
-import { Badge, Box, IconButton, styled } from '@mui/material';
+import { Badge, Box, IconButton } from '@mui/material';
 import Iconify from '@/components/iconify';
 import Progress from '@/components/progress';
-
-const BorderLinearProgress = styled(LinearProgress)(({ theme }) => ({
-  height: 10,
-  borderRadius: 5,
-  [`&.${linearProgressClasses.colorPrimary}`]: {
-    backgroundColor: theme.palette.grey[theme.palette.mode === 'light' ? 200 : 800],
-  },
-  [`& .${linearProgressClasses.bar}`]: {
-    borderRadius: 5,
-    backgroundColor: theme.palette.mode === 'light' ? '#39cef9' : '#308fe8',
-  },
-}));
-
+import styled from 'styled-components';
+import { useRouter } from '@/routes/hooks';
 
 // ----------------------------------------------------------------------
 
@@ -42,10 +29,10 @@ export default function MilestoneTableRow({
   date,
   isUnreadMessage,
 }: any) {
-
+  const router = useRouter();
   return (
     <>
-      <TableRow hover tabIndex={-1} role="checkbox">
+      <TableRow hover tabIndex={-1} role="checkbox" onClick={() => router.push('/milestones/387D4')} sx={{cursor: 'pointer'}}>
         <TableCell component="th" scope="row" padding="none">
           <Stack direction="row" alignItems="center" spacing={2}>
             <Avatar alt={name} src={avatarUrl} />
@@ -85,20 +72,21 @@ export default function MilestoneTableRow({
         </TableCell>
 
         <TableCell>
-          <Label
-            color={(status === 'complete' ? 'success' : (status === 'awaiting' ? 'warning' : 'error'))}
-            startIcon={<Iconify icon="mdi:dot" width={20} />}
-            iconSize={20}
-          >
-            {status}
+          <Label color={(status === 'complete' ? 'success' : (status === 'awaiting' ? 'warning' : 'error'))}>
+            <Stack direction="row" alignItems="center" gap="2px">
+              <span style={{fontSize: '1.5rem', lineHeight: 1, marginBottom: '3px'}}>•</span>
+              <Typography fontSize='0.9rem' lineHeight={1}>{status}</Typography>
+            </Stack>
           </Label>
         </TableCell>
 
         <TableCell>
           <IconButton color={'default'} /* onClick={handleOpen} */ sx={{padding: '5px'}}>
-            <Badge variant='dot' color="error" invisible={!isUnreadMessage}>
-              <img src="/assets/icons/navbar/ic_message.svg" alt="ic_message" style={{width: 26, height: 26}} />
-            </Badge>
+            <StyledBadge style={{flexShrink: 0}}>
+              <Badge variant='dot' color="error" invisible={!isUnreadMessage}>
+                <img src="/assets/icons/navbar/ic_message.svg" alt="ic_message" style={{width: 30, height: 30}} />
+              </Badge>
+            </StyledBadge>
           </IconButton>
         </TableCell>
       </TableRow>
@@ -119,3 +107,14 @@ MilestoneTableRow.propTypes = {
   isUnreadMessage: PropTypes.any,
   status: PropTypes.string,
 };
+
+
+const StyledBadge = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	.MuiBadge-badge {
+    top: 7px;
+    right: 7px;
+  }
+`

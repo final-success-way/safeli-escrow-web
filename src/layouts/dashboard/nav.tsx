@@ -51,15 +51,14 @@ export default function Nav({ openNav, onCloseNav }: { openNav: boolean, onClose
   const renderContent = (
     <Scrollbar
       sx={{
-        height: "90vh",
         '& .simplebar-content': {
-          height: "90vh",
+          height: upLg ? "calc(100vh - 80px)" : "calc(100vh - 30px)",
           display: 'flex',
           flexDirection: 'column',
         },
       }}
     >
-      <Box mt="50px">
+      <Box mt={`${upLg ? '50px' : '30px'}`}>
         {renderMenu}
         <Divider sx={{my: '25px'}}></Divider>
       </Box>
@@ -126,23 +125,23 @@ function NavItem({ item }: { item: any }) {
         href={item.path}
         sx={{
           minHeight: 44,
-          borderRadius: 0.75,
+          borderRadius: '10px',
           typography: 'body2',
           color: 'text.secondary',
           textTransform: 'capitalize',
           fontWeight: 'fontWeightMedium',
           display: 'block',
           backgroundColor: 'transparent !important',
-          border: "1px solid #7e7d7d",
-          borderColor: () => alpha("#7e7d7d", 0.15),
+          border: "1px solid #6b6a6a",
+          borderColor: () => alpha("#6b6a6a", 0.15),
           transition: 'all 0.3s',
           '&:hover': {
-            borderColor: () => alpha("#7e7d7d", 1),
+            borderColor: () => alpha("#6b6a6a", 1),
           },
           ...(active && {
             color: 'text.primary',
             fontWeight: 'fontWeightSemiBold',
-            borderColor: () => alpha("#7e7d7d", 1)
+            borderColor: () => alpha("#6b6a6a", 1)
           }),
         }}
       >
@@ -185,7 +184,7 @@ const StyledListItem = styled.div`
     align-items: center;
     gap: 8px;
     background-color: transparent;
-    padding: 12px;
+    padding: 15px;
     .MuiBox-root {
       display: block;
     }

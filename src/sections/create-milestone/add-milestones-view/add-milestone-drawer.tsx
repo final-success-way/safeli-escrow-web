@@ -5,6 +5,7 @@ import { useResponsive } from "@/hooks/use-responsive";
 import { AppBar, Autocomplete, Box, Button, Drawer, Grid, InputAdornment, MenuItem, Select, Stack, Tab, Tabs, TextField, Typography, useTheme } from "@mui/material";
 import { useRef, useState } from "react";
 import styled from "styled-components";
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
 const subjectData = [
 	{title: 'Services Agreement', value: 'services-agreement'},
@@ -18,7 +19,7 @@ const subjectData = [
 export default function AddMilestoneDrawer(
 	{ isOpen, onClose }: { isOpen: boolean, onClose: () => void }
 ) {
-	const theme = useTheme();
+	const theme = useTheme() as any;
 	const mdDown = useResponsive('down', 'md');
 	const [status, setStatus] = useState({
 		title: '',
@@ -54,44 +55,50 @@ export default function AddMilestoneDrawer(
 				<Grid container spacing={2} mt={1}>
 					<Grid item xs={12}>
 						<Typography variant='subtitle1'>Project Title</Typography>
-						<TextField
-							name="project-title"
-							type='string'
-							placeholder='We need you as a Frontend Developer to review our  prototype and suggest improvements.'
-							value={status.title}
-							onChange={e => setStatus({...status, title: e.target.value})}
-							sx={{width: '100%', mt: 0.5}}
-						/>
+						<StyledInput>
+							<TextField
+								name="project-title"
+								type='string'
+								placeholder='We need you as a Frontend Developer to review our  prototype and suggest improvements.'
+								value={status.title}
+								onChange={e => setStatus({...status, title: e.target.value})}
+								sx={{width: '100%', mt: 0.5}}
+							/>
+						</StyledInput>
 					</Grid>
 					<Grid item xs={12}>
 						<Typography variant='subtitle1'>Project Description</Typography>
-						<TextField
-							name="project-description"
-							type='string'
-							placeholder='We need you as a Frontend Developer to review our  prototype and suggest improvements.'
-							multiline
-							rows={3}
-							value={status.desc}
-							onChange={e => setStatus({...status, desc: e.target.value})}
-							sx={{width: '100%', mt: 0.5}}
-						/>
+						<StyledInput>
+							<TextField
+								name="project-description"
+								type='string'
+								placeholder='We need you as a Frontend Developer to review our  prototype and suggest improvements.'
+								multiline
+								rows={3}
+								value={status.desc}
+								onChange={e => setStatus({...status, desc: e.target.value})}
+								sx={{width: '100%', mt: 0.5}}
+							/>
+						</StyledInput>
 					</Grid>
 					<Grid item xs={12}>
 						<Typography variant='subtitle1'>Phase Amount</Typography>
-						<TextField
-							name="total-amount"
-							type='number'
-							value={status.amount}
-							onChange={e => setStatus({...status, amount: Number(e.target.value)})}
-							sx={{width: '100%', mt: 0.5}}
-							InputProps={{
-								startAdornment: (
-									<InputAdornment position="start">
-										<Iconify icon='mdi:dollar' />
-									</InputAdornment>
-								),
-							}}
-						/>
+						<StyledInput>
+							<TextField
+								name="total-amount"
+								type='number'
+								value={status.amount}
+								onChange={e => setStatus({...status, amount: Number(e.target.value)})}
+								sx={{width: '100%', mt: 0.5}}
+								InputProps={{
+									startAdornment: (
+										<InputAdornment position="start">
+											<Iconify icon='mdi:dollar' />
+										</InputAdornment>
+									),
+								}}
+							/>
+						</StyledInput>
 					</Grid>
 					<Grid item xs={12}>
 						<Box sx={{backgroundColor: '#f5f6f6', padding: '1rem', borderRadius: '10px'}}>
@@ -113,7 +120,7 @@ export default function AddMilestoneDrawer(
 								{status.selectedTab === 'upload' && (
 									<Box>
 										<Button
-											sx={{display: "flex", flexDirection: 'column', alignItems: 'center', gap: '10px', backgroundColor: '#e7effc !important', border: `1px dashed ${theme.palette.text.primary}`, padding: '1rem', width: '100%'}}
+											sx={{display: "flex", flexDirection: 'column', alignItems: 'center', gap: '10px', backgroundColor: '#e7effc !important', border: `1px dashed ${theme.palette.text.primary}`, padding: '2rem 1rem', width: '100%'}}
 											onClick={() => { refFile.current?.click() }}
 										>
 											<input ref={refFile} type="file" id="upload-file" style={{ display: 'none' }} accept='image/*,.doc,.docx,.pdf' onChange={e => !!e.target.files && onUploadFile(e.target.files[0])} />
@@ -130,6 +137,7 @@ export default function AddMilestoneDrawer(
 											value={status.selectedSubject}
 											onChange={e => setStatus({...status, selectedSubject: e.target.value})}
 											sx={{width: '100%', mt: 1}}
+											IconComponent={ExpandMoreIcon}
 										>
 											{subjectData.map((i, k) => (
 												<MenuItem key={k} value={i.value}>{i.title}</MenuItem>
@@ -139,8 +147,8 @@ export default function AddMilestoneDrawer(
 										<Typography variant="subtitle1" mt={2}>Recent selections</Typography>
 										<Stack direction="row" alignItems="center" flexWrap='wrap' columnGap={1}>
 											{subjectData.slice(0, 3).map((i, k) => (
-												<Label key={k} sx={{padding: '7px 10px', height: 'auto', borderRadius: '12px', mt: 1}}>
-													<Typography>{i.title}</Typography>
+												<Label key={k} sx={{padding: '7px 10px', height: 'auto', borderRadius: '12px', mt: 1, backgroundColor: '#f1f5f9'}}>
+													<Typography color={theme.palette.text.primary}>{i.title}</Typography>
 												</Label>
 											))}
 										</Stack>
@@ -183,7 +191,7 @@ export default function AddMilestoneDrawer(
             <Button
               variant="contained"
               sx={{
-                backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.primary', border: '1px solid #dbe0e6'
+                backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.secondary', border: '1px solid #dbe0e6', borderRadius: '12px'
               }}
               onClick={onBack}
             >
@@ -194,7 +202,7 @@ export default function AddMilestoneDrawer(
             <Button
               variant="contained"
               sx={{
-                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`
+                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`, borderRadius: '12px'
               }}
               onClick={onNext}
             >
@@ -212,7 +220,7 @@ const StyledAppBar = styled.div`
 		background-color: transparent;
 		box-shadow: none;
 		position: relative;
-		.css-hhf6hk-MuiButtonBase-root-MuiTab-root {
+		button {
 			flex: 1;
 			background-color: transparent;
 			z-index: 9;
@@ -227,7 +235,17 @@ const StyledAppBar = styled.div`
 			border-radius: 12px;
 			z-index: 0;
 			transition: all 0.5s;
-			/* box-shadow: 0rem 0.0625rem 0.3125rem 0.0625rem rgba(221, 221, 221, 1); */
 		}
 	}
+`
+
+const StyledInput = styled.div`
+  .MuiInputBase-root {
+    border-radius: 12px;
+  }
+	.Mui-focused {
+    fieldset {
+      border-color: #2b2929 !important;
+    }
+  }
 `

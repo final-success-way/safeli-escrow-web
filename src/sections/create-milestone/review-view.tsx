@@ -49,7 +49,7 @@ export default function ReviewView(props: any) {
       <Stack direction="column" alignItems="center" spacing={2} maxWidth={800} margin='0 auto'>
         <Stack direction='column' alignItems='center' spacing={0.5}>
           <Typography variant='h4'>Review</Typography>
-          <Typography color='text.secondary'>Next step is to select a funding source proceed to make payments</Typography>
+          <Typography color='text.secondary' fontWeight={600}>Next step is to select a funding source proceed to make payments</Typography>
         </Stack>
         <Grid container spacing={1}>
           <Grid item sm={6} xs={12} mt={2}>
@@ -70,11 +70,16 @@ export default function ReviewView(props: any) {
           </Grid>
           <Grid item sm={6} xs={12} mt={2}>
             <Typography color='text.secondary'>Milestone Status</Typography>
-            <Label mt={0.5}>{status.data?.status}</Label>
+            <Label mt={0.5}>
+              <Typography color='#475569'>{status.data?.status}</Typography>
+            </Label>
           </Grid>
           <Grid item sm={6} xs={12} mt={2}>
             <Typography color='text.secondary'>Contract ID</Typography>
-            <Typography variant='subtitle1' mt={0.5}>#{status.data?.contractId}</Typography>
+            <Stack direction="row" alignItems="center" gap={2} mt={0.5}>
+              <Typography variant='subtitle1'>#{status.data?.contractId}</Typography>
+              <Typography variant='subtitle1' sx={{cursor: 'pointer'}} onClick={() => {}}>View</Typography>
+            </Stack>
           </Grid>
           <Grid item sm={6} xs={12} mt={2}>
             <Typography color='text.secondary'>Milestone Amount</Typography>
@@ -82,7 +87,9 @@ export default function ReviewView(props: any) {
           </Grid>
           <Grid item sm={6} xs={12} mt={2}>
             <Typography color='text.secondary'>Milestone Progress</Typography>
-            <Progress value={status.data?.progress * 100} />
+            <Box mt={0.5}>
+              <Progress value={status.data?.progress * 100} />
+            </Box>
           </Grid>
           <Grid item xs={12} mt={2}>
             <Divider />
@@ -93,12 +100,11 @@ export default function ReviewView(props: any) {
           </Grid>
           <Grid item sm={6} xs={12} mt={2}>
             <Typography color='text.secondary'>Status</Typography>
-            <Label
-              color="warning" mt={0.5}
-              startIcon={<Iconify icon="mdi:dot" width={20} />}
-              iconSize={20} 
-            >
-              Awaiting
+            <Label color="warning" mt={0.5}>
+              <Stack direction="row" alignItems="center" gap="3px">
+                <span style={{fontSize: '1.5rem', lineHeight: 1, marginBottom: '2px'}}>•</span>
+                <Typography fontSize='0.9rem' lineHeight={1}>Awaiting</Typography>
+              </Stack>
             </Label>
           </Grid>
           <Grid item xs={12} mt={2}>
@@ -116,7 +122,7 @@ export default function ReviewView(props: any) {
             <Button
               variant="contained"
               sx={{
-                backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.primary', border: '1px solid #dbe0e6'
+                backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.secondary', border: '1px solid #dbe0e6', borderRadius: '12px'
               }}
               onClick={onBack}
             >
@@ -127,7 +133,7 @@ export default function ReviewView(props: any) {
             <Button
               variant="contained"
               sx={{
-                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`
+                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`, borderRadius: '12px'
               }}
               onClick={onNext}
             >

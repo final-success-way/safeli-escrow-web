@@ -10,7 +10,7 @@ import { StyledLabel } from './styles';
 
 const Label = forwardRef(
   ({ children, color = 'default', variant = 'soft', startIcon, endIcon, iconSize, sx, ...other }: any, ref) => {
-    const theme = useTheme();
+    const theme = useTheme() as any;
 
     const iconStyles = {
       width: iconSize,
@@ -25,6 +25,8 @@ const Label = forwardRef(
         sx={{
           ...(startIcon && { pl: 0.75 }),
           ...(endIcon && { pr: 0.75 }),
+          padding: '4px 10px 3px 10px',
+          borderRadius: '8px',
           ...sx,
         }}
         theme={theme}

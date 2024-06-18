@@ -4,6 +4,8 @@ import Box from '@mui/material/Box';
 import { Button, Card, FormControl, Grid, InputAdornment, InputLabel, MenuItem, Select, Stack, TextField, Typography, useTheme } from '@mui/material';
 import useSocket from '@/context/use-socket';
 import Iconify from '@/components/iconify';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import styled from 'styled-components';
 
 // ----------------------------------------------------------------------
 
@@ -11,12 +13,12 @@ const numberOfMilestones = [5, 6, 7, 8, 9, 10];
 const currencies = ['USD', 'EUR', 'CNY'];
 
 export default function MilestoneDescriptionView (props: any) {
-  const theme = useTheme();
+  const theme = useTheme() as any;
   const { update } = useSocket();
 
   const [status, setStatus] = useState({
-    numberOfMilestone: 0,
-    currency: '',
+    numberOfMilestone: numberOfMilestones[0],
+    currency: currencies[0],
     totalAmount: 0,
     clientName: '',
     contractName: '',
@@ -40,40 +42,42 @@ export default function MilestoneDescriptionView (props: any) {
       <Stack direction="column" alignItems="center" spacing={3} maxWidth={800} margin='0 auto'>
         <Stack direction='column' alignItems='center' spacing={0.5}>
           <Typography variant='h4'>Basic Details</Typography>
-          <Typography color='text.secondary'>First step is to fill out the basic details of this contract.</Typography>
+          <Typography color='text.secondary' fontWeight='600'>First step is to fill out the basic details of this contract.</Typography>
         </Stack>
         <Grid container spacing={1}>
           <Grid item md={4} sm={6} xs={12} mt={1}>
             <Typography variant='subtitle1'>Number of Milestones</Typography>
-            <Box sx={{width: '100%', mt: '5px'}}>
+            <StyledInput style={{width: '100%', marginTop: '5px'}}>
               <Select
                 value={status.numberOfMilestone}
                 onChange={e => setStatus({...status, numberOfMilestone: Number(e.target.value)})}
                 sx={{width: '100%'}}
+                IconComponent={ExpandMoreIcon}
               >
                 {numberOfMilestones.map((i, k) => (
                   <MenuItem value={i} key={k}>{i}</MenuItem>
                 ))}
               </Select>
-            </Box>
+            </StyledInput>
           </Grid>
           <Grid item md={4} sm={6} xs={12} mt={1}>
             <Typography variant='subtitle1'>Currency</Typography>
-            <Box sx={{width: '100%', mt: '5px'}}>
+            <StyledInput style={{width: '100%', marginTop: '5px'}}>
               <Select
                 value={status.currency}
                 onChange={e => setStatus({...status, currency: e.target.value})}
                 sx={{width: '100%'}}
+                IconComponent={ExpandMoreIcon}
               >
                 {currencies.map((i, k) => (
                   <MenuItem value={i} key={k}>{i}</MenuItem>
                 ))}
               </Select>
-            </Box>
+            </StyledInput>
           </Grid>
           <Grid item md={4} sm={6} xs={12} mt={1}>
             <Typography variant='subtitle1'>Total Amount</Typography>
-            <Box sx={{width: '100%', mt: '5px'}}>
+            <StyledInput style={{width: '100%', marginTop: '5px'}}>
               <TextField
                 name="total-amount"
                 type='number'
@@ -88,11 +92,11 @@ export default function MilestoneDescriptionView (props: any) {
                   ),
                 }}
               />
-            </Box>
+            </StyledInput>
           </Grid>
           <Grid item md={4} sm={6} xs={12} mt={1}>
             <Typography variant='subtitle1'>Client Name</Typography>
-            <Box sx={{width: '100%', mt: '5px'}}>
+            <StyledInput style={{width: '100%', marginTop: '5px'}}>
               <TextField
                 name="client-name"
                 type='string'
@@ -100,11 +104,11 @@ export default function MilestoneDescriptionView (props: any) {
                 onChange={e => setStatus({...status, clientName: e.target.value})}
                 sx={{width: '100%'}}
               />
-            </Box>
+            </StyledInput>
           </Grid>
           <Grid item md={4} sm={6} xs={12} mt={1}>
             <Typography variant='subtitle1'>Contract Name</Typography>
-            <Box sx={{width: '100%', mt: '5px'}}>
+            <StyledInput style={{width: '100%', marginTop: '5px'}}>
               <TextField
                 name="contract-name"
                 type='string'
@@ -112,11 +116,11 @@ export default function MilestoneDescriptionView (props: any) {
                 onChange={e => setStatus({...status, contractName: e.target.value})}
                 sx={{width: '100%'}}
               />
-            </Box>
+            </StyledInput>
           </Grid>
           <Grid item md={4} sm={6} xs={12} mt={1}>
             <Typography variant='subtitle1'>Company Name</Typography>
-            <Box sx={{width: '100%', mt: '5px'}}>
+            <StyledInput style={{width: '100%', marginTop: '5px'}}>
               <TextField
                 name="company-name"
                 type='string'
@@ -125,11 +129,11 @@ export default function MilestoneDescriptionView (props: any) {
                 onChange={e => setStatus({...status, companyName: e.target.value})}
                 sx={{width: '100%'}}
               />
-            </Box>
+            </StyledInput>
           </Grid>
           <Grid item xs={12} mt={1}>
             <Typography variant='subtitle1'>Project Title</Typography>
-            <Box sx={{width: '100%', mt: '5px'}}>
+            <StyledInput style={{width: '100%', marginTop: '5px'}}>
               <TextField
                 name="project-title"
                 type='string'
@@ -138,11 +142,11 @@ export default function MilestoneDescriptionView (props: any) {
                 onChange={e => setStatus({...status, title: e.target.value})}
                 sx={{width: '100%'}}
               />
-            </Box>
+            </StyledInput>
           </Grid>
           <Grid item xs={12} mt={1}>
             <Typography variant='subtitle1'>Project Description</Typography>
-            <Box sx={{width: '100%', mt: '5px'}}>
+            <StyledInput style={{width: '100%', marginTop: '5px'}}>
               <TextField
                 name="project-description"
                 type='string'
@@ -153,7 +157,7 @@ export default function MilestoneDescriptionView (props: any) {
                 onChange={e => setStatus({...status, desc: e.target.value})}
                 sx={{width: '100%'}}
               />
-            </Box>
+            </StyledInput>
           </Grid>
         </Grid>
         <Grid container sx={{width: '100%'}} spacing={2}>
@@ -161,7 +165,7 @@ export default function MilestoneDescriptionView (props: any) {
             <Button
               variant="contained"
               sx={{
-                backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.primary', border: '1px solid #dbe0e6'
+                backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.secondary', border: '1px solid #dbe0e6', borderRadius: '12px'
               }}
               onClick={onBack}
             >
@@ -172,7 +176,7 @@ export default function MilestoneDescriptionView (props: any) {
             <Button
               variant="contained"
               sx={{
-                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`
+                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`, borderRadius: '12px'
               }}
               onClick={onNext}
             >
@@ -184,3 +188,14 @@ export default function MilestoneDescriptionView (props: any) {
     </Card>
   );
 }
+
+const StyledInput = styled.div`
+  .MuiInputBase-root {
+    border-radius: 12px;
+  }
+  .Mui-focused {
+    fieldset {
+      border-color: #2b2929 !important;
+    }
+  }
+`

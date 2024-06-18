@@ -41,7 +41,7 @@ const responsive = {
 };
 
 export default function AddMilestonesView (props: any) {
-  const theme = useTheme();
+  const theme = useTheme() as any;
   const { update } = useSocket();
 
   const [status, setStatus] = useState({
@@ -65,8 +65,8 @@ export default function AddMilestonesView (props: any) {
       <Box>
         <Stack direction='column' alignItems='center' spacing={0.5}>
           <Typography variant='h4'>Milestones</Typography>
-          <Typography color='text.secondary'>Next step is to create as many milestones as you want!</Typography>
-          <Box sx={{marginTop: '10px !important'}}>
+          <Typography color='text.secondary' fontWeight={600}>Next step is to create as many milestones as you want!</Typography>
+          <Box sx={{marginTop: '20px !important'}}>
             <MilestoneStep total={status.totalMilestoneCount} currentStep={status.milestones?.length + 1} />
           </Box>
         </Stack>
@@ -102,20 +102,20 @@ export default function AddMilestonesView (props: any) {
                 <Grid container spacing={2}>
                   <Grid item md={6} xs={12} mt={1}>
                     <Typography variant='subtitle1'>Milestone{k + 1} Name</Typography>
-                    <Typography color='text.secondary'>{i.name}</Typography>
+                    <Typography color='text.secondary' fontSize='0.92rem' mt={0.5}>{i.name}</Typography>
                   </Grid>
                   <Grid item md={6} xs={12} mt={1}>
                     <Typography variant='subtitle1'>Phase{k + 1} Amount</Typography>
-                    <Typography color='text.secondary'>$ {i.amount}</Typography>
+                    <Typography color='text.secondary' fontSize='0.92rem' mt={0.5}>$ {i.amount}</Typography>
                   </Grid>
                   <Grid item xs={12} mt={1}>
                     <Typography variant='subtitle1'>Milestone{k + 1} Description</Typography>
-                    <Typography color='text.secondary'>{i.desc}</Typography>
+                    <Typography color='text.secondary' fontSize='0.92rem' mt={0.5}>{i.desc}</Typography>
                   </Grid>
                   <Grid item xs={12} mt={1}>
                     <Typography variant='subtitle1'>Attachment</Typography>
                     <Stack direction="row" alignItems="center" spacing={1}>
-                      <Link href="" color="text.primary">{i.attachment}</Link>
+                      <Link href="" color='text.secondary' fontSize='0.92rem' mt={0.5}>{i.attachment}</Link>
                       <IconButton>
                         <Iconify icon="mdi:link-variant" />
                       </IconButton>
@@ -131,7 +131,7 @@ export default function AddMilestonesView (props: any) {
                 sx={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', height: '100%'}}
               >
                 <img src="/assets/icons/ic_add.svg" alt="add" style={{width: '6rem', height: 'auto'}} />
-                <Typography variant='h6' color='text.secondary'>Add Milestone</Typography>
+                <Typography variant='h6' color='text.secondary' mt={4}>Add Milestone</Typography>
               </Button>
             </Card>
           </Carousel>
@@ -141,7 +141,7 @@ export default function AddMilestonesView (props: any) {
             <Button
               variant="contained"
               sx={{
-                backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.primary', border: '1px solid #dbe0e6'
+                backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.secondary', border: '1px solid #dbe0e6', borderRadius: '12px'
               }}
               onClick={onBack}
             >
@@ -152,7 +152,7 @@ export default function AddMilestonesView (props: any) {
             <Button
               variant="contained"
               sx={{
-                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`
+                backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`, borderRadius: '12px'
               }}
               onClick={onNext}
             >

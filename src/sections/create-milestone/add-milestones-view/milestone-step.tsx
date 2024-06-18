@@ -35,7 +35,7 @@ export default function MilestoneStep(
 					<Box
 						sx={{color: `${getStepColor(k+1)}`, padding: '3px 8px', borderRadius: '6px', backgroundColor: `${getStepBackgroundColor(k+1)}`}}
 					>
-						<Typography fontSize='0.95rem'>Milestone {k + 1}</Typography>
+						<Typography fontSize='0.95rem' fontWeight={600}>Milestone {k + 1}</Typography>
 					</Box>
 					{
 						(k + 1) !== total && (

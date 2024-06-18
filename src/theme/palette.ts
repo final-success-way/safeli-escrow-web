@@ -11,9 +11,9 @@ export const grey = {
   300: '#DFE3E8',
   400: '#C4CDD5',
   500: '#919EAB',
-  600: '#637381',
+  600: '#64748b', //'#637381',
   700: '#454F5B',
-  800: '#212B36',
+  800: '#0f172a', //'#212B36',
   900: '#161C24',
 };
 
@@ -36,36 +36,36 @@ export const secondary = {
 };
 
 export const info = {
-  lighter: '#CAFDF5',
+  lighter: '#e7effc',
   light: '#61F3F3',
-  main: '#00B8D9',
+  main: '#0066ff',
   dark: '#006C9C',
   darker: '#003768',
   contrastText: '#FFFFFF',
 };
 
 export const success = {
-  lighter: '#C8FAD6',
+  lighter: '#eef9ed',
   light: '#54ba4a',
-  main: '#00A76F',
+  main: '#54ba4a',
   dark: '#007867',
   darker: '#004B50',
   contrastText: '#FFFFFF',
 };
 
 export const warning = {
-  lighter: '#FFF5CC',
+  lighter: '#fef3c7',
   light: '#FFD666',
-  main: '#FFAB00',
+  main: '#f6a722',
   dark: '#B76E00',
   darker: '#7A4100',
   contrastText: grey[800],
 };
 
 export const error = {
-  lighter: '#FFE9D5',
-  light: '#FFAC82',
-  main: '#FF5630',
+  lighter: '#fdf2f8',
+  light: '#ed4f9d',
+  main: '#f73164',
   dark: '#B71D18',
   darker: '#7A0916',
   contrastText: '#FFFFFF',

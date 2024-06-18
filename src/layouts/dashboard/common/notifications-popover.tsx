@@ -6,10 +6,8 @@ import { faker } from '@faker-js/faker';
 import Box from '@mui/material/Box';
 import List from '@mui/material/List';
 import Badge from '@mui/material/Badge';
-import Button from '@mui/material/Button';
 import Avatar from '@mui/material/Avatar';
 import Divider from '@mui/material/Divider';
-import Tooltip from '@mui/material/Tooltip';
 import Popover from '@mui/material/Popover';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
@@ -26,6 +24,8 @@ import Stack from '@mui/material/Stack';
 import { HEADER } from '../config-layout';
 import { useResponsive } from '@/hooks/use-responsive';
 import Label from '@/components/label';
+import { useTheme } from '@mui/material';
+import styled from 'styled-components';
 
 // ----------------------------------------------------------------------
 
@@ -74,12 +74,16 @@ const NOTIFICATIONS = [
 
 export default function NotificationsPopover() {
   const mdUp = useResponsive('up', 'md');
+  const theme = useTheme() as any;
   
   const [notifications, setNotifications] = useState(NOTIFICATIONS);
 
   const totalUnRead = notifications.filter((item) => item.isUnRead === true).length;
 
   const [open, setOpen] = useState(null);
+  const [status, setStatus] = useState({
+    selectedTab: 'all' as 'all'|'unread'
+  })
 
   const handleOpen = (event: any) => {
     setOpen(event.currentTarget);
@@ -93,12 +97,14 @@ export default function NotificationsPopover() {
     <>
       <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
         <IconButton color={'default'} onClick={handleOpen} sx={{padding: '5px'}}>
-          <Badge badgeContent={totalUnRead} color="error">
-            <img src="/assets/icons/ic_notification.svg" alt="ic_notification" style={{width: 26, height: 26}} />
-          </Badge>
+          <StyledBadge>
+            <Badge badgeContent={totalUnRead} color="error">
+              <img src="/assets/icons/ic_notification.svg" alt="ic_notification" style={{width: 26, height: 26}} />
+            </Badge>
+          </StyledBadge>
         </IconButton>
         {mdUp && (
-          <Typography fontSize='0.8rem' color='text.primary'>Notification</Typography>
+          <Typography fontSize='0.8rem' color={theme.palette.text.secondary}>Notification</Typography>
         )}
       </Box>
 
@@ -119,7 +125,7 @@ export default function NotificationsPopover() {
       >
         <Box sx={{ display: 'flex', alignItems: 'center', py: 2, px: 2.5 }}>
           <Box sx={{ flexGrow: 1 }}>
-            <Typography variant="subtitle1">Notifications</Typography>
+            <Typography variant="subtitle1">Notification</Typography>
           </Box>
 
           <IconButton onClick={handleClose}>
@@ -130,10 +136,16 @@ export default function NotificationsPopover() {
         <Divider sx={{ borderStyle: 'solid' }} />
 
         <Stack direction="row" alignItems="center" gap={1} sx={{pt: 2, pb: 0.5, px: 2.5}}>
-          <Label color='info' sx={{padding: '5px 12px', height: 'auto', borderRadius: '30px', cursor: 'pointer'}} onClick={() => {}}>
+          <Label
+            sx={{padding: '5px 12px', height: 'auto', borderRadius: '30px', cursor: 'pointer', color: `${status.selectedTab === 'all' ? '#2563eb' : ''}`, backgroundColor: `${status.selectedTab === 'all' ? '#eff6ff' : ''}`}}
+            onClick={() => setStatus({...status, selectedTab: 'all'})}
+          >
             <Typography fontSize='0.9rem'>All Notification</Typography>
           </Label>
-          <Label sx={{padding: '5px 12px', height: 'auto', borderRadius: '30px', cursor: 'pointer'}} onClick={() => {}}>
+          <Label
+            sx={{padding: '5px 12px', height: 'auto', borderRadius: '30px', cursor: 'pointer', color: `${status.selectedTab === 'unread' ? '#2563eb' : ''}`, backgroundColor: `${status.selectedTab === 'unread' ? '#eff6ff' : ''}`}}
+            onClick={() => setStatus({...status, selectedTab: 'unread'})}
+          >
             <Typography fontSize='0.9rem'>Unread</Typography>
           </Label>
         </Stack>
@@ -155,11 +167,11 @@ export default function NotificationsPopover() {
 
         <Divider sx={{ borderStyle: 'solid' }} />
 
-        <Box sx={{ p: 1 }}>
+        {/* <Box sx={{ p: 1 }}>
           <Button fullWidth disableRipple>
             View All
           </Button>
-        </Box>
+        </Box> */}
       </Popover>
     </>
   );
@@ -198,26 +210,12 @@ function NotificationItem({ notification }: { notification: any }) {
         </ListItemAvatar>
         <ListItemText
           primary={title}
-          secondary={
-            <Typography
-              variant="caption"
-              sx={{
-                mt: 0.5,
-                display: 'flex',
-                alignItems: 'center',
-                color: 'text.disabled',
-              }}
-            >
-              {/* <Iconify icon="eva:clock-outline" sx={{ mr: 0.5, width: 16, height: 16 }} /> */}
-              {/* {fToNow(notification.createdAt)} */}
-            </Typography>
-          }
         />
         <Box ml='5px'>
-          <Stack direction="column" alignItems="center" spacing={1}>
-            <Typography variant="caption" color="text.disabled" textAlign="center">{notification.createdAt?.toDateString() || ""}</Typography>
+          <Stack direction="column" alignItems="flex-end" spacing={1}>
+            <Typography variant="caption" color="text.disabled" textAlign="center">{"08:15"}</Typography>
             {notification.isUnRead &&
-              <Badge variant="dot" color="error"></Badge>
+              <StyledDotBadge></StyledDotBadge>
             }
           </Stack>
         </Box>
@@ -231,10 +229,10 @@ function NotificationItem({ notification }: { notification: any }) {
 function renderContent(notification: any) {
   const title = (
     <Box>
-      <Typography variant="subtitle2">
+      <Typography variant="subtitle2" fontSize='0.95rem'>
         {notification.title}
       </Typography>
-      <Typography component="span" variant="caption" color="text.disabled" sx={{lineHeight: 1}}>
+      <Typography component="span" color="text.disabled" sx={{lineHeight: 1, fontSize: '0.9rem'}}>
         {notification.description}
       </Typography>
     </Box>
@@ -245,3 +243,19 @@ function renderContent(notification: any) {
     title,
   }
 }
+
+const StyledBadge = styled.div`
+  .css-11qscst-MuiBadge-badge {
+    top: 2px;
+    right: 2px;
+    background-color: #e11d48;
+    aspect-ratio: 1;
+  }
+`
+
+const StyledDotBadge = styled.div`
+  background-color: #ed4f9d;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+`

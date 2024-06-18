@@ -3,34 +3,24 @@ import { useState } from 'react';
 import Box from '@mui/material/Box';
 import Link from '@mui/material/Link';
 import Stack from '@mui/material/Stack';
-import Button from '@mui/material/Button';
-import Divider from '@mui/material/Divider';
-import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
-import IconButton from '@mui/material/IconButton';
 import LoadingButton from '@mui/lab/LoadingButton';
-import { alpha, useTheme } from '@mui/material/styles';
-import InputAdornment from '@mui/material/InputAdornment';
+import { useTheme } from '@mui/material/styles';
 
 import { useRouter } from '@/routes/hooks/index';
-import Iconify from '@/components/iconify';
-import Checkbox from '@mui/material/Checkbox';
-import FormControlLabel from '@mui/material/FormControlLabel';
 import styled from 'styled-components';
 import "react-multi-carousel/lib/styles.css";
-
-import { grey } from '@/theme/palette';
 import OutlinedInput from '@mui/material/OutlinedInput';
 
 // ----------------------------------------------------------------------
 
 export default function VerifyEmailView() {
-  const theme = useTheme();
+  const theme = useTheme() as any;
 
   const router = useRouter();
 
   const [status, setStatus] = useState({
-    
+    code: ['', '', '', ''],
   })
 
   const handleClick = () => {
@@ -41,6 +31,12 @@ export default function VerifyEmailView() {
 
   };
 
+  const onCodeChange = (value: string, index: number) => {
+    if (value.length >= 2) return;
+    const _code = status.code;
+    setStatus({...status, code: [..._code.slice(0, index), value, ..._code.slice(index+1)]})
+  }
+
   return (
     <Box>
       <Typography variant="h4" fontWeight='800'>Verify your Email</Typography>
@@ -49,19 +45,19 @@ export default function VerifyEmailView() {
         Not the correct email? <Link href="/register" underline='none' color="text.primary"><b>Change email address</b></Link>
       </Typography>
       <Stack direction="row" justifyContent="center" spacing={3} sx={{mt: '40px'}}>
-        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem', textAlign: 'center'}} />
-        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem', textAlign: 'center'}} />
-        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem', textAlign: 'center'}} />
-        <OutlinedInput type='numer' sx={{width: '3.5rem', fontSize: '1.2rem', textAlign: 'center'}} />
+        {Array(4).fill(0).map((i, k) => (
+          <StyledCodeInput>
+            <OutlinedInput
+              type='text' sx={{width: '4rem', fontSize: '1.2rem', textAlign: 'center'}}
+              onChange={e => onCodeChange(e.target.value, k)}
+              value={status.code?.[k] || ''}
+            />
+          </StyledCodeInput>
+        ))}
       </Stack>
       <LoadingButton
-        fullWidth
-        size="large"
-        type="submit"
-        variant="contained"
-        color="inherit"
-        onClick={handleClick}
-        sx={{mt: '40px'}}
+        fullWidth size="large" onClick={handleClick}
+        sx={{mt: '40px', backgroundColor: `${theme.palette.background.primary} !important`, color: 'white', padding: '15px 20px', borderRadius: '12px'}}
       >
         Skip now
       </LoadingButton>
@@ -80,9 +76,14 @@ export default function VerifyEmailView() {
   );
 }
 
-const StyledCheckBox = styled.div`
-  .MuiFormControlLabel-label {
-    font-size: 1rem;
-    font-weight: 600;
+const StyledCodeInput = styled.div`
+  input {
+    font-weight: 800;
+    text-align: center;
+  }
+  .Mui-focused {
+    fieldset {
+      border-color: #2b2929 !important;
+    }
   }
 `

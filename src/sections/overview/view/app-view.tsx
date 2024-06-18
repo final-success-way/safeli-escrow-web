@@ -19,7 +19,7 @@ import TableNoData from '../table-no-data';
 import TxTableRow from '../tx-table-row';
 import TxTableHead from '../tx-table-head';
 import TxTableToolbar from '../tx-table-toolbar';
-import AppWebsiteVisits from '../app-website-visits';
+import TxVolume from '../tx-volume';
 import { useRouter } from '@/routes/hooks';
 // ----------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ export default function AppView() {
   const getData = () => {
 		try {
       const _labels = ['01/01/2003','02/01/2003','03/01/2003','04/01/2003','05/01/2003','06/01/2003','07/01/2003','08/01/2003','09/01/2003','10/01/2003','11/01/2003'];
-      const _data= [44, 55, 41, 67, 22, 43, 21, 41, 56, 27, 43];
+      const _data= [44093, 15024, 40001, 60037, 2002, 40003, 20001, 40001, 50006, 60037, 70233.88];
 			setData({
         ...data,
         txData: transactions,
@@ -106,15 +106,15 @@ export default function AppView() {
           <Grid md={lgDown ? 4 : 3.5} sm={12}>
             <Card
               component={Stack} direction="column" justifyContent="space-between"
-              sx={{px: 3, py: 5, borderRadius: 2, backgroundColor: '#2b2929', height: `${lgDown ? 'auto' : '100%'}`, position: 'relative', gap: '10px', zIndex: 1}}
+              sx={{px: 3, py: 5, borderRadius: 2, backgroundColor: theme.palette.background.primary, height: `${lgDown ? 'auto' : '100%'}`, position: 'relative', gap: '10px', zIndex: 1}}
             >
               <Typography fontSize='1.5rem' color='white' fontWeight='400' textAlign='center' zIndex={10}>Engage with confidence, secure payments for Hassle-free transactions and dispute resolution.</Typography>
               <Stack direction="row" justifyContent="center" zIndex={10}>
                 <Button
-                  sx={{gap: '10px', padding: '10px 20px', maxWidth: '300px', color: 'text.primary', background: 'white !important'}}
+                  sx={{gap: '5px', padding: '0.9rem 2rem', borderRadius: '12px', maxWidth: '300px', color: 'text.primary', background: 'white !important', marginTop: '20px'}}
                   onClick={() => router.push('/milestones/create')}
                 >
-                  <Iconify icon="mdi:add-circle-outline" />
+                  <Iconify icon="mdi:add-circle-outline" width={26} />
                   <Typography><b>Create Milestone</b></Typography>
                 </Button>
               </Stack>
@@ -126,10 +126,10 @@ export default function AppView() {
           <Grid md={lgDown ? 8 : 8.5} sm={12} container spacing={3}>
             <Grid lg={4} md={6} sm={6} xs={12}>
               <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
-                <img src="/assets/icons/ic_pending.svg" alt="pending" style={{width: 50, height: 50}} />
+                <img src="/assets/icons/ic_pending.svg" alt="pending" style={{width: 50, height: 50, maxWidth: '22%'}} />
                 <Box>
                     <Typography fontSize='0.9rem'>Milestones Pending <b>{'84'}</b></Typography>
-                    <Stack direction="row" alignItems="center" spacing={1}>
+                    <Stack direction="row" alignItems="center" flexWrap='wrap' spacing={1}>
                       <Typography variant="h5">${'1,234.00'}</Typography>
                       <Typography color="success.main"><b>{'+12'}%</b></Typography>
                     </Stack>
@@ -138,10 +138,10 @@ export default function AppView() {
             </Grid>
             <Grid lg={4} md={6} sm={6} xs={12}>
               <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
-                <img src="/assets/icons/ic_completed.svg" alt="completed" style={{width: 50, height: 50}} />
+                <img src="/assets/icons/ic_completed.svg" alt="completed" style={{width: 50, height: 50, maxWidth: '22%'}} />
                 <Box>
                     <Typography fontSize='0.9rem'>Milestones Completed <b>{'205'}</b></Typography>
-                    <Stack direction="row" alignItems="center" spacing={1}>
+                    <Stack direction="row" alignItems="center" flexWrap='wrap' spacing={1}>
                       <Typography variant="h5">${'10,566.01'}</Typography>
                       <Typography color="success.main"><b>{'+35'}%</b></Typography>
                     </Stack>
@@ -151,19 +151,19 @@ export default function AppView() {
             <Grid lg={4} md={6} sm={6} xs={12}>
               <Card component={Stack} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <Typography fontSize='0.9rem'>Total Receivable</Typography>
-                <Stack direction="row" alignItems="center" spacing={1}>
+                <Stack direction="row" alignItems="center" flexWrap='wrap' spacing={1}>
                   <Typography variant="h5">${'1,234.00'}</Typography>
                   <Typography color="success.main"><b>{'+12'}%</b></Typography>
                 </Stack>
-                <SpartChart data = {[ 5, 20, 5, 18,22, 3, 12, 42, 12, 14, 10]} bgcolor='#54ba4a' width = {200} height = {40}/>
+                <SpartChart data = {[ 5, 20, 50, 181 ,22, 30, 12, 42, 12, 14, 10]} bgcolor='success' color='#54ba4a' width = {200} height = {40}/>
               </Card>
             </Grid>
             <Grid lg={4} md={6} sm={6} xs={12}>
               <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
-                <img src="/assets/icons/ic_canceled.svg" alt="canceled" style={{width: 50, height: 50}} />
+                <img src="/assets/icons/ic_canceled.svg" alt="canceled" style={{width: 50, height: 50, maxWidth: '22%'}} />
                 <Box>
                     <Typography fontSize='0.9rem'>Milestones Canceled <b>{'25'}</b></Typography>
-                    <Stack direction="row" alignItems="center" spacing={1}>
+                    <Stack direction="row" alignItems="center" flexWrap='wrap' spacing={1}>
                       <Typography variant="h5">${'956.00'}</Typography>
                       <Typography color="error.main"><b>{'-5'}%</b></Typography>
                     </Stack>
@@ -172,10 +172,10 @@ export default function AppView() {
             </Grid>
             <Grid lg={4} md={6} sm={6} xs={12}>
               <Card component={Stack} direction="row" alignItems="center" spacing={2} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
-                <img src="/assets/icons/ic_created.svg" alt="created" style={{width: 50, height: 50}} />
+                <img src="/assets/icons/ic_created.svg" alt="created" style={{width: 50, height: 50, maxWidth: '22%'}} />
                 <Box>
                     <Typography fontSize='0.9rem'>Milestones Created <b>{'314'}</b></Typography>
-                    <Stack direction="row" alignItems="center" spacing={1}>
+                    <Stack direction="row" alignItems="center" flexWrap='wrap' spacing={1}>
                       <Typography variant="h5">${'5,566.01'}</Typography>
                       <Typography color="success.main"><b>{'+15'}%</b></Typography>
                     </Stack>
@@ -185,31 +185,37 @@ export default function AppView() {
             <Grid lg={4} md={6} sm={6} xs={12}>
               <Card component={Stack} sx={{px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%'}}>
                 <Typography fontSize='0.9rem'>Total Receivable</Typography>
-                <Stack direction="row" alignItems="center" spacing={1}>
+                <Stack direction="row" alignItems="center" flexWrap='wrap' spacing={1}>
                   <Typography variant="h5">${'1,234.00'}</Typography>
                   <Typography color="success.main"><b>{'+12'}%</b></Typography>
                 </Stack>
-                <SpartChart data = {[ 5, 20, 5, 18,22, 3, 12, 42, 12, 14, 10]} bgcolor='#ee59a3' width = {200} height = {40}/>
+                <SpartChart data = {[ 10, 80, 52, 18,22, 10, 12, 42, 12, 14, 10]} bgcolor='danger' color={theme.palette.error.light} width = {200} height = {40}/>
               </Card>
             </Grid>
           </Grid>
         </Grid>
         <Grid xs={12} md={12} lg={12}>
-          <AppWebsiteVisits
-            sx={{boxShadow: theme.shadows[20]}}
+          <TxVolume
             title="Transaction Volume"
             subheader=""
             chart={{
               labels: data.txVolume.labels,
-              series: [{type: 'area', fill: 'gradient', name: 'Volume', data: data.txVolume.data}],
+              series: [{type: 'area', fill: 'gradient', name: '', data: data.txVolume.data}],
+              options: {
+                yaxis: {
+                  labels: {
+                    formatter: function (value: any) {
+                      return value > 1e3 ? `${Math.round(value / 1e3)}K` : value;
+                    }
+                  }
+                }
+              }
             }}
           />
         </Grid>
         <Grid xs={12} md={12} lg={12}>
           <Card sx={{boxShadow: theme.shadows[20]}}>
-            <TxTableToolbar
-              numSelected={selected.length}
-            />
+            <TxTableToolbar numSelected={selected.length}/>
 
             <Box sx={{padding: '0 1rem'}}>
               <Scrollbar>

@@ -35,8 +35,8 @@ export default function AddContractView(props: any) {
       <Stack direction="column" alignItems="center" spacing={3} maxWidth={800} margin='0 auto'>
         <Stack direction='column' alignItems='center' spacing={0.5}>
           <Typography variant='h4'>Contract</Typography>
-          <Typography color='text.secondary'>Next step is to create as many milestones as you want!</Typography>
-          <Box sx={{mt: '15px !important'}}>
+          <Typography color='text.secondary' fontWeight={600}>Next step is to create as many milestones as you want!</Typography>
+          <Box sx={{mt: '20px !important'}}>
             <MilestoneStep total={status.totalMilestoneCount} currentStep={status.addedMilestoneCount} />
           </Box>
         </Stack>
@@ -69,7 +69,7 @@ export default function AddContractView(props: any) {
               <Button
                 variant="contained"
                 sx={{
-                  backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.primary', border: '1px solid #dbe0e6'
+                  backgroundColor: `${theme.palette.background.gray} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', color: 'text.secondary', border: '1px solid #dbe0e6', borderRadius: '12px'
                 }}
                 onClick={onBack}
               >
@@ -80,7 +80,7 @@ export default function AddContractView(props: any) {
               <Button
                 variant="contained"
                 sx={{
-                  backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`
+                  backgroundColor: `${theme.palette.background.primary} !important`, padding: '12px 20px', fontSize: '1rem', width: '100%', border: `1px solid ${theme.palette.background.primary}`, borderRadius: '12px'
                 }}
                 onClick={onNext}
               >
@@ -89,7 +89,7 @@ export default function AddContractView(props: any) {
             </Grid>
           </Grid>
           <Button
-            sx={{backgroundColor: `${theme.palette.success.main} !important`, padding: '12px', flexShrink: 0}}
+            sx={{backgroundColor: `${theme.palette.success.main} !important`, padding: '12px', flexShrink: 0, borderRadius: '12px'}}
             onClick={() => {}}
           >
             <img src="/assets/icons/ic_file.svg" alt="file" style={{width: 30, height: 30}} />

@@ -6,13 +6,12 @@ import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import { useTheme } from '@mui/material/styles';
 import StarIcon from '@mui/icons-material/Star';
-
-import { useRouter } from '@/routes/hooks/index';
 import Iconify from '@/components/iconify';
 import { Alert, Breadcrumbs, Button, Card, Collapse, Container, Divider, Grid, Icon, IconButton, MenuItem, Rating, Select } from '@mui/material';
 import Label from '@/components/label';
 import styled from 'styled-components';
 import Progress from '@/components/progress';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
 // ----------------------------------------------------------------------
 
@@ -56,7 +55,7 @@ export default function MilestoneDetailView() {
   const breadcrumbs = [
     <Link underline="always" key="1" color="inherit" href="/milestones">Milestones</Link>,
     <Link underline="always" key="1" color="inherit" href="/milestones/payable">Payable</Link>,
-    <Typography key="2" color="text.primary" sx={{ textDecoration: 'underline', textTransform: 'capitalize' }}>Detail</Typography>
+    <Typography key="2" color="text.secondary" sx={{ textDecoration: 'underline', textTransform: 'capitalize' }}>Details</Typography>
   ];
 
   const getData = () => {
@@ -99,14 +98,14 @@ export default function MilestoneDetailView() {
             <Stack direction="row" alignItems="center" justifyContent='space-between' flexWrap='wrap' gap={2}>
               <Typography variant='h5'>Milestones</Typography>
               <Stack direction="row" alignItems="center" gap={1.5}>
-                <Label sx={{ padding: '7px 10px', height: 'auto', backgroundColor: '#e7effc' }}>
+                <Label sx={{ padding: '10px 15px', height: 'auto', backgroundColor: '#f1f5f9' }}>
                   <Typography variant='subtitle1' color='text.primary'>Notes (2)</Typography>
                 </Label>
-                <Button color='inherit' sx={{ alignItems: 'center', gap: '5px', padding: '7px 10px' }}>
+                <Button color='inherit' sx={{ alignItems: 'center', gap: '5px', padding: '10px 15px' }}>
                   <Iconify icon="mdi:add-circle-outline" />
                   <Typography variant='subtitle1'>Add Attachment</Typography>
                 </Button>
-                <Button color='inherit' sx={{ alignItems: 'center', gap: '5px', padding: '7px 10px' }}>
+                <Button color='inherit' sx={{ alignItems: 'center', gap: '5px', padding: '10px 15px' }}>
                   <img src="/assets/icons/ic_delete.svg" alt="delete" style={{ width: 18, height: 'auto' }} />
                   <Typography variant='subtitle1' color="error.main">Terminate</Typography>
                 </Button>
@@ -118,7 +117,7 @@ export default function MilestoneDetailView() {
                   key={k}
                   sx={{
                     padding: '7px 10px',
-                    borderRadius: '6px',
+                    borderRadius: '4px',
                     backgroundColor: `${status.selectedMilestone === k ? '#0f172a !important' : '#e7effc !important'}`,
                     color: `${status.selectedMilestone === k ? 'white' : 'text.primary'}`,
                   }}
@@ -135,7 +134,9 @@ export default function MilestoneDetailView() {
               </Grid>
               <Grid item lg={4} md={6} sm={6} xs={12} mt={2}>
                 <Typography color='text.secondary'>Milestone Progress</Typography>
-                <Progress value={data.milestoneData?.[status.selectedMilestone]?.progress * 100} />
+                <Box mt={0.5}>
+                  <Progress value={data.milestoneData?.[status.selectedMilestone]?.progress * 100} />
+                </Box>
               </Grid>
               <Grid item lg={4} md={6} sm={6} xs={12} mt={2}>
                 <Typography color='text.secondary'>Contact</Typography>
@@ -152,12 +153,11 @@ export default function MilestoneDetailView() {
               </Grid>
               <Grid item lg={4} md={6} sm={6} xs={12} mt={2}>
                 <Typography color='text.secondary'>Status</Typography>
-                <Label
-                  color='primary' mt={0.5}
-                  startIcon={<Iconify icon="mdi:dot" width={20} />}
-                  iconSize={20}
-                >
-                  {data.milestoneData?.[status.selectedMilestone]?.status}
+                <Label color='info' mt={0.5}>
+                  <Stack direction="row" alignItems="center" gap="3px">
+                    <span style={{fontSize: '1.5rem', lineHeight: 1, marginBottom: '2px'}}>•</span>
+                    <Typography fontSize='0.9rem' lineHeight={1}>{data.milestoneData?.[status.selectedMilestone]?.status}</Typography>
+                  </Stack>    
                 </Label>
               </Grid>
               <Grid item lg={4} md={6} sm={6} xs={12} mt={2}>
@@ -166,7 +166,7 @@ export default function MilestoneDetailView() {
               </Grid>
               <Grid item xs={12} mt={4}>
                 <Typography variant='subtitle1'>Milestone Description</Typography>
-                <Typography color='text.secondary' fontSize='0.95rem' mt={0.5}>#{data.milestoneData?.[status.selectedMilestone]?.desc}</Typography>
+                <Typography color='text.secondary' fontSize='0.95rem' mt={0.5}>{data.milestoneData?.[status.selectedMilestone]?.desc}</Typography>
               </Grid>
             </Grid>
           </Card>
@@ -198,15 +198,15 @@ export default function MilestoneDetailView() {
                 <Stack direction="column" justifyContent='space-between' flex={1}>
                   <Box>
                     <Stack direction="row" alignItems="center" justifyContent='space-between' mt={1}>
-                      <Typography fontWeight={550} color='text.secondary'>Contact Info</Typography>
+                      <Typography fontWeight={600} color='text.secondary'>Contact Info</Typography>
                       {data.userData?.verified?.contractInfo && <img src="/assets/icons/ic_verify.svg" alt="verify" style={{ width: 20, height: 20 }} />}
                     </Stack>
                     <Stack direction="row" alignItems="center" justifyContent='space-between' mt={1}>
-                      <Typography fontWeight={550} color='text.secondary'>Bank Details</Typography>
+                      <Typography fontWeight={600} color='text.secondary'>Bank Details</Typography>
                       {data.userData?.verified?.bank && <img src="/assets/icons/ic_verify.svg" alt="verify" style={{ width: 20, height: 20 }} />}
                     </Stack>
                     <Stack direction="row" alignItems="center" justifyContent='space-between' mt={1}>
-                      <Typography fontWeight={550} color='text.secondary'>ID Verification</Typography>
+                      <Typography fontWeight={600} color='text.secondary'>ID Verification</Typography>
                       {data.userData?.verified?.id && <img src="/assets/icons/ic_verify.svg" alt="verify" style={{ width: 20, height: 20 }} />}
                     </Stack>
                   </Box>
@@ -215,7 +215,7 @@ export default function MilestoneDetailView() {
                       <Button
                         variant="contained"
                         sx={{
-                          backgroundColor: `${theme.palette.background.primary} !important`, padding: '7px 10px', width: '100%', border: `1px solid ${theme.palette.background.primary}`
+                          backgroundColor: `${theme.palette.background.primary} !important`, padding: '10px 15px', width: '100%', border: `1px solid ${theme.palette.background.primary}`
                         }}
                         onClick={() => { }}
                       >
@@ -226,7 +226,7 @@ export default function MilestoneDetailView() {
                       <Button
                         variant="contained"
                         sx={{
-                          backgroundColor: `white !important`, padding: '7px 10px', width: '100%', color: 'text.primary', border: '1px solid #dbe0e6', gap: '5px'
+                          backgroundColor: `white !important`, padding: '10px 15px', width: '100%', color: 'text.primary', border: '1px solid #dbe0e6', gap: '5px'
                         }}
                         onClick={() => { }}
                       >
@@ -237,9 +237,9 @@ export default function MilestoneDetailView() {
                   </Grid>
                 </Stack>
               </Box>
-              <IconButton className='icon-btn'>
+              <button className='icon-btn'>
                 <Iconify icon="mdi:dots-vertical" width={20} color="white" />
-              </IconButton>
+              </button>
             </Card>
           </StyledUserCard>
         </Grid>
@@ -247,17 +247,18 @@ export default function MilestoneDetailView() {
           <Card sx={{ px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20] }}>
             <Stack direction="row" justifyContent="space-between" alignItems="center" gap={1}>
               <Typography variant='h5'>Timeline</Typography>
-              <Box>
+              <StyledSelect>
                 <Select
                   labelId="sort-type"
                   id="sort-type"
                   value={status.selectedSortType}
                   onChange={e => setStatus({ ...status, selectedSortType: e.target.value })}
+                  IconComponent={ExpandMoreIcon}
                 >
                   <MenuItem value={'recent'}>Sort by: <b>Recent</b></MenuItem>
                   <MenuItem value={'toppest'}>Sort by: <b>Toppest</b></MenuItem>
                 </Select>
-              </Box>
+              </StyledSelect>
             </Stack>
             <Stack direction="column" alignItems="center">
               <Box>
@@ -273,7 +274,7 @@ export default function MilestoneDetailView() {
                           <img src="/assets/icons/ic_calendar.svg" alt="calendar" />
                           <Typography color='text.secondary' fontSize='0.95rem'>{i.date.toDateString()}</Typography>
                         </Stack>
-                        <Typography>{i.content}</Typography>
+                        <Typography mt={0.5}>{i.content}</Typography>
                       </Box>
                     </Box>
                   </StyledTimeline>
@@ -292,8 +293,24 @@ const StyledUserCard = styled.div`
 	position: relative;
 	.icon-btn {
 		position: absolute;
-		top: 5px;
-		right: 5px;
+		top: 10px;
+		right: 10px;
+    background-color: white;
+    border-radius: 8px;
+    padding: 8px 9px;
+    border: 0;
+    outline: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.3s;
+    &:hover {
+      background-color: #e7ebef;
+    }
+    svg {
+      color: #64748b;
+    }
 	}
 	.back {
 		width: 100%;
@@ -339,4 +356,13 @@ const StyledTimeline = styled.div`
 			margin-left: calc(1rem + 13px);
 		}
 	}
+`
+
+const StyledSelect = styled.div`
+  > div {
+    > div {
+      padding: 12px 15px;
+      background-color: #f8fafc;
+    }
+  }
 `

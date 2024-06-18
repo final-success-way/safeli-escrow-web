@@ -24,7 +24,7 @@ import { grey } from '@/theme/palette';
 // ----------------------------------------------------------------------
 
 export default function LoginView() {
-  const theme = useTheme();
+  const theme = useTheme() as any;
 
   const router = useRouter();
 
@@ -41,45 +41,50 @@ export default function LoginView() {
 
   return (
     <Box>
-      <Typography variant="h4" fontWeight='800'>Sign In to your Account</Typography>
+      <Typography variant="h4" fontWeight='800px'>Sign In to your Account</Typography>
       <Typography mt='7px' fontSize='0.9rem' color='text.secondary'>Welcome back! please enter your detail</Typography>
-      <Stack spacing={3} sx={{mt: '40px'}}>
-        <TextField
-          name="email"
-          placeholder="Email"
-          value={status.email}
-          onChange={e => setStatus({...status, email: e.target.value})}
-          InputProps={{
-            startAdornment: (
-              <InputAdornment position="start">
-                  <Iconify icon='mdi:email-outline' />
-              </InputAdornment>
-            ),
-          }}
-        />
-        <TextField
-          error={status.passwordMsg !== ""}
-          name="password"
-          placeholder="Password"
-          type={status.showPassword ? 'text' : 'password'}
-          value={status.password}
-          onChange={e => setStatus({...status, password: e.target.value, passwordMsg: ''})}
-          
-          InputProps={{
-            startAdornment: (
-              <InputAdornment position="start">
-                  <Iconify icon='mdi:password-outline' />
-              </InputAdornment>
-            ),
-            endAdornment: (
-              <InputAdornment position="end">
-                <IconButton onClick={() => setStatus({...status, showPassword: !status.showPassword})} edge="end">
-                  <Iconify icon={status.showPassword ? 'eva:eye-outline' : 'eva:eye-off-outline'} />
-                </IconButton>
-              </InputAdornment>
-            ),
-          }}
-        />
+      <Stack spacing={3} sx={{mt: '30px'}}>
+        <StyledInput>
+          <TextField
+            name="email"
+            placeholder="Email"
+            fullWidth
+            value={status.email}
+            onChange={e => setStatus({...status, email: e.target.value})}
+            InputProps={{
+              startAdornment: (
+                <InputAdornment position="start">
+                    <Iconify icon='mdi:email-outline' />
+                </InputAdornment>
+              ),
+            }}
+          />
+        </StyledInput>
+        <StyledInput>
+          <TextField
+            error={status.passwordMsg !== ""}
+            name="password"
+            placeholder="Password"
+            fullWidth
+            type={status.showPassword ? 'text' : 'password'}
+            value={status.password}
+            onChange={e => setStatus({...status, password: e.target.value, passwordMsg: ''})}
+            InputProps={{
+              startAdornment: (
+                <InputAdornment position="start">
+                    <Iconify icon='mdi:password-outline' />
+                </InputAdornment>
+              ),
+              endAdornment: (
+                <InputAdornment position="end">
+                  <IconButton onClick={() => setStatus({...status, showPassword: !status.showPassword})} edge="end">
+                    <Iconify icon={status.showPassword ? 'eva:eye-outline' : 'eva:eye-off-outline'} />
+                  </IconButton>
+                </InputAdornment>
+              ),
+            }}
+          />
+        </StyledInput>
       </Stack>
       <Stack direction="row" justifyContent="space-between" alignItems="center" gap="10px" mt="20px">
         <StyledCheckBox>
@@ -98,13 +103,8 @@ export default function LoginView() {
         <Link href="/forgot-password" color="text.primary" underline='none'><b>Forgot Password?</b></Link>
       </Stack>
       <LoadingButton
-        fullWidth
-        size="large"
-        type="submit"
-        variant="contained"
-        color="inherit"
-        onClick={handleClick}
-        sx={{mt: '30px'}}
+        fullWidth size="large" onClick={handleClick}
+        sx={{mt: '20px', backgroundColor: `${theme.palette.background.primary} !important`, color: 'white', padding: '15px 20px', borderRadius: '12px'}}
       >
         Sign In
       </LoadingButton>
@@ -133,7 +133,7 @@ export default function LoginView() {
           <Typography variant="subtitle2">Facebook</Typography>
         </Button>
       </Stack>
-      <Stack direction="row" justifyContent='center' mt={'20px'}>
+      <Stack direction="row" justifyContent='center' mt={'30px'}>
         <Typography variant="body2" sx={{ color: 'text.secondary' }}>
           Don’t have an account? <Link href="/register" underline="none" color="text.primary"><b>Sing Up</b></Link>
         </Typography>
@@ -146,5 +146,17 @@ const StyledCheckBox = styled.div`
   .MuiFormControlLabel-label {
     font-size: 1rem;
     font-weight: 600;
+  }
+`
+
+const StyledInput = styled.div`
+  width: 100%;
+  input {
+    font-weight: 800;
+  }
+  .Mui-focused {
+    fieldset {
+      border-color: #2b2929 !important;
+    }
   }
 `

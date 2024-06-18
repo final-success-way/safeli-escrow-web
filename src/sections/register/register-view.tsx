@@ -24,7 +24,7 @@ import { grey } from '@/theme/palette';
 // ----------------------------------------------------------------------
 
 export default function RegisterView() {
-  const theme = useTheme();
+  const theme = useTheme() as any;
 
   const router = useRouter();
 
@@ -40,61 +40,90 @@ export default function RegisterView() {
     router.push('/');
   };
 
+  const checkPassword = (pass: string) => {
+    let errorMsg = "";
+    if (!!pass) {
+      errorMsg = "Your password is not strong enough. Use at least 8 characters";
+    }
+    return errorMsg;
+  }
+
+  const onPasswordChange = (value: string) => {
+    const erroMsg = checkPassword(value);
+    setStatus({...status, password: value, passwordMsg: erroMsg});
+  }
+
   return (
     <Box>
-      <Typography variant="h4" fontWeight='800'>Sign Up for an Account</Typography>
-      <Stack spacing={3} sx={{mt: '40px'}}>
-        <TextField
-          name="username"
-          placeholder='Username'
-          value={status.username}
-          onChange={e => setStatus({...status, username: e.target.value})}
-          InputProps={{
-            startAdornment: (
-              <InputAdornment position="start">
-                <Iconify icon='mdi:user-outline' />
-              </InputAdornment>
-            ),
-          }}
-        />
-        <TextField
-          name="email"
-          placeholder="Email"
-          value={status.email}
-          onChange={e => setStatus({...status, email: e.target.value})}
-          InputProps={{
-            startAdornment: (
-              <InputAdornment position="start">
-                  <Iconify icon='mdi:email-outline' />
-              </InputAdornment>
-            ),
-          }}
-        />
-        <TextField
-          error={status.passwordMsg !== ""}
-          name="password"
-          placeholder="Password"
-          type={status.showPassword ? 'text' : 'password'}
-          value={status.password}
-          onChange={e => setStatus({...status, password: e.target.value, passwordMsg: ''})}
-          
-          InputProps={{
-            startAdornment: (
-              <InputAdornment position="start">
-                  <Iconify icon='mdi:password-outline' />
-              </InputAdornment>
-            ),
-            endAdornment: (
-              <InputAdornment position="end">
-                <IconButton onClick={() => setStatus({...status, showPassword: !status.showPassword})} edge="end">
-                  <Iconify icon={status.showPassword ? 'eva:eye-outline' : 'eva:eye-off-outline'} />
-                </IconButton>
-              </InputAdornment>
-            ),
-          }}
-        />
+      <Typography variant="h4" fontWeight={'700 !important'}>Sign Up for an Account</Typography>
+      <Stack spacing={2} sx={{mt: '25px'}}>
+        <StyledInput>
+          <TextField
+            name="username"
+            placeholder='Username'
+            fullWidth
+            value={status.username}
+            onChange={e => setStatus({...status, username: e.target.value})}
+            InputProps={{
+              startAdornment: (
+                <InputAdornment position="start">
+                  <Iconify icon='mingcute:user-2-line' />
+                </InputAdornment>
+              ),
+            }}
+          />
+        </StyledInput>
+        <StyledInput>
+          <TextField
+            name="email"
+            placeholder="Email"
+            fullWidth
+            value={status.email}
+            onChange={e => setStatus({...status, email: e.target.value})}
+            InputProps={{
+              startAdornment: (
+                <InputAdornment position="start">
+                    <Iconify icon='mdi:email-outline' />
+                </InputAdornment>
+              ),
+            }}
+          />
+        </StyledInput>
+        <StyledInput>
+          <TextField
+            error={status.passwordMsg !== ""}
+            name="password"
+            placeholder="Password"
+            fullWidth
+            type={status.showPassword ? 'text' : 'password'}
+            value={status.password}
+            onChange={e => onPasswordChange(e.target.value)}
+            
+            InputProps={{
+              startAdornment: (
+                <InputAdornment position="start">
+                    <Iconify icon='mdi:password-outline' />
+                </InputAdornment>
+              ),
+              endAdornment: (
+                <InputAdornment position="end">
+                  <IconButton onClick={() => setStatus({...status, showPassword: !status.showPassword})} edge="end">
+                    <Iconify icon={status.showPassword ? 'eva:eye-outline' : 'eva:eye-off-outline'} />
+                  </IconButton>
+                </InputAdornment>
+              ),
+            }}
+          />
+        </StyledInput>
       </Stack>
-      <Typography variant="body2" sx={{mt: '8px', color: 'text.secondary'}}>Your password must have at least 8 characters</Typography> 
+      {!!status.passwordMsg ? (
+        <Stack direction="row" alignItems="center" gap={1} mt={'15px'} sx={{color: theme.palette.error.light}}>
+          <Iconify icon="mingcute:warning-line" />
+          <Typography variant="body2" sx={{fontWeight: 600}}>{status.passwordMsg}</Typography>
+        </Stack>
+      ) : (
+        <Typography variant="body2" sx={{mt: '15px', color: 'text.secondary'}}>Your password must have at least 8 characters</Typography> 
+      )}
       <StyledCheckBox>
         <FormControlLabel
           control={<Checkbox defaultChecked sx={{
@@ -104,7 +133,13 @@ export default function RegisterView() {
             },
           }}
           />}
-          label="By creating an account means you agree to the Terms & Conditions and our Privacy Policy"
+          label={
+            <Typography color={theme.palette.text.secondary} fontSize='0.9rem'>
+              By creating an account means you agree to the
+              <b style={{color: theme.palette.text.primary}}> Terms & Conditions </b>
+              and our <b style={{color: theme.palette.text.primary}}> Privacy Policy</b>
+            </Typography>
+          }
           sx={{
             mt: '20px',
             color: 'text.primary'
@@ -112,13 +147,8 @@ export default function RegisterView() {
         />
       </StyledCheckBox>
       <LoadingButton
-        fullWidth
-        size="large"
-        type="submit"
-        variant="contained"
-        color="inherit"
-        onClick={handleClick}
-        sx={{mt: '30px'}}
+        fullWidth size="large" onClick={handleClick}
+        sx={{mt: '30px', backgroundColor: `${theme.palette.background.primary} !important`, color: 'white', padding: '15px 20px', borderRadius: '12px'}}
       >
         Sign Up
       </LoadingButton>
@@ -147,7 +177,7 @@ export default function RegisterView() {
           <Typography variant="subtitle2">Facebook</Typography>
         </Button>
       </Stack>
-      <Stack direction="row" justifyContent='center' mt={'20px'}>
+      <Stack direction="row" justifyContent='center' mt={'30px'}>
         <Typography variant="body2" sx={{ color: 'text.secondary' }}>
           Already have an account? <Link href="/login" underline="none" color="text.primary"><b>Log In</b></Link>
         </Typography>
@@ -159,5 +189,27 @@ export default function RegisterView() {
 const StyledCheckBox = styled.div`
   .MuiFormControlLabel-label {
     font-size: 0.85rem;
+  }
+`
+
+const StyledInput = styled.div`
+  width: 100%;
+  input {
+    font-weight: 800;
+  }
+  .Mui-focused {
+    fieldset {
+      border-color: #2b2929 !important;
+    }
+    .Mui-error {
+      fieldset {
+        border-color: #ed4f9d !important;
+      }
+    }
+  }
+  .Mui-error {
+    fieldset {
+      border-color: #ed4f9ed4 !important;
+    }
   }
 `

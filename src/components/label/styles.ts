@@ -3,9 +3,7 @@ import { alpha, styled } from '@mui/material/styles';
 
 // ----------------------------------------------------------------------
 
-export const StyledLabel = styled(Box)(({ theme, ownerState }) => {
-  const lightMode = theme.palette.mode === 'light';
-
+export const StyledLabel = styled(Box)(({ theme, ownerState }: any) => {
   const filledVariant = ownerState.variant === 'filled';
 
   const outlinedVariant = ownerState.variant === 'outlined';
@@ -16,7 +14,7 @@ export const StyledLabel = styled(Box)(({ theme, ownerState }) => {
     ...(ownerState.color === 'default' && {
       // FILLED
       ...(filledVariant && {
-        color: lightMode ? theme.palette.common.white : theme.palette.grey[800],
+        color: theme.palette.common.white,
         backgroundColor: theme.palette.text.primary,
       }),
       // OUTLINED
@@ -48,8 +46,8 @@ export const StyledLabel = styled(Box)(({ theme, ownerState }) => {
       }),
       // SOFT
       ...(softVariant && {
-        color: theme.palette[ownerState.color][lightMode ? 'dark' : 'light'],
-        backgroundColor: alpha(theme.palette[ownerState.color].main, 0.16),
+        color: theme.palette[ownerState.color]['main'],
+        backgroundColor: theme.palette[ownerState.color].lighter,
       }),
     }),
   };
