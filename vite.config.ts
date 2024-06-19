@@ -28,14 +28,6 @@ export default defineConfig({
 			define: {
 				global: 'globalThis'
 			},
-			plugins: [
-				NodeGlobalsPolyfillPlugin({
-					buffer: true,
-					process: true,
-
-				}),
-				NodeModulesPolyfillPlugin()
-			]
 		}
 	},
 	build: {
