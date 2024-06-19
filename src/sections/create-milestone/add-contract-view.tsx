@@ -32,7 +32,7 @@ export default function AddContractView(props: any) {
 
   return (
     <Card sx={{ px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], width: '100%', minHeight: 'calc(100vh - 230px)'}}>
-      <Stack direction="column" alignItems="center" spacing={3} maxWidth={800} margin='0 auto'>
+      <Stack direction="column" alignItems="center" spacing={3} maxWidth={850} margin='0 auto'>
         <Stack direction='column' alignItems='center' spacing={0.5}>
           <Typography variant='h4'>Contract</Typography>
           <Typography color='text.secondary' fontWeight={600}>Next step is to create as many milestones as you want!</Typography>
@@ -60,8 +60,8 @@ export default function AddContractView(props: any) {
             onClick={() => setStatus({...status, selecteType: 'use-template'})}
           />
         </Stack>
-        <Box sx={{width: '100%'}}>
-          <MarkdownEditor text={status.content} onChange={(text) => setStatus({...status, content: text})} style={{ height: 300, width: '100%' }} />
+        <Box sx={{width: '100%', mt: '10px !important'}}>
+          <MarkdownEditor text={status.content} onChange={(text) => setStatus({...status, content: text})} style={{ height: 350, minHeight: 'calc(100vh - 600px)', width: '100%' }} />
         </Box>
         <Stack direction="row" alignItems="center" sx={{width: '100%', gap: 2, mt: 1}}>
           <Grid container sx={{width: '100%'}} spacing={2}>

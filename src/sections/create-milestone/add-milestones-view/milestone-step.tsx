@@ -33,7 +33,7 @@ export default function MilestoneStep(
 			{Array(total).fill(0).map((i, k) => (
 				<Stack key={k} direction="row" alignItems='center' gap={0.5}>
 					<Box
-						sx={{color: `${getStepColor(k+1)}`, padding: '3px 8px', borderRadius: '6px', backgroundColor: `${getStepBackgroundColor(k+1)}`}}
+						sx={{color: `${getStepColor(k+1)}`, padding: '3px 8px', borderRadius: '8px', backgroundColor: `${getStepBackgroundColor(k+1)}`}}
 					>
 						<Typography fontSize='0.95rem' fontWeight={600}>Milestone {k + 1}</Typography>
 					</Box>

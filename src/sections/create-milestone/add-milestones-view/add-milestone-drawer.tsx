@@ -144,7 +144,7 @@ export default function AddMilestoneDrawer(
 											))}
 										</Select>
 
-										<Typography variant="subtitle1" mt={2}>Recent selections</Typography>
+										<Typography variant="subtitle1" mt={3}>Recent selections</Typography>
 										<Stack direction="row" alignItems="center" flexWrap='wrap' columnGap={1}>
 											{subjectData.slice(0, 3).map((i, k) => (
 												<Label key={k} sx={{padding: '7px 10px', height: 'auto', borderRadius: '12px', mt: 1, backgroundColor: '#f1f5f9'}}>

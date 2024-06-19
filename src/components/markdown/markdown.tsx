@@ -61,29 +61,47 @@ const StyledView = styled.div`
 		background-color: white;
 		border: 1px solid #e2e8f0;
 		color: #212B36;
+		border-radius: 8px;
+		overflow: hidden;
 		&.full {
 			z-index: 99999;
 		}
 		.drop-wrap {
-			background-color: #f7f8f9;
+			background-color: #f8fafc;
 			border-color: #e2e8f0;
+			border-radius: 8px;
 			.list-item {
 				color: #212B36;
 				&:hover {
-					background-color: white;
+					background-color: #f1f5f9;
 				}
 			}
 		}
 		.rc-md-navigation {
-			background-color: #f7f8f9;
-			border-bottom: 1px solid #e2e8f0;
+			background-color: #f8fafc;
+			border: none;
+			padding: 7px 5px;
 			.navigation-nav {
 				color: #212B36;
 			}
-			.button {
-				color: #212B36;
-				&:hover {
-					color: #637381;
+			.button-wrap {
+				gap: 2px;
+				.button {
+					color: #212B36;
+					background-color: #f1f5f9;
+					border-radius: 8px;
+					padding: 6px 8px;
+					height: 36px !important;
+					width: 36px !important;
+					margin: 0 !important;
+					&:hover {
+						color: #637381;
+					}
+				}
+				.button:not(.button-type-fullscreen) {
+					display: flex !important;
+					align-items: center;
+					justify-content: center;
 				}
 			}
 		}
@@ -92,7 +110,7 @@ const StyledView = styled.div`
 				background-color: white;
 			}
 			>.section {
-				border-right: 1px solid #e2e8f0;
+				border: none;
 			}
 			.input {
 				background: white;
@@ -142,6 +160,9 @@ const StyledView = styled.div`
 		tbody {
 
 		}
+	}
+	.button-type-fullscreen {
+		display: none !important;
 	}
 `;
 
