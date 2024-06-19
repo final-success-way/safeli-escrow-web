@@ -135,7 +135,7 @@ export default function NotificationsPopover() {
 
         <Divider sx={{ borderStyle: 'solid' }} />
 
-        <Stack direction="row" alignItems="center" gap={1} sx={{pt: 2, pb: 0.5, px: 2.5}}>
+        <Stack direction="row" alignItems="center" gap={1} sx={{pt: 2, pb: 1, px: 2.5}}>
           <Label
             sx={{padding: '5px 12px', height: 'auto', borderRadius: '30px', cursor: 'pointer', color: `${status.selectedTab === 'all' ? '#2563eb' : ''}`, backgroundColor: `${status.selectedTab === 'all' ? '#eff6ff' : ''}`}}
             onClick={() => setStatus({...status, selectedTab: 'all'})}
@@ -154,7 +154,7 @@ export default function NotificationsPopover() {
           <List
             disablePadding
             subheader={
-              <ListSubheader disableSticky sx={{ pt: 2, pb: 1, px: 2.5, typography: 'overline' }}>
+              <ListSubheader disableSticky sx={{ pt: 1, pb: 1, px: 2.5, typography: 'overline' }}>
                 TODAY
               </ListSubheader>
             }

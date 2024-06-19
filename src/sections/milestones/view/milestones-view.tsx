@@ -102,7 +102,7 @@ export default function MilestonesView() {
 
 	return (
 		<Container maxWidth="xl">
-			<Stack direction="row" justifyContent="space-between" alignItems="center">
+			<Stack direction="row" justifyContent="space-between" alignItems="center" flexWrap='wrap' gap={2} className='sm-center'>
 				<Breadcrumbs separator="›" aria-label="breadcrumb">
 					{breadcrumbs}
 				</Breadcrumbs>

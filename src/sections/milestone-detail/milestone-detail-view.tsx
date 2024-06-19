@@ -7,7 +7,7 @@ import Typography from '@mui/material/Typography';
 import { useTheme } from '@mui/material/styles';
 import StarIcon from '@mui/icons-material/Star';
 import Iconify from '@/components/iconify';
-import { Alert, Breadcrumbs, Button, Card, Collapse, Container, Divider, Grid, Icon, IconButton, MenuItem, Rating, Select } from '@mui/material';
+import { Alert, Breadcrumbs, Button, Card, Collapse, Container, Divider, Grid, IconButton, MenuItem, Rating, Select } from '@mui/material';
 import Label from '@/components/label';
 import styled from 'styled-components';
 import Progress from '@/components/progress';
@@ -24,7 +24,7 @@ const tempMilestoneData = [
 ]
 
 const tempUserData = {
-  name: 'Matthew Olamide', username: '@matthewOlamide', date: new Date(), score: 4.5, verified: { contractInfo: true, bank: true, id: true }
+  name: 'Matthew Olamide', username: '@matthewOlamide', date: new Date(), score: 4, verified: { contractInfo: true, bank: true, id: true }
 };
 
 const tempTimelineData = [
@@ -97,7 +97,7 @@ export default function MilestoneDetailView() {
           <Card sx={{ px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%' }}>
             <Stack direction="row" alignItems="center" justifyContent='space-between' flexWrap='wrap' gap={2}>
               <Typography variant='h5'>Milestones</Typography>
-              <Stack direction="row" alignItems="center" gap={1.5}>
+              <Stack direction="row" alignItems="center" flexWrap='wrap' gap={1.5}>
                 <Label sx={{ padding: '10px 15px', height: 'auto', backgroundColor: '#f1f5f9' }}>
                   <Typography variant='subtitle1' color='text.primary'>Notes (2)</Typography>
                 </Label>
@@ -185,8 +185,8 @@ export default function MilestoneDetailView() {
                   <Typography fontSize="0.95rem" color='text.secondary'>{data.userData?.date?.toDateString()}</Typography>
                   <Stack direction="row" alignItems="center" gap={0.5}>
                     <Rating
-                      name="text-feedback"
-                      value={data.userData?.score}
+                      name="user-score"
+                      value={4}
                       readOnly
                       precision={0.5}
                       emptyIcon={<StarIcon style={{ opacity: 0.55 }} fontSize="inherit" />}

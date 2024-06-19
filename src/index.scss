@@ -104,3 +104,19 @@ input:-webkit-autofill:active{
 		font-weight: 700;
 	}
 }
+
+.lg-center {
+	@media (max-width: 992px) {
+		justify-content: center !important;
+	}
+}
+.md-center {
+	@media (max-width: 768px) {
+		justify-content: center !important;
+	}
+}
+.sm-center {
+	@media (max-width: 768px) {
+		justify-content: center !important;
+	}
+}
