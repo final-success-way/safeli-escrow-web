@@ -441,6 +441,12 @@ const StyledSelect = styled.div`
 	fieldset {
 		border: 0;
 	}
+	@media (max-width: 576px) {
+		width: calc(50% - 5px);
+		> div {
+			width: 100%;
+		}
+	}
 `
 
 const StyledSearchInput = styled.div`
@@ -449,5 +455,11 @@ const StyledSearchInput = styled.div`
 	}
 	fieldset {
 		border: 0;
+	}
+	@media (max-width: 576px) {
+		width: 100%;
+		> div {
+			width: 100%;
+		}
 	}
 `

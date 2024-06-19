@@ -24,6 +24,7 @@ export default function Main({ children, sx, ...other }: any) {
         backgroundColor: '#f7f8f9',
         py: `${HEADER.H_MOBILE + SPACING}px`,
         pb: 2,
+        overflowX: 'hidden',
         ...(lgUp && {
           px: 2,
           pt: `${HEADER.H_DESKTOP + SPACING * 3}px`,

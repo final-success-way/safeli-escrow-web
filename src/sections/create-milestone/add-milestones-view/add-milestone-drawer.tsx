@@ -114,7 +114,7 @@ export default function AddMilestoneDrawer(
 							<Box sx={{backgroundColor: 'white', padding: '1.5rem', borderRadius: '10px', mt: '10px'}}>
 								{status.selectedTab === 'generate' && (
 									<Box>
-										<MarkdownEditor text={status.generateContractContent} onChange={(text) => setStatus({...status, generateContractContent: text})} style={{ height: '12rem' }} />
+										<MarkdownEditor text={status.generateContractContent} onChange={(text) => setStatus({...status, generateContractContent: text})} style={{ height: `${mdDown ? '20rem' : '12rem'}` }} />
 									</Box>
 								)}
 								{status.selectedTab === 'upload' && (

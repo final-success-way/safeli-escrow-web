@@ -93,7 +93,7 @@ export default function MilestoneDetailView() {
         </Collapse>
       </Box>
       <Grid container spacing={2} mt={0.5}>
-        <Grid item lg={8.5} md={7.5} sm={12} xs={12} mt={1}>
+        <Grid item lg={8.5} md={7.5} sm={12} xs={12} mt={1} className='lg-order-2'>
           <Card sx={{ px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20], height: '100%' }}>
             <Stack direction="row" alignItems="center" justifyContent='space-between' flexWrap='wrap' gap={2}>
               <Typography variant='h5'>Milestones</Typography>
@@ -171,16 +171,16 @@ export default function MilestoneDetailView() {
             </Grid>
           </Card>
         </Grid>
-        <Grid item lg={3.5} md={4.5} sm={12} xs={12} mt={1}>
+        <Grid item lg={3.5} md={4.5} sm={12} xs={12} mt={1} className='lg-order-1'>
           <StyledUserCard>
-            <Card sx={{ borderRadius: 2, boxShadow: theme.shadows[20], height: '100%' }}>
+            <Card sx={{ borderRadius: 2, boxShadow: theme.shadows[20], height: '100%', display: 'flex', flexDirection: 'column' }}>
               <img src="/assets/user_back.png" alt="user_back" className='back' />
               <Box className="user-info">
                 <img src="/assets/user.png" alt="avatar" />
                 <Typography variant='h6' mt={1}>{data.userData?.name}</Typography>
                 <Typography color='text.secondary'>{data.userData?.username}</Typography>
               </Box>
-              <Box sx={{ padding: '1rem' }}>
+              <Box sx={{ padding: '1rem', flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-around' }}>
                 <Stack direction="row" alignItems="center" justifyContent='space-between' gap={1}>
                   <Typography fontSize="0.95rem" color='text.secondary'>{data.userData?.date?.toDateString()}</Typography>
                   <Stack direction="row" alignItems="center" gap={0.5}>
@@ -243,7 +243,7 @@ export default function MilestoneDetailView() {
             </Card>
           </StyledUserCard>
         </Grid>
-        <Grid item xs={12} mt={1}>
+        <Grid item xs={12} mt={1} sx={{order: 3}}>
           <Card sx={{ px: 3, py: 4, borderRadius: 2, boxShadow: theme.shadows[20] }}>
             <Stack direction="row" justifyContent="space-between" alignItems="center" gap={1}>
               <Typography variant='h5'>Timeline</Typography>

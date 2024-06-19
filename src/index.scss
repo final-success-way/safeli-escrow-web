@@ -120,3 +120,42 @@ input:-webkit-autofill:active{
 		justify-content: center !important;
 	}
 }
+
+.order-1 {
+	order: 1;
+}
+
+.order-2 {
+	order: 2;
+}
+
+.lg-order-1 {
+	@media (max-width: 900px) {
+		order: 1;
+	}
+}
+.lg-order-2 {
+	@media (max-width: 900px) {
+		order: 2;
+	}
+}
+.md-order-1 {
+	@media (max-width: 768px) {
+		order: 1;
+	}
+}
+.md-order-2 {
+	@media (max-width: 768px) {
+		order: 2;
+	}
+}
+.sm-order-1 {
+	@media (max-width: 576px) {
+		order: 1;
+	}
+}
+.sm-order-2 {
+	@media (max-width: 576px) {
+		order: 2;
+	}
+}
