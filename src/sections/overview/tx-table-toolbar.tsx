@@ -70,10 +70,8 @@ TxTableToolbar.propTypes = {
 };
 
 const StyledTableToolbar = styled.div`
-  .css-e1ke4r-MuiToolbar-root {
+  > div {
     background-color: #f8fafc;
-  }
-  .css-e1ke4r-MuiToolbar-root {
     color: #212B36;
   }
 `

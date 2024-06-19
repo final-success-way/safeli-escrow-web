@@ -24,7 +24,7 @@ const tempMilestoneData = [
 ]
 
 const tempUserData = {
-  name: 'Matthew Olamide', username: '@matthewOlamide', date: new Date(), score: 4, verified: { contractInfo: true, bank: true, id: true }
+  name: 'Matthew Olamide', username: '@matthewOlamide', date: new Date(), score: 4.5, verified: { contractInfo: true, bank: true, id: true }
 };
 
 const tempTimelineData = [
@@ -186,7 +186,7 @@ export default function MilestoneDetailView() {
                   <Stack direction="row" alignItems="center" gap={0.5}>
                     <Rating
                       name="user-score"
-                      value={4}
+                      value={data.userData?.score || 0}
                       readOnly
                       precision={0.5}
                       emptyIcon={<StarIcon style={{ opacity: 0.55 }} fontSize="inherit" />}

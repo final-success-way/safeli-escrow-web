@@ -245,11 +245,13 @@ function renderContent(notification: any) {
 }
 
 const StyledBadge = styled.div`
-  .css-11qscst-MuiBadge-badge {
-    top: 2px;
-    right: 2px;
-    background-color: #e11d48;
-    aspect-ratio: 1;
+  > span {
+    > span {
+      top: 2px;
+      right: 2px;
+      background-color: #e11d48;
+      aspect-ratio: 1;
+    }
   }
 `
 
